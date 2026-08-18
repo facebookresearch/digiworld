@@ -1,0 +1,10 @@
+{
+  "task_name": "Is the <item> item on sale? If so, what percent off is it?",
+  "app_name": "ecommerce",
+  "scenario_class": "IsItemOnSaleScenario",
+  "parameters": [
+    "item"
+  ],
+  "context_fields": [],
+  "description": "Check if a product is on sale and report the discount percentage"
+}

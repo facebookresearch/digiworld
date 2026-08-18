@@ -1,0 +1,18 @@
+{
+  "parameters": {
+    "artist_name": "Kairo Pulse"
+  },
+  "compatible_profiles": [
+    "genre_focused"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:02.407247+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

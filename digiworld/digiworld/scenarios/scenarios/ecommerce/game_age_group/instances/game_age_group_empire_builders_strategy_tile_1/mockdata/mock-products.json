@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Empire Builders: Strategy Tile Game",
+    "description": "Empire Builders lets you construct thriving civilizations by placing resource tiles and managing trade routes. Each decision influences the growth of your empire, with multiple paths to victory. Elegant artwork and balanced mechanics make it ideal for strategic play sessions.",
+    "shortDescription": "Strategic tile-laying game focused on building and managing an empire.",
+    "rating": 2.2,
+    "reviewCount": 0,
+    "seller": "Bright Horizons Supplies",
+    "price": 1264.26,
+    "discountedPrice": 859.7,
+    "discountPercent": 32,
+    "categoryId": 7,
+    "categoryName": "Toys & Games",
+    "subcategoryId": 49,
+    "subcategoryName": "Board Games",
+    "inStock": true,
+    "stockCount": 61,
+    "imageUrl": "/194_1",
+    "specs": "{\"ageRange\": \"12+ years\", \"material\": \"Wooden tiles, cardboard, plastic markers\", \"dimensions\": \"20 x 20 x 4 inches\", \"batteryRequired\": \"No\", \"warranty\": \"1 year\", \"safetyRating\": \"ASTM F963\"}",
+    "tags": "[\"games\", \"toys\", \"board\", \"top-rated\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

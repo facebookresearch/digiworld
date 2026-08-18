@@ -1,0 +1,12 @@
+[{
+  "userId": 1,
+  "homeStopId": "stop-8",
+  "workStopId": "stop-2",
+  "preferredModes": ["subway", "train"],
+  "language": "en",
+  "notificationServiceAlerts": true,
+  "notificationDepartureReminders": true,
+  "notificationArrivals": false,
+  "updatedAt": "2024-11-24T08:00:00.000Z"
+}
+]

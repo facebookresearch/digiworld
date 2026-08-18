@@ -1,0 +1,9 @@
+{
+    "task_name": "Change my profile name to <new_name>",
+    "app_name": "message",
+    "scenario_class": "ChangeProfileNameScenario",
+    "parameters": ["new_name"],
+    "context_fields": [],
+    "description": "Change the current user's profile display name",
+    "additional_mockdata": false
+}

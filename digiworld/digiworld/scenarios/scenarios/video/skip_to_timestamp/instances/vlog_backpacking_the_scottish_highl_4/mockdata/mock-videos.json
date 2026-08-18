@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 1,
+    "categoryId": 7,
+    "title": "Backpacking the Scottish Highlands Adventure",
+    "description": "Follow my trek across misty highlands, from remote castles to scenic lochs, while I capture the breathtaking landscapes and share travel hacks.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 1090,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 3250,
+    "likeCount": 95,
+    "commentCount": 4,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

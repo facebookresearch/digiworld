@@ -1,0 +1,9 @@
+{
+    "task_name": "Send a \"<greeting>\" text to my most recent contact",
+    "app_name": "message",
+    "scenario_class": "SendGreetingToRecentScenario",
+    "parameters": ["greeting"],
+    "context_fields": [],
+    "description": "Send a greeting message to the user's most recent conversation partner",
+    "additional_mockdata": false
+}

@@ -1,0 +1,19 @@
+[
+  {
+    "flight_id": "JL6168_2026-08-15",
+    "airline_id": "airline_jl",
+    "airline_code": "JL",
+    "flight_number": "JL6168",
+    "origin": "LAX",
+    "destination": "NRT",
+    "departure_time": "2026-08-15T13:00:00Z",
+    "arrival_time": "2026-08-15T18:25:00Z",
+    "duration_minutes": 325,
+    "fare": 1387.08,
+    "currency": "USD",
+    "seats_available": 155,
+    "aircraft_type": "Boeing 777-300ER",
+    "date": "2026-08-15",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

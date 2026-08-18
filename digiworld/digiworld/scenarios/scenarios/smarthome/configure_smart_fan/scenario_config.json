@@ -1,0 +1,9 @@
+{
+  "task_name": "Turn on the Smart Fan named \"<device_name>\", set the Fan Speed to <fan_speed>, set Oscillation to <oscillation>, and set Scheduling to <scheduling>",
+  "app_name": "smarthome",
+  "scenario_class": "ConfigureSmartFanScenario",
+  "parameters": ["device_name", "fan_speed", "oscillation", "scheduling"],
+  "context_fields": [],
+  "description": "Turn on a Smart Fan and configure its fan speed, oscillation, and scheduling.",
+  "additional_mockdata": true
+}

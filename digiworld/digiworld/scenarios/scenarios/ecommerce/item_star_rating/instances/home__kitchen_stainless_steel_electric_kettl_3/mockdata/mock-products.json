@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Stainless Steel Electric Kettle - 1.7 L",
+    "description": "Boil water quickly with this 1.7-liter stainless steel electric kettle, featuring a concealed heating element to prevent scale buildup. The auto-shutoff and boil-dry protection ensure safety, while the ergonomic handle provides a comfortable grip. The clear water window lets you monitor fill level at a glance.",
+    "shortDescription": "Fast-boiling stainless steel electric kettle with auto-shutoff.",
+    "rating": 2.6,
+    "reviewCount": 5,
+    "seller": "BoilFast Appliances",
+    "price": 630.39,
+    "discountedPrice": 504.31,
+    "discountPercent": 20,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 18,
+    "subcategoryName": "Small Appliances",
+    "inStock": true,
+    "stockCount": 68,
+    "imageUrl": "/70_1",
+    "specs": "{\"material\": \"Stainless steel interior, plastic handle\", \"dimensions\": \"6\\\" x 6\\\" x 9\\\"\", \"weight\": \"2.0 lbs\", \"warranty\": \"2-year limited warranty\", \"color\": \"Brushed stainless\", \"careInstructions\": \"Clean interior with vinegar solution; exterior wipe with soft cloth\"}",
+    "tags": "[\"home\", \"appliances\", \"small\", \"kitchen\", \"popular\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

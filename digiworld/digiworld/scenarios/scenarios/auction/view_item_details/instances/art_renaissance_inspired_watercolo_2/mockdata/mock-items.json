@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754070049,
+    "title": "Renaissance-Inspired Watercolor Landscape, Framed",
+    "description": "A delicate watercolor landscape inspired by Renaissance techniques, professionally framed and protected; the colors remain vivid and the paper is free of creases.",
+    "categoryId": 9,
+    "sellerId": "{{current_user_id}}",
+    "price": 570.59,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/renaissance-inspired-watercolor-landscape,-framed.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 272.05,
+    "currentBid": 448.21,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

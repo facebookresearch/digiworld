@@ -1,0 +1,21 @@
+{
+  "task_name": "When was my last transaction?",
+  "app_name": "banking",
+  "scenario_class": "LastTransactionDateScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Retrieve the date of the user's most recent successful transaction.",
+  "compatible_profiles": [
+    "default",
+    "failed_transactions",
+    "high_balance",
+    "high_credit_limit",
+    "high_transaction_volume",
+    "low_balance",
+    "many_beneficiaries",
+    "many_zelle_contacts",
+    "maxed_out_cards",
+    "overdue_bills",
+    "premium_users"
+  ]
+}

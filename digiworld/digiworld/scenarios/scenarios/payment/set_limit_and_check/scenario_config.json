@@ -1,0 +1,10 @@
+{
+  "task_name": "Set a daily transaction limit of <amount>, then tell me what my daily limit is",
+  "app_name": "payment",
+  "scenario_class": "SetLimitAndCheckScenario",
+  "parameters": [
+    "amount"
+  ],
+  "context_fields": [],
+  "description": "Set a daily transaction limit and then report the current daily limit"
+}

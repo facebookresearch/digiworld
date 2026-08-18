@@ -1,0 +1,15 @@
+[
+  {
+    "id": 90001,
+    "restaurantId": 90001,
+    "categoryId": 90001,
+    "name": "Salsa Verde Enchiladas",
+    "description": "Corn tortillas rolled with shredded chicken, smothered in tangy tomatillo salsa and melted cheese.",
+    "price": 13.75,
+    "image": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?auto=format&fit=crop&w=600&q=80",
+    "calories": 530,
+    "isPopular": 0,
+    "isActive": 1,
+    "position": 1
+  }
+]

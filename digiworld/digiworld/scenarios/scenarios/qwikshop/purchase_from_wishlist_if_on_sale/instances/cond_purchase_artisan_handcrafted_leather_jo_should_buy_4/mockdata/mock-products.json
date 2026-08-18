@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9904,
+    "name": "Artisan Handcrafted Leather Journal",
+    "description": "Premium full-grain leather bound journal with 200 lined pages, featuring a hand-stitched binding and a detachable bookmark.",
+    "shortDescription": "Handcrafted leather journal with 200 pages.",
+    "price": 295.02,
+    "discountedPrice": 174.06,
+    "discountPercent": 41,
+    "rating": 4.4,
+    "reviewCount": 33,
+    "seller": "CraftedPages",
+    "categoryName": "Electronics",
+    "subcategoryName": "Smartphones",
+    "inStock": 1,
+    "stockCount": 179,
+    "imageUrl": "/product_4733",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

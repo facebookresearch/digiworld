@@ -1,0 +1,9 @@
+{
+    "task_name": "Send a message in the \"<group_name>\" chat: \"<message_content>\"",
+    "app_name": "message",
+    "scenario_class": "SendGroupMessageScenario",
+    "parameters": ["group_name", "message_content"],
+    "context_fields": [],
+    "description": "Send a message in a specified group chat",
+    "additional_mockdata": true
+}

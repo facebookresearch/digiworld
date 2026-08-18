@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754150073,
+    "title": "Original 1978 Fenlow Stratoline with Custom Sunburst Finish",
+    "description": "1978 Fenlow Stratoline, original sunburst finish, original pickups, and a signed certificate of authenticity.",
+    "categoryId": 4,
+    "sellerId": "{{current_user_id}}",
+    "price": 1453.95,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 7,
+    "imageUrl": "https://example.com/images/original-1978-fender-stratocaster-with-custom-sunburst-finish.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 743.51,
+    "currentBid": 770.77,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

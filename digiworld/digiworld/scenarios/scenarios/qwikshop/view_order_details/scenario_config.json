@@ -1,0 +1,10 @@
+{
+  "task_name": "View details of order <order_number>",
+  "app_name": "qwikshop",
+  "scenario_class": "ViewOrderDetailsScenario",
+  "parameters": [
+    "order_number"
+  ],
+  "context_fields": [],
+  "description": "Navigate to view the details of a specific order by its order number."
+}

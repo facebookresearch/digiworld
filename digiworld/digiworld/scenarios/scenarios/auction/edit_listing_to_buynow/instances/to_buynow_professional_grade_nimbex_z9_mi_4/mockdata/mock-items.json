@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754090055,
+    "title": "Professional-Grade Nimbex Z9 Mirrorless Camera \u2013 Body Only",
+    "description": "Top\u2011of\u2011the\u2011line Nimbex Z9 body, sensor in perfect condition, includes battery, charger, and original accessories.",
+    "categoryId": 2,
+    "sellerId": "{{current_user_id}}",
+    "price": 2022.64,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 12,
+    "imageUrl": "https://example.com/images/professional-grade-nikon-z9-mirrorless-camera-\u2013-body-only.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 1049.59,
+    "currentBid": 1499.85,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

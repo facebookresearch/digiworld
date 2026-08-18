@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Longwear Liquid Eyeliner",
+    "description": "A high-pigment, quick-dry liquid liner that glides on smoothly for crisp lines. Its flexible tip allows both thin and bold styles, and the smudge-proof formula stays intact for up to 10 hours. Comes in classic black and deep navy.",
+    "shortDescription": "A smudge-proof liquid eyeliner for precise, lasting lines.",
+    "rating": 2.9,
+    "reviewCount": 0,
+    "seller": "Elegant Edge",
+    "price": 1622.64,
+    "discountedPrice": 989.81,
+    "discountPercent": 39,
+    "categoryId": 6,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 42,
+    "subcategoryName": "Makeup",
+    "inStock": true,
+    "stockCount": 182,
+    "imageUrl": "/168_1",
+    "specs": "{\"ingredients\": \"Water, glycerin, film-forming polymers, carbon black, jojoba oil, vitamin E\", \"skinType\": \"All skin types\", \"volume\": \"5ml\", \"fragrance\": \"Unscented\", \"madeIn\": \"South Korea\", \"expiryPeriod\": \"12 months\"}",
+    "tags": "[\"makeup\", \"personal\", \"care\", \"beauty\", \"premium\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 99906,
+    "userId": "{{current_user_id}}",
+    "nickname": "Green Machine",
+    "make": "Baymar",
+    "model": "X5L",
+    "color": "Dark Gray",
+    "year": 2021,
+    "plateNumber": "GRNMC",
+    "vehicleTypeId": 2,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

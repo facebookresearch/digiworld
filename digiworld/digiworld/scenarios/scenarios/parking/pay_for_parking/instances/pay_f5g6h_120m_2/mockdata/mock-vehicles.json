@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "nickname": "Thunder",
+    "make": "Fairmont",
+    "model": "T-150",
+    "color": "Blue",
+    "year": 2026,
+    "plateNumber": "G7H8J9",
+    "vehicleTypeId": 3,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

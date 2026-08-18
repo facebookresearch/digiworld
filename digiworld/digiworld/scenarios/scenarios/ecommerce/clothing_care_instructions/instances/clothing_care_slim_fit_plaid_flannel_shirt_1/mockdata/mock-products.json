@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Slim Fit Plaid Flannel Shirt",
+    "description": "A slim fit flannel shirt featuring a timeless plaid pattern in shades of navy and burgundy. Made from soft brushed cotton, it provides warmth without added bulk. The button front and chest pocket add functional style.",
+    "shortDescription": "Slim fit plaid flannel shirt offering warmth and style.",
+    "rating": 2.7,
+    "reviewCount": 3,
+    "seller": "Riverstone Apparel",
+    "price": 572.41,
+    "discountedPrice": 406.41,
+    "discountPercent": 29,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 9,
+    "subcategoryName": "Men's Shirts",
+    "inStock": true,
+    "stockCount": 187,
+    "imageUrl": "/34_1",
+    "specs": "{\"material\": \"55% cotton, 45% polyester flannel\", \"careInstructions\": \"Machine wash warm, tumble dry medium, do not bleach\", \"fit\": \"Slim fit\", \"size\": \"S, M, L, XL, XXL\", \"color\": \"Red\", \"pattern\": \"Plaid\"}",
+    "tags": "[\"clothing\", \"shirts\", \"mens\", \"best\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

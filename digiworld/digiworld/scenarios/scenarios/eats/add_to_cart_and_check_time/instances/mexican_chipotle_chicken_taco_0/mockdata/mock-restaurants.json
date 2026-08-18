@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Spice Cantina",
+    "description": "Vibrant street-style tacos with house-made corn tortillas and smoky chipotle salsa.",
+    "address": "321 Maple Drive, Austin, TX 78701",
+    "latitude": 30.2672,
+    "longitude": -97.7431,
+    "logo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 3.9,
+    "deliveryFee": 5.4,
+    "minOrder": 8.0,
+    "deliveryRadius": 12,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

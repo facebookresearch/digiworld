@@ -1,0 +1,17 @@
+[
+  {
+    "id": 99901,
+    "userId": "{{current_user_id}}",
+    "nickname": "Speedy",
+    "make": "Tolimar",
+    "model": "Camdyn",
+    "color": "Midnight Blue",
+    "year": 2019,
+    "plateNumber": "FAST01",
+    "vehicleTypeId": 1,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

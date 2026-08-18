@@ -1,0 +1,12 @@
+[
+  { "id": 1, "restaurantId": 1, "name": "Pizza", "position": 1 },
+  { "id": 2, "restaurantId": 1, "name": "Sides", "position": 2 },
+  { "id": 3, "restaurantId": 2, "name": "Sushi Rolls", "position": 1 },
+  { "id": 4, "restaurantId": 2, "name": "Appetizers", "position": 2 },
+  { "id": 5, "restaurantId": 3, "name": "Burgers", "position": 1 },
+  { "id": 6, "restaurantId": 3, "name": "Fries & Sides", "position": 2 },
+  { "id": 7, "restaurantId": 4, "name": "Tacos", "position": 1 },
+  { "id": 8, "restaurantId": 4, "name": "Burritos", "position": 2 },
+  { "id": 9, "restaurantId": 4, "name": "Drinks", "position": 3 },
+  { "id": 10, "restaurantId": 1, "name": "Desserts", "position": 3 }
+] 

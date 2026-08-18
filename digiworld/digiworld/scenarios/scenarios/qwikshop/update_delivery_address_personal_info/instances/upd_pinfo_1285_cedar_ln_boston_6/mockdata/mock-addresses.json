@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Ava Wilson",
+    "street": "1285 Cedar Ln",
+    "city": "Boston",
+    "state": "MA",
+    "pincode": "02115",
+    "phone": "6175554433",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

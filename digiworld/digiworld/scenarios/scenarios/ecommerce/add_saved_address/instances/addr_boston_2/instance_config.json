@@ -1,0 +1,35 @@
+{
+  "parameters": {
+    "first_name": "Emily",
+    "last_name": "O'Connor",
+    "address_line_1": "3312 Oakwood Ave",
+    "city": "Boston",
+    "state": "MA",
+    "postal_code": "02115",
+    "country": "US",
+    "phone_number": "(555) 345-6789"
+  },
+  "compatible_profiles": [
+    "bulk_quantity",
+    "default",
+    "empty_cart",
+    "full_cart",
+    "heavy_discounts",
+    "high_order_volume",
+    "large_orders",
+    "low_stock",
+    "new_user",
+    "power_shopper",
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-03-31T04:12:14.838983+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

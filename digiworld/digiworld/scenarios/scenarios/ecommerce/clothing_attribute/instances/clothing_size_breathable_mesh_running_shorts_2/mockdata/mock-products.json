@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Breathable Mesh Running Shorts",
+    "description": "Running shorts featuring a breathable mesh panel for enhanced airflow. The elastic waistband with built-in drawstring ensures a secure fit, and the hidden zip pocket protects small items.",
+    "shortDescription": "Breathable mesh running shorts with elastic waist and hidden zip pocket.",
+    "rating": 3.3,
+    "reviewCount": 3,
+    "seller": "Pulse Active Gear",
+    "price": 635.0,
+    "discountedPrice": 450.85,
+    "discountPercent": 29,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 13,
+    "subcategoryName": "Activewear",
+    "inStock": true,
+    "stockCount": 8,
+    "imageUrl": "/50_1",
+    "specs": "{\"material\": \"100% Polyester mesh\", \"careInstructions\": \"Machine wash cold, tumble dry low\", \"fit\": \"Regular fit\", \"size\": \"XS, S, M, L, XL\", \"color\": \"Electric Blue\", \"pattern\": \"Mesh\"}",
+    "tags": "[\"activewear\", \"clothing\", \"high-quality\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

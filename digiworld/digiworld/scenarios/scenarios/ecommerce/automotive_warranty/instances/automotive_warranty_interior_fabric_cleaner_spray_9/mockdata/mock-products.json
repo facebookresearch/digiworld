@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Interior Fabric Cleaner Spray \u2013 32 oz",
+    "description": "Remove stains, odors, and dust from seats, carpets, and headliners with this fast\u2011acting fabric cleaner. The non\u2011greasy formula dries quickly and is safe for most upholstery fabrics. A pleasant citrus scent leaves the interior refreshed.",
+    "shortDescription": "Fast\u2011acting spray to clean and deodorize interior fabrics.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "FreshRide Cleaners",
+    "price": 1689.59,
+    "discountedPrice": 1165.82,
+    "discountPercent": 31,
+    "categoryId": 8,
+    "categoryName": "Automotive",
+    "subcategoryId": 62,
+    "subcategoryName": "Car Care",
+    "inStock": true,
+    "stockCount": 134,
+    "imageUrl": "/247_1",
+    "specs": "{\"material\": \"Aqueous cleaning solution with fabric\\u2011safe surfactants\", \"compatibility\": \"Cloth seats, carpet, upholstery, interior plastics\", \"dimensions\": \"32\\u202foz spray bottle, 10\\u202fin \\u00d7 2.5\\u202fin \\u00d7 12\\u202fin\", \"weight\": \"2.20 lbs\", \"warranty\": \"60\\u2011day warranty\", \"madeIn\": \"USA\"}",
+    "tags": "[\"automotive\", \"car\", \"care\", \"best\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

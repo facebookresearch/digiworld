@@ -1,0 +1,22 @@
+[
+  {
+    "id": 182570038,
+    "title": "Autographed Marcus Jaden Basketball Jersey",
+    "description": "This authentic Marcus Jaden jersey is signed and comes with a certificate of authenticity, making it a unique piece for any basketball fan or sports memorabilia collector.",
+    "categoryId": 6,
+    "sellerId": 2,
+    "price": 305.48,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/autographed-michael-jordan-basketball-jersey.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

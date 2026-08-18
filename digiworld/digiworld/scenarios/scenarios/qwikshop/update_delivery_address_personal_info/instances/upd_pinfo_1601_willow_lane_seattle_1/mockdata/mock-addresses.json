@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Michael Martinez",
+    "street": "1601 Willow Lane",
+    "city": "Seattle",
+    "state": "WA",
+    "pincode": "98109",
+    "phone": "2065552743",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "parameters": {
+    "route_title": "University Connector"
+  },
+  "compatible_profiles": [
+    "default"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:38.722240+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

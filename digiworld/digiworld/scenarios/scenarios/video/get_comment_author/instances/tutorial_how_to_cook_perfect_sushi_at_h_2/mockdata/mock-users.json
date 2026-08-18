@@ -1,0 +1,13 @@
+[
+  {
+    "id": 9998,
+    "email": "michael.chen@example.com",
+    "username": "Michael Chen",
+    "password": "password123",
+    "avatar": "",
+    "bio": "",
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{past_timestamp}}",
+    "deletedAt": null
+  }
+]

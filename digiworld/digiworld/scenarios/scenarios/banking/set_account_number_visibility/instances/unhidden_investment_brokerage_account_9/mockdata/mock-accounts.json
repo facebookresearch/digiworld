@@ -1,0 +1,23 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "accountTypeId": 1,
+    "accountNumber": "9703905715",
+    "accountName": "Investment Brokerage Account",
+    "balance": 7315.67,
+    "availableBalance": 7315.67,
+    "isPrimary": 0,
+    "status": "active",
+    "openedDate": "{{past_timestamp}}",
+    "closedDate": null,
+    "lastStatementDate": null,
+    "nextStatementDate": null,
+    "overdraftProtectionEnabled": 0,
+    "overdraftProtectionSourceAccountId": null,
+    "linkedSavingsAccountId": null,
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{past_timestamp}}",
+    "deletedAt": null
+  }
+]

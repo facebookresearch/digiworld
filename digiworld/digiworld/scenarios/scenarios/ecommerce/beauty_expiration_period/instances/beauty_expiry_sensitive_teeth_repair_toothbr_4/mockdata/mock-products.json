@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Sensitive Teeth Repair Toothbrush",
+    "description": "Soft\u2011bristled toothbrush designed for sensitive teeth and gums. Features ultra\u2011gentle nylon bristles and an ergonomic handle. Recommended by dental professionals.",
+    "shortDescription": "Sensitive\u2011tooth toothbrush with ultra\u2011gentle bristles.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Gentle Grip Dental",
+    "price": 1840.27,
+    "discountedPrice": 975.34,
+    "discountPercent": 47,
+    "categoryId": 6,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 48,
+    "subcategoryName": "Oral Care",
+    "inStock": true,
+    "stockCount": 133,
+    "imageUrl": "/192_1",
+    "specs": "{\"ingredients\": \"Soft Nylon Bristles, Ergonomic Handle, Antimicrobial Coating\", \"skinType\": \"All\", \"volume\": \"One toothbrush\", \"fragrance\": \"None\", \"madeIn\": \"USA\", \"expiryPeriod\": \"24 months\"}",
+    "tags": "[\"personal\", \"beauty\", \"oral\", \"care\", \"top-rated\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

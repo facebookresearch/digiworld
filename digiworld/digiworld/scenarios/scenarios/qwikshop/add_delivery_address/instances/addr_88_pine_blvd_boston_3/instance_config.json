@@ -1,0 +1,31 @@
+{
+  "parameters": {
+    "street": "88 Pine Blvd",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02108",
+    "country": "United States",
+    "firstName": "Michael",
+    "lastName": "O'Connor",
+    "phone": "6175553210"
+  },
+  "compatible_profiles": [
+    "bulk_quantity",
+    "default",
+    "heavy_discounts",
+    "high_order_volume",
+    "large_orders",
+    "new_user",
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-04-01T21:21:33.633893+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

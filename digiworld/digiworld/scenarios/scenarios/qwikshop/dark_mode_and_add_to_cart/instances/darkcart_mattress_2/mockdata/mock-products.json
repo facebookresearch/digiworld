@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Bamboo Bliss Mattress Topper",
+    "description": "Bamboo Bliss Mattress Topper - premium quality product.",
+    "shortDescription": "Bamboo Bliss Mattress Topper.",
+    "rating": 4.3,
+    "reviewCount": 0,
+    "seller": "MockSeller",
+    "price": 89.99,
+    "discountedPrice": 71.99,
+    "discountPercent": 20,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 0,
+    "subcategoryName": "Bedding",
+    "inStock": true,
+    "stockCount": 100,
+    "imageUrl": "/mock_darkcart_mattress_2_0",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": false,
+    "dateAdded": "2025-01-01 12:00:00.000"
+  }
+]

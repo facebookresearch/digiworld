@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "cartId": 1,
+    "userId": 1,
+    "productId": 9904,
+    "productName": "SolarCharge 20000mAh Power Bank",
+    "productImage": "/product_9904",
+    "shortDescription": "Solar power bank",
+    "seller": "SunTech Gadgets",
+    "quantity": 3,
+    "price": 360.85,
+    "discountedPrice": 288.68,
+    "total": 866.04,
+    "inStock": 1
+  }
+]

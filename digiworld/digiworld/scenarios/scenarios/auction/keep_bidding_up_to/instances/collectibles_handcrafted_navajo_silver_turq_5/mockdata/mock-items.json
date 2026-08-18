@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754770138,
+    "title": "Handcrafted Navajo Silver Turquoise Belt \u2013 18-inch, Untouched Patina",
+    "description": "This handcrafted Navajo silver belt features authentic turquoise inlay and retains its original hand\u2011polished patina; it shows no signs of repair and comes with a provenance letter.",
+    "categoryId": 8,
+    "sellerId": 2,
+    "price": 1716.78,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 7,
+    "imageUrl": "https://example.com/images/handcrafted-navajo-silver-turquoise-belt-\u2013-18-inch,-untouched-patina.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 34.29,
+    "currentBid": 56.16,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Omega-3 Algal Oil Softgels",
+    "description": "Product: Omega-3 Algal Oil Softgels",
+    "shortDescription": "Omega-3 Algal Oil Softgels",
+    "rating": 4.0,
+    "reviewCount": 0,
+    "seller": "Test Seller",
+    "price": 29.99,
+    "discountedPrice": 29.99,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 1,
+    "subcategoryName": "Food",
+    "inStock": true,
+    "stockCount": 50,
+    "imageUrl": "/test_1",
+    "specs": "{\"nutritionalValue\": \"Calories: 10, Omega-3 (EPA/DHA): 500mg, Vitamin D: 200IU per softgel\"}",
+    "tags": "[\"health & wellness\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

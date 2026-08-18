@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "cart_id": "{{current_user_cart_id}}",
+    "user_id": "{{current_user_id}}",
+    "product_id": 48,
+    "product_name": "Water-Resistant Trench Coat",
+    "product_image": "https://picsum.photos/seed/mock/600/400",
+    "short_description": "Mock product",
+    "seller": "Coastal Classics Co.",
+    "quantity": 1,
+    "price": 293.04,
+    "discounted_price": 219.78,
+    "total": 219.78,
+    "saved_amount": 73.26,
+    "in_stock": 1,
+    "category_name": "Clothing",
+    "subcategory_name": "Jackets",
+    "sku": "",
+    "added_at": "2025-06-15 12:00:00.000",
+    "created_at": "2025-06-15 12:00:00.000",
+    "updated_at": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "parameters": {
+    "phone_number": "+13416478520",
+    "otp_code": "8520"
+  },
+  "compatible_profiles": [],
+  "metadata": {
+    "created_at": "2026-03-13T03:59:53.392795+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

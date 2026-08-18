@@ -1,0 +1,29 @@
+{
+  "parameters": {
+    "group_name": "Coffee Catch\u2011Up Crew",
+    "message_content": "Free coffee at the new caf\u00e9 on Main tomorrow? Meet at 10?"
+  },
+  "compatible_profiles": [
+    "default",
+    "high_message_volume",
+    "inactive_groups",
+    "large_groups",
+    "long_calls",
+    "many_groups",
+    "media_heavy",
+    "missed_calls",
+    "new_user",
+    "recent_activity",
+    "unread_messages"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:01:10.471172+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

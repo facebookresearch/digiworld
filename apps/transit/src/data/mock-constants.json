@@ -1,0 +1,7 @@
+{
+  "homeStopId": "stop-8",
+  "appVersion": "1.0.0",
+  "apiEndpoint": "https://api.transit.example.com",
+  "maxRecentSearches": 10,
+  "defaultLanguage": "en"
+}

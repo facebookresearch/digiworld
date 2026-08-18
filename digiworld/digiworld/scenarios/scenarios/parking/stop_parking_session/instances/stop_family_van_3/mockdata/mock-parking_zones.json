@@ -1,0 +1,19 @@
+[
+  {
+    "id": 99804,
+    "name": "Community Center",
+    "description": "Parking zone CC202",
+    "latitude": 40.725557,
+    "longitude": -73.988694,
+    "zoneCode": "CC202",
+    "operator": "City Parking Authority",
+    "zoneType": "garage",
+    "capacity": 76,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.09,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

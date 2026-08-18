@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754760135,
+    "title": "Mint Condition Auralis PocketPlayer NW-3500 with Original Carrying Case",
+    "description": "The Auralis PocketPlayer NW-3500 is in mint condition, complete with its original leather case, headphones, and user manual; all functions have been tested and work flawlessly.",
+    "categoryId": 1,
+    "sellerId": 2,
+    "price": 927.96,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 8,
+    "imageUrl": "https://example.com/images/mint-condition-sony-walkman-nw-3500-with-original-carrying-case.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 44.03,
+    "currentBid": 74.54,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

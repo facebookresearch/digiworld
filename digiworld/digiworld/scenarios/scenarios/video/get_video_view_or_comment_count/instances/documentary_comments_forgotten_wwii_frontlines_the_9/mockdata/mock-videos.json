@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 1,
+    "categoryId": 3,
+    "title": "Forgotten WWII Frontlines: The Burma Campaign",
+    "description": "A deep dive into the brutal Burma Campaign, highlighting soldiers' stories and its impact on the war\u2019s outcome.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 2772,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 4433,
+    "likeCount": 10,
+    "commentCount": 46,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

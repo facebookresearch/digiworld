@@ -1,0 +1,24 @@
+[
+  {
+    "id": 9902,
+    "name": "Portable Power Bank",
+    "description": "Charge your devices on-the-go with our compact and high-capacity power bank.",
+    "shortDescription": "Fast Charging",
+    "price": 24.6,
+    "discountedPrice": 24.6,
+    "discountPercent": 0,
+    "rating": 4.4,
+    "reviewCount": 184,
+    "seller": "PowerUp Store",
+    "categoryId": 9284,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 9159,
+    "subcategoryName": "Small Appliances",
+    "inStock": 1,
+    "stockCount": 65,
+    "imageUrl": "/product_6514",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

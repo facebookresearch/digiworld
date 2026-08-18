@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9901,
+    "name": "EcoBrew Stainless Steel Travel Mug",
+    "description": "A double\u2011walled, vacuum\u2011insulated mug that keeps beverages hot for 6\u202fhours or cold for 12\u202fhours, featuring a leak\u2011proof lid.",
+    "shortDescription": "Insulated travel mug for hot and cold drinks.",
+    "price": 362.27,
+    "discountedPrice": 278.95,
+    "discountPercent": 23,
+    "rating": 4.4,
+    "reviewCount": 224,
+    "seller": "GreenLiving Goods",
+    "categoryName": "Home & Kitchen",
+    "subcategoryName": "Cookware",
+    "inStock": 1,
+    "stockCount": 66,
+    "imageUrl": "/product_8359",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "The Confidence Blueprint",
+    "description": "Drawing on cognitive psychology, this book outlines actionable steps to build self-esteem and overcome self-doubt. Exercises include journaling, visualization, and micro-goal setting. Readers report measurable boosts in confidence within weeks.",
+    "shortDescription": "A step\u2011by\u2011step program to strengthen self\u2011confidence.",
+    "rating": 4.0,
+    "reviewCount": 1,
+    "seller": "Elm Tree Press",
+    "price": 10.57,
+    "discountedPrice": 7.93,
+    "discountPercent": 25,
+    "categoryId": 5,
+    "categoryName": "Books",
+    "subcategoryId": 36,
+    "subcategoryName": "Self-Help",
+    "inStock": true,
+    "stockCount": 77,
+    "imageUrl": "/141_1",
+    "specs": "{\"author\": \"Jordan Blake\", \"publisher\": \"SelfStart Media\", \"pages\": \"256\", \"language\": \"English\", \"isbn\": \"978-1-731-91845-7\", \"format\": \"Paperback\"}",
+    "tags": "[\"books\", \"self-help\", \"best\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

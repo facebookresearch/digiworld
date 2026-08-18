@@ -1,0 +1,675 @@
+import { Instance, SnapshotIn, SnapshotOut, types, flow } from 'mobx-state-tree'
+
+import {
+  registerUser as dbRegisterUser,
+  getUserById as dbGetUserById,
+  updateUserProfile as dbUpdateUserProfile,
+  getWatchHistory,
+  queries,
+} from '@/db/queries'
+
+import { authService } from '@/services/api/auth'
+import {
+  ValidationError,
+  validateLoginData,
+  validateSignupData,
+} from '@/utils/validation'
+
+import { withSetPropAction } from './helpers/withSetPropAction'
+import { storage } from '../utils/storage'
+
+const STORAGE_KEYS = {
+  AUTH_TOKEN: '@auth_token',
+  USER_DATA: '@user_data',
+}
+
+interface ApiError {
+  code?: string
+  message: string
+}
+
+export type AuthError = {
+  code: string
+  message: string
+}
+
+const RecentlyPlayedModel = types.model('RecentlyPlayed', {
+  videoId: types.number,
+  playedAt: types.string,
+})
+
+export const UserModel = types
+  .model('User', {
+    id: types.number,
+    username: types.string,
+    email: types.string,
+    name: types.optional(types.string, ''),
+    bio: types.maybeNull(types.string),
+    avatar: types.maybeNull(types.string),
+    password: types.optional(types.string, ''),
+    recentlyPlayed: types.optional(types.array(RecentlyPlayedModel), []),
+    createdAt: types.string,
+    updatedAt: types.string,
+    deletedAt: types.maybeNull(types.string),
+  })
+  .views(self => ({
+    toJSON() {
+      const { ...rest } = self
+      return rest
+    },
+  }))
+  .actions(withSetPropAction)
+export interface User extends Instance<typeof UserModel> {}
+export interface UserSnapshotOut extends SnapshotOut<typeof UserModel> {}
+export interface UserSnapshotIn extends SnapshotIn<typeof UserModel> {}
+
+export const createUserDefaultModel = () =>
+  UserModel.create({
+    id: 0,
+    username: '',
+    email: '',
+    name: '',
+    bio: null,
+    avatar: null,
+    password: '',
+    recentlyPlayed: [],
+    createdAt: new Date().toISOString(),
+    updatedAt: new Date().toISOString(),
+    deletedAt: null,
+  })
+
+export const UserStoreModel = types
+  .model('UserStore', {
+    user: types.maybeNull(UserModel),
+    isAuthenticated: types.optional(types.boolean, false),
+    authError: types.maybeNull(types.frozen<AuthError>()),
+    validationErrors: types.optional(
+      types.array(types.frozen<ValidationError>()),
+      [],
+    ),
+    isLoading: types.optional(types.boolean, false),
+    error: types.maybeNull(types.string),
+    libraryFilter: types.optional(
+      types.enumeration(['playlists', 'artists', 'albums', 'songs', 'history']),
+      'playlists',
+    ),
+    isCreatePlaylistModalVisible: types.optional(types.boolean, false),
+    isDeletePlaylistModalVisible: types.optional(types.boolean, false),
+    isAddToPlaylistModalVisible: types.optional(types.boolean, false),
+    selectedPlaylistId: types.maybeNull(types.number),
+    selectedSongId: types.maybeNull(types.number),
+    newPlaylistName: types.optional(types.string, ''),
+    recentlyPlayed: types.optional(types.array(RecentlyPlayedModel), []),
+    // Profile editing UI state
+    profileEditUI: types.optional(
+      types.model({
+        editValue: types.optional(types.string, ''),
+        confirmValue: types.optional(types.string, ''),
+        currentPassword: types.optional(types.string, ''),
+        showPassword: types.optional(types.boolean, false),
+        showConfirmPassword: types.optional(types.boolean, false),
+        showCurrentPassword: types.optional(types.boolean, false),
+        lastFocusedField: types.optional(types.string, ''), // Track which field was last focused
+      }),
+      {},
+    ),
+  })
+  .views(self => ({
+    get authToken() {
+      return storage.getString(STORAGE_KEYS.AUTH_TOKEN)
+    },
+    get hasErrors() {
+      return self.authError !== null || self.validationErrors.length > 0
+    },
+  }))
+  .actions(withSetPropAction)
+  .actions(self => {
+    const setUser = (userData: any) => {
+      if (!userData) {
+        self.user = null
+        self.isAuthenticated = false
+        storage.delete(STORAGE_KEYS.USER_DATA)
+        return
+      }
+
+      // Convert dateJoined from ISO string to Date object if needed
+      const userDataWithDate = {
+        ...userData,
+        dateJoined:
+          userData.dateJoined instanceof Date
+            ? userData.dateJoined
+            : new Date(userData.dateJoined),
+        favoriteSongIds: userData.favoriteSongIds || [],
+      }
+
+      self.user = userDataWithDate
+      self.isAuthenticated = true
+      storage.set(STORAGE_KEYS.USER_DATA, JSON.stringify(userDataWithDate))
+    }
+
+    const setAuthToken = (token: string | null) => {
+      if (token) {
+        storage.set(STORAGE_KEYS.AUTH_TOKEN, token)
+      } else {
+        storage.delete(STORAGE_KEYS.AUTH_TOKEN)
+      }
+    }
+
+    const clearErrors = () => {
+      self.authError = null
+      self.validationErrors.clear()
+    }
+
+    return {
+      setUser,
+      register: flow(function* (data: {
+        email: string
+        username: string
+        password: string
+      }) {
+        try {
+          self.isLoading = true
+          const user = yield dbRegisterUser(data)
+          setUser(user)
+          setAuthToken('local')
+          return true
+        } catch (e) {
+          console.error('Registration error', e)
+          self.authError = {
+            code: 'AUTH_FAILED',
+            message: 'Email already taken',
+          }
+          return false
+        } finally {
+          self.isLoading = false
+        }
+      }),
+      fetchProfile: flow(function* (userId: number) {
+        try {
+          self.isLoading = true
+          const user = yield dbGetUserById(userId)
+          if (user) setUser(user)
+        } catch (e) {
+          self.error = (e as Error).message
+        } finally {
+          self.isLoading = false
+        }
+      }),
+      updateProfile: flow(function* (data: {
+        username?: string
+        email?: string
+        password?: string
+        currentPassword?: string
+      }) {
+        try {
+          if (!self.user) throw new Error('Not logged in')
+          self.isLoading = true
+          const updated = yield dbUpdateUserProfile(self.user.id, data)
+          if (updated) {
+            self.user = updated
+          } else {
+            console.log('Failed to update user')
+          }
+        } catch (e) {
+          self.error = (e as Error).message
+          throw e // Re-throw to handle in UI
+        } finally {
+          self.isLoading = false
+        }
+      }),
+      setAuthToken,
+      clearErrors,
+      login: flow(function* (email: string, password: string) {
+        clearErrors()
+        try {
+          // Validate input
+          const errors = validateLoginData({ email, password })
+          if (errors.length > 0) {
+            self.validationErrors.replace(errors)
+            return false
+          }
+
+          const response = yield authService.login(email.trim(), password)
+          if (!response) {
+            self.authError = {
+              code: 'AUTH_FAILED',
+              message: 'Invalid credentials',
+            }
+            return false
+          }
+
+          setAuthToken(response.token)
+          setUser(response.user)
+
+          return true
+        } catch (error: unknown) {
+          console.error('Login error:', error)
+          self.authError = {
+            code: 'AUTH_ERROR',
+            message:
+              error instanceof Error
+                ? error.message
+                : 'An error occurred during login',
+          }
+          return false
+        }
+      }),
+
+      signup: flow(function* (userData: {
+        email: string
+        password: string
+        username: string
+      }) {
+        clearErrors()
+        try {
+          // Validate input
+          const errors = validateSignupData(userData)
+          if (errors.length > 0) {
+            self.validationErrors.replace(errors)
+            return false
+          }
+
+          const response = yield authService.signup({
+            ...userData,
+            email: userData.email.trim(),
+            username: userData.username.trim(),
+          })
+
+          if (!response) {
+            self.authError = {
+              code: 'SIGNUP_FAILED',
+              message: 'Failed to create account',
+            }
+            return false
+          }
+
+          setAuthToken(response.token)
+          setUser(response.user)
+          return true
+        } catch (error: unknown) {
+          console.error('Signup error:', error)
+          const apiError = error as ApiError
+          if (apiError.code === 'EMAIL_EXISTS') {
+            self.authError = {
+              code: 'EMAIL_EXISTS',
+              message: 'This email is already registered',
+            }
+          } else {
+            self.authError = {
+              code: 'SIGNUP_ERROR',
+              message: apiError.message || 'An error occurred during signup',
+            }
+          }
+          return false
+        }
+      }),
+
+      loadInitialData: flow(function* () {
+        try {
+          console.log('Loading initial data for user', self.user?.id)
+          const recentlyPlayed = yield getWatchHistory(self.user?.id as number)
+          if (recentlyPlayed.length > 0) {
+            self.recentlyPlayed.replace(recentlyPlayed)
+          } else {
+            console.log('no recently played data')
+          }
+        } catch (error) {
+          console.error('Error loading initial data:', error)
+        }
+      }),
+
+      hydrate: flow(function* () {
+        try {
+          const storedToken = storage.getString(STORAGE_KEYS.AUTH_TOKEN)
+          const storedUser = storage.getString(STORAGE_KEYS.USER_DATA)
+
+          if (storedToken && storedUser) {
+            const userData = JSON.parse(storedUser)
+
+            // Transform stored recentlyPlayed data if it exists
+            const storedRecentlyPlayed = userData.recentlyPlayed || []
+            const normalizedRecentlyPlayed = storedRecentlyPlayed.map(
+              (item: any) => ({
+                songId: item.song_id || item.songId,
+                playedAt: item.played_at || item.playedAt,
+              }),
+            )
+
+            const userWithDefaults = {
+              ...userData,
+              recentlyPlayed: normalizedRecentlyPlayed,
+              dateJoined: new Date(userData.dateJoined),
+            }
+
+            setAuthToken(storedToken)
+            setUser(userWithDefaults)
+
+            // Load recently played data from DB
+            if (userData.id) {
+              const recentlyPlayedData = yield getWatchHistory(userData.id)
+
+              if (self.user && recentlyPlayedData.length > 0) {
+                // Transform DB data to match our model
+                self.user.recentlyPlayed.replace(
+                  recentlyPlayedData.map(
+                    (data: { songId: number; playedAt: Date }) => ({
+                      songId: data.songId,
+                      playedAt: data.playedAt,
+                    }),
+                  ),
+                )
+              }
+            }
+
+            return true
+          }
+          return false
+        } catch (error) {
+          console.error('Hydration failed:', error)
+          setUser(null)
+          setAuthToken(null)
+          return false
+        }
+      }),
+
+      logout() {
+        setUser(null)
+        setAuthToken(null)
+        this.setRecentlyPlayed([])
+        clearErrors()
+      },
+
+      loadStoredUser: flow(function* () {
+        const storedUserData = storage.getString(STORAGE_KEYS.USER_DATA)
+        const authToken = storage.getString(STORAGE_KEYS.AUTH_TOKEN)
+
+        if (storedUserData && authToken) {
+          try {
+            const userData = JSON.parse(storedUserData)
+            // Convert dateJoined back to Date object
+            const userDataWithDate = {
+              ...userData,
+              dateJoined: new Date(userData.dateJoined),
+            }
+            setUser(userDataWithDate)
+            return true
+          } catch (error: unknown) {
+            console.error('Error loading stored user:', error)
+            setUser(null)
+            setAuthToken(null)
+            clearErrors()
+            return false
+          }
+        }
+        return false
+      }),
+
+      restore(data: any) {
+        if (data.user) {
+          self.user = UserModel.create(data.user)
+        }
+        if (data.isAuthenticated !== undefined) {
+          self.isAuthenticated = data.isAuthenticated || false
+        }
+        if (data.authError) {
+          self.authError = data.authError
+        }
+        if (data.validationErrors) {
+          self.validationErrors.replace(data.validationErrors)
+        }
+
+        if (data.recentlyPlayed) {
+          self.recentlyPlayed.replace(data.recentlyPlayed)
+        }
+
+        if (data.isLoading) {
+          self.isLoading = data.isLoading
+        }
+        if (data.error) {
+          self.error = data.error
+        }
+        if (data.authToken) {
+          setAuthToken(data.authToken)
+        }
+        if (data.profileEditUI) {
+          console.log(
+            'data.profileEditUI',
+            JSON.stringify(data.profileEditUI, null, 2),
+          )
+          self.profileEditUI = data.profileEditUI
+        }
+      },
+
+      setLibraryFilter(
+        filter: 'playlists' | 'artists' | 'albums' | 'songs' | 'history',
+      ) {
+        self.libraryFilter = filter
+      },
+
+      setCreatePlaylistModalVisible(visible: boolean) {
+        self.isCreatePlaylistModalVisible = visible
+        if (!visible) {
+          self.newPlaylistName = ''
+        }
+      },
+
+      setDeletePlaylistModalVisible(visible: boolean) {
+        self.isDeletePlaylistModalVisible = visible
+        if (!visible) {
+          self.selectedPlaylistId = null
+        }
+      },
+
+      setAddToPlaylistModalVisible(visible: boolean) {
+        self.isAddToPlaylistModalVisible = visible
+        if (!visible) {
+          self.selectedPlaylistId = null
+          self.selectedSongId = null
+        }
+      },
+
+      setSelectedPlaylistId(id: number | null) {
+        self.selectedPlaylistId = id
+      },
+
+      setSelectedSongId(id: number | null) {
+        self.selectedSongId = id
+      },
+
+      setNewPlaylistName(name: string) {
+        self.newPlaylistName = name
+      },
+
+      setRecentlyPlayed(
+        recentlyPlayed: Instance<typeof RecentlyPlayedModel>[],
+      ) {
+        self.recentlyPlayed.replace(recentlyPlayed)
+      },
+
+      updatePassword: flow(function* (
+        currentPassword: string,
+        newPassword: string,
+      ) {
+        if (!currentPassword || !newPassword) {
+          self.authError = {
+            code: 'UPDATE_PASSWORD_ERROR',
+            message: 'Current password and new password are required',
+          }
+          return
+        }
+
+        // First, we check if current password is correct, then update password
+        try {
+          if (currentPassword !== self.user?.password) {
+            self.authError = {
+              code: 'UPDATE_PASSWORD_ERROR',
+              message: 'Current password is incorrect',
+            }
+            return false
+          } else {
+            const response = yield dbUpdateUserProfile(
+              self.user?.id as number,
+              { password: newPassword },
+            )
+            if (!response) {
+              self.authError = {
+                code: 'UPDATE_PASSWORD_ERROR',
+                message: 'Failed to update password',
+              }
+              return
+            }
+            return true
+          }
+        } catch (error: unknown) {
+          console.error('Update password error:', error)
+          self.authError = {
+            code: 'UPDATE_PASSWORD_ERROR',
+            message:
+              error instanceof Error
+                ? error.message
+                : 'An error occurred during password update',
+          }
+          return false
+        }
+      }),
+
+      fetchAllUsers: flow(function* () {
+        const usersData = yield queries.fetchAllUsers()
+        return usersData
+      }),
+
+      // Profile Edit UI Management
+      setEditValue: (value: string) => {
+        self.profileEditUI.editValue = value
+      },
+
+      setConfirmValue: (value: string) => {
+        self.profileEditUI.confirmValue = value
+      },
+
+      setCurrentPassword: (value: string) => {
+        self.profileEditUI.currentPassword = value
+      },
+
+      toggleShowPassword: () => {
+        self.profileEditUI.showPassword = !self.profileEditUI.showPassword
+      },
+
+      toggleShowConfirmPassword: () => {
+        self.profileEditUI.showConfirmPassword =
+          !self.profileEditUI.showConfirmPassword
+      },
+
+      toggleShowCurrentPassword: () => {
+        self.profileEditUI.showCurrentPassword =
+          !self.profileEditUI.showCurrentPassword
+      },
+
+      initializeEditValues: (editType: string) => {
+        switch (editType) {
+          case 'name':
+            self.profileEditUI.editValue = self.user?.username || ''
+            break
+          case 'email':
+            self.profileEditUI.editValue = self.user?.email || ''
+            break
+          case 'password':
+            self.profileEditUI.editValue = ''
+            self.profileEditUI.confirmValue = ''
+            self.profileEditUI.currentPassword = ''
+            break
+        }
+        self.profileEditUI.showPassword = false
+        self.profileEditUI.showConfirmPassword = false
+        self.profileEditUI.showCurrentPassword = false
+      },
+
+      resetProfileEditUI: () => {
+        self.profileEditUI.editValue = ''
+        self.profileEditUI.confirmValue = ''
+        self.profileEditUI.currentPassword = ''
+        self.profileEditUI.showPassword = false
+        self.profileEditUI.showConfirmPassword = false
+        self.profileEditUI.showCurrentPassword = false
+        self.profileEditUI.lastFocusedField = ''
+      },
+
+      setLastFocusedField: (fieldName: string) => {
+        self.profileEditUI.lastFocusedField = fieldName
+      },
+
+      // addToRecentlyPlayed(songId: number) {
+      //   const latestEntry = {
+      //     songId,
+      //     playedAt: new Date().toISOString(),
+      //   }
+      //   self.recentlyPlayed.push(latestEntry)
+      // },
+
+      // Channel management
+      getUserChannels: flow(function* () {
+        try {
+          if (!self.user) throw new Error('Not logged in')
+          self.isLoading = true
+          const channels = yield queries.getChannelsByUserId(self.user.id)
+          return channels
+        } catch (e) {
+          self.error = (e as Error).message
+          throw e
+        } finally {
+          self.isLoading = false
+        }
+      }),
+
+      updateChannelName: flow(function* (channelId: number, name: string) {
+        try {
+          if (!self.user) throw new Error('Not logged in')
+          self.isLoading = true
+          const updated = yield queries.updateChannelName(
+            channelId,
+            self.user.id,
+            name,
+          )
+          return updated
+        } catch (e) {
+          self.error = (e as Error).message
+          throw e
+        } finally {
+          self.isLoading = false
+        }
+      }),
+    }
+  })
+
+export const createUserStore = () =>
+  UserStoreModel.create({
+    user: null,
+    isAuthenticated: false,
+    authError: null,
+    validationErrors: [],
+    isLoading: false,
+    error: null,
+    libraryFilter: 'playlists',
+    isCreatePlaylistModalVisible: false,
+    isDeletePlaylistModalVisible: false,
+    isAddToPlaylistModalVisible: false,
+    selectedPlaylistId: null,
+    selectedSongId: null,
+    newPlaylistName: '',
+    recentlyPlayed: [],
+    profileEditUI: {
+      editValue: '',
+      confirmValue: '',
+      currentPassword: '',
+      showPassword: false,
+      showConfirmPassword: false,
+      showCurrentPassword: false,
+      lastFocusedField: '',
+    },
+  })
+
+export interface UserStore extends Instance<typeof UserStoreModel> {}
+export interface UserStoreSnapshotOut
+  extends SnapshotOut<typeof UserStoreModel> {}
+export interface UserStoreSnapshotIn
+  extends SnapshotIn<typeof UserStoreModel> {}

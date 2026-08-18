@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Portable Adjustable Basketball Hoop",
+    "description": "A portable basketball hoop with an adjustable height range from 7.5 to 10 feet, featuring a sturdy steel base and a shatter\u2011proof backboard. Ideal for driveways, gyms, or community courts.",
+    "shortDescription": "Adjustable portable basketball hoop with shatter\u2011proof backboard.",
+    "rating": 5.0,
+    "reviewCount": 1,
+    "seller": "HoopMaster Sports",
+    "price": 265.02,
+    "discountedPrice": 265.02,
+    "discountPercent": 0,
+    "categoryId": 4,
+    "categoryName": "Sports & Outdoors",
+    "subcategoryId": 29,
+    "subcategoryName": "Team Sports",
+    "inStock": true,
+    "stockCount": 198,
+    "imageUrl": "/115_1",
+    "specs": "{\"material\": \"Steel frame with powder-coated finish, polycarbonate backboard\", \"weight\": \"75 lbs (assembled)\", \"dimensions\": \"Adjustable height 7.5-10 ft\", \"warranty\": \"2-year warranty\", \"color\": \"Orange backboard, black pole\", \"suitableFor\": \"Backyard play, driveway, family use\"}",
+    "tags": "[\"sports\", \"team\", \"outdoors\", \"premium\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

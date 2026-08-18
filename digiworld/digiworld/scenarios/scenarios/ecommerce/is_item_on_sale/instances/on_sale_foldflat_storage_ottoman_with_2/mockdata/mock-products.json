@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Fold\u2011Flat Storage Ottoman with Cushion",
+    "description": "Combine seating and storage with this fold\u2011flat ottoman, upholstered in soft linen and featuring a hidden interior compartment for blankets or magazines. The sturdy wooden frame supports up to 300\u202flb, and the cushion folds flat for easy storage under a sofa or bed. A versatile piece for any living space.",
+    "shortDescription": "A fold\u2011flat ottoman with hidden storage and a cushioned top.",
+    "rating": 5.0,
+    "reviewCount": 1,
+    "seller": "Compact Living Co.",
+    "price": 339.92,
+    "discountedPrice": 322.92,
+    "discountPercent": 5,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 20,
+    "subcategoryName": "Furniture",
+    "inStock": true,
+    "stockCount": 47,
+    "imageUrl": "/80_1",
+    "specs": "{\"material\": \"Polyester cushion with wood frame\", \"dimensions\": \"30\\\" W x 20\\\" D x 15\\\" H (when opened)\", \"weight\": \"9.5 lbs\", \"warranty\": \"1 year warranty\", \"color\": \"Charcoal gray cushion, dark brown frame\", \"careInstructions\": \"Spot clean cushion; wipe frame with damp cloth\"}",
+    "tags": "[\"furniture\", \"kitchen\", \"home\", \"premium\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

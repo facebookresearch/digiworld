@@ -1,0 +1,9 @@
+{
+  "task_name": "Edit the description of the room \"<room_name>\" to be \"<description>\", then tell me what floor is the <room_name> room on",
+  "app_name": "smarthome",
+  "scenario_class": "EditRoomAndQueryFloorScenario",
+  "parameters": ["room_name", "description"],
+  "context_fields": [],
+  "description": "Edit a room's description and then report what floor that room is on",
+  "additional_mockdata": true
+}

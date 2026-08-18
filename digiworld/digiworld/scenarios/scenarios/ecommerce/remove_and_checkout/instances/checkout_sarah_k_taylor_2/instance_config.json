@@ -1,0 +1,20 @@
+{
+  "parameters": {
+    "item_to_remove": "Water-Resistant Utility Field Jacket",
+    "card_name": "Sarah K. Taylor",
+    "promo_code": "SPORTS20"
+  },
+  "compatible_profiles": [
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-03-02T02:10:02.642839+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

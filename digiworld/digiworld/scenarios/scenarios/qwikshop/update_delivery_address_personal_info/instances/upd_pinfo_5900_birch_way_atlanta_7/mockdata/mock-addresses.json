@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Ethan Anderson",
+    "street": "5900 Birch Way",
+    "city": "Atlanta",
+    "state": "GA",
+    "pincode": "30318",
+    "phone": "4045558899",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "task_name": "Add a <color> <make> <model> <vehicle_type> with license plate of <license_plate> as <nickname>",
+  "app_name": "parking",
+  "scenario_class": "AddVehicleScenario",
+  "parameters": ["color", "make", "model", "vehicle_type", "license_plate", "nickname"],
+  "context_fields": [],
+  "description": "Add a new vehicle with the specified details to the user's account."
+}

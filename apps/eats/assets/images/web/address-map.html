@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Map View</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="leaflet.css" />
+    <style>
+      html,
+      body,
+      #map {
+        height: 100%;
+        width: 100%;
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+
+    <script src="leaflet.js"></script>
+
+    <script>
+      let map = null;
+      let locationMarker = null;
+
+      function cleanupMap() {
+        if (map) {
+          map.remove();
+          map = null;
+        }
+        locationMarker = null;
+      }
+
+      function sendLocationToReactNative(lat, lng) {
+        if (window.ReactNativeWebView) {
+          window.ReactNativeWebView.postMessage(JSON.stringify({
+            type: 'locationSelected',
+            lat: lat,
+            lng: lng
+          }));
+        }
+      }
+
+      function initMap(params) {
+        // Clean up existing map
+        cleanupMap();
+
+        // Initialize new map
+        map = L.map('map', {
+          zoomControl: false,
+          zoom: 17,
+        });
+
+        // Load local tiles
+        const tileLayer = L.tileLayer('tiles/{z}/{x}/{y}.png', {
+          maxZoom: 17,
+          minZoom: 15,
+          tileSize: 256,
+          attribution: '&copy; OpenStreetMap',
+        }).addTo(map);
+
+        L.control
+          .zoom({
+            position: 'bottomright',
+          })
+          .addTo(map);
+
+        // Set initial view
+        const { lat, lng } = params;
+        map.setView([lat, lng], 17);
+
+        // Add location marker
+        const locationIcon = L.icon({
+          iconUrl: 'images/location.png',
+          iconSize: [36, 36],
+          iconAnchor: [18, 36],
+        });
+        locationMarker = L.marker([lat, lng], { icon: locationIcon, draggable: true })
+          .addTo(map)
+          .bindPopup('Your Location');
+
+        // Send initial position
+        sendLocationToReactNative(lat, lng);
+
+        // Handle marker drag
+        locationMarker.on('dragend', function(event) {
+          const marker = event.target;
+          const position = marker.getLatLng();
+          sendLocationToReactNative(position.lat, position.lng);
+        });
+      }
+    </script>
+  </body>
+</html> 

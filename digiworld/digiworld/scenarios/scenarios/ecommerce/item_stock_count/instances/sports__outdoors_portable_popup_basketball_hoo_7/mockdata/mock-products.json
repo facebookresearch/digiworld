@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Portable Pop\u2011Up Basketball Hoop \u2013 44\u202fin",
+    "description": "A sturdy, adjustable basketball hoop that fits most residential driveways, with a 44\u2011inch rim and shatter\u2011proof backboard. The base can be filled with sand or water for stability, and the hoop height adjusts from 7.5 to 10\u202ffeet. Comes with a high\u2011visibility net.",
+    "shortDescription": "Adjustable pop\u2011up basketball hoop with shatter\u2011proof backboard.",
+    "rating": 3.0,
+    "reviewCount": 1,
+    "seller": "CourtSide Essentials",
+    "price": 230.67,
+    "discountedPrice": 230.67,
+    "discountPercent": 0,
+    "categoryId": 4,
+    "categoryName": "Sports & Outdoors",
+    "subcategoryId": 29,
+    "subcategoryName": "Team Sports",
+    "inStock": true,
+    "stockCount": 1,
+    "imageUrl": "/114_1",
+    "specs": "{\"material\": \"steel pole, polycarbonate backboard\", \"weight\": \"25 lb\", \"dimensions\": \"44\\\"x44\\\"x12\\\" (collapsed)\", \"warranty\": \"2 years\", \"color\": \"orange backboard, black pole\", \"suitableFor\": \"driveway, backyard play\"}",
+    "tags": "[\"sports\", \"team\", \"outdoors\", \"high-quality\", \"top-rated\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

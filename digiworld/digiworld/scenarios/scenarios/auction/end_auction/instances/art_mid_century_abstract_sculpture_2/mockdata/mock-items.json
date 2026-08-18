@@ -1,0 +1,22 @@
+[
+  {
+    "id": 753990025,
+    "title": "Mid-Century Abstract Sculpture \u2013 Handcrafted Bronze",
+    "description": "A striking mid\u2011century abstract sculpture crafted in bronze, showing a dynamic swirl of forms; polished and free of any dents or patina loss.",
+    "categoryId": 9,
+    "sellerId": "{{current_user_id}}",
+    "price": 570.59,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/mid-century-abstract-sculpture-\u2013-handcrafted-bronze.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 272.05,
+    "currentBid": 448.21,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

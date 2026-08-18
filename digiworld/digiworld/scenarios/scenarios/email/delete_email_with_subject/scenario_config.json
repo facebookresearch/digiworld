@@ -1,0 +1,8 @@
+{
+    "task_name": "Delete the email with subject <subject>",
+    "app_name": "email",
+    "scenario_class": "DeleteEmailWithSubject",
+    "parameters": ["subject"],
+    "context_fields": [],
+    "description": "Verify that an email with the specified subject is deleted or moved to trash"
+}

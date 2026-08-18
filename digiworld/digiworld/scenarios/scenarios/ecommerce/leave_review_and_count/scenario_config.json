@@ -1,0 +1,13 @@
+{
+  "task_name": "Leave a review on the <item> item, with <star_rating> stars, title \"<review_title>\", and content \"<review_content>\", then tell me how many reviews the <item> has in total",
+  "app_name": "ecommerce",
+  "scenario_class": "LeaveReviewAndCountScenario",
+  "parameters": [
+    "item",
+    "star_rating",
+    "review_title",
+    "review_content"
+  ],
+  "context_fields": [],
+  "description": "Composed scenario: leave a product review, then report the total number of reviews for that product."
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Suede Ankle Boot with Goodyear Stitching",
+    "description": "Suede ankle boot with Goodyear welt construction and a pull-tab heel. Sturdy rubber outsole and perforated detailing add rugged elegance.",
+    "shortDescription": "Suede ankle boot with Goodyear welt and pull-tab heel.",
+    "rating": 4.0,
+    "reviewCount": 2,
+    "seller": "Pioneer Footwear Co.",
+    "price": 64.68,
+    "discountedPrice": 54.98,
+    "discountPercent": 15,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 14,
+    "subcategoryName": "Shoes",
+    "inStock": true,
+    "stockCount": 91,
+    "imageUrl": "/53_1",
+    "specs": "{\"material\": \"Full-grain suede leather\", \"careInstructions\": \"Brush with suede brush, apply suede protector, spot clean\", \"fit\": \"Standard fit\", \"size\": \"US 6-11\", \"color\": \"Chocolate brown\", \"pattern\": \"Solid\"}",
+    "tags": "[\"clothing\", \"shoes\", \"premium\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

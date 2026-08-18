@@ -1,0 +1,10 @@
+{
+  "task_name": "Search for <artist_name> and then play a song by them",
+  "app_name": "music",
+  "scenario_class": "SearchAndPlayArtistScenario",
+  "parameters": [
+    "artist_name"
+  ],
+  "context_fields": [],
+  "description": "Search for an artist and then play a song by them"
+}

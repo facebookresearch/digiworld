@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 1,
+    "categoryId": 3,
+    "title": "DIY Home Office Ergonomic Setup",
+    "description": "Learn how to transform any small space into a comfortable, health\u2011focused workstation using affordable accessories and ergonomic principles.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 1227,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 9144,
+    "likeCount": 42,
+    "commentCount": 40,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

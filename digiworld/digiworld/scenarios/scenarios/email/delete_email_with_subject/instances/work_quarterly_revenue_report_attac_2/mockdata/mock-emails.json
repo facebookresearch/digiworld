@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "sofia.kim@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Quarterly Revenue Report Attached",
+    "preview": "Hi team, the quarterly revenue report is attached ...",
+    "body": "Hi team, the quarterly revenue report is attached for your review. Please provide any comments by Friday so we can finalize the presentation.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_sofia_kim_quarterly_revenue_report_attac",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

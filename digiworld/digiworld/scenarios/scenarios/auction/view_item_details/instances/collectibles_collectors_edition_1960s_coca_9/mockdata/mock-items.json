@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754230096,
+    "title": "Collector\u2019s Edition 1960s Coca\u2011Cola Glass Bottle, Artist's Mark",
+    "description": "A 1960s Coca\u2011Cola glass bottle from a limited run, bearing the artist's mark; the bottle is in excellent condition with vibrant label colors and no chips.",
+    "categoryId": 8,
+    "sellerId": "{{current_user_id}}",
+    "price": 1938.34,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 3,
+    "imageUrl": "https://example.com/images/collector\u2019s-edition-1960s-coca\u2011cola-glass-bottle,-artist's-mark.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 1154.41,
+    "currentBid": 1944.32,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

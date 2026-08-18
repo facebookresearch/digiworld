@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "All-Season Radial Tire 205/55R16 91V",
+    "description": "These all\u2011season radial tires provide reliable traction on wet, dry, and light snow conditions. The tread pattern features wide circumferential grooves for efficient water evacuation and enhanced stability at highway speeds. Rated 91V, they support a maximum load of 615\u202fkg per tire.",
+    "shortDescription": "Reliable all\u2011season radial tire for everyday driving.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "TireHub Distributors",
+    "price": 1156.47,
+    "discountedPrice": 717.01,
+    "discountPercent": 38,
+    "categoryId": 8,
+    "categoryName": "Automotive",
+    "subcategoryId": 58,
+    "subcategoryName": "Tires & Wheels",
+    "inStock": true,
+    "stockCount": 43,
+    "imageUrl": "/229_1",
+    "specs": "{\"material\": \"High\\u2011performance rubber composite with steel belts\", \"compatibility\": \"Fits 16\\u2011inch passenger\\u2011car wheels, standard 5\\u2011hole pattern\", \"dimensions\": \"205\\u202fmm width \\u00d7 55% aspect ratio \\u00d7 16\\u202fin rim\", \"weight\": \"23\\u202flbs each\", \"warranty\": \"60,000\\u2011mile limited warranty\", \"madeIn\": \"South Korea\"}",
+    "tags": "[\"automotive\", \"tires\", \"wheels\", \"top-rated\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

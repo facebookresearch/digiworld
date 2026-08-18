@@ -1,0 +1,51 @@
+{
+  "timestamp": 1759569612900,
+  "sessionStore": {
+    "session": {
+      "id": "state-phone_login-0",
+      "data": {
+        "screenName": "PhoneLogin",
+        "route": "/screens/auth/phone-login",
+        "startTime": 1759569612900,
+        "endTime": 0,
+        "sessionData": {
+          "interactionType": "SCREEN_MOUNTED",
+          "currentFocusedElement": "",
+          "formData": {
+            "screen": "PhoneLogin",
+            "route": "/screens/auth/phone-login"
+          }
+        },
+        "action": "",
+        "timestamp": 1759569612900
+      }
+    }
+  },
+  "userStore": {
+    "currentUser": {
+      "id": 1,
+      "email": "brian.s@example.com",
+      "password": "password123",
+      "pin": "1234",
+      "pinAttempts": 0,
+      "pinLockedUntil": null,
+      "firstName": "Brian",
+      "lastName": "S",
+      "phoneNumber": "+12345678901",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z",
+      "settings": {},
+      "status": "active",
+      "kycVerified": 1,
+      "dailyLimit": 1000,
+      "monthlyLimit": 20000,
+      "displayName": "Brian S",
+      "role": "user"
+    },
+    "authToken": "dummy-token-1"
+  },
+  "uiStore": {
+    "isDeeplinkLoading": false,
+    "storagePermissionUri": null
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754710123,
+    "title": "Vintage Vinyl Record Player \u2013 Fully Restored Turntable with Built\u2011in Speakers",
+    "description": "Restored 1970s turntable, includes original belt drive and a pair of vintage speakers, ready for playback.",
+    "categoryId": 7,
+    "sellerId": "{{current_user_id}}",
+    "price": 570.59,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/vintage-vinyl-record-player-\u2013-fully-restored-turntable-with-built\u2011in-speakers.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 272.05,
+    "currentBid": 448.21,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

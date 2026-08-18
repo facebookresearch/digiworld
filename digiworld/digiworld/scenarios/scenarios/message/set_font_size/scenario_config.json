@@ -1,0 +1,9 @@
+{
+    "task_name": "Set my font size to <font_size>",
+    "app_name": "message",
+    "scenario_class": "SetFontSizeScenario",
+    "parameters": ["font_size"],
+    "context_fields": [],
+    "description": "Change the chat font size setting to a specified value",
+    "additional_mockdata": false
+}

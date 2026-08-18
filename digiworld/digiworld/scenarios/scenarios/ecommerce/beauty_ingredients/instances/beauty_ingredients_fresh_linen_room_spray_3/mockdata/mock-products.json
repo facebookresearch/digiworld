@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Fresh Linen Room Spray",
+    "description": "A clean, airy room spray that captures the essence of freshly laundered linen with hints of lavender and eucalyptus. It quickly eliminates odors and leaves a calming atmosphere. Spray in any room for an instant refresh.",
+    "shortDescription": "A linen-scented room spray that freshens and calms spaces.",
+    "rating": 3.3,
+    "reviewCount": 0,
+    "seller": "Home Fragrance Co.",
+    "price": 1059.27,
+    "discountedPrice": 741.49,
+    "discountPercent": 30,
+    "categoryId": 6,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 44,
+    "subcategoryName": "Fragrances",
+    "inStock": true,
+    "stockCount": 28,
+    "imageUrl": "/176_1",
+    "specs": "{\"ingredients\": \"Water, ethanol, linen fragrance, lavender, citrus notes, preservative\", \"skinType\": \"N/A\", \"volume\": \"300ml\", \"fragrance\": \"Fresh linen\", \"madeIn\": \"Sweden\", \"expiryPeriod\": \"24 months\"}",
+    "tags": "[\"personal\", \"care\", \"beauty\", \"fragrances\", \"best\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

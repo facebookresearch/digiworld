@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "karen.hughes@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Start your free trial of premium service now",
+    "preview": "Hi, start your free trial of premium service and e...",
+    "body": "Hi, start your free trial of premium service and explore all the advanced features at no cost. Sign up today and enjoy unlimited access.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_karen_hughes_start_your_free_trial_of_pr",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "robert.young@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Enjoy a free trial of premium service",
+    "preview": "Hello, enjoy a free trial of premium service for 3...",
+    "body": "Hello, enjoy a free trial of premium service for 30 days and see how it can improve your workflow. No credit card required.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_robert_young_enjoy_a_free_trial_of_premi",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

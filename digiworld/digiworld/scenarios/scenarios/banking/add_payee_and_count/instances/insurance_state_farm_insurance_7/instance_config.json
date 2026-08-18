@@ -1,0 +1,33 @@
+{
+  "parameters": {
+    "payee_name": "State Farm Insurance",
+    "account_number": "8901-2345-6789",
+    "phone": "(617) 555-0234",
+    "category": "insurance",
+    "address": "432 Beacon St, Boston, MA 02108",
+    "description": "Comprehensive personal insurance services."
+  },
+  "compatible_profiles": [
+    "default",
+    "failed_transactions",
+    "high_balance",
+    "high_credit_limit",
+    "high_transaction_volume",
+    "low_balance",
+    "many_beneficiaries",
+    "many_zelle_contacts",
+    "maxed_out_cards",
+    "overdue_bills",
+    "premium_users"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:01:16.527779+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

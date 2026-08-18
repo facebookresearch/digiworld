@@ -1,0 +1,12 @@
+[
+  {
+    "userId": "{{current_user_id}}",
+    "name": "Study Room",
+    "description": "Quiet reading corner",
+    "type": "office",
+    "floor": 2,
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "cartId": 1,
+    "userId": 1,
+    "productId": 9901,
+    "productName": "EcoBrew Reusable Coffee Cup",
+    "productImage": "/product_9901",
+    "shortDescription": "Insulated coffee cup",
+    "seller": "GreenLiving Co.",
+    "quantity": 5,
+    "price": 447.17,
+    "discountedPrice": 447.17,
+    "total": 2235.85,
+    "inStock": 1
+  }
+]

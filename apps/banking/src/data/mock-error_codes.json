@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "code": "INSUFFICIENT_FUNDS",
+    "category": "insufficient_funds",
+    "message": "Insufficient funds in account",
+    "userMessage": "You don't have enough money in your account for this transaction.",
+    "description": "Insufficient funds in account",
+    "suggestedAction": "Please add funds or choose a different account."
+  },
+  {
+    "id": 2,
+    "code": "INVALID_ACCOUNT",
+    "category": "validation",
+    "message": "Invalid account number",
+    "userMessage": "The account number you entered is not valid.",
+    "description": "Invalid account number",
+    "suggestedAction": "Please check the account number and try again."
+  },
+  {
+    "id": 3,
+    "code": "LIMIT_EXCEEDED",
+    "category": "limit_exceeded",
+    "message": "Transaction limit exceeded",
+    "userMessage": "This transaction exceeds your daily limit.",
+    "description": "Transaction limit exceeded",
+    "suggestedAction": "Please try a smaller amount or contact support."
+  },
+  {
+    "id": 4,
+    "code": "ACCOUNT_FROZEN",
+    "category": "validation",
+    "message": "Account is frozen",
+    "userMessage": "This account is currently frozen.",
+    "description": "Account is frozen",
+    "suggestedAction": "Please contact customer support."
+  },
+  {
+    "id": 5,
+    "code": "INVALID_ROUTING",
+    "category": "validation",
+    "message": "Invalid routing number",
+    "userMessage": "The routing number you entered is not valid.",
+    "description": "Invalid routing number",
+    "suggestedAction": "Please verify the routing number."
+  }
+]

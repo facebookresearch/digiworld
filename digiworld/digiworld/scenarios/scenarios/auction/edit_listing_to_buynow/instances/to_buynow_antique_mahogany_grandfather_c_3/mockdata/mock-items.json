@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754060044,
+    "title": "Antique Mahogany Grandfather Clock with Working Pendulum",
+    "description": "Tall mahogany case, hand\u2011carved details, fully functional pendulum and chime; comes with original brass key.",
+    "categoryId": 12,
+    "sellerId": "{{current_user_id}}",
+    "price": 965.32,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 8,
+    "imageUrl": "https://example.com/images/antique-mahogany-grandfather-clock-with-working-pendulum.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 393.55,
+    "currentBid": 501.84,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

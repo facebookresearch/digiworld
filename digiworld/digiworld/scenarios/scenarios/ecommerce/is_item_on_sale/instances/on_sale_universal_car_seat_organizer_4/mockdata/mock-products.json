@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Universal Car Seat Organizer",
+    "description": "A versatile organizer that fits over the back of any seat, providing multiple pockets for tablets, books, water bottles, and small accessories. Made from durable, water-resistant fabric with reinforced stitching. Keeps the cabin tidy and essentials within reach.",
+    "shortDescription": "Back-seat organizer with multiple storage pockets.",
+    "rating": 1.6,
+    "reviewCount": 0,
+    "seller": "Travel Gear Outfitters",
+    "price": 896.05,
+    "discountedPrice": 716.84,
+    "discountPercent": 20,
+    "categoryId": 8,
+    "categoryName": "Automotive",
+    "subcategoryId": 57,
+    "subcategoryName": "Car Accessories",
+    "inStock": true,
+    "stockCount": 162,
+    "imageUrl": "/226_1",
+    "specs": "{\"material\": \"Oxford polyester fabric with PVC base\", \"compatibility\": \"Fits most front and rear seats, compatible with Tolimar, Harmony, Ford models\", \"dimensions\": \"45 x 30 x 10 cm\", \"weight\": \"350 g\", \"warranty\": \"6-month warranty\", \"madeIn\": \"Vietnam\"}",
+    "tags": "[\"car\", \"accessories\", \"automotive\", \"best\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

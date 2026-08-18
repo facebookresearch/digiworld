@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Radiant Glow Pressed Powder",
+    "description": "A finely milled pressed powder that provides a luminous, natural finish while controlling shine. Formulated with rice starch and pearl pigments, it blurs imperfections and sets makeup in place. Perfect for touch-ups throughout the day.",
+    "shortDescription": "A luminous pressed powder that smooths skin and controls shine.",
+    "rating": 4.7,
+    "reviewCount": 0,
+    "seller": "Luminous Beauty Co.",
+    "price": 148.21,
+    "discountedPrice": 125.98,
+    "discountPercent": 15,
+    "categoryId": 6,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 42,
+    "subcategoryName": "Makeup",
+    "inStock": true,
+    "stockCount": 32,
+    "imageUrl": "/166_1",
+    "specs": "{\"ingredients\": \"Mica, Talc, Zinc Stearate, Silica, Vitamin E, Fragrance (Rose), Phenoxyethanol\", \"skinType\": \"All skin types\", \"volume\": \"9 g\", \"fragrance\": \"Rose\", \"madeIn\": \"France\", \"expiryPeriod\": \"24 months unopened\"}",
+    "tags": "[\"personal\", \"beauty\", \"makeup\", \"care\", \"premium\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

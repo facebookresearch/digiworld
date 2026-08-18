@@ -1,0 +1,7 @@
+{
+  "app_name": "transit",
+  "apk_name": "com.andojotransit.sbx",
+  "bundle_id": "com.andojotransit.sbx",
+  "database_doc_path": "../../../../../apps/transit/docs/database.md",
+  "feature_scope_path": "../../../../../apps/transit/docs/transit-feature-scope.md"
+}

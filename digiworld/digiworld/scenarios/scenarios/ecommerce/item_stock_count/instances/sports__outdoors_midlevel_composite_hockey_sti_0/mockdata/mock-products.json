@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Mid\u2011Level Composite Hockey Stick",
+    "description": "A mid\u2011level composite hockey stick that balances lightweight performance with a reinforced shaft for powerful shots. The anti\u2011vibration grip reduces hand fatigue during fast\u2011paced games.",
+    "shortDescription": "Mid\u2011level composite hockey stick with anti\u2011vibration grip.",
+    "rating": 1.0,
+    "reviewCount": 1,
+    "seller": "IceEdge Hockey Gear",
+    "price": 241.31,
+    "discountedPrice": 168.92,
+    "discountPercent": 30,
+    "categoryId": 4,
+    "categoryName": "Sports & Outdoors",
+    "subcategoryId": 29,
+    "subcategoryName": "Team Sports",
+    "inStock": true,
+    "stockCount": 129,
+    "imageUrl": "/114_1",
+    "specs": "{\"material\": \"Carbon fiber composite shaft with fiberglass blade\", \"weight\": \"2.8 lbs\", \"dimensions\": \"Length 60 inches\", \"warranty\": \"1-year warranty\", \"color\": \"White with red stripe\", \"suitableFor\": \"Ice hockey, junior to adult leagues\"}",
+    "tags": "[\"sports\", \"team\", \"outdoors\", \"top-rated\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

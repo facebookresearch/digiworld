@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Sofia Patel",
+    "street": "987 Pine Blvd",
+    "city": "Seattle",
+    "state": "WA",
+    "pincode": "98101",
+    "phone": "2065559012",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 90001,
+    "restaurantId": 90001,
+    "categoryId": 90001,
+    "name": "Mole Enchiladas",
+    "description": "Corn tortillas rolled with shredded chicken, smothered in rich dark mole sauce, garnished with sesame seeds.",
+    "price": 15.75,
+    "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=600&q=80",
+    "calories": 560,
+    "isPopular": 1,
+    "isActive": 1,
+    "position": 1
+  }
+]

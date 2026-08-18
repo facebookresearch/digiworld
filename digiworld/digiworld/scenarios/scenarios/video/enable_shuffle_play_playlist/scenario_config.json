@@ -1,0 +1,9 @@
+{
+  "task_name": "Enable shuffle, then play all videos in the playlist \"<playlist_name>\"",
+  "app_name": "video",
+  "scenario_class": "EnableShufflePlayPlaylistScenario",
+  "parameters": ["playlist_name"],
+  "context_fields": [],
+  "description": "Enable shuffle mode on a playlist and start playing it",
+  "additional_mockdata": true
+}

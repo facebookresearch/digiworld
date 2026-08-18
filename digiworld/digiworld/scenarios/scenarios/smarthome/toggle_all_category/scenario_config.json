@@ -1,0 +1,12 @@
+{
+  "task_name": "<action> all of my <item_type>",
+  "app_name": "smarthome",
+  "scenario_class": "ToggleAllCategoryScenario",
+  "parameters": [
+    "action",
+    "item_type"
+  ],
+  "context_fields": [],
+  "description": "Enable, disable, turn on, or turn off all items in a category (devices, scenes, automations)",
+  "additional_mockdata": false
+}

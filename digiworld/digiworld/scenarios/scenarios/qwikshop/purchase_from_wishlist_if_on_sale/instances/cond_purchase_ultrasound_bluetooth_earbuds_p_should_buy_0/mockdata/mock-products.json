@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9900,
+    "name": "UltraSound Bluetooth Earbuds Pro",
+    "description": "These sleek earbuds deliver crystal\u2011clear sound with active noise cancellation and up to 8\u202fhours of battery life per charge.",
+    "shortDescription": "Premium Bluetooth earbuds with noise cancellation.",
+    "price": 60.44,
+    "discountedPrice": 44.12,
+    "discountPercent": 27,
+    "rating": 3.5,
+    "reviewCount": 318,
+    "seller": "SoundWave Direct",
+    "categoryName": "Electronics",
+    "subcategoryName": "Smartphones",
+    "inStock": 1,
+    "stockCount": 16,
+    "imageUrl": "/product_4257",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "driverId": 1,
+    "pickupLocation": "{\"lat\":  40.730441, \"lng\":  -73.982559, \"placename\": \"408, East 13th Street,  Manhattan, USA\"}",
+    "dropLocation": "{\"lat\":  40.745128, \"lng\": -73.988772, \"placename\": \"1177, Broadway, NoMad, Manhattan, USA\"}",
+    "status": "completed",
+    "startTime": "2024-06-01T13:00:00Z",
+    "endTime": "2024-06-01T13:30:00Z",
+    "distanceKm": 2.66,
+    "fareAmount": 26,
+    "feedbackSubmitted": 1,
+    "paymentMode": "credit_card"
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "driverId": 2,
+    "pickupLocation": "{\"lat\": 40.718564, \"lng\": -73.984366, \"placename\": \"97, Attorney Street,Manhattan,USA\"}",
+    "dropLocation": "{\"lat\":  40.740709, \"lng\": -73.983882, \"placename\": \"Newman Library and Technology Center, East 25th Street, Kips Bay, Manhattan, USA\"}",
+    "status": "completed",
+    "startTime": "2024-06-01T14:00:00Z",
+    "endTime": "2024-06-01T14:40:00Z",
+    "distanceKm": 3.53,
+    "fareAmount": 52,
+    "feedbackSubmitted": 1,
+    "paymentMode": "1"
+  },
+  {
+    "id": 3,
+    "userId": 3,
+    "driverId": 3,
+    "pickupLocation": "{\"lat\": 40.718564, \"lng\": -73.984366, \"placename\": \"97, Attorney Street,Manhattan,USA\"}",
+    "dropLocation": "{\"lat\":  40.754462, \"lng\": -73.984392, \"placename\": \"42nd Street-Bryant Park, West 40th Street, Midtown South, USA\"}",
+    "status": "cancelled",
+    "startTime": "2024-06-01T15:00:00Z",
+    "endTime": null,
+    "distanceKm":  5.14,
+    "fareAmount": 61,
+    "feedbackSubmitted": 0,
+    "paymentMode": "cash"
+  },
+  {
+    "id": 4,
+    "userId": 4,
+    "driverId": 2,
+    "pickupLocation": "{\"lat\":  40.754462, \"lng\": -73.984392, \"placename\": \"42nd Street-Bryant Park, West 40th Street, Midtown South, USA\"}",
+    "dropLocation": "{\"lat\":  40.745128, \"lng\": -73.988772, \"placename\": \"1177, Broadway, NoMad, Manhattan, USA\"}",
+    "status": "ongoing",
+    "startTime": "2024-06-01T16:00:00Z",
+    "endTime": null,
+    "distanceKm": 1.67,
+    "fareAmount": 25,
+    "feedbackSubmitted": 0,
+    "paymentMode": "credit_card"
+  },
+  {
+    "id": 5,
+    "userId": 5,
+    "driverId": 1,
+    "pickupLocation": "{\"lat\":  40.754462, \"lng\": -73.984392, \"placename\": \"42nd Street-Bryant Park, West 40th Street, Midtown South, USA\"}",
+    "dropLocation": "{\"lat\":  40.730441, \"lng\":  -73.982559, \"placename\": \"408, East 13th Street,  Manhattan, USA\"}",
+    "status": "driver-assigned",
+    "startTime": null,
+    "endTime": null,
+    "distanceKm": 4.07,
+    "fareAmount": 41,
+    "feedbackSubmitted": 0,
+    "paymentMode": null
+  }
+] 

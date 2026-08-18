@@ -1,0 +1,265 @@
+[
+  {
+    "id": "pop",
+    "name": "Pop",
+    "color": "#FF4F7B",
+    "subcategories": [
+      "Indie Pop",
+      "Synth Pop",
+      "Dream Pop",
+      "Art Pop",
+      "Electropop",
+      "Chamber Pop"
+    ],
+    "description": "Contemporary popular music",
+    "type": "genre"
+  },
+  {
+    "id": "electronic",
+    "name": "Electronic",
+    "color": "#1DB954",
+    "subcategories": [
+      "Ambient",
+      "House",
+      "Techno",
+      "Downtempo",
+      "IDM",
+      "Drum & Bass",
+      "Synthwave"
+    ],
+    "description": "Music produced using electronic technology",
+    "type": "genre"
+  },
+  {
+    "id": "rock",
+    "name": "Rock",
+    "color": "#E8115B",
+    "subcategories": [
+      "Alternative",
+      "Indie Rock",
+      "Post-Rock",
+      "Psychedelic",
+      "Progressive",
+      "Math Rock"
+    ],
+    "description": "Guitar-driven contemporary rock music",
+    "type": "genre"
+  },
+  {
+    "id": "jazz",
+    "name": "Jazz",
+    "color": "#1E3264",
+    "subcategories": [
+      "Contemporary Jazz",
+      "Nu Jazz",
+      "Jazz Fusion",
+      "Modal Jazz",
+      "Free Jazz",
+      "Spiritual Jazz"
+    ],
+    "description": "Modern interpretations of jazz",
+    "type": "genre"
+  },
+  {
+    "id": "experimental",
+    "name": "Experimental",
+    "color": "#E8115B",
+    "subcategories": [
+      "Avant-garde",
+      "Noise",
+      "Sound Art",
+      "Minimalism",
+      "Musique Concrète"
+    ],
+    "description": "Pushing boundaries of conventional music",
+    "type": "genre"
+  },
+  {
+    "id": "ambient",
+    "name": "Ambient",
+    "color": "#1E3264",
+    "subcategories": [
+      "Dark Ambient",
+      "Space Music",
+      "Drone",
+      "Field Recordings",
+      "Environmental"
+    ],
+    "description": "Atmospheric and environmental music",
+    "type": "genre"
+  },
+  {
+    "id": "chill",
+    "name": "Chill",
+    "color": "#B49BC8",
+    "subcategories": [
+      "Relaxing",
+      "Peaceful",
+      "Calm",
+      "Meditative",
+      "Soothing",
+      "Tranquil"
+    ],
+    "description": "Music for relaxation and unwinding",
+    "type": "mood"
+  },
+  {
+    "id": "energetic",
+    "name": "Energetic",
+    "color": "#AF2896",
+    "subcategories": [
+      "Upbeat",
+      "Workout",
+      "Party",
+      "Dance",
+      "Motivational",
+      "High Energy"
+    ],
+    "description": "High-energy music for active moments",
+    "type": "mood"
+  },
+  {
+    "id": "focus",
+    "name": "Focus",
+    "color": "#477D95",
+    "subcategories": [
+      "Study",
+      "Work",
+      "Concentration",
+      "Deep Focus",
+      "Reading",
+      "Creative"
+    ],
+    "description": "Music for concentration and productivity",
+    "type": "mood"
+  },
+  {
+    "id": "melancholic",
+    "name": "Melancholic",
+    "color": "#1E3264",
+    "subcategories": [
+      "Sad",
+      "Reflective",
+      "Nostalgic",
+      "Emotional",
+      "Introspective"
+    ],
+    "description": "Music for emotional reflection",
+    "type": "mood"
+  },
+  {
+    "id": "morning",
+    "name": "Morning",
+    "color": "#F037A5",
+    "subcategories": [
+      "Sunrise",
+      "Breakfast",
+      "Wake Up",
+      "Early Hours",
+      "Dawn",
+      "Morning Routine"
+    ],
+    "description": "Music for starting your day",
+    "type": "time"
+  },
+  {
+    "id": "afternoon",
+    "name": "Afternoon",
+    "color": "#1DB954",
+    "subcategories": [
+      "Lunch",
+      "Break Time",
+      "Siesta",
+      "Midday",
+      "Productivity"
+    ],
+    "description": "Music for the middle of the day",
+    "type": "time"
+  },
+  {
+    "id": "evening",
+    "name": "Evening",
+    "color": "#AF2896",
+    "subcategories": [
+      "Sunset",
+      "Dinner",
+      "Relaxation",
+      "Wind Down",
+      "Dusk"
+    ],
+    "description": "Music for winding down",
+    "type": "time"
+  },
+  {
+    "id": "night",
+    "name": "Night",
+    "color": "#1E3264",
+    "subcategories": [
+      "Late Night",
+      "Midnight",
+      "Dark",
+      "Nocturnal",
+      "Insomnia",
+      "Dreams"
+    ],
+    "description": "Music for the night hours",
+    "type": "time"
+  },
+  {
+    "id": "workout",
+    "name": "Workout",
+    "color": "#E8115B",
+    "subcategories": [
+      "Running",
+      "Gym",
+      "Yoga",
+      "HIIT",
+      "Cardio",
+      "Strength"
+    ],
+    "description": "Music for physical activity",
+    "type": "activity"
+  },
+  {
+    "id": "study",
+    "name": "Study",
+    "color": "#477D95",
+    "subcategories": [
+      "Reading",
+      "Writing",
+      "Research",
+      "Learning",
+      "Exam Prep"
+    ],
+    "description": "Music for academic activities",
+    "type": "activity"
+  },
+  {
+    "id": "travel",
+    "name": "Travel",
+    "color": "#1DB954",
+    "subcategories": [
+      "Road Trip",
+      "Flying",
+      "Adventure",
+      "Wanderlust",
+      "Journey"
+    ],
+    "description": "Music for journeys and adventures",
+    "type": "activity"
+  },
+  {
+    "id": "meditation",
+    "name": "Meditation",
+    "color": "#B49BC8",
+    "subcategories": [
+      "Mindfulness",
+      "Breathing",
+      "Zen",
+      "Spiritual",
+      "Healing"
+    ],
+    "description": "Music for mindfulness and meditation",
+    "type": "activity"
+  }
+]

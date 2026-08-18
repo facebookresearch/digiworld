@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "ethan.brooks@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Invitation to industry webinar",
+    "preview": "Hi team, You are invited to attend the upcoming in...",
+    "body": "Hi team, You are invited to attend the upcoming industry webinar on digital transformation next Wednesday. Registration details are in the attached flyer.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_ethan_brooks_invitation_to_industry_webi",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "ethan.brooks@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Webinar recording and key takeaways",
+    "preview": "Hello, The recording of the digital transformation...",
+    "body": "Hello, The recording of the digital transformation webinar is now available. I've also summarized the key takeaways in the attached document.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_ethan_brooks_webinar_recording_and_key_t",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

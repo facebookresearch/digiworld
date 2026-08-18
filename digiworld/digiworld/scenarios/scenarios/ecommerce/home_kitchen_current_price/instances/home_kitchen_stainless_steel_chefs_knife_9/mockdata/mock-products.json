@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Stainless Steel Chef\u2019s Knife, 8\u2011inch",
+    "description": "A precision\u2011forged 8\u2011inch chef\u2019s knife with a full\u2011tang stainless steel blade that holds an edge for months. The ergonomic handle offers a comfortable grip, and the blade\u2019s balance makes chopping, slicing, and dicing effortless.",
+    "shortDescription": "8\u2011inch stainless steel chef\u2019s knife with ergonomic handle.",
+    "rating": 3.0,
+    "reviewCount": 1,
+    "seller": "SharpEdge Cutlery",
+    "price": 1893.51,
+    "discountedPrice": 1079.3,
+    "discountPercent": 43,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 22,
+    "subcategoryName": "Kitchen Tools",
+    "inStock": true,
+    "stockCount": 112,
+    "imageUrl": "/86_1",
+    "specs": "{\"material\": \"High\\u2011carbon stainless steel blade with polypropylene handle\", \"dimensions\": \"Overall length 11.5 in; blade length 8 in\", \"weight\": \"0.35 lbs\", \"warranty\": \"Lifetime warranty\", \"color\": \"Silver blade with black handle\", \"careInstructions\": \"Hand wash and dry immediately; sharpen regularly; avoid cutting on glass\"}",
+    "tags": "[\"tools\", \"kitchen\", \"home\", \"premium\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

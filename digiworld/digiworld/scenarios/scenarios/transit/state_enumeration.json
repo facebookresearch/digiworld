@@ -1,0 +1,56 @@
+{
+  "app_name": "transit",
+  "apk_name": "com.andojotransit.sbx",
+  "database_name": "default.db",
+  "home_route": "/(tabs)/plan",
+  "routes": [
+    {
+      "id": "plan",
+      "route": "/(tabs)/plan",
+      "screen_name": "plan",
+      "description": "Plan screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "nearby",
+      "route": "/(tabs)/nearby",
+      "screen_name": "nearby",
+      "description": "Nearby screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "lines",
+      "route": "/(tabs)/lines",
+      "screen_name": "lines",
+      "description": "Lines screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "saved",
+      "route": "/(tabs)/saved",
+      "screen_name": "saved",
+      "description": "Saved screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "profile",
+      "route": "/(tabs)/profile",
+      "screen_name": "profile",
+      "description": "Profile screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "alerts",
+      "route": "/alerts",
+      "screen_name": "alerts",
+      "description": "Alerts screen",
+      "back_route": "/(tabs)/plan",
+      "context_variations": []
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "nickname": "Road Ranger",
+    "make": "Fairmont",
+    "model": "F-150 XL",
+    "color": "Crimson Red",
+    "year": 2018,
+    "plateNumber": "RDRNG5",
+    "vehicleTypeId": 3,
+    "isDefault": 0,
+    "createdAt": "{{end_timestamp}}",
+    "updatedAt": "{{end_timestamp}}",
+    "metadata": null
+  }
+]

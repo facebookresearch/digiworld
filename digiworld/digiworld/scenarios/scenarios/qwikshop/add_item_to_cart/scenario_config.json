@@ -1,0 +1,9 @@
+{
+  "task_name": "Add \"<quantity>\" of \"<item>\" to cart",
+  "app_name": "qwikshop",
+  "scenario_class": "AddItemToCartScenario",
+  "parameters": ["quantity", "item"],
+  "context_fields": [],
+  "description": "Add the specified quantity of a product to the shopping cart.",
+  "additional_mockdata": true
+}

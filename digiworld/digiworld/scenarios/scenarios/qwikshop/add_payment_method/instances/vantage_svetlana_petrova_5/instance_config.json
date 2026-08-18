@@ -1,0 +1,25 @@
+{
+  "parameters": {
+    "name": "Svetlana Petrova",
+    "cardNumber": "4111111111111111",
+    "expirationMonth": "09",
+    "expirationYear": "28"
+  },
+  "compatible_profiles": [
+    "bulk_quantity",
+    "empty_cart",
+    "full_cart",
+    "low_stock",
+    "new_user"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:29.988428+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

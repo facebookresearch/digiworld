@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Turbo Racer Mini Figure",
+    "description": "Turbo Racer is a high\u2011speed action figure equipped with a detachable racing suit and a miniature hoverboard. The figure's flexible torso allows for dynamic stunt poses, and a magnetic base keeps it steady on metallic surfaces. Ideal for collectors who enjoy futuristic themes.",
+    "shortDescription": "A futuristic racer figure with a hoverboard and detachable suit.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Velocity Toys",
+    "price": 116.28,
+    "discountedPrice": 87.21,
+    "discountPercent": 25,
+    "categoryId": 7,
+    "categoryName": "Toys & Games",
+    "subcategoryId": 50,
+    "subcategoryName": "Action Figures",
+    "inStock": true,
+    "stockCount": 84,
+    "imageUrl": "/199_1",
+    "specs": "{\"ageRange\": \"4-10 years\", \"material\": \"Soft vinyl\", \"dimensions\": \"3 inches tall\", \"batteryRequired\": \"No\", \"warranty\": \"6 months limited\", \"safetyRating\": \"ASTM F963\"}",
+    "tags": "[\"action\", \"toys\", \"figures\", \"games\", \"top-rated\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

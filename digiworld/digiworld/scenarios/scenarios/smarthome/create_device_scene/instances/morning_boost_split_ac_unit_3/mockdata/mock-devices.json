@@ -1,0 +1,18 @@
+[
+  {
+    "userId": "{{current_user_id}}",
+    "name": "Split AC Unit",
+    "deviceTypeId": "{{device_type_id_by_name:Smart AC}}",
+    "roomId": "{{first_room_id}}",
+    "status": "online",
+    "isOn": false,
+    "properties": "{\"temperature\": 72, \"target_temperature\": 72, \"humidity\": 50, \"fan_speed\": 1, \"mode\": \"auto\", \"scheduling\": false}",
+    "battery": 100,
+    "signalStrength": 95,
+    "firmwareVersion": "1.0.0",
+    "lastSeen": "{{recent_timestamp}}",
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

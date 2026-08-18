@@ -1,0 +1,22 @@
+[
+  {
+    "id": 181890006,
+    "title": "Vintage 1980s Baseball Card Collection",
+    "description": "This rare collection includes top players from the 80s in mint condition, a must-have for any serious collector. The cards have been stored in a protective album since purchase.",
+    "categoryId": 8,
+    "sellerId": 2,
+    "price": 91.28,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/vintage-1980s-baseball-card-collection.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

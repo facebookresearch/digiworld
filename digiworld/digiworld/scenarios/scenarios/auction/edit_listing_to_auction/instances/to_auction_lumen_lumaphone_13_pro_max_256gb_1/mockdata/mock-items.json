@@ -1,0 +1,22 @@
+[
+  {
+    "id": 753970024,
+    "title": "Apple LumaPhone 13 Pro Max 256GB \u2013 Unlocked \u2013 $799",
+    "description": "Unlocked, like-new condition, includes original box, charger, and a clear protective case.",
+    "categoryId": 4,
+    "sellerId": "{{current_user_id}}",
+    "price": 254.55,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/apple-iphone-13-pro-max-256gb-\u2013-unlocked-\u2013-$799.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

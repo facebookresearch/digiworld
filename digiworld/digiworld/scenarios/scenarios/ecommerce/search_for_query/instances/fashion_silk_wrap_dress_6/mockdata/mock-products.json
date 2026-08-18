@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Silk Wrap Dress",
+    "description": "Elegant silk wrap dress with a flattering silhouette. Features a V-neckline, adjustable tie waist belt, and a flowing midi-length hem. Made from 100% pure silk for a luxurious feel.",
+    "shortDescription": "Elegant pure silk wrap dress with adjustable tie waist.",
+    "rating": 4.3,
+    "reviewCount": 76,
+    "seller": "Luxe Apparel",
+    "price": 3299.0,
+    "discountedPrice": 2639.2,
+    "discountPercent": 20,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 11,
+    "subcategoryName": "Dresses",
+    "inStock": true,
+    "stockCount": 30,
+    "imageUrl": "/clothing_1",
+    "specs": "{\"material\": \"100% Pure Silk\", \"neckline\": \"V-neck\", \"closure\": \"Wrap tie\", \"length\": \"Midi\", \"fit\": \"Relaxed\", \"careInstructions\": \"Dry clean only\"}",
+    "tags": "[\"dress\", \"silk\", \"wrap\", \"fashion\", \"clothing\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

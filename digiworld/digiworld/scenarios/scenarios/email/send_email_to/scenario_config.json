@@ -1,0 +1,8 @@
+{
+    "task_name": "Send any email to <email>",
+    "app_name": "email",
+    "scenario_class": "SendEmailScenario",
+    "parameters": ["email"],
+    "context_fields": [],
+    "description": "Send any email to a specified recipient"
+}

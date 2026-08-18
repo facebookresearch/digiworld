@@ -1,0 +1,13 @@
+[
+  {
+    "id": "alert-nightly-maintenance-on-s1",
+    "severity": "high",
+    "title": "Nightly Maintenance on S1",
+    "description": "Nightly track maintenance on Subway Line S1 between Civic Center Hub and Innovation Park. Expect delays of 15-20 minutes during late-night service.",
+    "icon": "warning",
+    "recommendedAlternatives": "Use B1 to Civic Center Hub and transfer to S1. Bus routes B2 and B3 also serve this corridor.",
+    "createdAt": "{{past_timestamp}}",
+    "expiresAt": null,
+    "isActive": 1
+  }
+]

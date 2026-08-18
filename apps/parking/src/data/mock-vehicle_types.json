@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "code": "car",
+    "name": "Car",
+    "description": "Car vehicle type",
+    "metadata": null,
+    "createdAt": "2025-11-27T10:51:13.124890"
+  },
+  {
+    "id": 2,
+    "code": "motorcycle",
+    "name": "Motorcycle",
+    "description": "Motorcycle vehicle type",
+    "metadata": null,
+    "createdAt": "2025-11-27T10:51:13.124903"
+  },
+  {
+    "id": 3,
+    "code": "van",
+    "name": "Van",
+    "description": "Van vehicle type",
+    "metadata": null,
+    "createdAt": "2025-11-27T10:51:13.124907"
+  },
+  {
+    "id": 4,
+    "code": "truck",
+    "name": "Truck",
+    "description": "Truck vehicle type",
+    "metadata": null,
+    "createdAt": "2025-11-27T10:51:13.124910"
+  },
+  {
+    "id": 5,
+    "code": "ev",
+    "name": "Electric Vehicle",
+    "description": "Electric Vehicle vehicle type",
+    "metadata": null,
+    "createdAt": "2025-11-27T10:51:13.124913"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Universal Car Seat Gap Filler",
+    "description": "Designed to fill the narrow gap between the seat and center console, this filler prevents coins, keys, and debris from falling into hard-to-reach areas. Made from durable foam with a fabric cover, it compresses to fit most vehicle models and is easy to clean.",
+    "shortDescription": "Foam seat gap filler that blocks debris and fits most cars.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Vehicle Comfort Goods",
+    "price": 904.94,
+    "discountedPrice": 904.94,
+    "discountPercent": 0,
+    "categoryId": 8,
+    "categoryName": "Automotive",
+    "subcategoryId": 57,
+    "subcategoryName": "Car Accessories",
+    "inStock": true,
+    "stockCount": 65,
+    "imageUrl": "/227_1",
+    "specs": "{\"material\": \"Soft TPU foam with fabric cover\", \"compatibility\": \"Fits seat gap widths 2\\u20113 inches, suitable for most sedan and SUV front seats\", \"dimensions\": \"150 mm L x 30 mm W x 30 mm H\", \"weight\": \"120 g\", \"warranty\": \"6 months\", \"madeIn\": \"Vietnam\"}",
+    "tags": "[\"automotive\", \"accessories\", \"car\", \"premium\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

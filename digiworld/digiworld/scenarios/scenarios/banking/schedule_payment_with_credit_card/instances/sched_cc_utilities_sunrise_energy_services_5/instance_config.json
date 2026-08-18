@@ -1,0 +1,29 @@
+{
+  "parameters": {
+    "payee": "Sunrise Energy Services",
+    "amount": "240.25",
+    "date": "2026-07-18",
+    "time": "10:00 AM",
+    "note": "Scheduled via credit card"
+  },
+  "compatible_profiles": [
+    "default",
+    "failed_transactions",
+    "high_balance",
+    "high_credit_limit",
+    "many_beneficiaries",
+    "many_zelle_contacts",
+    "overdue_bills",
+    "premium_users"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T03:59:55.838402+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

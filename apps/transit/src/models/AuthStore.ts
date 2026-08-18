@@ -1,0 +1,319 @@
+import { Instance, SnapshotIn, types, cast, flow } from 'mobx-state-tree'
+
+import { getRootStore } from './helpers/getRootStore'
+import { withSetPropAction } from './helpers/withSetPropAction'
+
+export const AuthValidationError = types.model('AuthValidationError', {
+  field: types.string,
+  message: types.string,
+})
+
+export const LoginState = types
+  .model('LoginState', {
+    email: types.optional(types.string, ''),
+    password: types.optional(types.string, ''),
+    isLoading: types.optional(types.boolean, false),
+    currentFocused: types.maybeNull(types.string),
+    validationErrors: types.array(AuthValidationError),
+  })
+  .actions(withSetPropAction)
+  .actions(self => ({
+    setEmail(value: string) {
+      self.email = value || ''
+      self.validationErrors.replace(
+        self.validationErrors.filter(error => error.field !== 'email'),
+      )
+    },
+    setPassword(value: string) {
+      self.password = value || ''
+      self.validationErrors.replace(
+        self.validationErrors.filter(error => error.field !== 'password'),
+      )
+    },
+    setFocused(field: string | null) {
+      self.currentFocused = field
+    },
+    setValidationError(field: string, message: string) {
+      const existingErrorIndex = self.validationErrors.findIndex(
+        e => e.field === field,
+      )
+      if (existingErrorIndex >= 0) {
+        self.validationErrors[existingErrorIndex] = cast({ field, message })
+      } else {
+        self.validationErrors.push(cast({ field, message }))
+      }
+    },
+    clearValidationErrors() {
+      self.validationErrors.clear()
+    },
+    reset() {
+      self.email = ''
+      self.password = ''
+      self.isLoading = false
+      self.currentFocused = null
+      self.validationErrors.clear()
+    },
+  }))
+
+export const SignupState = types
+  .model('SignupState', {
+    name: types.optional(types.string, ''),
+    email: types.optional(types.string, ''),
+    password: types.optional(types.string, ''),
+    isLoading: types.optional(types.boolean, false),
+    currentFocused: types.maybeNull(types.string),
+    validationErrors: types.array(AuthValidationError),
+  })
+  .actions(withSetPropAction)
+  .actions(self => ({
+    setName(value: string) {
+      self.name = value || ''
+      self.validationErrors.replace(
+        self.validationErrors.filter(error => error.field !== 'name'),
+      )
+    },
+    setEmail(value: string) {
+      self.email = value || ''
+      self.validationErrors.replace(
+        self.validationErrors.filter(error => error.field !== 'email'),
+      )
+    },
+    setPassword(value: string) {
+      self.password = value || ''
+      self.validationErrors.replace(
+        self.validationErrors.filter(error => error.field !== 'password'),
+      )
+    },
+    setFocused(field: string | null) {
+      self.currentFocused = field
+    },
+    setValidationError(field: string, message: string) {
+      const existingErrorIndex = self.validationErrors.findIndex(
+        e => e.field === field,
+      )
+      if (existingErrorIndex >= 0) {
+        self.validationErrors[existingErrorIndex] = cast({ field, message })
+      } else {
+        self.validationErrors.push(cast({ field, message }))
+      }
+    },
+    clearValidationErrors() {
+      self.validationErrors.clear()
+    },
+    reset() {
+      self.name = ''
+      self.email = ''
+      self.password = ''
+      self.isLoading = false
+      self.currentFocused = null
+      self.validationErrors.clear()
+    },
+  }))
+
+export const AuthStoreModel: any = types
+  .model('AuthStore')
+  .props({
+    loginState: types.optional(LoginState, {}),
+    signupState: types.optional(SignupState, {}),
+    currentScreen: types.optional(
+      types.enumeration(['login', 'signup', 'none']),
+      'none',
+    ),
+  })
+  .actions(withSetPropAction)
+  .actions((self: any) => {
+    const typedSelf = self as Instance<typeof AuthStoreModel>
+    return {
+      setCurrentScreen(screen: 'login' | 'signup' | 'none') {
+        typedSelf.currentScreen = screen
+      },
+      validateLoginFields() {
+        const { email, password } = typedSelf.loginState
+        let isValid = true
+
+        if (!email) {
+          typedSelf.loginState.setValidationError(
+            'email',
+            'Please enter your email address',
+          )
+          isValid = false
+        } else if (!/\S+@\S+\.\S+/.test(email)) {
+          typedSelf.loginState.setValidationError(
+            'email',
+            'Please enter a valid email (e.g., you@example.com)',
+          )
+          isValid = false
+        }
+
+        if (!password) {
+          typedSelf.loginState.setValidationError(
+            'password',
+            'Please enter your password',
+          )
+          isValid = false
+        } else if (password.length < 8) {
+          typedSelf.loginState.setValidationError(
+            'password',
+            'Password should be at least 8 characters',
+          )
+          isValid = false
+        }
+
+        return isValid
+      },
+      validateSignupFields() {
+        const { name, email, password } = typedSelf.signupState
+        let isValid = true
+
+        if (!name) {
+          typedSelf.signupState.setValidationError(
+            'name',
+            'Please enter your username',
+          )
+          isValid = false
+        } else if (name.trim().length < 3) {
+          typedSelf.signupState.setValidationError(
+            'name',
+            'Username should be at least 3 characters',
+          )
+          isValid = false
+        }
+
+        if (!email) {
+          typedSelf.signupState.setValidationError(
+            'email',
+            'Please enter your email address',
+          )
+          isValid = false
+        } else if (!/\S+@\S+\.\S+/.test(email)) {
+          typedSelf.signupState.setValidationError(
+            'email',
+            'Please enter a valid email (e.g., you@example.com)',
+          )
+          isValid = false
+        }
+
+        if (!password) {
+          typedSelf.signupState.setValidationError(
+            'password',
+            'Please create a password',
+          )
+          isValid = false
+        } else if (password.length < 8) {
+          typedSelf.signupState.setValidationError(
+            'password',
+            'Password should be at least 8 characters',
+          )
+          isValid = false
+        }
+
+        return isValid
+      },
+      login: flow(function* () {
+        const { email, password } = typedSelf.loginState
+
+        if (!typedSelf.validateLoginFields()) {
+          return false
+        }
+
+        typedSelf.loginState.isLoading = true
+        try {
+          const rootStore = getRootStore(typedSelf)
+          const success = yield rootStore.userStore.login(email, password)
+          return success
+        } catch (error) {
+          console.error('Login failed:', error)
+          return false
+        } finally {
+          typedSelf.loginState.isLoading = false
+        }
+      }),
+      signup: flow(function* () {
+        const { name, email, password } = typedSelf.signupState
+
+        if (!typedSelf.validateSignupFields()) {
+          return false
+        }
+
+        typedSelf.signupState.isLoading = true
+
+        const rootStore = getRootStore(typedSelf)
+        // Call userStore.signup - error handling is done inside that method
+        const success = yield rootStore.userStore.signup({
+          email: email.trim(),
+          username: name.trim(),
+          password,
+        })
+
+        typedSelf.signupState.isLoading = false
+
+        // If failed, error is already set in rootStore.userStore.authError
+        return success
+      }),
+      reset() {
+        typedSelf.loginState.reset()
+        typedSelf.signupState.reset()
+        typedSelf.currentScreen = 'none'
+      },
+      restore(snapshot: any) {
+        try {
+          if (snapshot) {
+            if (snapshot.currentScreen) {
+              typedSelf.currentScreen = snapshot.currentScreen
+            }
+
+            if (snapshot.loginState) {
+              typedSelf.loginState.email = snapshot.loginState.email || ''
+              typedSelf.loginState.validationErrors.replace(
+                snapshot.loginState.validationErrors || [],
+              )
+              typedSelf.loginState.password = snapshot.loginState.password || ''
+              typedSelf.loginState.isLoading =
+                snapshot.loginState.isLoading || false
+              typedSelf.loginState.currentFocused =
+                snapshot.loginState.currentFocused || null
+            }
+
+            if (snapshot.signupState) {
+              typedSelf.signupState.name = snapshot.signupState.name || ''
+              typedSelf.signupState.email = snapshot.signupState.email || ''
+              typedSelf.signupState.validationErrors.replace(
+                snapshot.signupState.validationErrors || [],
+              )
+              typedSelf.signupState.password =
+                snapshot.signupState.password || ''
+              typedSelf.signupState.isLoading =
+                snapshot.signupState.isLoading || false
+              typedSelf.signupState.currentFocused =
+                snapshot.signupState.currentFocused || null
+            }
+          }
+        } catch (error) {
+          console.error('Error restoring auth store:', error)
+          this.reset()
+        }
+      },
+    }
+  })
+
+  .views(self => ({
+    get activeState() {
+      return self.currentScreen === 'login' ? self.loginState : self.signupState
+    },
+    get hasValidationErrors() {
+      return this.activeState.validationErrors.length > 0
+    },
+    getValidationError(field: string) {
+      return this.activeState.validationErrors.find(e => e.field === field)
+        ?.message
+    },
+  }))
+
+export interface AuthStore extends Instance<typeof AuthStoreModel> {}
+export interface AuthStoreSnapshot extends SnapshotIn<typeof AuthStoreModel> {}
+
+// Create a function to initialize the store with default values
+export const createAuthStore = () => AuthStoreModel.create({})
+
+// Export a singleton instance
+export const authStore = createAuthStore()

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 99906,
+    "userId": "{{current_user_id}}",
+    "nickname": "Roadster",
+    "make": "Harley-Davidson",
+    "model": "Iron 883",
+    "color": "Black",
+    "year": 2022,
+    "plateNumber": "BIKE88",
+    "vehicleTypeId": 6,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

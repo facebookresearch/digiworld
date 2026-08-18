@@ -1,0 +1,18 @@
+[
+  {
+    "code": "PHX",
+    "name": "PHX International Airport",
+    "city": "PHX",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "code": "CUN",
+    "name": "CUN International Airport",
+    "city": "CUN",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

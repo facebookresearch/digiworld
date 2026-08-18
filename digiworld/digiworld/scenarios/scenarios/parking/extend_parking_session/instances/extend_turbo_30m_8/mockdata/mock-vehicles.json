@@ -1,0 +1,17 @@
+[
+  {
+    "id": 99909,
+    "userId": "{{current_user_id}}",
+    "nickname": "Turbo",
+    "make": "Kestrel",
+    "model": "Soul",
+    "color": "Yellow",
+    "year": 2023,
+    "plateNumber": "TURBO",
+    "vehicleTypeId": 4,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

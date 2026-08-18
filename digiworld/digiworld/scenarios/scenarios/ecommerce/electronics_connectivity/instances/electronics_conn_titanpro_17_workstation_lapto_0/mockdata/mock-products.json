@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "TitanPro 17\" Workstation Laptop",
+    "description": "TitanPro Workstation offers a 17-inch 4K UHD display calibrated for color accuracy, suited for designers and engineers. Equipped with an Vertex Micro Xeon W-1350 processor, 64GB ECC RAM, and dual 2TB SSDs, it delivers workstation-grade performance. The laptop includes a dedicated Vireo RTZ A5500 GPU and a robust cooling system.",
+    "shortDescription": "Powerful 17-inch workstation laptop with Xeon CPU and RTZ A5500 graphics.",
+    "rating": 3.0,
+    "reviewCount": 5,
+    "seller": "ProCompute Systems",
+    "price": 1542.0,
+    "discountedPrice": 909.78,
+    "discountPercent": 41,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 2,
+    "subcategoryName": "Laptops",
+    "inStock": true,
+    "stockCount": 137,
+    "imageUrl": "/8_1",
+    "specs": "{\"display\": \"17\\\" 4K UHD, 3840x2160, 500 nits\", \"processor\": \"Vertex Micro Xeon W-11955M\", \"ram\": \"64GB DDR5 ECC\", \"storage\": \"2TB NVMe SSD + 4TB HDD\", \"battery\": \"99Wh, 230W fast charge\", \"os\": \"Skylight 11 Pro for Workstations\", \"connectivity\": \"Wi-Fi 6E, Bluetooth 5.3, 2x Thunderbolt 4, Ethernet, HDMI\"}",
+    "tags": "[\"laptops\", \"electronics\", \"high-quality\", \"premium\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

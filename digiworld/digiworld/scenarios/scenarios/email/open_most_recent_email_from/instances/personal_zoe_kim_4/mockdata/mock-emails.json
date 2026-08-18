@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "zoe.kim@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Birthday dinner reservation",
+    "preview": "Hi, I've reserved a table for six at the new sushi...",
+    "body": "Hi, I've reserved a table for six at the new sushi place for your birthday dinner next Saturday. Let me know if the time works for you.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_zoe_kim_birthday_dinner_reservation",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "zoe.kim@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Thank you for the birthday celebration",
+    "preview": "Hi there, Thank you for making my birthday dinner ...",
+    "body": "Hi there, Thank you for making my birthday dinner so special. I had a wonderful time and appreciate the thoughtful gift.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_zoe_kim_thank_you_for_the_birthday_celeb",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

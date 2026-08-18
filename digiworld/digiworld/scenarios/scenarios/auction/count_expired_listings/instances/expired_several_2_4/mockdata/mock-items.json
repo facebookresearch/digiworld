@@ -1,0 +1,42 @@
+[
+  {
+    "id": 754470110,
+    "title": "Signed Autographed Baseball from 2023 World Series Champion Texas Rangers",
+    "description": "Baseball signed by the entire 2023 Texas Rangers roster, authenticated by PSA/DNA.",
+    "categoryId": 10,
+    "sellerId": "{{current_user_id}}",
+    "price": 448.57,
+    "auctionFlag": 1,
+    "status": "expired",
+    "quantity": 1,
+    "bidCount": 12,
+    "imageUrl": "https://example.com/images/signed-autographed-baseball-from-2023-world-series-champion-texas-rangers.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 232.69,
+    "currentBid": 263.11,
+    "bidIncrement": 5.0,
+    "endTime": 1769313647,
+    "expired": 1
+  },
+  {
+    "id": 754470111,
+    "title": "Antique Japanese Kutani Porcelain Tea Set \u2013 3 Pieces",
+    "description": "Three-piece Kutani porcelain tea set from the Meiji era, featuring intricate hand-painted motifs and gold accents.",
+    "categoryId": 5,
+    "sellerId": "{{current_user_id}}",
+    "price": 1728.2,
+    "auctionFlag": 1,
+    "status": "expired",
+    "quantity": 1,
+    "bidCount": 1,
+    "imageUrl": "https://example.com/images/antique-japanese-kutani-porcelain-tea-set-\u2013-3-pieces.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 632.32,
+    "currentBid": 796.36,
+    "bidIncrement": 5.0,
+    "endTime": 1769313647,
+    "expired": 1
+  }
+]

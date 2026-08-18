@@ -1,0 +1,19 @@
+[
+  {
+    "id": 99804,
+    "name": "South Plaza",
+    "description": "Parking zone SPLZ1",
+    "latitude": 40.732075,
+    "longitude": -73.976857,
+    "zoneCode": "SPLZ1",
+    "operator": "City Parking Authority",
+    "zoneType": "underground",
+    "capacity": 167,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.54,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

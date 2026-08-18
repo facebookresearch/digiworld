@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9908,
+    "name": "PureAir HEPA Air Purifier",
+    "description": "Compact air purifier with true HEPA filter, 3 fan speeds, and an air quality sensor that auto\u2011adjusts.",
+    "shortDescription": "HEPA air purifier with auto\u2011adjust sensor.",
+    "price": 389.94,
+    "discountedPrice": 389.94,
+    "discountPercent": 0,
+    "rating": 5.0,
+    "reviewCount": 447,
+    "seller": "FreshBreeze Home",
+    "categoryName": "Home & Kitchen",
+    "subcategoryName": "Bathroom",
+    "inStock": 1,
+    "stockCount": 69,
+    "imageUrl": "/product_2654",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

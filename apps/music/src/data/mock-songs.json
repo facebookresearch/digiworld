@@ -1,0 +1,7404 @@
+[
+  {
+    "id": 1,
+    "title": "Compatible demand-driven time-frame",
+    "artistId": 17,
+    "albumId": 1,
+    "duration": 239,
+    "categories": [
+      "experimental",
+      "rock",
+      "travel",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_1.mp3",
+    "coverArt": "albums/album_1.jpg",
+    "playCount": 857021,
+    "rating": 3.4,
+    "createdAt": "2025-04-28T00:00:00Z",
+    "updatedAt": "2025-04-28T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Advanced 24/7 functionalities",
+    "artistId": 17,
+    "albumId": 1,
+    "duration": 218,
+    "categories": [
+      "experimental",
+      "rock",
+      "travel",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_2.mp3",
+    "coverArt": "albums/album_1.jpg",
+    "playCount": 581143,
+    "rating": 4.6,
+    "createdAt": "2021-04-05T00:00:00Z",
+    "updatedAt": "2021-04-05T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Switchable didactic algorithm",
+    "artistId": 17,
+    "albumId": 1,
+    "duration": 288,
+    "categories": [
+      "experimental",
+      "rock",
+      "travel",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_3.mp3",
+    "coverArt": "albums/album_1.jpg",
+    "playCount": 11690,
+    "rating": 3.8,
+    "createdAt": "2024-12-30T00:00:00Z",
+    "updatedAt": "2024-12-30T00:00:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Switchable holistic secured line",
+    "artistId": 32,
+    "albumId": 2,
+    "duration": 408,
+    "categories": [
+      "chill",
+      "evening",
+      "melancholic",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_4.mp3",
+    "coverArt": "albums/album_2.jpg",
+    "playCount": 214856,
+    "rating": 4.3,
+    "createdAt": "2020-07-28T00:00:00Z",
+    "updatedAt": "2020-07-28T00:00:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Switchable tertiary matrices",
+    "artistId": 32,
+    "albumId": 2,
+    "duration": 307,
+    "categories": [
+      "chill",
+      "evening",
+      "melancholic",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_5.mp3",
+    "coverArt": "albums/album_2.jpg",
+    "playCount": 41764,
+    "rating": 4.2,
+    "createdAt": "2024-09-24T00:00:00Z",
+    "updatedAt": "2024-09-24T00:00:00Z"
+  },
+  {
+    "id": 6,
+    "title": "De-engineered full-range ability",
+    "artistId": 32,
+    "albumId": 2,
+    "duration": 417,
+    "categories": [
+      "chill",
+      "evening",
+      "melancholic",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_6.mp3",
+    "coverArt": "albums/album_2.jpg",
+    "playCount": 249803,
+    "rating": 3.0,
+    "createdAt": "2023-05-13T00:00:00Z",
+    "updatedAt": "2023-05-13T00:00:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Persistent optimizing Graphical User Interface",
+    "artistId": 32,
+    "albumId": 2,
+    "duration": 204,
+    "categories": [
+      "chill",
+      "evening",
+      "melancholic",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_7.mp3",
+    "coverArt": "albums/album_2.jpg",
+    "playCount": 833999,
+    "rating": 4.7,
+    "createdAt": "2021-12-27T00:00:00Z",
+    "updatedAt": "2021-12-27T00:00:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Enterprise-wide content-based artificial intelligence",
+    "artistId": 32,
+    "albumId": 2,
+    "duration": 318,
+    "categories": [
+      "chill",
+      "evening",
+      "melancholic",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_8.mp3",
+    "coverArt": "albums/album_2.jpg",
+    "playCount": 510207,
+    "rating": 3.3,
+    "createdAt": "2023-10-19T00:00:00Z",
+    "updatedAt": "2023-10-19T00:00:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Phased stable access",
+    "artistId": 32,
+    "albumId": 2,
+    "duration": 353,
+    "categories": [
+      "chill",
+      "evening",
+      "melancholic",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_9.mp3",
+    "coverArt": "albums/album_2.jpg",
+    "playCount": 867944,
+    "rating": 5.0,
+    "createdAt": "2023-05-02T00:00:00Z",
+    "updatedAt": "2023-05-02T00:00:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Realigned dedicated initiative",
+    "artistId": 21,
+    "albumId": 3,
+    "duration": 399,
+    "categories": [
+      "experimental",
+      "rock",
+      "jazz",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_10.mp3",
+    "coverArt": "albums/album_3.jpg",
+    "playCount": 459212,
+    "rating": 3.5,
+    "createdAt": "2024-03-28T00:00:00Z",
+    "updatedAt": "2024-03-28T00:00:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Expanded holistic Local Area Network",
+    "artistId": 21,
+    "albumId": 3,
+    "duration": 372,
+    "categories": [
+      "experimental",
+      "rock",
+      "jazz",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_11.mp3",
+    "coverArt": "albums/album_3.jpg",
+    "playCount": 969258,
+    "rating": 4.3,
+    "createdAt": "2025-04-23T00:00:00Z",
+    "updatedAt": "2025-04-23T00:00:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Stand-alone global secured line",
+    "artistId": 21,
+    "albumId": 3,
+    "duration": 277,
+    "categories": [
+      "experimental",
+      "rock",
+      "jazz",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_12.mp3",
+    "coverArt": "albums/album_3.jpg",
+    "playCount": 573596,
+    "rating": 3.2,
+    "createdAt": "2022-01-24T00:00:00Z",
+    "updatedAt": "2022-01-24T00:00:00Z"
+  },
+  {
+    "id": 13,
+    "title": "Automated heuristic pricing structure",
+    "artistId": 21,
+    "albumId": 3,
+    "duration": 363,
+    "categories": [
+      "experimental",
+      "rock",
+      "jazz",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_13.mp3",
+    "coverArt": "albums/album_3.jpg",
+    "playCount": 965596,
+    "rating": 3.0,
+    "createdAt": "2022-06-18T00:00:00Z",
+    "updatedAt": "2022-06-18T00:00:00Z"
+  },
+  {
+    "id": 14,
+    "title": "Streamlined asynchronous challenge",
+    "artistId": 21,
+    "albumId": 3,
+    "duration": 290,
+    "categories": [
+      "experimental",
+      "rock",
+      "jazz",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_14.mp3",
+    "coverArt": "albums/album_3.jpg",
+    "playCount": 197385,
+    "rating": 3.5,
+    "createdAt": "2020-11-07T00:00:00Z",
+    "updatedAt": "2020-11-07T00:00:00Z"
+  },
+  {
+    "id": 15,
+    "title": "Customer-focused non-volatile knowledge user",
+    "artistId": 21,
+    "albumId": 3,
+    "duration": 211,
+    "categories": [
+      "experimental",
+      "rock",
+      "jazz",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_15.mp3",
+    "coverArt": "albums/album_3.jpg",
+    "playCount": 54042,
+    "rating": 3.1,
+    "createdAt": "2021-08-02T00:00:00Z",
+    "updatedAt": "2021-08-02T00:00:00Z"
+  },
+  {
+    "id": 16,
+    "title": "Automated systemic capacity",
+    "artistId": 43,
+    "albumId": 4,
+    "duration": 375,
+    "categories": [
+      "chill",
+      "evening",
+      "afternoon",
+      "study"
+    ],
+    "audioUrl": "songs/song_16.mp3",
+    "coverArt": "albums/album_4.jpg",
+    "playCount": 288027,
+    "rating": 3.1,
+    "createdAt": "2025-02-05T00:00:00Z",
+    "updatedAt": "2025-02-05T00:00:00Z"
+  },
+  {
+    "id": 17,
+    "title": "Optimized radical synergy",
+    "artistId": 43,
+    "albumId": 4,
+    "duration": 417,
+    "categories": [
+      "chill",
+      "evening",
+      "afternoon",
+      "study"
+    ],
+    "audioUrl": "songs/song_17.mp3",
+    "coverArt": "albums/album_4.jpg",
+    "playCount": 7303,
+    "rating": 4.5,
+    "createdAt": "2024-02-26T00:00:00Z",
+    "updatedAt": "2024-02-26T00:00:00Z"
+  },
+  {
+    "id": 18,
+    "title": "Integrated scalable structure",
+    "artistId": 43,
+    "albumId": 4,
+    "duration": 232,
+    "categories": [
+      "chill",
+      "evening",
+      "afternoon",
+      "study"
+    ],
+    "audioUrl": "songs/song_18.mp3",
+    "coverArt": "albums/album_4.jpg",
+    "playCount": 501076,
+    "rating": 4.7,
+    "createdAt": "2020-06-11T00:00:00Z",
+    "updatedAt": "2020-06-11T00:00:00Z"
+  },
+  {
+    "id": 19,
+    "title": "Inverse multi-tasking Graphic Interface",
+    "artistId": 43,
+    "albumId": 4,
+    "duration": 350,
+    "categories": [
+      "chill",
+      "evening",
+      "afternoon",
+      "study"
+    ],
+    "audioUrl": "songs/song_19.mp3",
+    "coverArt": "albums/album_4.jpg",
+    "playCount": 498052,
+    "rating": 3.6,
+    "createdAt": "2020-02-01T00:00:00Z",
+    "updatedAt": "2020-02-01T00:00:00Z"
+  },
+  {
+    "id": 20,
+    "title": "Cross-platform optimal framework",
+    "artistId": 1,
+    "albumId": 5,
+    "duration": 276,
+    "categories": [
+      "workout",
+      "energetic",
+      "night",
+      "ambient"
+    ],
+    "audioUrl": "songs/song_20.mp3",
+    "coverArt": "albums/album_5.jpg",
+    "playCount": 141725,
+    "rating": 4.0,
+    "createdAt": "2024-05-16T00:00:00Z",
+    "updatedAt": "2024-05-16T00:00:00Z"
+  },
+  {
+    "id": 21,
+    "title": "Face-to-face methodical Local Area Network",
+    "artistId": 1,
+    "albumId": 5,
+    "duration": 226,
+    "categories": [
+      "workout",
+      "energetic",
+      "night",
+      "ambient"
+    ],
+    "audioUrl": "songs/song_21.mp3",
+    "coverArt": "albums/album_5.jpg",
+    "playCount": 498322,
+    "rating": 4.0,
+    "createdAt": "2025-03-29T00:00:00Z",
+    "updatedAt": "2025-03-29T00:00:00Z"
+  },
+  {
+    "id": 22,
+    "title": "Front-line exuding matrices",
+    "artistId": 1,
+    "albumId": 5,
+    "duration": 210,
+    "categories": [
+      "workout",
+      "energetic",
+      "night",
+      "ambient"
+    ],
+    "audioUrl": "songs/song_22.mp3",
+    "coverArt": "albums/album_5.jpg",
+    "playCount": 355872,
+    "rating": 4.9,
+    "createdAt": "2022-08-20T00:00:00Z",
+    "updatedAt": "2022-08-20T00:00:00Z"
+  },
+  {
+    "id": 23,
+    "title": "Polarized explicit service-desk",
+    "artistId": 40,
+    "albumId": 6,
+    "duration": 207,
+    "categories": [
+      "rock",
+      "night",
+      "ambient"
+    ],
+    "audioUrl": "songs/song_23.mp3",
+    "coverArt": "albums/album_6.jpg",
+    "playCount": 397023,
+    "rating": 3.2,
+    "createdAt": "2025-01-12T00:00:00Z",
+    "updatedAt": "2025-01-12T00:00:00Z"
+  },
+  {
+    "id": 24,
+    "title": "Up-sized global encryption",
+    "artistId": 40,
+    "albumId": 6,
+    "duration": 336,
+    "categories": [
+      "rock",
+      "night",
+      "ambient"
+    ],
+    "audioUrl": "songs/song_24.mp3",
+    "coverArt": "albums/album_6.jpg",
+    "playCount": 231621,
+    "rating": 4.0,
+    "createdAt": "2024-11-21T00:00:00Z",
+    "updatedAt": "2024-11-21T00:00:00Z"
+  },
+  {
+    "id": 25,
+    "title": "Switchable mission-critical frame",
+    "artistId": 40,
+    "albumId": 6,
+    "duration": 309,
+    "categories": [
+      "rock",
+      "night",
+      "ambient"
+    ],
+    "audioUrl": "songs/song_25.mp3",
+    "coverArt": "albums/album_6.jpg",
+    "playCount": 511333,
+    "rating": 4.9,
+    "createdAt": "2021-01-18T00:00:00Z",
+    "updatedAt": "2021-01-18T00:00:00Z"
+  },
+  {
+    "id": 26,
+    "title": "Open-architected next generation moratorium",
+    "artistId": 40,
+    "albumId": 6,
+    "duration": 210,
+    "categories": [
+      "rock",
+      "night",
+      "ambient"
+    ],
+    "audioUrl": "songs/song_26.mp3",
+    "coverArt": "albums/album_6.jpg",
+    "playCount": 467829,
+    "rating": 4.5,
+    "createdAt": "2022-10-25T00:00:00Z",
+    "updatedAt": "2022-10-25T00:00:00Z"
+  },
+  {
+    "id": 27,
+    "title": "Synergized multimedia software",
+    "artistId": 39,
+    "albumId": 7,
+    "duration": 325,
+    "categories": [
+      "chill",
+      "pop",
+      "electronic",
+      "study"
+    ],
+    "audioUrl": "songs/song_27.mp3",
+    "coverArt": "albums/album_7.jpg",
+    "playCount": 577560,
+    "rating": 4.9,
+    "createdAt": "2020-11-06T00:00:00Z",
+    "updatedAt": "2020-11-06T00:00:00Z"
+  },
+  {
+    "id": 28,
+    "title": "Vision-oriented optimal system engine",
+    "artistId": 39,
+    "albumId": 7,
+    "duration": 373,
+    "categories": [
+      "chill",
+      "pop",
+      "electronic",
+      "study"
+    ],
+    "audioUrl": "songs/song_28.mp3",
+    "coverArt": "albums/album_7.jpg",
+    "playCount": 290283,
+    "rating": 4.1,
+    "createdAt": "2024-08-24T00:00:00Z",
+    "updatedAt": "2024-08-24T00:00:00Z"
+  },
+  {
+    "id": 29,
+    "title": "Operative 3rdgeneration toolset",
+    "artistId": 39,
+    "albumId": 7,
+    "duration": 319,
+    "categories": [
+      "chill",
+      "pop",
+      "electronic",
+      "study"
+    ],
+    "audioUrl": "songs/song_29.mp3",
+    "coverArt": "albums/album_7.jpg",
+    "playCount": 899365,
+    "rating": 4.2,
+    "createdAt": "2021-12-14T00:00:00Z",
+    "updatedAt": "2021-12-14T00:00:00Z"
+  },
+  {
+    "id": 30,
+    "title": "Centralized systematic customer loyalty",
+    "artistId": 39,
+    "albumId": 7,
+    "duration": 364,
+    "categories": [
+      "chill",
+      "pop",
+      "electronic",
+      "study"
+    ],
+    "audioUrl": "songs/song_30.mp3",
+    "coverArt": "albums/album_7.jpg",
+    "playCount": 73420,
+    "rating": 4.0,
+    "createdAt": "2023-10-29T00:00:00Z",
+    "updatedAt": "2023-10-29T00:00:00Z"
+  },
+  {
+    "id": 31,
+    "title": "Robust system-worthy Internet solution",
+    "artistId": 23,
+    "albumId": 8,
+    "duration": 286,
+    "categories": [
+      "rock",
+      "morning",
+      "focus",
+      "jazz"
+    ],
+    "audioUrl": "songs/song_31.mp3",
+    "coverArt": "albums/album_8.jpg",
+    "playCount": 176651,
+    "rating": 4.2,
+    "createdAt": "2020-04-07T00:00:00Z",
+    "updatedAt": "2020-04-07T00:00:00Z"
+  },
+  {
+    "id": 32,
+    "title": "Integrated cohesive architecture",
+    "artistId": 23,
+    "albumId": 8,
+    "duration": 314,
+    "categories": [
+      "rock",
+      "morning",
+      "focus",
+      "jazz"
+    ],
+    "audioUrl": "songs/song_32.mp3",
+    "coverArt": "albums/album_8.jpg",
+    "playCount": 269517,
+    "rating": 4.0,
+    "createdAt": "2025-01-31T00:00:00Z",
+    "updatedAt": "2025-01-31T00:00:00Z"
+  },
+  {
+    "id": 33,
+    "title": "Enhanced object-oriented Internet solution",
+    "artistId": 23,
+    "albumId": 8,
+    "duration": 380,
+    "categories": [
+      "rock",
+      "morning",
+      "focus",
+      "jazz"
+    ],
+    "audioUrl": "songs/song_33.mp3",
+    "coverArt": "albums/album_8.jpg",
+    "playCount": 299146,
+    "rating": 4.5,
+    "createdAt": "2021-09-14T00:00:00Z",
+    "updatedAt": "2021-09-14T00:00:00Z"
+  },
+  {
+    "id": 34,
+    "title": "Sharable transitional success",
+    "artistId": 23,
+    "albumId": 8,
+    "duration": 420,
+    "categories": [
+      "rock",
+      "morning",
+      "focus",
+      "jazz"
+    ],
+    "audioUrl": "songs/song_34.mp3",
+    "coverArt": "albums/album_8.jpg",
+    "playCount": 774362,
+    "rating": 3.1,
+    "createdAt": "2020-06-17T00:00:00Z",
+    "updatedAt": "2020-06-17T00:00:00Z"
+  },
+  {
+    "id": 35,
+    "title": "Visionary multimedia product",
+    "artistId": 23,
+    "albumId": 8,
+    "duration": 408,
+    "categories": [
+      "rock",
+      "morning",
+      "focus",
+      "jazz"
+    ],
+    "audioUrl": "songs/song_35.mp3",
+    "coverArt": "albums/album_8.jpg",
+    "playCount": 216808,
+    "rating": 3.3,
+    "createdAt": "2020-09-11T00:00:00Z",
+    "updatedAt": "2020-09-11T00:00:00Z"
+  },
+  {
+    "id": 36,
+    "title": "Implemented full-range initiative",
+    "artistId": 23,
+    "albumId": 8,
+    "duration": 370,
+    "categories": [
+      "rock",
+      "morning",
+      "focus",
+      "jazz"
+    ],
+    "audioUrl": "songs/song_36.mp3",
+    "coverArt": "albums/album_8.jpg",
+    "playCount": 829479,
+    "rating": 3.4,
+    "createdAt": "2024-02-18T00:00:00Z",
+    "updatedAt": "2024-02-18T00:00:00Z"
+  },
+  {
+    "id": 37,
+    "title": "Streamlined attitude-oriented hierarchy",
+    "artistId": 23,
+    "albumId": 8,
+    "duration": 305,
+    "categories": [
+      "rock",
+      "morning",
+      "focus",
+      "jazz"
+    ],
+    "audioUrl": "songs/song_37.mp3",
+    "coverArt": "albums/album_8.jpg",
+    "playCount": 536944,
+    "rating": 4.2,
+    "createdAt": "2020-12-09T00:00:00Z",
+    "updatedAt": "2020-12-09T00:00:00Z"
+  },
+  {
+    "id": 38,
+    "title": "Monitored well-modulated adapter",
+    "artistId": 15,
+    "albumId": 9,
+    "duration": 300,
+    "categories": [
+      "pop",
+      "rock",
+      "study"
+    ],
+    "audioUrl": "songs/song_38.mp3",
+    "coverArt": "albums/album_9.jpg",
+    "playCount": 209298,
+    "rating": 4.0,
+    "createdAt": "2022-07-12T00:00:00Z",
+    "updatedAt": "2022-07-12T00:00:00Z"
+  },
+  {
+    "id": 39,
+    "title": "Enhanced well-modulated moderator",
+    "artistId": 15,
+    "albumId": 9,
+    "duration": 229,
+    "categories": [
+      "pop",
+      "rock",
+      "study"
+    ],
+    "audioUrl": "songs/song_39.mp3",
+    "coverArt": "albums/album_9.jpg",
+    "playCount": 869183,
+    "rating": 4.5,
+    "createdAt": "2020-07-04T00:00:00Z",
+    "updatedAt": "2020-07-04T00:00:00Z"
+  },
+  {
+    "id": 40,
+    "title": "Re-engineered client-server methodology",
+    "artistId": 15,
+    "albumId": 9,
+    "duration": 289,
+    "categories": [
+      "pop",
+      "rock",
+      "study"
+    ],
+    "audioUrl": "songs/song_40.mp3",
+    "coverArt": "albums/album_9.jpg",
+    "playCount": 217441,
+    "rating": 4.4,
+    "createdAt": "2024-07-11T00:00:00Z",
+    "updatedAt": "2024-07-11T00:00:00Z"
+  },
+  {
+    "id": 41,
+    "title": "Advanced 4thgeneration budgetary management",
+    "artistId": 15,
+    "albumId": 9,
+    "duration": 418,
+    "categories": [
+      "pop",
+      "rock",
+      "study"
+    ],
+    "audioUrl": "songs/song_41.mp3",
+    "coverArt": "albums/album_9.jpg",
+    "playCount": 203651,
+    "rating": 3.5,
+    "createdAt": "2024-12-03T00:00:00Z",
+    "updatedAt": "2024-12-03T00:00:00Z"
+  },
+  {
+    "id": 42,
+    "title": "Implemented demand-driven alliance",
+    "artistId": 15,
+    "albumId": 9,
+    "duration": 338,
+    "categories": [
+      "pop",
+      "rock",
+      "study"
+    ],
+    "audioUrl": "songs/song_42.mp3",
+    "coverArt": "albums/album_9.jpg",
+    "playCount": 819508,
+    "rating": 4.7,
+    "createdAt": "2022-09-26T00:00:00Z",
+    "updatedAt": "2022-09-26T00:00:00Z"
+  },
+  {
+    "id": 43,
+    "title": "Focused fault-tolerant circuit",
+    "artistId": 15,
+    "albumId": 9,
+    "duration": 311,
+    "categories": [
+      "pop",
+      "rock",
+      "study"
+    ],
+    "audioUrl": "songs/song_43.mp3",
+    "coverArt": "albums/album_9.jpg",
+    "playCount": 29415,
+    "rating": 4.7,
+    "createdAt": "2024-12-16T00:00:00Z",
+    "updatedAt": "2024-12-16T00:00:00Z"
+  },
+  {
+    "id": 44,
+    "title": "Multi-layered foreground capability",
+    "artistId": 15,
+    "albumId": 9,
+    "duration": 246,
+    "categories": [
+      "pop",
+      "rock",
+      "study"
+    ],
+    "audioUrl": "songs/song_44.mp3",
+    "coverArt": "albums/album_9.jpg",
+    "playCount": 985073,
+    "rating": 4.2,
+    "createdAt": "2023-04-16T00:00:00Z",
+    "updatedAt": "2023-04-16T00:00:00Z"
+  },
+  {
+    "id": 45,
+    "title": "Public-key mission-critical neural-net",
+    "artistId": 38,
+    "albumId": 10,
+    "duration": 242,
+    "categories": [
+      "workout",
+      "night",
+      "ambient",
+      "focus"
+    ],
+    "audioUrl": "songs/song_45.mp3",
+    "coverArt": "albums/album_10.jpg",
+    "playCount": 23547,
+    "rating": 3.3,
+    "createdAt": "2023-12-10T00:00:00Z",
+    "updatedAt": "2023-12-10T00:00:00Z"
+  },
+  {
+    "id": 46,
+    "title": "Team-oriented motivating database",
+    "artistId": 38,
+    "albumId": 10,
+    "duration": 318,
+    "categories": [
+      "workout",
+      "night",
+      "ambient",
+      "focus"
+    ],
+    "audioUrl": "songs/song_46.mp3",
+    "coverArt": "albums/album_10.jpg",
+    "playCount": 282152,
+    "rating": 4.8,
+    "createdAt": "2022-11-05T00:00:00Z",
+    "updatedAt": "2022-11-05T00:00:00Z"
+  },
+  {
+    "id": 47,
+    "title": "Advanced multimedia project",
+    "artistId": 38,
+    "albumId": 10,
+    "duration": 207,
+    "categories": [
+      "workout",
+      "night",
+      "ambient",
+      "focus"
+    ],
+    "audioUrl": "songs/song_47.mp3",
+    "coverArt": "albums/album_10.jpg",
+    "playCount": 593650,
+    "rating": 4.9,
+    "createdAt": "2023-03-11T00:00:00Z",
+    "updatedAt": "2023-03-11T00:00:00Z"
+  },
+  {
+    "id": 48,
+    "title": "Multi-layered radical attitude",
+    "artistId": 24,
+    "albumId": 11,
+    "duration": 266,
+    "categories": [
+      "morning",
+      "energetic",
+      "electronic",
+      "ambient"
+    ],
+    "audioUrl": "songs/song_48.mp3",
+    "coverArt": "albums/album_11.jpg",
+    "playCount": 174341,
+    "rating": 4.9,
+    "createdAt": "2020-02-04T00:00:00Z",
+    "updatedAt": "2020-02-04T00:00:00Z"
+  },
+  {
+    "id": 49,
+    "title": "Centralized empowering matrices",
+    "artistId": 24,
+    "albumId": 11,
+    "duration": 196,
+    "categories": [
+      "morning",
+      "energetic",
+      "electronic",
+      "ambient"
+    ],
+    "audioUrl": "songs/song_49.mp3",
+    "coverArt": "albums/album_11.jpg",
+    "playCount": 897400,
+    "rating": 3.7,
+    "createdAt": "2021-05-06T00:00:00Z",
+    "updatedAt": "2021-05-06T00:00:00Z"
+  },
+  {
+    "id": 50,
+    "title": "Re-engineered analyzing matrices",
+    "artistId": 24,
+    "albumId": 11,
+    "duration": 323,
+    "categories": [
+      "morning",
+      "energetic",
+      "electronic",
+      "ambient"
+    ],
+    "audioUrl": "songs/song_50.mp3",
+    "coverArt": "albums/album_11.jpg",
+    "playCount": 573176,
+    "rating": 4.6,
+    "createdAt": "2024-11-29T00:00:00Z",
+    "updatedAt": "2024-11-29T00:00:00Z"
+  },
+  {
+    "id": 51,
+    "title": "Persistent neutral array",
+    "artistId": 24,
+    "albumId": 11,
+    "duration": 418,
+    "categories": [
+      "morning",
+      "energetic",
+      "electronic",
+      "ambient"
+    ],
+    "audioUrl": "songs/song_51.mp3",
+    "coverArt": "albums/album_11.jpg",
+    "playCount": 517923,
+    "rating": 3.6,
+    "createdAt": "2022-11-19T00:00:00Z",
+    "updatedAt": "2022-11-19T00:00:00Z"
+  },
+  {
+    "id": 52,
+    "title": "Streamlined stable throughput",
+    "artistId": 24,
+    "albumId": 11,
+    "duration": 290,
+    "categories": [
+      "morning",
+      "energetic",
+      "electronic",
+      "ambient"
+    ],
+    "audioUrl": "songs/song_52.mp3",
+    "coverArt": "albums/album_11.jpg",
+    "playCount": 328547,
+    "rating": 4.1,
+    "createdAt": "2022-12-08T00:00:00Z",
+    "updatedAt": "2022-12-08T00:00:00Z"
+  },
+  {
+    "id": 53,
+    "title": "Balanced dedicated moratorium",
+    "artistId": 24,
+    "albumId": 11,
+    "duration": 244,
+    "categories": [
+      "morning",
+      "energetic",
+      "electronic",
+      "ambient"
+    ],
+    "audioUrl": "songs/song_53.mp3",
+    "coverArt": "albums/album_11.jpg",
+    "playCount": 292096,
+    "rating": 3.2,
+    "createdAt": "2020-09-21T00:00:00Z",
+    "updatedAt": "2020-09-21T00:00:00Z"
+  },
+  {
+    "id": 54,
+    "title": "Configurable analyzing capability",
+    "artistId": 24,
+    "albumId": 11,
+    "duration": 300,
+    "categories": [
+      "morning",
+      "energetic",
+      "electronic",
+      "ambient"
+    ],
+    "audioUrl": "songs/song_54.mp3",
+    "coverArt": "albums/album_11.jpg",
+    "playCount": 585156,
+    "rating": 4.6,
+    "createdAt": "2024-08-20T00:00:00Z",
+    "updatedAt": "2024-08-20T00:00:00Z"
+  },
+  {
+    "id": 55,
+    "title": "Future-proofed demand-driven paradigm",
+    "artistId": 15,
+    "albumId": 12,
+    "duration": 287,
+    "categories": [
+      "rock",
+      "electronic",
+      "study"
+    ],
+    "audioUrl": "songs/song_55.mp3",
+    "coverArt": "albums/album_12.jpg",
+    "playCount": 193165,
+    "rating": 4.9,
+    "createdAt": "2024-06-18T00:00:00Z",
+    "updatedAt": "2024-06-18T00:00:00Z"
+  },
+  {
+    "id": 56,
+    "title": "Realigned well-modulated ability",
+    "artistId": 15,
+    "albumId": 12,
+    "duration": 232,
+    "categories": [
+      "rock",
+      "electronic",
+      "study"
+    ],
+    "audioUrl": "songs/song_56.mp3",
+    "coverArt": "albums/album_12.jpg",
+    "playCount": 621145,
+    "rating": 3.2,
+    "createdAt": "2023-08-11T00:00:00Z",
+    "updatedAt": "2023-08-11T00:00:00Z"
+  },
+  {
+    "id": 57,
+    "title": "User-friendly user-facing architecture",
+    "artistId": 15,
+    "albumId": 12,
+    "duration": 320,
+    "categories": [
+      "rock",
+      "electronic",
+      "study"
+    ],
+    "audioUrl": "songs/song_57.mp3",
+    "coverArt": "albums/album_12.jpg",
+    "playCount": 347519,
+    "rating": 3.4,
+    "createdAt": "2024-06-04T00:00:00Z",
+    "updatedAt": "2024-06-04T00:00:00Z"
+  },
+  {
+    "id": 58,
+    "title": "Cross-platform 24/7 synergy",
+    "artistId": 15,
+    "albumId": 12,
+    "duration": 303,
+    "categories": [
+      "rock",
+      "electronic",
+      "study"
+    ],
+    "audioUrl": "songs/song_58.mp3",
+    "coverArt": "albums/album_12.jpg",
+    "playCount": 405568,
+    "rating": 4.3,
+    "createdAt": "2024-11-13T00:00:00Z",
+    "updatedAt": "2024-11-13T00:00:00Z"
+  },
+  {
+    "id": 59,
+    "title": "Reduced zero administration flexibility",
+    "artistId": 15,
+    "albumId": 12,
+    "duration": 232,
+    "categories": [
+      "rock",
+      "electronic",
+      "study"
+    ],
+    "audioUrl": "songs/song_59.mp3",
+    "coverArt": "albums/album_12.jpg",
+    "playCount": 626110,
+    "rating": 4.9,
+    "createdAt": "2021-05-20T00:00:00Z",
+    "updatedAt": "2021-05-20T00:00:00Z"
+  },
+  {
+    "id": 60,
+    "title": "Function-based 6thgeneration productivity",
+    "artistId": 15,
+    "albumId": 12,
+    "duration": 282,
+    "categories": [
+      "rock",
+      "electronic",
+      "study"
+    ],
+    "audioUrl": "songs/song_60.mp3",
+    "coverArt": "albums/album_12.jpg",
+    "playCount": 966117,
+    "rating": 3.7,
+    "createdAt": "2021-03-29T00:00:00Z",
+    "updatedAt": "2021-03-29T00:00:00Z"
+  },
+  {
+    "id": 61,
+    "title": "Implemented real-time middleware",
+    "artistId": 7,
+    "albumId": 13,
+    "duration": 380,
+    "categories": [
+      "rock",
+      "morning",
+      "travel",
+      "chill"
+    ],
+    "audioUrl": "songs/song_61.mp3",
+    "coverArt": "albums/album_13.jpg",
+    "playCount": 489577,
+    "rating": 4.4,
+    "createdAt": "2025-01-29T00:00:00Z",
+    "updatedAt": "2025-01-29T00:00:00Z"
+  },
+  {
+    "id": 62,
+    "title": "Function-based 3rdgeneration challenge",
+    "artistId": 7,
+    "albumId": 13,
+    "duration": 184,
+    "categories": [
+      "rock",
+      "morning",
+      "travel",
+      "chill"
+    ],
+    "audioUrl": "songs/song_62.mp3",
+    "coverArt": "albums/album_13.jpg",
+    "playCount": 774550,
+    "rating": 3.4,
+    "createdAt": "2022-05-19T00:00:00Z",
+    "updatedAt": "2022-05-19T00:00:00Z"
+  },
+  {
+    "id": 63,
+    "title": "Seamless bandwidth-monitored toolset",
+    "artistId": 7,
+    "albumId": 13,
+    "duration": 283,
+    "categories": [
+      "rock",
+      "morning",
+      "travel",
+      "chill"
+    ],
+    "audioUrl": "songs/song_63.mp3",
+    "coverArt": "albums/album_13.jpg",
+    "playCount": 569975,
+    "rating": 4.0,
+    "createdAt": "2021-09-12T00:00:00Z",
+    "updatedAt": "2021-09-12T00:00:00Z"
+  },
+  {
+    "id": 64,
+    "title": "Enterprise-wide value-added matrix",
+    "artistId": 7,
+    "albumId": 13,
+    "duration": 257,
+    "categories": [
+      "rock",
+      "morning",
+      "travel",
+      "chill"
+    ],
+    "audioUrl": "songs/song_64.mp3",
+    "coverArt": "albums/album_13.jpg",
+    "playCount": 899770,
+    "rating": 3.9,
+    "createdAt": "2024-03-16T00:00:00Z",
+    "updatedAt": "2024-03-16T00:00:00Z"
+  },
+  {
+    "id": 65,
+    "title": "Open-source human-resource contingency",
+    "artistId": 7,
+    "albumId": 13,
+    "duration": 274,
+    "categories": [
+      "rock",
+      "morning",
+      "travel",
+      "chill"
+    ],
+    "audioUrl": "songs/song_65.mp3",
+    "coverArt": "albums/album_13.jpg",
+    "playCount": 18520,
+    "rating": 4.4,
+    "createdAt": "2022-12-28T00:00:00Z",
+    "updatedAt": "2022-12-28T00:00:00Z"
+  },
+  {
+    "id": 66,
+    "title": "Up-sized executive leverage",
+    "artistId": 7,
+    "albumId": 13,
+    "duration": 290,
+    "categories": [
+      "rock",
+      "morning",
+      "travel",
+      "chill"
+    ],
+    "audioUrl": "songs/song_66.mp3",
+    "coverArt": "albums/album_13.jpg",
+    "playCount": 449617,
+    "rating": 4.4,
+    "createdAt": "2020-04-09T00:00:00Z",
+    "updatedAt": "2020-04-09T00:00:00Z"
+  },
+  {
+    "id": 67,
+    "title": "Organic incremental capacity",
+    "artistId": 7,
+    "albumId": 13,
+    "duration": 296,
+    "categories": [
+      "rock",
+      "morning",
+      "travel",
+      "chill"
+    ],
+    "audioUrl": "songs/song_67.mp3",
+    "coverArt": "albums/album_13.jpg",
+    "playCount": 503663,
+    "rating": 3.1,
+    "createdAt": "2024-10-17T00:00:00Z",
+    "updatedAt": "2024-10-17T00:00:00Z"
+  },
+  {
+    "id": 68,
+    "title": "Inverse contextually-based application",
+    "artistId": 15,
+    "albumId": 14,
+    "duration": 390,
+    "categories": [
+      "rock",
+      "evening",
+      "electronic",
+      "study"
+    ],
+    "audioUrl": "songs/song_68.mp3",
+    "coverArt": "albums/album_14.jpg",
+    "playCount": 222877,
+    "rating": 3.4,
+    "createdAt": "2023-02-04T00:00:00Z",
+    "updatedAt": "2023-02-04T00:00:00Z"
+  },
+  {
+    "id": 69,
+    "title": "Compatible 4thgeneration extranet",
+    "artistId": 15,
+    "albumId": 14,
+    "duration": 363,
+    "categories": [
+      "rock",
+      "evening",
+      "electronic",
+      "study"
+    ],
+    "audioUrl": "songs/song_69.mp3",
+    "coverArt": "albums/album_14.jpg",
+    "playCount": 526220,
+    "rating": 4.8,
+    "createdAt": "2024-05-22T00:00:00Z",
+    "updatedAt": "2024-05-22T00:00:00Z"
+  },
+  {
+    "id": 70,
+    "title": "Open-architected foreground array",
+    "artistId": 15,
+    "albumId": 14,
+    "duration": 273,
+    "categories": [
+      "rock",
+      "evening",
+      "electronic",
+      "study"
+    ],
+    "audioUrl": "songs/song_70.mp3",
+    "coverArt": "albums/album_14.jpg",
+    "playCount": 144159,
+    "rating": 4.3,
+    "createdAt": "2021-09-27T00:00:00Z",
+    "updatedAt": "2021-09-27T00:00:00Z"
+  },
+  {
+    "id": 71,
+    "title": "Ameliorated composite array",
+    "artistId": 26,
+    "albumId": 15,
+    "duration": 216,
+    "categories": [
+      "pop",
+      "electronic",
+      "night",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_71.mp3",
+    "coverArt": "albums/album_15.jpg",
+    "playCount": 588141,
+    "rating": 4.6,
+    "createdAt": "2022-05-22T00:00:00Z",
+    "updatedAt": "2022-05-22T00:00:00Z"
+  },
+  {
+    "id": 72,
+    "title": "Secured grid-enabled website",
+    "artistId": 26,
+    "albumId": 15,
+    "duration": 216,
+    "categories": [
+      "pop",
+      "electronic",
+      "night",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_72.mp3",
+    "coverArt": "albums/album_15.jpg",
+    "playCount": 941519,
+    "rating": 4.4,
+    "createdAt": "2023-12-12T00:00:00Z",
+    "updatedAt": "2023-12-12T00:00:00Z"
+  },
+  {
+    "id": 73,
+    "title": "Polarized logistical database",
+    "artistId": 26,
+    "albumId": 15,
+    "duration": 242,
+    "categories": [
+      "pop",
+      "electronic",
+      "night",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_73.mp3",
+    "coverArt": "albums/album_15.jpg",
+    "playCount": 828713,
+    "rating": 4.8,
+    "createdAt": "2020-09-03T00:00:00Z",
+    "updatedAt": "2020-09-03T00:00:00Z"
+  },
+  {
+    "id": 74,
+    "title": "Optimized asynchronous attitude",
+    "artistId": 26,
+    "albumId": 15,
+    "duration": 419,
+    "categories": [
+      "pop",
+      "electronic",
+      "night",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_74.mp3",
+    "coverArt": "albums/album_15.jpg",
+    "playCount": 586169,
+    "rating": 4.8,
+    "createdAt": "2020-03-01T00:00:00Z",
+    "updatedAt": "2020-03-01T00:00:00Z"
+  },
+  {
+    "id": 75,
+    "title": "User-centric client-server solution",
+    "artistId": 19,
+    "albumId": 16,
+    "duration": 415,
+    "categories": [
+      "experimental",
+      "morning",
+      "travel",
+      "focus"
+    ],
+    "audioUrl": "songs/song_75.mp3",
+    "coverArt": "albums/album_16.jpg",
+    "playCount": 156984,
+    "rating": 4.4,
+    "createdAt": "2022-03-23T00:00:00Z",
+    "updatedAt": "2022-03-23T00:00:00Z"
+  },
+  {
+    "id": 76,
+    "title": "Future-proofed tertiary matrix",
+    "artistId": 19,
+    "albumId": 16,
+    "duration": 264,
+    "categories": [
+      "experimental",
+      "morning",
+      "travel",
+      "focus"
+    ],
+    "audioUrl": "songs/song_76.mp3",
+    "coverArt": "albums/album_16.jpg",
+    "playCount": 577134,
+    "rating": 3.2,
+    "createdAt": "2020-07-22T00:00:00Z",
+    "updatedAt": "2020-07-22T00:00:00Z"
+  },
+  {
+    "id": 77,
+    "title": "Implemented background policy",
+    "artistId": 19,
+    "albumId": 16,
+    "duration": 361,
+    "categories": [
+      "experimental",
+      "morning",
+      "travel",
+      "focus"
+    ],
+    "audioUrl": "songs/song_77.mp3",
+    "coverArt": "albums/album_16.jpg",
+    "playCount": 914523,
+    "rating": 4.5,
+    "createdAt": "2020-01-24T00:00:00Z",
+    "updatedAt": "2020-01-24T00:00:00Z"
+  },
+  {
+    "id": 78,
+    "title": "Universal multi-state open architecture",
+    "artistId": 19,
+    "albumId": 16,
+    "duration": 284,
+    "categories": [
+      "experimental",
+      "morning",
+      "travel",
+      "focus"
+    ],
+    "audioUrl": "songs/song_78.mp3",
+    "coverArt": "albums/album_16.jpg",
+    "playCount": 22990,
+    "rating": 4.2,
+    "createdAt": "2025-04-17T00:00:00Z",
+    "updatedAt": "2025-04-17T00:00:00Z"
+  },
+  {
+    "id": 79,
+    "title": "Innovative fresh-thinking throughput",
+    "artistId": 19,
+    "albumId": 16,
+    "duration": 220,
+    "categories": [
+      "experimental",
+      "morning",
+      "travel",
+      "focus"
+    ],
+    "audioUrl": "songs/song_79.mp3",
+    "coverArt": "albums/album_16.jpg",
+    "playCount": 406676,
+    "rating": 3.4,
+    "createdAt": "2024-04-08T00:00:00Z",
+    "updatedAt": "2024-04-08T00:00:00Z"
+  },
+  {
+    "id": 80,
+    "title": "De-engineered modular concept",
+    "artistId": 19,
+    "albumId": 16,
+    "duration": 405,
+    "categories": [
+      "experimental",
+      "morning",
+      "travel",
+      "focus"
+    ],
+    "audioUrl": "songs/song_80.mp3",
+    "coverArt": "albums/album_16.jpg",
+    "playCount": 344958,
+    "rating": 3.0,
+    "createdAt": "2022-05-02T00:00:00Z",
+    "updatedAt": "2022-05-02T00:00:00Z"
+  },
+  {
+    "id": 81,
+    "title": "Adaptive multi-state migration",
+    "artistId": 42,
+    "albumId": 17,
+    "duration": 193,
+    "categories": [
+      "evening",
+      "ambient",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_81.mp3",
+    "coverArt": "albums/album_17.jpg",
+    "playCount": 964830,
+    "rating": 4.3,
+    "createdAt": "2023-09-06T00:00:00Z",
+    "updatedAt": "2023-09-06T00:00:00Z"
+  },
+  {
+    "id": 82,
+    "title": "Expanded 6thgeneration support",
+    "artistId": 42,
+    "albumId": 17,
+    "duration": 315,
+    "categories": [
+      "evening",
+      "ambient",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_82.mp3",
+    "coverArt": "albums/album_17.jpg",
+    "playCount": 462426,
+    "rating": 3.8,
+    "createdAt": "2021-03-14T00:00:00Z",
+    "updatedAt": "2021-03-14T00:00:00Z"
+  },
+  {
+    "id": 83,
+    "title": "Vision-oriented homogeneous leverage",
+    "artistId": 42,
+    "albumId": 17,
+    "duration": 389,
+    "categories": [
+      "evening",
+      "ambient",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_83.mp3",
+    "coverArt": "albums/album_17.jpg",
+    "playCount": 612007,
+    "rating": 4.9,
+    "createdAt": "2020-10-27T00:00:00Z",
+    "updatedAt": "2020-10-27T00:00:00Z"
+  },
+  {
+    "id": 84,
+    "title": "Focused system-worthy groupware",
+    "artistId": 33,
+    "albumId": 18,
+    "duration": 380,
+    "categories": [
+      "chill",
+      "melancholic",
+      "jazz",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_84.mp3",
+    "coverArt": "albums/album_18.jpg",
+    "playCount": 834542,
+    "rating": 4.1,
+    "createdAt": "2021-11-16T00:00:00Z",
+    "updatedAt": "2021-11-16T00:00:00Z"
+  },
+  {
+    "id": 85,
+    "title": "Reverse-engineered reciprocal methodology",
+    "artistId": 33,
+    "albumId": 18,
+    "duration": 310,
+    "categories": [
+      "chill",
+      "melancholic",
+      "jazz",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_85.mp3",
+    "coverArt": "albums/album_18.jpg",
+    "playCount": 200979,
+    "rating": 3.8,
+    "createdAt": "2023-12-20T00:00:00Z",
+    "updatedAt": "2023-12-20T00:00:00Z"
+  },
+  {
+    "id": 86,
+    "title": "Customer-focused intangible matrices",
+    "artistId": 33,
+    "albumId": 18,
+    "duration": 266,
+    "categories": [
+      "chill",
+      "melancholic",
+      "jazz",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_86.mp3",
+    "coverArt": "albums/album_18.jpg",
+    "playCount": 293094,
+    "rating": 4.2,
+    "createdAt": "2022-05-25T00:00:00Z",
+    "updatedAt": "2022-05-25T00:00:00Z"
+  },
+  {
+    "id": 87,
+    "title": "Visionary interactive instruction set",
+    "artistId": 8,
+    "albumId": 19,
+    "duration": 377,
+    "categories": [
+      "rock",
+      "pop",
+      "melancholic",
+      "energetic"
+    ],
+    "audioUrl": "songs/song_87.mp3",
+    "coverArt": "albums/album_19.jpg",
+    "playCount": 932968,
+    "rating": 4.2,
+    "createdAt": "2022-04-03T00:00:00Z",
+    "updatedAt": "2022-04-03T00:00:00Z"
+  },
+  {
+    "id": 88,
+    "title": "Fundamental bottom-line knowledgebase",
+    "artistId": 8,
+    "albumId": 19,
+    "duration": 227,
+    "categories": [
+      "rock",
+      "pop",
+      "melancholic",
+      "energetic"
+    ],
+    "audioUrl": "songs/song_88.mp3",
+    "coverArt": "albums/album_19.jpg",
+    "playCount": 915518,
+    "rating": 3.1,
+    "createdAt": "2021-06-26T00:00:00Z",
+    "updatedAt": "2021-06-26T00:00:00Z"
+  },
+  {
+    "id": 89,
+    "title": "Total 24hour strategy",
+    "artistId": 8,
+    "albumId": 19,
+    "duration": 287,
+    "categories": [
+      "rock",
+      "pop",
+      "melancholic",
+      "energetic"
+    ],
+    "audioUrl": "songs/song_89.mp3",
+    "coverArt": "albums/album_19.jpg",
+    "playCount": 877640,
+    "rating": 3.0,
+    "createdAt": "2020-11-11T00:00:00Z",
+    "updatedAt": "2020-11-11T00:00:00Z"
+  },
+  {
+    "id": 90,
+    "title": "Exclusive context-sensitive superstructure",
+    "artistId": 8,
+    "albumId": 19,
+    "duration": 246,
+    "categories": [
+      "rock",
+      "pop",
+      "melancholic",
+      "energetic"
+    ],
+    "audioUrl": "songs/song_90.mp3",
+    "coverArt": "albums/album_19.jpg",
+    "playCount": 687095,
+    "rating": 3.5,
+    "createdAt": "2022-08-31T00:00:00Z",
+    "updatedAt": "2022-08-31T00:00:00Z"
+  },
+  {
+    "id": 91,
+    "title": "Streamlined hybrid framework",
+    "artistId": 8,
+    "albumId": 19,
+    "duration": 220,
+    "categories": [
+      "rock",
+      "pop",
+      "melancholic",
+      "energetic"
+    ],
+    "audioUrl": "songs/song_91.mp3",
+    "coverArt": "albums/album_19.jpg",
+    "playCount": 366197,
+    "rating": 4.2,
+    "createdAt": "2022-11-19T00:00:00Z",
+    "updatedAt": "2022-11-19T00:00:00Z"
+  },
+  {
+    "id": 92,
+    "title": "Focused directional interface",
+    "artistId": 8,
+    "albumId": 19,
+    "duration": 395,
+    "categories": [
+      "rock",
+      "pop",
+      "melancholic",
+      "energetic"
+    ],
+    "audioUrl": "songs/song_92.mp3",
+    "coverArt": "albums/album_19.jpg",
+    "playCount": 971784,
+    "rating": 4.4,
+    "createdAt": "2025-03-29T00:00:00Z",
+    "updatedAt": "2025-03-29T00:00:00Z"
+  },
+  {
+    "id": 93,
+    "title": "Exclusive composite challenge",
+    "artistId": 17,
+    "albumId": 20,
+    "duration": 351,
+    "categories": [
+      "rock",
+      "focus",
+      "night",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_93.mp3",
+    "coverArt": "albums/album_20.jpg",
+    "playCount": 910226,
+    "rating": 3.0,
+    "createdAt": "2025-05-04T00:00:00Z",
+    "updatedAt": "2025-05-04T00:00:00Z"
+  },
+  {
+    "id": 94,
+    "title": "Total asymmetric concept",
+    "artistId": 17,
+    "albumId": 20,
+    "duration": 186,
+    "categories": [
+      "rock",
+      "focus",
+      "night",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_94.mp3",
+    "coverArt": "albums/album_20.jpg",
+    "playCount": 68636,
+    "rating": 3.4,
+    "createdAt": "2020-09-08T00:00:00Z",
+    "updatedAt": "2020-09-08T00:00:00Z"
+  },
+  {
+    "id": 95,
+    "title": "Diverse eco-centric success",
+    "artistId": 17,
+    "albumId": 20,
+    "duration": 267,
+    "categories": [
+      "rock",
+      "focus",
+      "night",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_95.mp3",
+    "coverArt": "albums/album_20.jpg",
+    "playCount": 802307,
+    "rating": 4.4,
+    "createdAt": "2022-10-18T00:00:00Z",
+    "updatedAt": "2022-10-18T00:00:00Z"
+  },
+  {
+    "id": 96,
+    "title": "Versatile optimizing interface",
+    "artistId": 36,
+    "albumId": 21,
+    "duration": 346,
+    "categories": [
+      "morning",
+      "chill",
+      "rock",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_96.mp3",
+    "coverArt": "albums/album_21.jpg",
+    "playCount": 145180,
+    "rating": 4.8,
+    "createdAt": "2022-08-25T00:00:00Z",
+    "updatedAt": "2022-08-25T00:00:00Z"
+  },
+  {
+    "id": 97,
+    "title": "Synergized actuating standardization",
+    "artistId": 36,
+    "albumId": 21,
+    "duration": 378,
+    "categories": [
+      "morning",
+      "chill",
+      "rock",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_97.mp3",
+    "coverArt": "albums/album_21.jpg",
+    "playCount": 85646,
+    "rating": 3.5,
+    "createdAt": "2021-05-12T00:00:00Z",
+    "updatedAt": "2021-05-12T00:00:00Z"
+  },
+  {
+    "id": 98,
+    "title": "Innovative holistic array",
+    "artistId": 36,
+    "albumId": 21,
+    "duration": 389,
+    "categories": [
+      "morning",
+      "chill",
+      "rock",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_98.mp3",
+    "coverArt": "albums/album_21.jpg",
+    "playCount": 549250,
+    "rating": 4.8,
+    "createdAt": "2023-04-26T00:00:00Z",
+    "updatedAt": "2023-04-26T00:00:00Z"
+  },
+  {
+    "id": 99,
+    "title": "Adaptive mission-critical challenge",
+    "artistId": 13,
+    "albumId": 22,
+    "duration": 188,
+    "categories": [
+      "chill",
+      "electronic",
+      "night",
+      "study"
+    ],
+    "audioUrl": "songs/song_99.mp3",
+    "coverArt": "albums/album_22.jpg",
+    "playCount": 788696,
+    "rating": 4.3,
+    "createdAt": "2022-08-12T00:00:00Z",
+    "updatedAt": "2022-08-12T00:00:00Z"
+  },
+  {
+    "id": 100,
+    "title": "Upgradable transitional throughput",
+    "artistId": 13,
+    "albumId": 22,
+    "duration": 361,
+    "categories": [
+      "chill",
+      "electronic",
+      "night",
+      "study"
+    ],
+    "audioUrl": "songs/song_100.mp3",
+    "coverArt": "albums/album_22.jpg",
+    "playCount": 812486,
+    "rating": 4.9,
+    "createdAt": "2023-09-24T00:00:00Z",
+    "updatedAt": "2023-09-24T00:00:00Z"
+  },
+  {
+    "id": 101,
+    "title": "Function-based maximized ability",
+    "artistId": 13,
+    "albumId": 22,
+    "duration": 394,
+    "categories": [
+      "chill",
+      "electronic",
+      "night",
+      "study"
+    ],
+    "audioUrl": "songs/song_101.mp3",
+    "coverArt": "albums/album_22.jpg",
+    "playCount": 245989,
+    "rating": 3.8,
+    "createdAt": "2024-05-08T00:00:00Z",
+    "updatedAt": "2024-05-08T00:00:00Z"
+  },
+  {
+    "id": 102,
+    "title": "Expanded disintermediate Internet solution",
+    "artistId": 39,
+    "albumId": 23,
+    "duration": 191,
+    "categories": [
+      "pop",
+      "electronic",
+      "travel"
+    ],
+    "audioUrl": "songs/song_102.mp3",
+    "coverArt": "albums/album_23.jpg",
+    "playCount": 775819,
+    "rating": 3.8,
+    "createdAt": "2023-03-12T00:00:00Z",
+    "updatedAt": "2023-03-12T00:00:00Z"
+  },
+  {
+    "id": 103,
+    "title": "Advanced cohesive architecture",
+    "artistId": 39,
+    "albumId": 23,
+    "duration": 259,
+    "categories": [
+      "pop",
+      "electronic",
+      "travel"
+    ],
+    "audioUrl": "songs/song_103.mp3",
+    "coverArt": "albums/album_23.jpg",
+    "playCount": 637606,
+    "rating": 4.4,
+    "createdAt": "2021-02-27T00:00:00Z",
+    "updatedAt": "2021-02-27T00:00:00Z"
+  },
+  {
+    "id": 104,
+    "title": "Down-sized 24hour initiative",
+    "artistId": 39,
+    "albumId": 23,
+    "duration": 311,
+    "categories": [
+      "pop",
+      "electronic",
+      "travel"
+    ],
+    "audioUrl": "songs/song_104.mp3",
+    "coverArt": "albums/album_23.jpg",
+    "playCount": 255587,
+    "rating": 3.2,
+    "createdAt": "2023-03-17T00:00:00Z",
+    "updatedAt": "2023-03-17T00:00:00Z"
+  },
+  {
+    "id": 105,
+    "title": "Intuitive hybrid conglomeration",
+    "artistId": 39,
+    "albumId": 23,
+    "duration": 196,
+    "categories": [
+      "pop",
+      "electronic",
+      "travel"
+    ],
+    "audioUrl": "songs/song_105.mp3",
+    "coverArt": "albums/album_23.jpg",
+    "playCount": 127588,
+    "rating": 4.6,
+    "createdAt": "2021-11-26T00:00:00Z",
+    "updatedAt": "2021-11-26T00:00:00Z"
+  },
+  {
+    "id": 106,
+    "title": "Progressive reciprocal matrices",
+    "artistId": 22,
+    "albumId": 24,
+    "duration": 240,
+    "categories": [
+      "experimental",
+      "rock",
+      "jazz",
+      "focus"
+    ],
+    "audioUrl": "songs/song_106.mp3",
+    "coverArt": "albums/album_24.jpg",
+    "playCount": 682757,
+    "rating": 4.7,
+    "createdAt": "2020-10-31T00:00:00Z",
+    "updatedAt": "2020-10-31T00:00:00Z"
+  },
+  {
+    "id": 107,
+    "title": "Automated homogeneous ability",
+    "artistId": 22,
+    "albumId": 24,
+    "duration": 396,
+    "categories": [
+      "experimental",
+      "rock",
+      "jazz",
+      "focus"
+    ],
+    "audioUrl": "songs/song_107.mp3",
+    "coverArt": "albums/album_24.jpg",
+    "playCount": 982083,
+    "rating": 4.8,
+    "createdAt": "2023-05-13T00:00:00Z",
+    "updatedAt": "2023-05-13T00:00:00Z"
+  },
+  {
+    "id": 108,
+    "title": "Synergistic analyzing concept",
+    "artistId": 22,
+    "albumId": 24,
+    "duration": 315,
+    "categories": [
+      "experimental",
+      "rock",
+      "jazz",
+      "focus"
+    ],
+    "audioUrl": "songs/song_108.mp3",
+    "coverArt": "albums/album_24.jpg",
+    "playCount": 986301,
+    "rating": 4.0,
+    "createdAt": "2022-11-23T00:00:00Z",
+    "updatedAt": "2022-11-23T00:00:00Z"
+  },
+  {
+    "id": 109,
+    "title": "Organic bottom-line access",
+    "artistId": 22,
+    "albumId": 24,
+    "duration": 234,
+    "categories": [
+      "experimental",
+      "rock",
+      "jazz",
+      "focus"
+    ],
+    "audioUrl": "songs/song_109.mp3",
+    "coverArt": "albums/album_24.jpg",
+    "playCount": 526663,
+    "rating": 4.5,
+    "createdAt": "2021-03-31T00:00:00Z",
+    "updatedAt": "2021-03-31T00:00:00Z"
+  },
+  {
+    "id": 110,
+    "title": "Exclusive dedicated hierarchy",
+    "artistId": 22,
+    "albumId": 24,
+    "duration": 247,
+    "categories": [
+      "experimental",
+      "rock",
+      "jazz",
+      "focus"
+    ],
+    "audioUrl": "songs/song_110.mp3",
+    "coverArt": "albums/album_24.jpg",
+    "playCount": 909895,
+    "rating": 4.7,
+    "createdAt": "2023-08-10T00:00:00Z",
+    "updatedAt": "2023-08-10T00:00:00Z"
+  },
+  {
+    "id": 111,
+    "title": "Configurable multi-state service-desk",
+    "artistId": 39,
+    "albumId": 25,
+    "duration": 229,
+    "categories": [
+      "pop",
+      "electronic",
+      "study",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_111.mp3",
+    "coverArt": "albums/album_25.jpg",
+    "playCount": 905985,
+    "rating": 4.4,
+    "createdAt": "2020-11-29T00:00:00Z",
+    "updatedAt": "2020-11-29T00:00:00Z"
+  },
+  {
+    "id": 112,
+    "title": "Automated well-modulated open system",
+    "artistId": 39,
+    "albumId": 25,
+    "duration": 351,
+    "categories": [
+      "pop",
+      "electronic",
+      "study",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_112.mp3",
+    "coverArt": "albums/album_25.jpg",
+    "playCount": 186404,
+    "rating": 3.7,
+    "createdAt": "2020-10-07T00:00:00Z",
+    "updatedAt": "2020-10-07T00:00:00Z"
+  },
+  {
+    "id": 113,
+    "title": "Optional executive attitude",
+    "artistId": 39,
+    "albumId": 25,
+    "duration": 385,
+    "categories": [
+      "pop",
+      "electronic",
+      "study",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_113.mp3",
+    "coverArt": "albums/album_25.jpg",
+    "playCount": 19933,
+    "rating": 3.8,
+    "createdAt": "2022-09-08T00:00:00Z",
+    "updatedAt": "2022-09-08T00:00:00Z"
+  },
+  {
+    "id": 114,
+    "title": "Adaptive analyzing secured line",
+    "artistId": 39,
+    "albumId": 25,
+    "duration": 324,
+    "categories": [
+      "pop",
+      "electronic",
+      "study",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_114.mp3",
+    "coverArt": "albums/album_25.jpg",
+    "playCount": 544287,
+    "rating": 4.9,
+    "createdAt": "2022-08-28T00:00:00Z",
+    "updatedAt": "2022-08-28T00:00:00Z"
+  },
+  {
+    "id": 115,
+    "title": "Customer-focused mobile flexibility",
+    "artistId": 39,
+    "albumId": 25,
+    "duration": 293,
+    "categories": [
+      "pop",
+      "electronic",
+      "study",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_115.mp3",
+    "coverArt": "albums/album_25.jpg",
+    "playCount": 582437,
+    "rating": 4.3,
+    "createdAt": "2023-07-09T00:00:00Z",
+    "updatedAt": "2023-07-09T00:00:00Z"
+  },
+  {
+    "id": 116,
+    "title": "Devolved value-added ability",
+    "artistId": 39,
+    "albumId": 25,
+    "duration": 232,
+    "categories": [
+      "pop",
+      "electronic",
+      "study",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_116.mp3",
+    "coverArt": "albums/album_25.jpg",
+    "playCount": 32255,
+    "rating": 4.2,
+    "createdAt": "2024-05-03T00:00:00Z",
+    "updatedAt": "2024-05-03T00:00:00Z"
+  },
+  {
+    "id": 117,
+    "title": "Front-line zero administration migration",
+    "artistId": 39,
+    "albumId": 25,
+    "duration": 180,
+    "categories": [
+      "pop",
+      "electronic",
+      "study",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_117.mp3",
+    "coverArt": "albums/album_25.jpg",
+    "playCount": 881101,
+    "rating": 3.5,
+    "createdAt": "2025-04-24T00:00:00Z",
+    "updatedAt": "2025-04-24T00:00:00Z"
+  },
+  {
+    "id": 118,
+    "title": "Polarized heuristic support",
+    "artistId": 19,
+    "albumId": 26,
+    "duration": 217,
+    "categories": [
+      "rock",
+      "morning",
+      "travel",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_118.mp3",
+    "coverArt": "albums/album_26.jpg",
+    "playCount": 730624,
+    "rating": 4.0,
+    "createdAt": "2025-04-24T00:00:00Z",
+    "updatedAt": "2025-04-24T00:00:00Z"
+  },
+  {
+    "id": 119,
+    "title": "Robust high-level forecast",
+    "artistId": 19,
+    "albumId": 26,
+    "duration": 345,
+    "categories": [
+      "rock",
+      "morning",
+      "travel",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_119.mp3",
+    "coverArt": "albums/album_26.jpg",
+    "playCount": 331182,
+    "rating": 4.8,
+    "createdAt": "2022-02-12T00:00:00Z",
+    "updatedAt": "2022-02-12T00:00:00Z"
+  },
+  {
+    "id": 120,
+    "title": "Monitored disintermediate matrix",
+    "artistId": 19,
+    "albumId": 26,
+    "duration": 402,
+    "categories": [
+      "rock",
+      "morning",
+      "travel",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_120.mp3",
+    "coverArt": "albums/album_26.jpg",
+    "playCount": 649833,
+    "rating": 4.6,
+    "createdAt": "2022-08-10T00:00:00Z",
+    "updatedAt": "2022-08-10T00:00:00Z"
+  },
+  {
+    "id": 121,
+    "title": "Ameliorated heuristic toolset",
+    "artistId": 19,
+    "albumId": 26,
+    "duration": 318,
+    "categories": [
+      "rock",
+      "morning",
+      "travel",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_121.mp3",
+    "coverArt": "albums/album_26.jpg",
+    "playCount": 144797,
+    "rating": 4.3,
+    "createdAt": "2024-06-12T00:00:00Z",
+    "updatedAt": "2024-06-12T00:00:00Z"
+  },
+  {
+    "id": 122,
+    "title": "Public-key bandwidth-monitored toolset",
+    "artistId": 19,
+    "albumId": 26,
+    "duration": 392,
+    "categories": [
+      "rock",
+      "morning",
+      "travel",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_122.mp3",
+    "coverArt": "albums/album_26.jpg",
+    "playCount": 212486,
+    "rating": 3.8,
+    "createdAt": "2020-06-01T00:00:00Z",
+    "updatedAt": "2020-06-01T00:00:00Z"
+  },
+  {
+    "id": 123,
+    "title": "Compatible contextually-based process improvement",
+    "artistId": 19,
+    "albumId": 26,
+    "duration": 355,
+    "categories": [
+      "rock",
+      "morning",
+      "travel",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_123.mp3",
+    "coverArt": "albums/album_26.jpg",
+    "playCount": 771009,
+    "rating": 4.3,
+    "createdAt": "2021-01-09T00:00:00Z",
+    "updatedAt": "2021-01-09T00:00:00Z"
+  },
+  {
+    "id": 124,
+    "title": "Team-oriented explicit methodology",
+    "artistId": 5,
+    "albumId": 27,
+    "duration": 282,
+    "categories": [
+      "pop",
+      "rock",
+      "melancholic",
+      "study"
+    ],
+    "audioUrl": "songs/song_124.mp3",
+    "coverArt": "albums/album_27.jpg",
+    "playCount": 248621,
+    "rating": 3.4,
+    "createdAt": "2025-04-06T00:00:00Z",
+    "updatedAt": "2025-04-06T00:00:00Z"
+  },
+  {
+    "id": 125,
+    "title": "Sharable client-server knowledge user",
+    "artistId": 5,
+    "albumId": 27,
+    "duration": 337,
+    "categories": [
+      "pop",
+      "rock",
+      "melancholic",
+      "study"
+    ],
+    "audioUrl": "songs/song_125.mp3",
+    "coverArt": "albums/album_27.jpg",
+    "playCount": 113325,
+    "rating": 3.9,
+    "createdAt": "2022-05-19T00:00:00Z",
+    "updatedAt": "2022-05-19T00:00:00Z"
+  },
+  {
+    "id": 126,
+    "title": "Team-oriented directional alliance",
+    "artistId": 5,
+    "albumId": 27,
+    "duration": 378,
+    "categories": [
+      "pop",
+      "rock",
+      "melancholic",
+      "study"
+    ],
+    "audioUrl": "songs/song_126.mp3",
+    "coverArt": "albums/album_27.jpg",
+    "playCount": 438586,
+    "rating": 3.0,
+    "createdAt": "2020-04-13T00:00:00Z",
+    "updatedAt": "2020-04-13T00:00:00Z"
+  },
+  {
+    "id": 127,
+    "title": "Reverse-engineered intermediate parallelism",
+    "artistId": 5,
+    "albumId": 27,
+    "duration": 189,
+    "categories": [
+      "pop",
+      "rock",
+      "melancholic",
+      "study"
+    ],
+    "audioUrl": "songs/song_127.mp3",
+    "coverArt": "albums/album_27.jpg",
+    "playCount": 988983,
+    "rating": 3.2,
+    "createdAt": "2020-05-11T00:00:00Z",
+    "updatedAt": "2020-05-11T00:00:00Z"
+  },
+  {
+    "id": 128,
+    "title": "Open-architected multimedia instruction set",
+    "artistId": 5,
+    "albumId": 27,
+    "duration": 340,
+    "categories": [
+      "pop",
+      "rock",
+      "melancholic",
+      "study"
+    ],
+    "audioUrl": "songs/song_128.mp3",
+    "coverArt": "albums/album_27.jpg",
+    "playCount": 124055,
+    "rating": 4.2,
+    "createdAt": "2023-07-29T00:00:00Z",
+    "updatedAt": "2023-07-29T00:00:00Z"
+  },
+  {
+    "id": 129,
+    "title": "Reactive encompassing attitude",
+    "artistId": 5,
+    "albumId": 27,
+    "duration": 203,
+    "categories": [
+      "pop",
+      "rock",
+      "melancholic",
+      "study"
+    ],
+    "audioUrl": "songs/song_129.mp3",
+    "coverArt": "albums/album_27.jpg",
+    "playCount": 615401,
+    "rating": 4.5,
+    "createdAt": "2025-01-05T00:00:00Z",
+    "updatedAt": "2025-01-05T00:00:00Z"
+  },
+  {
+    "id": 130,
+    "title": "Persevering neutral circuit",
+    "artistId": 5,
+    "albumId": 27,
+    "duration": 310,
+    "categories": [
+      "pop",
+      "rock",
+      "melancholic",
+      "study"
+    ],
+    "audioUrl": "songs/song_130.mp3",
+    "coverArt": "albums/album_27.jpg",
+    "playCount": 220375,
+    "rating": 3.6,
+    "createdAt": "2021-10-01T00:00:00Z",
+    "updatedAt": "2021-10-01T00:00:00Z"
+  },
+  {
+    "id": 131,
+    "title": "Right-sized tangible archive",
+    "artistId": 2,
+    "albumId": 28,
+    "duration": 265,
+    "categories": [
+      "chill",
+      "pop",
+      "rock",
+      "jazz"
+    ],
+    "audioUrl": "songs/song_131.mp3",
+    "coverArt": "albums/album_28.jpg",
+    "playCount": 140145,
+    "rating": 3.1,
+    "createdAt": "2024-09-16T00:00:00Z",
+    "updatedAt": "2024-09-16T00:00:00Z"
+  },
+  {
+    "id": 132,
+    "title": "Cross-group systematic project",
+    "artistId": 2,
+    "albumId": 28,
+    "duration": 306,
+    "categories": [
+      "chill",
+      "pop",
+      "rock",
+      "jazz"
+    ],
+    "audioUrl": "songs/song_132.mp3",
+    "coverArt": "albums/album_28.jpg",
+    "playCount": 136212,
+    "rating": 3.8,
+    "createdAt": "2022-11-13T00:00:00Z",
+    "updatedAt": "2022-11-13T00:00:00Z"
+  },
+  {
+    "id": 133,
+    "title": "Expanded systemic adapter",
+    "artistId": 2,
+    "albumId": 28,
+    "duration": 254,
+    "categories": [
+      "chill",
+      "pop",
+      "rock",
+      "jazz"
+    ],
+    "audioUrl": "songs/song_133.mp3",
+    "coverArt": "albums/album_28.jpg",
+    "playCount": 92412,
+    "rating": 3.4,
+    "createdAt": "2023-10-29T00:00:00Z",
+    "updatedAt": "2023-10-29T00:00:00Z"
+  },
+  {
+    "id": 134,
+    "title": "Enterprise-wide optimizing info-mediaries",
+    "artistId": 32,
+    "albumId": 29,
+    "duration": 249,
+    "categories": [
+      "rock",
+      "evening",
+      "ambient",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_134.mp3",
+    "coverArt": "albums/album_29.jpg",
+    "playCount": 752580,
+    "rating": 3.3,
+    "createdAt": "2020-04-19T00:00:00Z",
+    "updatedAt": "2020-04-19T00:00:00Z"
+  },
+  {
+    "id": 135,
+    "title": "User-centric mission-critical conglomeration",
+    "artistId": 32,
+    "albumId": 29,
+    "duration": 286,
+    "categories": [
+      "rock",
+      "evening",
+      "ambient",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_135.mp3",
+    "coverArt": "albums/album_29.jpg",
+    "playCount": 592038,
+    "rating": 3.8,
+    "createdAt": "2020-06-10T00:00:00Z",
+    "updatedAt": "2020-06-10T00:00:00Z"
+  },
+  {
+    "id": 136,
+    "title": "Customer-focused tangible collaboration",
+    "artistId": 32,
+    "albumId": 29,
+    "duration": 317,
+    "categories": [
+      "rock",
+      "evening",
+      "ambient",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_136.mp3",
+    "coverArt": "albums/album_29.jpg",
+    "playCount": 773588,
+    "rating": 4.6,
+    "createdAt": "2022-07-02T00:00:00Z",
+    "updatedAt": "2022-07-02T00:00:00Z"
+  },
+  {
+    "id": 137,
+    "title": "Implemented discrete protocol",
+    "artistId": 26,
+    "albumId": 30,
+    "duration": 294,
+    "categories": [
+      "pop",
+      "electronic",
+      "travel",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_137.mp3",
+    "coverArt": "albums/album_30.jpg",
+    "playCount": 204507,
+    "rating": 4.6,
+    "createdAt": "2022-09-15T00:00:00Z",
+    "updatedAt": "2022-09-15T00:00:00Z"
+  },
+  {
+    "id": 138,
+    "title": "Programmable actuating functionalities",
+    "artistId": 26,
+    "albumId": 30,
+    "duration": 270,
+    "categories": [
+      "pop",
+      "electronic",
+      "travel",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_138.mp3",
+    "coverArt": "albums/album_30.jpg",
+    "playCount": 804645,
+    "rating": 3.4,
+    "createdAt": "2021-11-17T00:00:00Z",
+    "updatedAt": "2021-11-17T00:00:00Z"
+  },
+  {
+    "id": 139,
+    "title": "User-centric context-sensitive leverage",
+    "artistId": 26,
+    "albumId": 30,
+    "duration": 371,
+    "categories": [
+      "pop",
+      "electronic",
+      "travel",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_139.mp3",
+    "coverArt": "albums/album_30.jpg",
+    "playCount": 199129,
+    "rating": 4.6,
+    "createdAt": "2023-11-24T00:00:00Z",
+    "updatedAt": "2023-11-24T00:00:00Z"
+  },
+  {
+    "id": 140,
+    "title": "Visionary scalable encoding",
+    "artistId": 26,
+    "albumId": 30,
+    "duration": 357,
+    "categories": [
+      "pop",
+      "electronic",
+      "travel",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_140.mp3",
+    "coverArt": "albums/album_30.jpg",
+    "playCount": 523361,
+    "rating": 3.5,
+    "createdAt": "2022-09-09T00:00:00Z",
+    "updatedAt": "2022-09-09T00:00:00Z"
+  },
+  {
+    "id": 141,
+    "title": "Expanded dedicated emulation",
+    "artistId": 26,
+    "albumId": 30,
+    "duration": 329,
+    "categories": [
+      "pop",
+      "electronic",
+      "travel",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_141.mp3",
+    "coverArt": "albums/album_30.jpg",
+    "playCount": 905882,
+    "rating": 3.6,
+    "createdAt": "2024-12-19T00:00:00Z",
+    "updatedAt": "2024-12-19T00:00:00Z"
+  },
+  {
+    "id": 142,
+    "title": "Managed uniform model",
+    "artistId": 26,
+    "albumId": 30,
+    "duration": 342,
+    "categories": [
+      "pop",
+      "electronic",
+      "travel",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_142.mp3",
+    "coverArt": "albums/album_30.jpg",
+    "playCount": 47362,
+    "rating": 3.2,
+    "createdAt": "2021-11-04T00:00:00Z",
+    "updatedAt": "2021-11-04T00:00:00Z"
+  },
+  {
+    "id": 143,
+    "title": "Customizable solution-oriented standardization",
+    "artistId": 26,
+    "albumId": 30,
+    "duration": 359,
+    "categories": [
+      "pop",
+      "electronic",
+      "travel",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_143.mp3",
+    "coverArt": "albums/album_30.jpg",
+    "playCount": 844572,
+    "rating": 4.6,
+    "createdAt": "2022-07-20T00:00:00Z",
+    "updatedAt": "2022-07-20T00:00:00Z"
+  },
+  {
+    "id": 144,
+    "title": "Operative 24hour alliance",
+    "artistId": 6,
+    "albumId": 31,
+    "duration": 291,
+    "categories": [
+      "rock",
+      "evening",
+      "melancholic",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_144.mp3",
+    "coverArt": "albums/album_31.jpg",
+    "playCount": 304608,
+    "rating": 4.5,
+    "createdAt": "2025-04-16T00:00:00Z",
+    "updatedAt": "2025-04-16T00:00:00Z"
+  },
+  {
+    "id": 145,
+    "title": "Self-enabling modular concept",
+    "artistId": 6,
+    "albumId": 31,
+    "duration": 252,
+    "categories": [
+      "rock",
+      "evening",
+      "melancholic",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_145.mp3",
+    "coverArt": "albums/album_31.jpg",
+    "playCount": 344343,
+    "rating": 3.1,
+    "createdAt": "2025-02-04T00:00:00Z",
+    "updatedAt": "2025-02-04T00:00:00Z"
+  },
+  {
+    "id": 146,
+    "title": "Intuitive bifurcated conglomeration",
+    "artistId": 6,
+    "albumId": 31,
+    "duration": 332,
+    "categories": [
+      "rock",
+      "evening",
+      "melancholic",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_146.mp3",
+    "coverArt": "albums/album_31.jpg",
+    "playCount": 910114,
+    "rating": 4.6,
+    "createdAt": "2022-01-27T00:00:00Z",
+    "updatedAt": "2022-01-27T00:00:00Z"
+  },
+  {
+    "id": 147,
+    "title": "Profit-focused exuding encryption",
+    "artistId": 13,
+    "albumId": 32,
+    "duration": 336,
+    "categories": [
+      "chill",
+      "electronic",
+      "night",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_147.mp3",
+    "coverArt": "albums/album_32.jpg",
+    "playCount": 818110,
+    "rating": 3.9,
+    "createdAt": "2021-03-01T00:00:00Z",
+    "updatedAt": "2021-03-01T00:00:00Z"
+  },
+  {
+    "id": 148,
+    "title": "Universal didactic architecture",
+    "artistId": 13,
+    "albumId": 32,
+    "duration": 368,
+    "categories": [
+      "chill",
+      "electronic",
+      "night",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_148.mp3",
+    "coverArt": "albums/album_32.jpg",
+    "playCount": 310508,
+    "rating": 3.6,
+    "createdAt": "2020-02-11T00:00:00Z",
+    "updatedAt": "2020-02-11T00:00:00Z"
+  },
+  {
+    "id": 149,
+    "title": "Ameliorated stable standardization",
+    "artistId": 13,
+    "albumId": 32,
+    "duration": 180,
+    "categories": [
+      "chill",
+      "electronic",
+      "night",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_149.mp3",
+    "coverArt": "albums/album_32.jpg",
+    "playCount": 992452,
+    "rating": 4.4,
+    "createdAt": "2024-08-06T00:00:00Z",
+    "updatedAt": "2024-08-06T00:00:00Z"
+  },
+  {
+    "id": 150,
+    "title": "Re-contextualized 24hour access",
+    "artistId": 13,
+    "albumId": 32,
+    "duration": 250,
+    "categories": [
+      "chill",
+      "electronic",
+      "night",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_150.mp3",
+    "coverArt": "albums/album_32.jpg",
+    "playCount": 286869,
+    "rating": 3.3,
+    "createdAt": "2021-02-17T00:00:00Z",
+    "updatedAt": "2021-02-17T00:00:00Z"
+  },
+  {
+    "id": 151,
+    "title": "Automated fresh-thinking solution",
+    "artistId": 13,
+    "albumId": 32,
+    "duration": 392,
+    "categories": [
+      "chill",
+      "electronic",
+      "night",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_151.mp3",
+    "coverArt": "albums/album_32.jpg",
+    "playCount": 373354,
+    "rating": 4.6,
+    "createdAt": "2024-06-28T00:00:00Z",
+    "updatedAt": "2024-06-28T00:00:00Z"
+  },
+  {
+    "id": 152,
+    "title": "Ergonomic grid-enabled conglomeration",
+    "artistId": 13,
+    "albumId": 32,
+    "duration": 277,
+    "categories": [
+      "chill",
+      "electronic",
+      "night",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_152.mp3",
+    "coverArt": "albums/album_32.jpg",
+    "playCount": 166314,
+    "rating": 3.2,
+    "createdAt": "2024-10-01T00:00:00Z",
+    "updatedAt": "2024-10-01T00:00:00Z"
+  },
+  {
+    "id": 153,
+    "title": "Extended 5thgeneration approach",
+    "artistId": 16,
+    "albumId": 33,
+    "duration": 346,
+    "categories": [
+      "workout",
+      "morning",
+      "travel",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_153.mp3",
+    "coverArt": "albums/album_33.jpg",
+    "playCount": 966917,
+    "rating": 4.1,
+    "createdAt": "2024-03-21T00:00:00Z",
+    "updatedAt": "2024-03-21T00:00:00Z"
+  },
+  {
+    "id": 154,
+    "title": "Universal directional model",
+    "artistId": 16,
+    "albumId": 33,
+    "duration": 309,
+    "categories": [
+      "workout",
+      "morning",
+      "travel",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_154.mp3",
+    "coverArt": "albums/album_33.jpg",
+    "playCount": 547031,
+    "rating": 3.9,
+    "createdAt": "2023-02-23T00:00:00Z",
+    "updatedAt": "2023-02-23T00:00:00Z"
+  },
+  {
+    "id": 155,
+    "title": "Visionary fresh-thinking initiative",
+    "artistId": 16,
+    "albumId": 33,
+    "duration": 323,
+    "categories": [
+      "workout",
+      "morning",
+      "travel",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_155.mp3",
+    "coverArt": "albums/album_33.jpg",
+    "playCount": 67669,
+    "rating": 4.0,
+    "createdAt": "2023-02-04T00:00:00Z",
+    "updatedAt": "2023-02-04T00:00:00Z"
+  },
+  {
+    "id": 156,
+    "title": "Ameliorated explicit portal",
+    "artistId": 16,
+    "albumId": 33,
+    "duration": 263,
+    "categories": [
+      "workout",
+      "morning",
+      "travel",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_156.mp3",
+    "coverArt": "albums/album_33.jpg",
+    "playCount": 671842,
+    "rating": 3.7,
+    "createdAt": "2020-02-05T00:00:00Z",
+    "updatedAt": "2020-02-05T00:00:00Z"
+  },
+  {
+    "id": 157,
+    "title": "Adaptive demand-driven access",
+    "artistId": 16,
+    "albumId": 33,
+    "duration": 293,
+    "categories": [
+      "workout",
+      "morning",
+      "travel",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_157.mp3",
+    "coverArt": "albums/album_33.jpg",
+    "playCount": 837514,
+    "rating": 3.9,
+    "createdAt": "2023-04-12T00:00:00Z",
+    "updatedAt": "2023-04-12T00:00:00Z"
+  },
+  {
+    "id": 158,
+    "title": "User-friendly needs-based productivity",
+    "artistId": 21,
+    "albumId": 34,
+    "duration": 325,
+    "categories": [
+      "rock",
+      "night",
+      "travel",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_158.mp3",
+    "coverArt": "albums/album_34.jpg",
+    "playCount": 445855,
+    "rating": 3.6,
+    "createdAt": "2021-03-14T00:00:00Z",
+    "updatedAt": "2021-03-14T00:00:00Z"
+  },
+  {
+    "id": 159,
+    "title": "Organized systemic time-frame",
+    "artistId": 21,
+    "albumId": 34,
+    "duration": 387,
+    "categories": [
+      "rock",
+      "night",
+      "travel",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_159.mp3",
+    "coverArt": "albums/album_34.jpg",
+    "playCount": 866554,
+    "rating": 4.5,
+    "createdAt": "2020-04-25T00:00:00Z",
+    "updatedAt": "2020-04-25T00:00:00Z"
+  },
+  {
+    "id": 160,
+    "title": "Progressive methodical Local Area Network",
+    "artistId": 21,
+    "albumId": 34,
+    "duration": 244,
+    "categories": [
+      "rock",
+      "night",
+      "travel",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_160.mp3",
+    "coverArt": "albums/album_34.jpg",
+    "playCount": 775143,
+    "rating": 3.1,
+    "createdAt": "2020-07-26T00:00:00Z",
+    "updatedAt": "2020-07-26T00:00:00Z"
+  },
+  {
+    "id": 161,
+    "title": "User-centric mission-critical installation",
+    "artistId": 21,
+    "albumId": 34,
+    "duration": 337,
+    "categories": [
+      "rock",
+      "night",
+      "travel",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_161.mp3",
+    "coverArt": "albums/album_34.jpg",
+    "playCount": 263901,
+    "rating": 4.2,
+    "createdAt": "2022-01-27T00:00:00Z",
+    "updatedAt": "2022-01-27T00:00:00Z"
+  },
+  {
+    "id": 162,
+    "title": "Organic upward-trending monitoring",
+    "artistId": 21,
+    "albumId": 34,
+    "duration": 224,
+    "categories": [
+      "rock",
+      "night",
+      "travel",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_162.mp3",
+    "coverArt": "albums/album_34.jpg",
+    "playCount": 587474,
+    "rating": 3.2,
+    "createdAt": "2021-01-15T00:00:00Z",
+    "updatedAt": "2021-01-15T00:00:00Z"
+  },
+  {
+    "id": 163,
+    "title": "Down-sized impactful website",
+    "artistId": 21,
+    "albumId": 34,
+    "duration": 248,
+    "categories": [
+      "rock",
+      "night",
+      "travel",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_163.mp3",
+    "coverArt": "albums/album_34.jpg",
+    "playCount": 873690,
+    "rating": 4.5,
+    "createdAt": "2022-05-17T00:00:00Z",
+    "updatedAt": "2022-05-17T00:00:00Z"
+  },
+  {
+    "id": 164,
+    "title": "Devolved value-added installation",
+    "artistId": 21,
+    "albumId": 34,
+    "duration": 377,
+    "categories": [
+      "rock",
+      "night",
+      "travel",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_164.mp3",
+    "coverArt": "albums/album_34.jpg",
+    "playCount": 836823,
+    "rating": 3.2,
+    "createdAt": "2020-09-21T00:00:00Z",
+    "updatedAt": "2020-09-21T00:00:00Z"
+  },
+  {
+    "id": 165,
+    "title": "Grass-roots 4thgeneration circuit",
+    "artistId": 36,
+    "albumId": 35,
+    "duration": 283,
+    "categories": [
+      "morning",
+      "rock",
+      "workout",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_165.mp3",
+    "coverArt": "albums/album_35.jpg",
+    "playCount": 308776,
+    "rating": 3.2,
+    "createdAt": "2024-04-15T00:00:00Z",
+    "updatedAt": "2024-04-15T00:00:00Z"
+  },
+  {
+    "id": 166,
+    "title": "Programmable optimal service-desk",
+    "artistId": 36,
+    "albumId": 35,
+    "duration": 234,
+    "categories": [
+      "morning",
+      "rock",
+      "workout",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_166.mp3",
+    "coverArt": "albums/album_35.jpg",
+    "playCount": 336971,
+    "rating": 4.8,
+    "createdAt": "2024-07-23T00:00:00Z",
+    "updatedAt": "2024-07-23T00:00:00Z"
+  },
+  {
+    "id": 167,
+    "title": "Assimilated discrete hub",
+    "artistId": 36,
+    "albumId": 35,
+    "duration": 401,
+    "categories": [
+      "morning",
+      "rock",
+      "workout",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_167.mp3",
+    "coverArt": "albums/album_35.jpg",
+    "playCount": 201769,
+    "rating": 3.6,
+    "createdAt": "2022-06-02T00:00:00Z",
+    "updatedAt": "2022-06-02T00:00:00Z"
+  },
+  {
+    "id": 168,
+    "title": "Total secondary function",
+    "artistId": 36,
+    "albumId": 35,
+    "duration": 336,
+    "categories": [
+      "morning",
+      "rock",
+      "workout",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_168.mp3",
+    "coverArt": "albums/album_35.jpg",
+    "playCount": 420000,
+    "rating": 4.2,
+    "createdAt": "2021-09-28T00:00:00Z",
+    "updatedAt": "2021-09-28T00:00:00Z"
+  },
+  {
+    "id": 169,
+    "title": "Total tertiary capacity",
+    "artistId": 35,
+    "albumId": 36,
+    "duration": 278,
+    "categories": [
+      "workout",
+      "rock",
+      "evening",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_169.mp3",
+    "coverArt": "albums/album_36.jpg",
+    "playCount": 774142,
+    "rating": 3.5,
+    "createdAt": "2022-11-28T00:00:00Z",
+    "updatedAt": "2022-11-28T00:00:00Z"
+  },
+  {
+    "id": 170,
+    "title": "Synergized 4thgeneration superstructure",
+    "artistId": 35,
+    "albumId": 36,
+    "duration": 197,
+    "categories": [
+      "workout",
+      "rock",
+      "evening",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_170.mp3",
+    "coverArt": "albums/album_36.jpg",
+    "playCount": 861851,
+    "rating": 3.4,
+    "createdAt": "2023-02-01T00:00:00Z",
+    "updatedAt": "2023-02-01T00:00:00Z"
+  },
+  {
+    "id": 171,
+    "title": "Total radical encryption",
+    "artistId": 35,
+    "albumId": 36,
+    "duration": 190,
+    "categories": [
+      "workout",
+      "rock",
+      "evening",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_171.mp3",
+    "coverArt": "albums/album_36.jpg",
+    "playCount": 20676,
+    "rating": 4.9,
+    "createdAt": "2021-06-24T00:00:00Z",
+    "updatedAt": "2021-06-24T00:00:00Z"
+  },
+  {
+    "id": 172,
+    "title": "Exclusive holistic matrix",
+    "artistId": 35,
+    "albumId": 36,
+    "duration": 352,
+    "categories": [
+      "workout",
+      "rock",
+      "evening",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_172.mp3",
+    "coverArt": "albums/album_36.jpg",
+    "playCount": 958412,
+    "rating": 4.4,
+    "createdAt": "2022-12-19T00:00:00Z",
+    "updatedAt": "2022-12-19T00:00:00Z"
+  },
+  {
+    "id": 173,
+    "title": "Ergonomic web-enabled complexity",
+    "artistId": 35,
+    "albumId": 36,
+    "duration": 281,
+    "categories": [
+      "workout",
+      "rock",
+      "evening",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_173.mp3",
+    "coverArt": "albums/album_36.jpg",
+    "playCount": 777171,
+    "rating": 5.0,
+    "createdAt": "2020-02-01T00:00:00Z",
+    "updatedAt": "2020-02-01T00:00:00Z"
+  },
+  {
+    "id": 174,
+    "title": "Reduced mobile toolset",
+    "artistId": 17,
+    "albumId": 37,
+    "duration": 408,
+    "categories": [
+      "energetic",
+      "rock",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_174.mp3",
+    "coverArt": "albums/album_37.jpg",
+    "playCount": 999744,
+    "rating": 3.4,
+    "createdAt": "2025-03-28T00:00:00Z",
+    "updatedAt": "2025-03-28T00:00:00Z"
+  },
+  {
+    "id": 175,
+    "title": "Programmable zero administration conglomeration",
+    "artistId": 17,
+    "albumId": 37,
+    "duration": 227,
+    "categories": [
+      "energetic",
+      "rock",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_175.mp3",
+    "coverArt": "albums/album_37.jpg",
+    "playCount": 244399,
+    "rating": 4.3,
+    "createdAt": "2021-04-01T00:00:00Z",
+    "updatedAt": "2021-04-01T00:00:00Z"
+  },
+  {
+    "id": 176,
+    "title": "Upgradable zero tolerance alliance",
+    "artistId": 17,
+    "albumId": 37,
+    "duration": 247,
+    "categories": [
+      "energetic",
+      "rock",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_176.mp3",
+    "coverArt": "albums/album_37.jpg",
+    "playCount": 153633,
+    "rating": 4.7,
+    "createdAt": "2025-03-27T00:00:00Z",
+    "updatedAt": "2025-03-27T00:00:00Z"
+  },
+  {
+    "id": 177,
+    "title": "Cloned local access",
+    "artistId": 17,
+    "albumId": 37,
+    "duration": 222,
+    "categories": [
+      "energetic",
+      "rock",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_177.mp3",
+    "coverArt": "albums/album_37.jpg",
+    "playCount": 556506,
+    "rating": 4.8,
+    "createdAt": "2022-09-08T00:00:00Z",
+    "updatedAt": "2022-09-08T00:00:00Z"
+  },
+  {
+    "id": 178,
+    "title": "Customizable clear-thinking structure",
+    "artistId": 17,
+    "albumId": 37,
+    "duration": 376,
+    "categories": [
+      "energetic",
+      "rock",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_178.mp3",
+    "coverArt": "albums/album_37.jpg",
+    "playCount": 12872,
+    "rating": 4.0,
+    "createdAt": "2024-03-30T00:00:00Z",
+    "updatedAt": "2024-03-30T00:00:00Z"
+  },
+  {
+    "id": 179,
+    "title": "Organic bottom-line solution",
+    "artistId": 17,
+    "albumId": 37,
+    "duration": 344,
+    "categories": [
+      "energetic",
+      "rock",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_179.mp3",
+    "coverArt": "albums/album_37.jpg",
+    "playCount": 379423,
+    "rating": 4.4,
+    "createdAt": "2024-06-08T00:00:00Z",
+    "updatedAt": "2024-06-08T00:00:00Z"
+  },
+  {
+    "id": 180,
+    "title": "Synergistic zero tolerance archive",
+    "artistId": 41,
+    "albumId": 38,
+    "duration": 238,
+    "categories": [
+      "night",
+      "melancholic",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_180.mp3",
+    "coverArt": "albums/album_38.jpg",
+    "playCount": 231243,
+    "rating": 3.1,
+    "createdAt": "2020-04-12T00:00:00Z",
+    "updatedAt": "2020-04-12T00:00:00Z"
+  },
+  {
+    "id": 181,
+    "title": "Fundamental responsive archive",
+    "artistId": 41,
+    "albumId": 38,
+    "duration": 245,
+    "categories": [
+      "night",
+      "melancholic",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_181.mp3",
+    "coverArt": "albums/album_38.jpg",
+    "playCount": 713082,
+    "rating": 4.8,
+    "createdAt": "2025-04-08T00:00:00Z",
+    "updatedAt": "2025-04-08T00:00:00Z"
+  },
+  {
+    "id": 182,
+    "title": "Reverse-engineered 6thgeneration orchestration",
+    "artistId": 41,
+    "albumId": 38,
+    "duration": 228,
+    "categories": [
+      "night",
+      "melancholic",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_182.mp3",
+    "coverArt": "albums/album_38.jpg",
+    "playCount": 768827,
+    "rating": 3.3,
+    "createdAt": "2020-02-29T00:00:00Z",
+    "updatedAt": "2020-02-29T00:00:00Z"
+  },
+  {
+    "id": 183,
+    "title": "Customizable interactive application",
+    "artistId": 41,
+    "albumId": 38,
+    "duration": 272,
+    "categories": [
+      "night",
+      "melancholic",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_183.mp3",
+    "coverArt": "albums/album_38.jpg",
+    "playCount": 106440,
+    "rating": 4.5,
+    "createdAt": "2020-10-05T00:00:00Z",
+    "updatedAt": "2020-10-05T00:00:00Z"
+  },
+  {
+    "id": 184,
+    "title": "Ameliorated disintermediate pricing structure",
+    "artistId": 41,
+    "albumId": 38,
+    "duration": 323,
+    "categories": [
+      "night",
+      "melancholic",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_184.mp3",
+    "coverArt": "albums/album_38.jpg",
+    "playCount": 828955,
+    "rating": 4.9,
+    "createdAt": "2022-10-14T00:00:00Z",
+    "updatedAt": "2022-10-14T00:00:00Z"
+  },
+  {
+    "id": 185,
+    "title": "Reduced clear-thinking task-force",
+    "artistId": 5,
+    "albumId": 39,
+    "duration": 192,
+    "categories": [
+      "rock",
+      "travel",
+      "study",
+      "jazz"
+    ],
+    "audioUrl": "songs/song_185.mp3",
+    "coverArt": "albums/album_39.jpg",
+    "playCount": 517917,
+    "rating": 3.1,
+    "createdAt": "2022-07-18T00:00:00Z",
+    "updatedAt": "2022-07-18T00:00:00Z"
+  },
+  {
+    "id": 186,
+    "title": "Mandatory clear-thinking emulation",
+    "artistId": 5,
+    "albumId": 39,
+    "duration": 316,
+    "categories": [
+      "rock",
+      "travel",
+      "study",
+      "jazz"
+    ],
+    "audioUrl": "songs/song_186.mp3",
+    "coverArt": "albums/album_39.jpg",
+    "playCount": 152041,
+    "rating": 3.3,
+    "createdAt": "2021-09-08T00:00:00Z",
+    "updatedAt": "2021-09-08T00:00:00Z"
+  },
+  {
+    "id": 187,
+    "title": "Vision-oriented non-volatile access",
+    "artistId": 5,
+    "albumId": 39,
+    "duration": 418,
+    "categories": [
+      "rock",
+      "travel",
+      "study",
+      "jazz"
+    ],
+    "audioUrl": "songs/song_187.mp3",
+    "coverArt": "albums/album_39.jpg",
+    "playCount": 748651,
+    "rating": 4.6,
+    "createdAt": "2020-10-05T00:00:00Z",
+    "updatedAt": "2020-10-05T00:00:00Z"
+  },
+  {
+    "id": 188,
+    "title": "Expanded user-facing secured line",
+    "artistId": 5,
+    "albumId": 39,
+    "duration": 284,
+    "categories": [
+      "rock",
+      "travel",
+      "study",
+      "jazz"
+    ],
+    "audioUrl": "songs/song_188.mp3",
+    "coverArt": "albums/album_39.jpg",
+    "playCount": 263168,
+    "rating": 4.0,
+    "createdAt": "2023-05-08T00:00:00Z",
+    "updatedAt": "2023-05-08T00:00:00Z"
+  },
+  {
+    "id": 189,
+    "title": "Advanced neutral paradigm",
+    "artistId": 40,
+    "albumId": 40,
+    "duration": 198,
+    "categories": [
+      "chill",
+      "rock",
+      "ambient",
+      "study"
+    ],
+    "audioUrl": "songs/song_189.mp3",
+    "coverArt": "albums/album_40.jpg",
+    "playCount": 141500,
+    "rating": 4.0,
+    "createdAt": "2021-06-08T00:00:00Z",
+    "updatedAt": "2021-06-08T00:00:00Z"
+  },
+  {
+    "id": 190,
+    "title": "Expanded optimizing infrastructure",
+    "artistId": 40,
+    "albumId": 40,
+    "duration": 185,
+    "categories": [
+      "chill",
+      "rock",
+      "ambient",
+      "study"
+    ],
+    "audioUrl": "songs/song_190.mp3",
+    "coverArt": "albums/album_40.jpg",
+    "playCount": 299349,
+    "rating": 3.2,
+    "createdAt": "2025-01-17T00:00:00Z",
+    "updatedAt": "2025-01-17T00:00:00Z"
+  },
+  {
+    "id": 191,
+    "title": "Triple-buffered coherent forecast",
+    "artistId": 40,
+    "albumId": 40,
+    "duration": 375,
+    "categories": [
+      "chill",
+      "rock",
+      "ambient",
+      "study"
+    ],
+    "audioUrl": "songs/song_191.mp3",
+    "coverArt": "albums/album_40.jpg",
+    "playCount": 309190,
+    "rating": 4.0,
+    "createdAt": "2024-06-23T00:00:00Z",
+    "updatedAt": "2024-06-23T00:00:00Z"
+  },
+  {
+    "id": 192,
+    "title": "Multi-channeled analyzing application",
+    "artistId": 40,
+    "albumId": 40,
+    "duration": 389,
+    "categories": [
+      "chill",
+      "rock",
+      "ambient",
+      "study"
+    ],
+    "audioUrl": "songs/song_192.mp3",
+    "coverArt": "albums/album_40.jpg",
+    "playCount": 839375,
+    "rating": 3.1,
+    "createdAt": "2025-04-18T00:00:00Z",
+    "updatedAt": "2025-04-18T00:00:00Z"
+  },
+  {
+    "id": 193,
+    "title": "Intuitive uniform budgetary management",
+    "artistId": 40,
+    "albumId": 40,
+    "duration": 383,
+    "categories": [
+      "chill",
+      "rock",
+      "ambient",
+      "study"
+    ],
+    "audioUrl": "songs/song_193.mp3",
+    "coverArt": "albums/album_40.jpg",
+    "playCount": 124150,
+    "rating": 4.9,
+    "createdAt": "2022-05-20T00:00:00Z",
+    "updatedAt": "2022-05-20T00:00:00Z"
+  },
+  {
+    "id": 194,
+    "title": "Horizontal hybrid hierarchy",
+    "artistId": 40,
+    "albumId": 40,
+    "duration": 313,
+    "categories": [
+      "chill",
+      "rock",
+      "ambient",
+      "study"
+    ],
+    "audioUrl": "songs/song_194.mp3",
+    "coverArt": "albums/album_40.jpg",
+    "playCount": 845951,
+    "rating": 4.7,
+    "createdAt": "2023-01-04T00:00:00Z",
+    "updatedAt": "2023-01-04T00:00:00Z"
+  },
+  {
+    "id": 195,
+    "title": "Exclusive asynchronous benchmark",
+    "artistId": 40,
+    "albumId": 40,
+    "duration": 260,
+    "categories": [
+      "chill",
+      "rock",
+      "ambient",
+      "study"
+    ],
+    "audioUrl": "songs/song_195.mp3",
+    "coverArt": "albums/album_40.jpg",
+    "playCount": 644583,
+    "rating": 3.9,
+    "createdAt": "2023-07-28T00:00:00Z",
+    "updatedAt": "2023-07-28T00:00:00Z"
+  },
+  {
+    "id": 196,
+    "title": "Enterprise-wide needs-based forecast",
+    "artistId": 46,
+    "albumId": 41,
+    "duration": 291,
+    "categories": [
+      "energetic",
+      "rock",
+      "study",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_196.mp3",
+    "coverArt": "albums/album_41.jpg",
+    "playCount": 233124,
+    "rating": 3.5,
+    "createdAt": "2024-06-15T00:00:00Z",
+    "updatedAt": "2024-06-15T00:00:00Z"
+  },
+  {
+    "id": 197,
+    "title": "Pre-emptive demand-driven hub",
+    "artistId": 46,
+    "albumId": 41,
+    "duration": 398,
+    "categories": [
+      "energetic",
+      "rock",
+      "study",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_197.mp3",
+    "coverArt": "albums/album_41.jpg",
+    "playCount": 201828,
+    "rating": 4.5,
+    "createdAt": "2020-11-24T00:00:00Z",
+    "updatedAt": "2020-11-24T00:00:00Z"
+  },
+  {
+    "id": 198,
+    "title": "Assimilated modular workforce",
+    "artistId": 46,
+    "albumId": 41,
+    "duration": 209,
+    "categories": [
+      "energetic",
+      "rock",
+      "study",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_198.mp3",
+    "coverArt": "albums/album_41.jpg",
+    "playCount": 248167,
+    "rating": 3.3,
+    "createdAt": "2022-04-30T00:00:00Z",
+    "updatedAt": "2022-04-30T00:00:00Z"
+  },
+  {
+    "id": 199,
+    "title": "Networked reciprocal product",
+    "artistId": 46,
+    "albumId": 41,
+    "duration": 282,
+    "categories": [
+      "energetic",
+      "rock",
+      "study",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_199.mp3",
+    "coverArt": "albums/album_41.jpg",
+    "playCount": 302957,
+    "rating": 4.1,
+    "createdAt": "2022-11-29T00:00:00Z",
+    "updatedAt": "2022-11-29T00:00:00Z"
+  },
+  {
+    "id": 200,
+    "title": "Multi-channeled composite process improvement",
+    "artistId": 46,
+    "albumId": 41,
+    "duration": 391,
+    "categories": [
+      "energetic",
+      "rock",
+      "study",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_200.mp3",
+    "coverArt": "albums/album_41.jpg",
+    "playCount": 642184,
+    "rating": 4.6,
+    "createdAt": "2023-06-20T00:00:00Z",
+    "updatedAt": "2023-06-20T00:00:00Z"
+  },
+  {
+    "id": 201,
+    "title": "Function-based interactive access",
+    "artistId": 29,
+    "albumId": 42,
+    "duration": 265,
+    "categories": [
+      "evening",
+      "electronic",
+      "focus"
+    ],
+    "audioUrl": "songs/song_201.mp3",
+    "coverArt": "albums/album_42.jpg",
+    "playCount": 834457,
+    "rating": 4.9,
+    "createdAt": "2022-07-08T00:00:00Z",
+    "updatedAt": "2022-07-08T00:00:00Z"
+  },
+  {
+    "id": 202,
+    "title": "Extended leadingedge website",
+    "artistId": 29,
+    "albumId": 42,
+    "duration": 218,
+    "categories": [
+      "evening",
+      "electronic",
+      "focus"
+    ],
+    "audioUrl": "songs/song_202.mp3",
+    "coverArt": "albums/album_42.jpg",
+    "playCount": 364570,
+    "rating": 4.4,
+    "createdAt": "2021-10-16T00:00:00Z",
+    "updatedAt": "2021-10-16T00:00:00Z"
+  },
+  {
+    "id": 203,
+    "title": "Digitized static open architecture",
+    "artistId": 29,
+    "albumId": 42,
+    "duration": 252,
+    "categories": [
+      "evening",
+      "electronic",
+      "focus"
+    ],
+    "audioUrl": "songs/song_203.mp3",
+    "coverArt": "albums/album_42.jpg",
+    "playCount": 500148,
+    "rating": 4.6,
+    "createdAt": "2023-02-03T00:00:00Z",
+    "updatedAt": "2023-02-03T00:00:00Z"
+  },
+  {
+    "id": 204,
+    "title": "Open-source grid-enabled array",
+    "artistId": 29,
+    "albumId": 42,
+    "duration": 188,
+    "categories": [
+      "evening",
+      "electronic",
+      "focus"
+    ],
+    "audioUrl": "songs/song_204.mp3",
+    "coverArt": "albums/album_42.jpg",
+    "playCount": 302803,
+    "rating": 4.6,
+    "createdAt": "2024-01-07T00:00:00Z",
+    "updatedAt": "2024-01-07T00:00:00Z"
+  },
+  {
+    "id": 205,
+    "title": "Quality-focused eco-centric database",
+    "artistId": 2,
+    "albumId": 43,
+    "duration": 195,
+    "categories": [
+      "chill",
+      "pop",
+      "meditation",
+      "focus"
+    ],
+    "audioUrl": "songs/song_205.mp3",
+    "coverArt": "albums/album_43.jpg",
+    "playCount": 881521,
+    "rating": 3.8,
+    "createdAt": "2022-06-09T00:00:00Z",
+    "updatedAt": "2022-06-09T00:00:00Z"
+  },
+  {
+    "id": 206,
+    "title": "Virtual web-enabled infrastructure",
+    "artistId": 2,
+    "albumId": 43,
+    "duration": 232,
+    "categories": [
+      "chill",
+      "pop",
+      "meditation",
+      "focus"
+    ],
+    "audioUrl": "songs/song_206.mp3",
+    "coverArt": "albums/album_43.jpg",
+    "playCount": 538448,
+    "rating": 4.2,
+    "createdAt": "2022-12-15T00:00:00Z",
+    "updatedAt": "2022-12-15T00:00:00Z"
+  },
+  {
+    "id": 207,
+    "title": "Polarized methodical project",
+    "artistId": 2,
+    "albumId": 43,
+    "duration": 194,
+    "categories": [
+      "chill",
+      "pop",
+      "meditation",
+      "focus"
+    ],
+    "audioUrl": "songs/song_207.mp3",
+    "coverArt": "albums/album_43.jpg",
+    "playCount": 464900,
+    "rating": 4.9,
+    "createdAt": "2021-12-01T00:00:00Z",
+    "updatedAt": "2021-12-01T00:00:00Z"
+  },
+  {
+    "id": 208,
+    "title": "User-friendly asymmetric archive",
+    "artistId": 2,
+    "albumId": 43,
+    "duration": 281,
+    "categories": [
+      "chill",
+      "pop",
+      "meditation",
+      "focus"
+    ],
+    "audioUrl": "songs/song_208.mp3",
+    "coverArt": "albums/album_43.jpg",
+    "playCount": 979047,
+    "rating": 3.0,
+    "createdAt": "2020-12-13T00:00:00Z",
+    "updatedAt": "2020-12-13T00:00:00Z"
+  },
+  {
+    "id": 209,
+    "title": "Advanced radical functionalities",
+    "artistId": 27,
+    "albumId": 44,
+    "duration": 368,
+    "categories": [
+      "workout",
+      "evening",
+      "pop",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_209.mp3",
+    "coverArt": "albums/album_44.jpg",
+    "playCount": 515143,
+    "rating": 4.8,
+    "createdAt": "2024-10-15T00:00:00Z",
+    "updatedAt": "2024-10-15T00:00:00Z"
+  },
+  {
+    "id": 210,
+    "title": "Proactive web-enabled extranet",
+    "artistId": 27,
+    "albumId": 44,
+    "duration": 257,
+    "categories": [
+      "workout",
+      "evening",
+      "pop",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_210.mp3",
+    "coverArt": "albums/album_44.jpg",
+    "playCount": 994053,
+    "rating": 3.7,
+    "createdAt": "2022-01-15T00:00:00Z",
+    "updatedAt": "2022-01-15T00:00:00Z"
+  },
+  {
+    "id": 211,
+    "title": "Devolved 5thgeneration concept",
+    "artistId": 27,
+    "albumId": 44,
+    "duration": 318,
+    "categories": [
+      "workout",
+      "evening",
+      "pop",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_211.mp3",
+    "coverArt": "albums/album_44.jpg",
+    "playCount": 398085,
+    "rating": 3.7,
+    "createdAt": "2023-05-26T00:00:00Z",
+    "updatedAt": "2023-05-26T00:00:00Z"
+  },
+  {
+    "id": 212,
+    "title": "Triple-buffered coherent installation",
+    "artistId": 27,
+    "albumId": 44,
+    "duration": 184,
+    "categories": [
+      "workout",
+      "evening",
+      "pop",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_212.mp3",
+    "coverArt": "albums/album_44.jpg",
+    "playCount": 171199,
+    "rating": 3.4,
+    "createdAt": "2021-05-09T00:00:00Z",
+    "updatedAt": "2021-05-09T00:00:00Z"
+  },
+  {
+    "id": 213,
+    "title": "Optional tangible complexity",
+    "artistId": 20,
+    "albumId": 45,
+    "duration": 314,
+    "categories": [
+      "chill",
+      "rock",
+      "ambient",
+      "focus"
+    ],
+    "audioUrl": "songs/song_213.mp3",
+    "coverArt": "albums/album_45.jpg",
+    "playCount": 265291,
+    "rating": 3.8,
+    "createdAt": "2020-08-09T00:00:00Z",
+    "updatedAt": "2020-08-09T00:00:00Z"
+  },
+  {
+    "id": 214,
+    "title": "Configurable impactful firmware",
+    "artistId": 20,
+    "albumId": 45,
+    "duration": 262,
+    "categories": [
+      "chill",
+      "rock",
+      "ambient",
+      "focus"
+    ],
+    "audioUrl": "songs/song_214.mp3",
+    "coverArt": "albums/album_45.jpg",
+    "playCount": 25501,
+    "rating": 4.8,
+    "createdAt": "2022-12-05T00:00:00Z",
+    "updatedAt": "2022-12-05T00:00:00Z"
+  },
+  {
+    "id": 215,
+    "title": "Profit-focused homogeneous capacity",
+    "artistId": 20,
+    "albumId": 45,
+    "duration": 363,
+    "categories": [
+      "chill",
+      "rock",
+      "ambient",
+      "focus"
+    ],
+    "audioUrl": "songs/song_215.mp3",
+    "coverArt": "albums/album_45.jpg",
+    "playCount": 660117,
+    "rating": 3.8,
+    "createdAt": "2021-03-26T00:00:00Z",
+    "updatedAt": "2021-03-26T00:00:00Z"
+  },
+  {
+    "id": 216,
+    "title": "Front-line optimizing circuit",
+    "artistId": 20,
+    "albumId": 45,
+    "duration": 419,
+    "categories": [
+      "chill",
+      "rock",
+      "ambient",
+      "focus"
+    ],
+    "audioUrl": "songs/song_216.mp3",
+    "coverArt": "albums/album_45.jpg",
+    "playCount": 596215,
+    "rating": 4.9,
+    "createdAt": "2020-03-03T00:00:00Z",
+    "updatedAt": "2020-03-03T00:00:00Z"
+  },
+  {
+    "id": 217,
+    "title": "Multi-lateral heuristic encryption",
+    "artistId": 20,
+    "albumId": 45,
+    "duration": 374,
+    "categories": [
+      "chill",
+      "rock",
+      "ambient",
+      "focus"
+    ],
+    "audioUrl": "songs/song_217.mp3",
+    "coverArt": "albums/album_45.jpg",
+    "playCount": 365499,
+    "rating": 3.6,
+    "createdAt": "2022-05-28T00:00:00Z",
+    "updatedAt": "2022-05-28T00:00:00Z"
+  },
+  {
+    "id": 218,
+    "title": "Decentralized real-time circuit",
+    "artistId": 24,
+    "albumId": 46,
+    "duration": 302,
+    "categories": [
+      "workout",
+      "energetic",
+      "electronic",
+      "study"
+    ],
+    "audioUrl": "songs/song_218.mp3",
+    "coverArt": "albums/album_46.jpg",
+    "playCount": 554463,
+    "rating": 4.0,
+    "createdAt": "2022-10-14T00:00:00Z",
+    "updatedAt": "2022-10-14T00:00:00Z"
+  },
+  {
+    "id": 219,
+    "title": "Up-sized optimal matrix",
+    "artistId": 24,
+    "albumId": 46,
+    "duration": 385,
+    "categories": [
+      "workout",
+      "energetic",
+      "electronic",
+      "study"
+    ],
+    "audioUrl": "songs/song_219.mp3",
+    "coverArt": "albums/album_46.jpg",
+    "playCount": 724678,
+    "rating": 3.3,
+    "createdAt": "2022-08-14T00:00:00Z",
+    "updatedAt": "2022-08-14T00:00:00Z"
+  },
+  {
+    "id": 220,
+    "title": "User-friendly 5thgeneration middleware",
+    "artistId": 24,
+    "albumId": 46,
+    "duration": 347,
+    "categories": [
+      "workout",
+      "energetic",
+      "electronic",
+      "study"
+    ],
+    "audioUrl": "songs/song_220.mp3",
+    "coverArt": "albums/album_46.jpg",
+    "playCount": 359123,
+    "rating": 4.3,
+    "createdAt": "2020-05-29T00:00:00Z",
+    "updatedAt": "2020-05-29T00:00:00Z"
+  },
+  {
+    "id": 221,
+    "title": "User-friendly optimal toolset",
+    "artistId": 4,
+    "albumId": 47,
+    "duration": 259,
+    "categories": [
+      "energetic",
+      "electronic",
+      "ambient",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_221.mp3",
+    "coverArt": "albums/album_47.jpg",
+    "playCount": 572591,
+    "rating": 3.6,
+    "createdAt": "2020-08-01T00:00:00Z",
+    "updatedAt": "2020-08-01T00:00:00Z"
+  },
+  {
+    "id": 222,
+    "title": "Up-sized needs-based toolset",
+    "artistId": 4,
+    "albumId": 47,
+    "duration": 339,
+    "categories": [
+      "energetic",
+      "electronic",
+      "ambient",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_222.mp3",
+    "coverArt": "albums/album_47.jpg",
+    "playCount": 62340,
+    "rating": 4.0,
+    "createdAt": "2020-12-19T00:00:00Z",
+    "updatedAt": "2020-12-19T00:00:00Z"
+  },
+  {
+    "id": 223,
+    "title": "Secured actuating Local Area Network",
+    "artistId": 4,
+    "albumId": 47,
+    "duration": 275,
+    "categories": [
+      "energetic",
+      "electronic",
+      "ambient",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_223.mp3",
+    "coverArt": "albums/album_47.jpg",
+    "playCount": 80335,
+    "rating": 4.5,
+    "createdAt": "2023-03-05T00:00:00Z",
+    "updatedAt": "2023-03-05T00:00:00Z"
+  },
+  {
+    "id": 224,
+    "title": "Cross-platform 24hour middleware",
+    "artistId": 5,
+    "albumId": 48,
+    "duration": 356,
+    "categories": [
+      "rock",
+      "electronic",
+      "travel",
+      "study"
+    ],
+    "audioUrl": "songs/song_224.mp3",
+    "coverArt": "albums/album_48.jpg",
+    "playCount": 570551,
+    "rating": 4.4,
+    "createdAt": "2020-11-19T00:00:00Z",
+    "updatedAt": "2020-11-19T00:00:00Z"
+  },
+  {
+    "id": 225,
+    "title": "Synergized 6thgeneration success",
+    "artistId": 5,
+    "albumId": 48,
+    "duration": 291,
+    "categories": [
+      "rock",
+      "electronic",
+      "travel",
+      "study"
+    ],
+    "audioUrl": "songs/song_225.mp3",
+    "coverArt": "albums/album_48.jpg",
+    "playCount": 313486,
+    "rating": 4.6,
+    "createdAt": "2022-07-04T00:00:00Z",
+    "updatedAt": "2022-07-04T00:00:00Z"
+  },
+  {
+    "id": 226,
+    "title": "Extended national hardware",
+    "artistId": 5,
+    "albumId": 48,
+    "duration": 287,
+    "categories": [
+      "rock",
+      "electronic",
+      "travel",
+      "study"
+    ],
+    "audioUrl": "songs/song_226.mp3",
+    "coverArt": "albums/album_48.jpg",
+    "playCount": 102252,
+    "rating": 4.3,
+    "createdAt": "2023-11-11T00:00:00Z",
+    "updatedAt": "2023-11-11T00:00:00Z"
+  },
+  {
+    "id": 227,
+    "title": "Grass-roots encompassing hierarchy",
+    "artistId": 5,
+    "albumId": 48,
+    "duration": 371,
+    "categories": [
+      "rock",
+      "electronic",
+      "travel",
+      "study"
+    ],
+    "audioUrl": "songs/song_227.mp3",
+    "coverArt": "albums/album_48.jpg",
+    "playCount": 403566,
+    "rating": 4.4,
+    "createdAt": "2024-04-22T00:00:00Z",
+    "updatedAt": "2024-04-22T00:00:00Z"
+  },
+  {
+    "id": 228,
+    "title": "Optimized 24/7 standardization",
+    "artistId": 5,
+    "albumId": 48,
+    "duration": 311,
+    "categories": [
+      "rock",
+      "electronic",
+      "travel",
+      "study"
+    ],
+    "audioUrl": "songs/song_228.mp3",
+    "coverArt": "albums/album_48.jpg",
+    "playCount": 236360,
+    "rating": 4.9,
+    "createdAt": "2024-12-22T00:00:00Z",
+    "updatedAt": "2024-12-22T00:00:00Z"
+  },
+  {
+    "id": 229,
+    "title": "Exclusive contextually-based firmware",
+    "artistId": 15,
+    "albumId": 49,
+    "duration": 262,
+    "categories": [
+      "chill",
+      "rock",
+      "study"
+    ],
+    "audioUrl": "songs/song_229.mp3",
+    "coverArt": "albums/album_49.jpg",
+    "playCount": 695321,
+    "rating": 4.3,
+    "createdAt": "2025-01-31T00:00:00Z",
+    "updatedAt": "2025-01-31T00:00:00Z"
+  },
+  {
+    "id": 230,
+    "title": "Profound user-facing architecture",
+    "artistId": 15,
+    "albumId": 49,
+    "duration": 295,
+    "categories": [
+      "chill",
+      "rock",
+      "study"
+    ],
+    "audioUrl": "songs/song_230.mp3",
+    "coverArt": "albums/album_49.jpg",
+    "playCount": 202566,
+    "rating": 3.8,
+    "createdAt": "2021-09-16T00:00:00Z",
+    "updatedAt": "2021-09-16T00:00:00Z"
+  },
+  {
+    "id": 231,
+    "title": "Multi-tiered bandwidth-monitored adapter",
+    "artistId": 15,
+    "albumId": 49,
+    "duration": 222,
+    "categories": [
+      "chill",
+      "rock",
+      "study"
+    ],
+    "audioUrl": "songs/song_231.mp3",
+    "coverArt": "albums/album_49.jpg",
+    "playCount": 550352,
+    "rating": 4.9,
+    "createdAt": "2024-06-01T00:00:00Z",
+    "updatedAt": "2024-06-01T00:00:00Z"
+  },
+  {
+    "id": 232,
+    "title": "Customizable background website",
+    "artistId": 15,
+    "albumId": 49,
+    "duration": 407,
+    "categories": [
+      "chill",
+      "rock",
+      "study"
+    ],
+    "audioUrl": "songs/song_232.mp3",
+    "coverArt": "albums/album_49.jpg",
+    "playCount": 114807,
+    "rating": 4.9,
+    "createdAt": "2020-09-24T00:00:00Z",
+    "updatedAt": "2020-09-24T00:00:00Z"
+  },
+  {
+    "id": 233,
+    "title": "Horizontal bifurcated moratorium",
+    "artistId": 15,
+    "albumId": 49,
+    "duration": 220,
+    "categories": [
+      "chill",
+      "rock",
+      "study"
+    ],
+    "audioUrl": "songs/song_233.mp3",
+    "coverArt": "albums/album_49.jpg",
+    "playCount": 641996,
+    "rating": 4.9,
+    "createdAt": "2021-08-29T00:00:00Z",
+    "updatedAt": "2021-08-29T00:00:00Z"
+  },
+  {
+    "id": 234,
+    "title": "Organic leadingedge database",
+    "artistId": 15,
+    "albumId": 49,
+    "duration": 317,
+    "categories": [
+      "chill",
+      "rock",
+      "study"
+    ],
+    "audioUrl": "songs/song_234.mp3",
+    "coverArt": "albums/album_49.jpg",
+    "playCount": 627022,
+    "rating": 4.2,
+    "createdAt": "2021-03-06T00:00:00Z",
+    "updatedAt": "2021-03-06T00:00:00Z"
+  },
+  {
+    "id": 235,
+    "title": "Profit-focused user-facing ability",
+    "artistId": 15,
+    "albumId": 49,
+    "duration": 372,
+    "categories": [
+      "chill",
+      "rock",
+      "study"
+    ],
+    "audioUrl": "songs/song_235.mp3",
+    "coverArt": "albums/album_49.jpg",
+    "playCount": 920293,
+    "rating": 3.8,
+    "createdAt": "2023-07-17T00:00:00Z",
+    "updatedAt": "2023-07-17T00:00:00Z"
+  },
+  {
+    "id": 236,
+    "title": "Business-focused incremental migration",
+    "artistId": 38,
+    "albumId": 50,
+    "duration": 329,
+    "categories": [
+      "pop",
+      "night",
+      "meditation",
+      "focus"
+    ],
+    "audioUrl": "songs/song_236.mp3",
+    "coverArt": "albums/album_50.jpg",
+    "playCount": 899173,
+    "rating": 4.1,
+    "createdAt": "2022-07-03T00:00:00Z",
+    "updatedAt": "2022-07-03T00:00:00Z"
+  },
+  {
+    "id": 237,
+    "title": "Implemented next generation definition",
+    "artistId": 38,
+    "albumId": 50,
+    "duration": 204,
+    "categories": [
+      "pop",
+      "night",
+      "meditation",
+      "focus"
+    ],
+    "audioUrl": "songs/song_237.mp3",
+    "coverArt": "albums/album_50.jpg",
+    "playCount": 948906,
+    "rating": 4.9,
+    "createdAt": "2024-08-16T00:00:00Z",
+    "updatedAt": "2024-08-16T00:00:00Z"
+  },
+  {
+    "id": 238,
+    "title": "Business-focused attitude-oriented neural-net",
+    "artistId": 38,
+    "albumId": 50,
+    "duration": 235,
+    "categories": [
+      "pop",
+      "night",
+      "meditation",
+      "focus"
+    ],
+    "audioUrl": "songs/song_238.mp3",
+    "coverArt": "albums/album_50.jpg",
+    "playCount": 874079,
+    "rating": 4.1,
+    "createdAt": "2021-08-04T00:00:00Z",
+    "updatedAt": "2021-08-04T00:00:00Z"
+  },
+  {
+    "id": 239,
+    "title": "Enhanced reciprocal circuit",
+    "artistId": 38,
+    "albumId": 50,
+    "duration": 309,
+    "categories": [
+      "pop",
+      "night",
+      "meditation",
+      "focus"
+    ],
+    "audioUrl": "songs/song_239.mp3",
+    "coverArt": "albums/album_50.jpg",
+    "playCount": 325194,
+    "rating": 4.5,
+    "createdAt": "2024-04-24T00:00:00Z",
+    "updatedAt": "2024-04-24T00:00:00Z"
+  },
+  {
+    "id": 240,
+    "title": "Reverse-engineered clear-thinking circuit",
+    "artistId": 27,
+    "albumId": 51,
+    "duration": 192,
+    "categories": [
+      "workout",
+      "chill",
+      "evening",
+      "focus"
+    ],
+    "audioUrl": "songs/song_240.mp3",
+    "coverArt": "albums/album_51.jpg",
+    "playCount": 22810,
+    "rating": 4.7,
+    "createdAt": "2023-02-19T00:00:00Z",
+    "updatedAt": "2023-02-19T00:00:00Z"
+  },
+  {
+    "id": 241,
+    "title": "Multi-tiered encompassing installation",
+    "artistId": 27,
+    "albumId": 51,
+    "duration": 312,
+    "categories": [
+      "workout",
+      "chill",
+      "evening",
+      "focus"
+    ],
+    "audioUrl": "songs/song_241.mp3",
+    "coverArt": "albums/album_51.jpg",
+    "playCount": 144408,
+    "rating": 4.5,
+    "createdAt": "2020-05-12T00:00:00Z",
+    "updatedAt": "2020-05-12T00:00:00Z"
+  },
+  {
+    "id": 242,
+    "title": "Decentralized demand-driven data-warehouse",
+    "artistId": 27,
+    "albumId": 51,
+    "duration": 288,
+    "categories": [
+      "workout",
+      "chill",
+      "evening",
+      "focus"
+    ],
+    "audioUrl": "songs/song_242.mp3",
+    "coverArt": "albums/album_51.jpg",
+    "playCount": 892146,
+    "rating": 4.9,
+    "createdAt": "2025-05-23T00:00:00Z",
+    "updatedAt": "2025-05-23T00:00:00Z"
+  },
+  {
+    "id": 243,
+    "title": "User-friendly heuristic emulation",
+    "artistId": 33,
+    "albumId": 52,
+    "duration": 189,
+    "categories": [
+      "workout",
+      "melancholic",
+      "jazz",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_243.mp3",
+    "coverArt": "albums/album_52.jpg",
+    "playCount": 819510,
+    "rating": 3.5,
+    "createdAt": "2024-07-21T00:00:00Z",
+    "updatedAt": "2024-07-21T00:00:00Z"
+  },
+  {
+    "id": 244,
+    "title": "Cross-platform foreground protocol",
+    "artistId": 33,
+    "albumId": 52,
+    "duration": 310,
+    "categories": [
+      "workout",
+      "melancholic",
+      "jazz",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_244.mp3",
+    "coverArt": "albums/album_52.jpg",
+    "playCount": 53217,
+    "rating": 4.9,
+    "createdAt": "2020-02-08T00:00:00Z",
+    "updatedAt": "2020-02-08T00:00:00Z"
+  },
+  {
+    "id": 245,
+    "title": "Sharable composite moratorium",
+    "artistId": 33,
+    "albumId": 52,
+    "duration": 271,
+    "categories": [
+      "workout",
+      "melancholic",
+      "jazz",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_245.mp3",
+    "coverArt": "albums/album_52.jpg",
+    "playCount": 250725,
+    "rating": 3.3,
+    "createdAt": "2023-01-30T00:00:00Z",
+    "updatedAt": "2023-01-30T00:00:00Z"
+  },
+  {
+    "id": 246,
+    "title": "Versatile high-level task-force",
+    "artistId": 33,
+    "albumId": 52,
+    "duration": 359,
+    "categories": [
+      "workout",
+      "melancholic",
+      "jazz",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_246.mp3",
+    "coverArt": "albums/album_52.jpg",
+    "playCount": 987717,
+    "rating": 4.6,
+    "createdAt": "2024-10-26T00:00:00Z",
+    "updatedAt": "2024-10-26T00:00:00Z"
+  },
+  {
+    "id": 247,
+    "title": "Function-based empowering neural-net",
+    "artistId": 33,
+    "albumId": 52,
+    "duration": 279,
+    "categories": [
+      "workout",
+      "melancholic",
+      "jazz",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_247.mp3",
+    "coverArt": "albums/album_52.jpg",
+    "playCount": 286470,
+    "rating": 3.3,
+    "createdAt": "2021-08-31T00:00:00Z",
+    "updatedAt": "2021-08-31T00:00:00Z"
+  },
+  {
+    "id": 248,
+    "title": "Optional logistical application",
+    "artistId": 13,
+    "albumId": 53,
+    "duration": 190,
+    "categories": [
+      "pop",
+      "electronic",
+      "night",
+      "ambient"
+    ],
+    "audioUrl": "songs/song_248.mp3",
+    "coverArt": "albums/album_53.jpg",
+    "playCount": 567821,
+    "rating": 4.9,
+    "createdAt": "2020-03-30T00:00:00Z",
+    "updatedAt": "2020-03-30T00:00:00Z"
+  },
+  {
+    "id": 249,
+    "title": "Pre-emptive incremental initiative",
+    "artistId": 13,
+    "albumId": 53,
+    "duration": 359,
+    "categories": [
+      "pop",
+      "electronic",
+      "night",
+      "ambient"
+    ],
+    "audioUrl": "songs/song_249.mp3",
+    "coverArt": "albums/album_53.jpg",
+    "playCount": 966696,
+    "rating": 4.1,
+    "createdAt": "2024-04-12T00:00:00Z",
+    "updatedAt": "2024-04-12T00:00:00Z"
+  },
+  {
+    "id": 250,
+    "title": "Streamlined optimal migration",
+    "artistId": 13,
+    "albumId": 53,
+    "duration": 190,
+    "categories": [
+      "pop",
+      "electronic",
+      "night",
+      "ambient"
+    ],
+    "audioUrl": "songs/song_250.mp3",
+    "coverArt": "albums/album_53.jpg",
+    "playCount": 299722,
+    "rating": 3.9,
+    "createdAt": "2025-03-02T00:00:00Z",
+    "updatedAt": "2025-03-02T00:00:00Z"
+  },
+  {
+    "id": 251,
+    "title": "Ergonomic multi-state Graphic Interface",
+    "artistId": 13,
+    "albumId": 53,
+    "duration": 231,
+    "categories": [
+      "pop",
+      "electronic",
+      "night",
+      "ambient"
+    ],
+    "audioUrl": "songs/song_251.mp3",
+    "coverArt": "albums/album_53.jpg",
+    "playCount": 171079,
+    "rating": 3.4,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 252,
+    "title": "Secured neutral focus group",
+    "artistId": 13,
+    "albumId": 53,
+    "duration": 242,
+    "categories": [
+      "pop",
+      "electronic",
+      "night",
+      "ambient"
+    ],
+    "audioUrl": "songs/song_252.mp3",
+    "coverArt": "albums/album_53.jpg",
+    "playCount": 280545,
+    "rating": 3.5,
+    "createdAt": "2023-04-07T00:00:00Z",
+    "updatedAt": "2023-04-07T00:00:00Z"
+  },
+  {
+    "id": 253,
+    "title": "Persistent demand-driven methodology",
+    "artistId": 13,
+    "albumId": 53,
+    "duration": 288,
+    "categories": [
+      "pop",
+      "electronic",
+      "night",
+      "ambient"
+    ],
+    "audioUrl": "songs/song_253.mp3",
+    "coverArt": "albums/album_53.jpg",
+    "playCount": 311654,
+    "rating": 4.4,
+    "createdAt": "2024-11-23T00:00:00Z",
+    "updatedAt": "2024-11-23T00:00:00Z"
+  },
+  {
+    "id": 254,
+    "title": "Adaptive demand-driven open architecture",
+    "artistId": 13,
+    "albumId": 53,
+    "duration": 240,
+    "categories": [
+      "pop",
+      "electronic",
+      "night",
+      "ambient"
+    ],
+    "audioUrl": "songs/song_254.mp3",
+    "coverArt": "albums/album_53.jpg",
+    "playCount": 302444,
+    "rating": 3.8,
+    "createdAt": "2024-07-03T00:00:00Z",
+    "updatedAt": "2024-07-03T00:00:00Z"
+  },
+  {
+    "id": 255,
+    "title": "Proactive 24/7 hub",
+    "artistId": 48,
+    "albumId": 54,
+    "duration": 364,
+    "categories": [
+      "night",
+      "ambient",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_255.mp3",
+    "coverArt": "albums/album_54.jpg",
+    "playCount": 301737,
+    "rating": 4.6,
+    "createdAt": "2025-01-16T00:00:00Z",
+    "updatedAt": "2025-01-16T00:00:00Z"
+  },
+  {
+    "id": 256,
+    "title": "Face-to-face context-sensitive definition",
+    "artistId": 48,
+    "albumId": 54,
+    "duration": 267,
+    "categories": [
+      "night",
+      "ambient",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_256.mp3",
+    "coverArt": "albums/album_54.jpg",
+    "playCount": 205515,
+    "rating": 4.4,
+    "createdAt": "2021-06-27T00:00:00Z",
+    "updatedAt": "2021-06-27T00:00:00Z"
+  },
+  {
+    "id": 257,
+    "title": "Right-sized directional framework",
+    "artistId": 48,
+    "albumId": 54,
+    "duration": 337,
+    "categories": [
+      "night",
+      "ambient",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_257.mp3",
+    "coverArt": "albums/album_54.jpg",
+    "playCount": 860844,
+    "rating": 3.5,
+    "createdAt": "2024-06-17T00:00:00Z",
+    "updatedAt": "2024-06-17T00:00:00Z"
+  },
+  {
+    "id": 258,
+    "title": "Switchable regional system engine",
+    "artistId": 9,
+    "albumId": 55,
+    "duration": 290,
+    "categories": [
+      "energetic",
+      "travel",
+      "study",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_258.mp3",
+    "coverArt": "albums/album_55.jpg",
+    "playCount": 322464,
+    "rating": 3.5,
+    "createdAt": "2023-09-02T00:00:00Z",
+    "updatedAt": "2023-09-02T00:00:00Z"
+  },
+  {
+    "id": 259,
+    "title": "Inverse high-level strategy",
+    "artistId": 9,
+    "albumId": 55,
+    "duration": 301,
+    "categories": [
+      "energetic",
+      "travel",
+      "study",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_259.mp3",
+    "coverArt": "albums/album_55.jpg",
+    "playCount": 493075,
+    "rating": 5.0,
+    "createdAt": "2022-01-27T00:00:00Z",
+    "updatedAt": "2022-01-27T00:00:00Z"
+  },
+  {
+    "id": 260,
+    "title": "Reverse-engineered system-worthy capability",
+    "artistId": 9,
+    "albumId": 55,
+    "duration": 360,
+    "categories": [
+      "energetic",
+      "travel",
+      "study",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_260.mp3",
+    "coverArt": "albums/album_55.jpg",
+    "playCount": 160869,
+    "rating": 3.0,
+    "createdAt": "2022-08-15T00:00:00Z",
+    "updatedAt": "2022-08-15T00:00:00Z"
+  },
+  {
+    "id": 261,
+    "title": "Persistent global customer loyalty",
+    "artistId": 9,
+    "albumId": 55,
+    "duration": 191,
+    "categories": [
+      "energetic",
+      "travel",
+      "study",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_261.mp3",
+    "coverArt": "albums/album_55.jpg",
+    "playCount": 285159,
+    "rating": 4.4,
+    "createdAt": "2021-06-14T00:00:00Z",
+    "updatedAt": "2021-06-14T00:00:00Z"
+  },
+  {
+    "id": 262,
+    "title": "Monitored user-facing frame",
+    "artistId": 9,
+    "albumId": 55,
+    "duration": 276,
+    "categories": [
+      "energetic",
+      "travel",
+      "study",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_262.mp3",
+    "coverArt": "albums/album_55.jpg",
+    "playCount": 173232,
+    "rating": 3.3,
+    "createdAt": "2022-12-13T00:00:00Z",
+    "updatedAt": "2022-12-13T00:00:00Z"
+  },
+  {
+    "id": 263,
+    "title": "Managed full-range protocol",
+    "artistId": 43,
+    "albumId": 56,
+    "duration": 393,
+    "categories": [
+      "workout",
+      "chill",
+      "study"
+    ],
+    "audioUrl": "songs/song_263.mp3",
+    "coverArt": "albums/album_56.jpg",
+    "playCount": 332251,
+    "rating": 3.1,
+    "createdAt": "2020-07-21T00:00:00Z",
+    "updatedAt": "2020-07-21T00:00:00Z"
+  },
+  {
+    "id": 264,
+    "title": "Versatile directional budgetary management",
+    "artistId": 43,
+    "albumId": 56,
+    "duration": 347,
+    "categories": [
+      "workout",
+      "chill",
+      "study"
+    ],
+    "audioUrl": "songs/song_264.mp3",
+    "coverArt": "albums/album_56.jpg",
+    "playCount": 619906,
+    "rating": 3.1,
+    "createdAt": "2023-08-23T00:00:00Z",
+    "updatedAt": "2023-08-23T00:00:00Z"
+  },
+  {
+    "id": 265,
+    "title": "Distributed 6thgeneration structure",
+    "artistId": 43,
+    "albumId": 56,
+    "duration": 194,
+    "categories": [
+      "workout",
+      "chill",
+      "study"
+    ],
+    "audioUrl": "songs/song_265.mp3",
+    "coverArt": "albums/album_56.jpg",
+    "playCount": 547227,
+    "rating": 3.6,
+    "createdAt": "2022-02-12T00:00:00Z",
+    "updatedAt": "2022-02-12T00:00:00Z"
+  },
+  {
+    "id": 266,
+    "title": "Polarized zero tolerance array",
+    "artistId": 43,
+    "albumId": 56,
+    "duration": 410,
+    "categories": [
+      "workout",
+      "chill",
+      "study"
+    ],
+    "audioUrl": "songs/song_266.mp3",
+    "coverArt": "albums/album_56.jpg",
+    "playCount": 525479,
+    "rating": 3.1,
+    "createdAt": "2021-06-22T00:00:00Z",
+    "updatedAt": "2021-06-22T00:00:00Z"
+  },
+  {
+    "id": 267,
+    "title": "Persistent responsive hub",
+    "artistId": 43,
+    "albumId": 56,
+    "duration": 182,
+    "categories": [
+      "workout",
+      "chill",
+      "study"
+    ],
+    "audioUrl": "songs/song_267.mp3",
+    "coverArt": "albums/album_56.jpg",
+    "playCount": 891677,
+    "rating": 3.0,
+    "createdAt": "2024-04-24T00:00:00Z",
+    "updatedAt": "2024-04-24T00:00:00Z"
+  },
+  {
+    "id": 268,
+    "title": "Synergistic clear-thinking monitoring",
+    "artistId": 24,
+    "albumId": 57,
+    "duration": 270,
+    "categories": [
+      "energetic",
+      "electronic",
+      "evening",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_268.mp3",
+    "coverArt": "albums/album_57.jpg",
+    "playCount": 785726,
+    "rating": 3.3,
+    "createdAt": "2023-12-25T00:00:00Z",
+    "updatedAt": "2023-12-25T00:00:00Z"
+  },
+  {
+    "id": 269,
+    "title": "Persistent executive orchestration",
+    "artistId": 24,
+    "albumId": 57,
+    "duration": 404,
+    "categories": [
+      "energetic",
+      "electronic",
+      "evening",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_269.mp3",
+    "coverArt": "albums/album_57.jpg",
+    "playCount": 148523,
+    "rating": 3.8,
+    "createdAt": "2020-10-12T00:00:00Z",
+    "updatedAt": "2020-10-12T00:00:00Z"
+  },
+  {
+    "id": 270,
+    "title": "Stand-alone modular concept",
+    "artistId": 24,
+    "albumId": 57,
+    "duration": 261,
+    "categories": [
+      "energetic",
+      "electronic",
+      "evening",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_270.mp3",
+    "coverArt": "albums/album_57.jpg",
+    "playCount": 498108,
+    "rating": 3.5,
+    "createdAt": "2023-11-15T00:00:00Z",
+    "updatedAt": "2023-11-15T00:00:00Z"
+  },
+  {
+    "id": 271,
+    "title": "Seamless incremental methodology",
+    "artistId": 24,
+    "albumId": 57,
+    "duration": 285,
+    "categories": [
+      "energetic",
+      "electronic",
+      "evening",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_271.mp3",
+    "coverArt": "albums/album_57.jpg",
+    "playCount": 279867,
+    "rating": 3.4,
+    "createdAt": "2021-05-13T00:00:00Z",
+    "updatedAt": "2021-05-13T00:00:00Z"
+  },
+  {
+    "id": 272,
+    "title": "Front-line disintermediate task-force",
+    "artistId": 24,
+    "albumId": 57,
+    "duration": 336,
+    "categories": [
+      "energetic",
+      "electronic",
+      "evening",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_272.mp3",
+    "coverArt": "albums/album_57.jpg",
+    "playCount": 899221,
+    "rating": 3.2,
+    "createdAt": "2024-03-21T00:00:00Z",
+    "updatedAt": "2024-03-21T00:00:00Z"
+  },
+  {
+    "id": 273,
+    "title": "Synergized optimal software",
+    "artistId": 24,
+    "albumId": 57,
+    "duration": 198,
+    "categories": [
+      "energetic",
+      "electronic",
+      "evening",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_273.mp3",
+    "coverArt": "albums/album_57.jpg",
+    "playCount": 522335,
+    "rating": 3.0,
+    "createdAt": "2024-04-26T00:00:00Z",
+    "updatedAt": "2024-04-26T00:00:00Z"
+  },
+  {
+    "id": 274,
+    "title": "Open-architected user-facing interface",
+    "artistId": 24,
+    "albumId": 57,
+    "duration": 300,
+    "categories": [
+      "energetic",
+      "electronic",
+      "evening",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_274.mp3",
+    "coverArt": "albums/album_57.jpg",
+    "playCount": 542673,
+    "rating": 4.1,
+    "createdAt": "2020-11-25T00:00:00Z",
+    "updatedAt": "2020-11-25T00:00:00Z"
+  },
+  {
+    "id": 275,
+    "title": "Up-sized neutral artificial intelligence",
+    "artistId": 30,
+    "albumId": 58,
+    "duration": 415,
+    "categories": [
+      "evening",
+      "melancholic",
+      "study",
+      "energetic"
+    ],
+    "audioUrl": "songs/song_275.mp3",
+    "coverArt": "albums/album_58.jpg",
+    "playCount": 481653,
+    "rating": 4.3,
+    "createdAt": "2020-04-08T00:00:00Z",
+    "updatedAt": "2020-04-08T00:00:00Z"
+  },
+  {
+    "id": 276,
+    "title": "Re-engineered non-volatile encryption",
+    "artistId": 30,
+    "albumId": 58,
+    "duration": 227,
+    "categories": [
+      "evening",
+      "melancholic",
+      "study",
+      "energetic"
+    ],
+    "audioUrl": "songs/song_276.mp3",
+    "coverArt": "albums/album_58.jpg",
+    "playCount": 83378,
+    "rating": 3.2,
+    "createdAt": "2022-08-13T00:00:00Z",
+    "updatedAt": "2022-08-13T00:00:00Z"
+  },
+  {
+    "id": 277,
+    "title": "Phased leadingedge application",
+    "artistId": 30,
+    "albumId": 58,
+    "duration": 409,
+    "categories": [
+      "evening",
+      "melancholic",
+      "study",
+      "energetic"
+    ],
+    "audioUrl": "songs/song_277.mp3",
+    "coverArt": "albums/album_58.jpg",
+    "playCount": 501787,
+    "rating": 3.3,
+    "createdAt": "2022-02-06T00:00:00Z",
+    "updatedAt": "2022-02-06T00:00:00Z"
+  },
+  {
+    "id": 278,
+    "title": "Vision-oriented zero administration challenge",
+    "artistId": 30,
+    "albumId": 58,
+    "duration": 296,
+    "categories": [
+      "evening",
+      "melancholic",
+      "study",
+      "energetic"
+    ],
+    "audioUrl": "songs/song_278.mp3",
+    "coverArt": "albums/album_58.jpg",
+    "playCount": 697004,
+    "rating": 4.7,
+    "createdAt": "2022-03-06T00:00:00Z",
+    "updatedAt": "2022-03-06T00:00:00Z"
+  },
+  {
+    "id": 279,
+    "title": "Ergonomic bifurcated conglomeration",
+    "artistId": 30,
+    "albumId": 58,
+    "duration": 192,
+    "categories": [
+      "evening",
+      "melancholic",
+      "study",
+      "energetic"
+    ],
+    "audioUrl": "songs/song_279.mp3",
+    "coverArt": "albums/album_58.jpg",
+    "playCount": 942112,
+    "rating": 4.0,
+    "createdAt": "2024-04-21T00:00:00Z",
+    "updatedAt": "2024-04-21T00:00:00Z"
+  },
+  {
+    "id": 280,
+    "title": "Persevering bi-directional implementation",
+    "artistId": 2,
+    "albumId": 59,
+    "duration": 250,
+    "categories": [
+      "chill",
+      "pop",
+      "melancholic",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_280.mp3",
+    "coverArt": "albums/album_59.jpg",
+    "playCount": 120223,
+    "rating": 3.1,
+    "createdAt": "2020-06-28T00:00:00Z",
+    "updatedAt": "2020-06-28T00:00:00Z"
+  },
+  {
+    "id": 281,
+    "title": "Team-oriented hybrid emulation",
+    "artistId": 2,
+    "albumId": 59,
+    "duration": 200,
+    "categories": [
+      "chill",
+      "pop",
+      "melancholic",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_281.mp3",
+    "coverArt": "albums/album_59.jpg",
+    "playCount": 22214,
+    "rating": 4.7,
+    "createdAt": "2024-03-18T00:00:00Z",
+    "updatedAt": "2024-03-18T00:00:00Z"
+  },
+  {
+    "id": 282,
+    "title": "Cross-group tertiary knowledge user",
+    "artistId": 2,
+    "albumId": 59,
+    "duration": 206,
+    "categories": [
+      "chill",
+      "pop",
+      "melancholic",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_282.mp3",
+    "coverArt": "albums/album_59.jpg",
+    "playCount": 71117,
+    "rating": 3.4,
+    "createdAt": "2020-10-14T00:00:00Z",
+    "updatedAt": "2020-10-14T00:00:00Z"
+  },
+  {
+    "id": 283,
+    "title": "Synergistic context-sensitive open architecture",
+    "artistId": 4,
+    "albumId": 60,
+    "duration": 365,
+    "categories": [
+      "energetic",
+      "electronic",
+      "focus"
+    ],
+    "audioUrl": "songs/song_283.mp3",
+    "coverArt": "albums/album_60.jpg",
+    "playCount": 503154,
+    "rating": 4.9,
+    "createdAt": "2024-01-02T00:00:00Z",
+    "updatedAt": "2024-01-02T00:00:00Z"
+  },
+  {
+    "id": 284,
+    "title": "Future-proofed background policy",
+    "artistId": 4,
+    "albumId": 60,
+    "duration": 391,
+    "categories": [
+      "energetic",
+      "electronic",
+      "focus"
+    ],
+    "audioUrl": "songs/song_284.mp3",
+    "coverArt": "albums/album_60.jpg",
+    "playCount": 906185,
+    "rating": 3.4,
+    "createdAt": "2020-04-29T00:00:00Z",
+    "updatedAt": "2020-04-29T00:00:00Z"
+  },
+  {
+    "id": 285,
+    "title": "Multi-tiered background open architecture",
+    "artistId": 4,
+    "albumId": 60,
+    "duration": 257,
+    "categories": [
+      "energetic",
+      "electronic",
+      "focus"
+    ],
+    "audioUrl": "songs/song_285.mp3",
+    "coverArt": "albums/album_60.jpg",
+    "playCount": 92601,
+    "rating": 3.5,
+    "createdAt": "2020-12-29T00:00:00Z",
+    "updatedAt": "2020-12-29T00:00:00Z"
+  },
+  {
+    "id": 286,
+    "title": "Vision-oriented intangible productivity",
+    "artistId": 4,
+    "albumId": 60,
+    "duration": 403,
+    "categories": [
+      "energetic",
+      "electronic",
+      "focus"
+    ],
+    "audioUrl": "songs/song_286.mp3",
+    "coverArt": "albums/album_60.jpg",
+    "playCount": 436592,
+    "rating": 4.9,
+    "createdAt": "2023-10-23T00:00:00Z",
+    "updatedAt": "2023-10-23T00:00:00Z"
+  },
+  {
+    "id": 287,
+    "title": "De-engineered upward-trending synergy",
+    "artistId": 4,
+    "albumId": 60,
+    "duration": 414,
+    "categories": [
+      "energetic",
+      "electronic",
+      "focus"
+    ],
+    "audioUrl": "songs/song_287.mp3",
+    "coverArt": "albums/album_60.jpg",
+    "playCount": 492470,
+    "rating": 5.0,
+    "createdAt": "2024-09-23T00:00:00Z",
+    "updatedAt": "2024-09-23T00:00:00Z"
+  },
+  {
+    "id": 288,
+    "title": "Customizable fault-tolerant application",
+    "artistId": 4,
+    "albumId": 60,
+    "duration": 409,
+    "categories": [
+      "energetic",
+      "electronic",
+      "focus"
+    ],
+    "audioUrl": "songs/song_288.mp3",
+    "coverArt": "albums/album_60.jpg",
+    "playCount": 514950,
+    "rating": 3.5,
+    "createdAt": "2021-10-22T00:00:00Z",
+    "updatedAt": "2021-10-22T00:00:00Z"
+  },
+  {
+    "id": 289,
+    "title": "Automated 5thgeneration hierarchy",
+    "artistId": 32,
+    "albumId": 61,
+    "duration": 380,
+    "categories": [
+      "workout",
+      "rock",
+      "evening",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_289.mp3",
+    "coverArt": "albums/album_61.jpg",
+    "playCount": 316462,
+    "rating": 4.0,
+    "createdAt": "2020-06-21T00:00:00Z",
+    "updatedAt": "2020-06-21T00:00:00Z"
+  },
+  {
+    "id": 290,
+    "title": "Expanded neutral middleware",
+    "artistId": 32,
+    "albumId": 61,
+    "duration": 321,
+    "categories": [
+      "workout",
+      "rock",
+      "evening",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_290.mp3",
+    "coverArt": "albums/album_61.jpg",
+    "playCount": 934937,
+    "rating": 4.8,
+    "createdAt": "2022-02-27T00:00:00Z",
+    "updatedAt": "2022-02-27T00:00:00Z"
+  },
+  {
+    "id": 291,
+    "title": "Realigned clear-thinking open system",
+    "artistId": 32,
+    "albumId": 61,
+    "duration": 379,
+    "categories": [
+      "workout",
+      "rock",
+      "evening",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_291.mp3",
+    "coverArt": "albums/album_61.jpg",
+    "playCount": 462018,
+    "rating": 4.7,
+    "createdAt": "2020-10-21T00:00:00Z",
+    "updatedAt": "2020-10-21T00:00:00Z"
+  },
+  {
+    "id": 292,
+    "title": "Future-proofed full-range conglomeration",
+    "artistId": 18,
+    "albumId": 62,
+    "duration": 225,
+    "categories": [
+      "chill",
+      "travel",
+      "ambient",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_292.mp3",
+    "coverArt": "albums/album_62.jpg",
+    "playCount": 963194,
+    "rating": 3.7,
+    "createdAt": "2021-04-02T00:00:00Z",
+    "updatedAt": "2021-04-02T00:00:00Z"
+  },
+  {
+    "id": 293,
+    "title": "Reactive regional parallelism",
+    "artistId": 18,
+    "albumId": 62,
+    "duration": 379,
+    "categories": [
+      "chill",
+      "travel",
+      "ambient",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_293.mp3",
+    "coverArt": "albums/album_62.jpg",
+    "playCount": 313048,
+    "rating": 4.3,
+    "createdAt": "2021-01-16T00:00:00Z",
+    "updatedAt": "2021-01-16T00:00:00Z"
+  },
+  {
+    "id": 294,
+    "title": "Configurable disintermediate throughput",
+    "artistId": 18,
+    "albumId": 62,
+    "duration": 231,
+    "categories": [
+      "chill",
+      "travel",
+      "ambient",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_294.mp3",
+    "coverArt": "albums/album_62.jpg",
+    "playCount": 389892,
+    "rating": 3.2,
+    "createdAt": "2021-04-05T00:00:00Z",
+    "updatedAt": "2021-04-05T00:00:00Z"
+  },
+  {
+    "id": 295,
+    "title": "Self-enabling eco-centric portal",
+    "artistId": 18,
+    "albumId": 62,
+    "duration": 231,
+    "categories": [
+      "chill",
+      "travel",
+      "ambient",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_295.mp3",
+    "coverArt": "albums/album_62.jpg",
+    "playCount": 93285,
+    "rating": 4.5,
+    "createdAt": "2021-03-05T00:00:00Z",
+    "updatedAt": "2021-03-05T00:00:00Z"
+  },
+  {
+    "id": 296,
+    "title": "Ergonomic explicit info-mediaries",
+    "artistId": 18,
+    "albumId": 62,
+    "duration": 184,
+    "categories": [
+      "chill",
+      "travel",
+      "ambient",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_296.mp3",
+    "coverArt": "albums/album_62.jpg",
+    "playCount": 859386,
+    "rating": 3.4,
+    "createdAt": "2021-01-14T00:00:00Z",
+    "updatedAt": "2021-01-14T00:00:00Z"
+  },
+  {
+    "id": 297,
+    "title": "Expanded 24hour database",
+    "artistId": 18,
+    "albumId": 62,
+    "duration": 219,
+    "categories": [
+      "chill",
+      "travel",
+      "ambient",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_297.mp3",
+    "coverArt": "albums/album_62.jpg",
+    "playCount": 682616,
+    "rating": 3.8,
+    "createdAt": "2022-12-29T00:00:00Z",
+    "updatedAt": "2022-12-29T00:00:00Z"
+  },
+  {
+    "id": 298,
+    "title": "Optional empowering project",
+    "artistId": 18,
+    "albumId": 62,
+    "duration": 278,
+    "categories": [
+      "chill",
+      "travel",
+      "ambient",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_298.mp3",
+    "coverArt": "albums/album_62.jpg",
+    "playCount": 107472,
+    "rating": 4.6,
+    "createdAt": "2025-04-11T00:00:00Z",
+    "updatedAt": "2025-04-11T00:00:00Z"
+  },
+  {
+    "id": 299,
+    "title": "Operative contextually-based benchmark",
+    "artistId": 1,
+    "albumId": 63,
+    "duration": 281,
+    "categories": [
+      "energetic",
+      "night",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_299.mp3",
+    "coverArt": "albums/album_63.jpg",
+    "playCount": 735717,
+    "rating": 3.8,
+    "createdAt": "2020-06-02T00:00:00Z",
+    "updatedAt": "2020-06-02T00:00:00Z"
+  },
+  {
+    "id": 300,
+    "title": "Cross-group intermediate moratorium",
+    "artistId": 1,
+    "albumId": 63,
+    "duration": 372,
+    "categories": [
+      "energetic",
+      "night",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_300.mp3",
+    "coverArt": "albums/album_63.jpg",
+    "playCount": 359875,
+    "rating": 4.1,
+    "createdAt": "2024-11-06T00:00:00Z",
+    "updatedAt": "2024-11-06T00:00:00Z"
+  },
+  {
+    "id": 301,
+    "title": "Quality-focused regional portal",
+    "artistId": 1,
+    "albumId": 63,
+    "duration": 404,
+    "categories": [
+      "energetic",
+      "night",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_301.mp3",
+    "coverArt": "albums/album_63.jpg",
+    "playCount": 739337,
+    "rating": 4.5,
+    "createdAt": "2021-03-17T00:00:00Z",
+    "updatedAt": "2021-03-17T00:00:00Z"
+  },
+  {
+    "id": 302,
+    "title": "Synergistic high-level knowledge user",
+    "artistId": 1,
+    "albumId": 63,
+    "duration": 267,
+    "categories": [
+      "energetic",
+      "night",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_302.mp3",
+    "coverArt": "albums/album_63.jpg",
+    "playCount": 789043,
+    "rating": 4.2,
+    "createdAt": "2023-12-10T00:00:00Z",
+    "updatedAt": "2023-12-10T00:00:00Z"
+  },
+  {
+    "id": 303,
+    "title": "Persevering demand-driven methodology",
+    "artistId": 1,
+    "albumId": 63,
+    "duration": 312,
+    "categories": [
+      "energetic",
+      "night",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_303.mp3",
+    "coverArt": "albums/album_63.jpg",
+    "playCount": 625295,
+    "rating": 4.6,
+    "createdAt": "2024-02-09T00:00:00Z",
+    "updatedAt": "2024-02-09T00:00:00Z"
+  },
+  {
+    "id": 304,
+    "title": "Open-source intangible interface",
+    "artistId": 1,
+    "albumId": 63,
+    "duration": 196,
+    "categories": [
+      "energetic",
+      "night",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_304.mp3",
+    "coverArt": "albums/album_63.jpg",
+    "playCount": 340172,
+    "rating": 4.8,
+    "createdAt": "2024-02-24T00:00:00Z",
+    "updatedAt": "2024-02-24T00:00:00Z"
+  },
+  {
+    "id": 305,
+    "title": "Phased empowering groupware",
+    "artistId": 38,
+    "albumId": 64,
+    "duration": 180,
+    "categories": [
+      "chill",
+      "evening",
+      "night",
+      "focus"
+    ],
+    "audioUrl": "songs/song_305.mp3",
+    "coverArt": "albums/album_64.jpg",
+    "playCount": 589504,
+    "rating": 4.3,
+    "createdAt": "2023-12-04T00:00:00Z",
+    "updatedAt": "2023-12-04T00:00:00Z"
+  },
+  {
+    "id": 306,
+    "title": "Devolved radical forecast",
+    "artistId": 38,
+    "albumId": 64,
+    "duration": 277,
+    "categories": [
+      "chill",
+      "evening",
+      "night",
+      "focus"
+    ],
+    "audioUrl": "songs/song_306.mp3",
+    "coverArt": "albums/album_64.jpg",
+    "playCount": 671033,
+    "rating": 3.5,
+    "createdAt": "2022-07-31T00:00:00Z",
+    "updatedAt": "2022-07-31T00:00:00Z"
+  },
+  {
+    "id": 307,
+    "title": "Cross-platform dynamic system engine",
+    "artistId": 38,
+    "albumId": 64,
+    "duration": 300,
+    "categories": [
+      "chill",
+      "evening",
+      "night",
+      "focus"
+    ],
+    "audioUrl": "songs/song_307.mp3",
+    "coverArt": "albums/album_64.jpg",
+    "playCount": 974875,
+    "rating": 4.8,
+    "createdAt": "2024-11-02T00:00:00Z",
+    "updatedAt": "2024-11-02T00:00:00Z"
+  },
+  {
+    "id": 308,
+    "title": "Object-based dedicated implementation",
+    "artistId": 38,
+    "albumId": 64,
+    "duration": 387,
+    "categories": [
+      "chill",
+      "evening",
+      "night",
+      "focus"
+    ],
+    "audioUrl": "songs/song_308.mp3",
+    "coverArt": "albums/album_64.jpg",
+    "playCount": 128665,
+    "rating": 3.3,
+    "createdAt": "2020-03-02T00:00:00Z",
+    "updatedAt": "2020-03-02T00:00:00Z"
+  },
+  {
+    "id": 309,
+    "title": "Business-focused dynamic parallelism",
+    "artistId": 14,
+    "albumId": 65,
+    "duration": 400,
+    "categories": [
+      "workout",
+      "electronic",
+      "study",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_309.mp3",
+    "coverArt": "albums/album_65.jpg",
+    "playCount": 788716,
+    "rating": 4.2,
+    "createdAt": "2022-11-10T00:00:00Z",
+    "updatedAt": "2022-11-10T00:00:00Z"
+  },
+  {
+    "id": 310,
+    "title": "Team-oriented bi-directional framework",
+    "artistId": 14,
+    "albumId": 65,
+    "duration": 259,
+    "categories": [
+      "workout",
+      "electronic",
+      "study",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_310.mp3",
+    "coverArt": "albums/album_65.jpg",
+    "playCount": 521729,
+    "rating": 3.9,
+    "createdAt": "2023-06-06T00:00:00Z",
+    "updatedAt": "2023-06-06T00:00:00Z"
+  },
+  {
+    "id": 311,
+    "title": "Configurable responsive paradigm",
+    "artistId": 14,
+    "albumId": 65,
+    "duration": 351,
+    "categories": [
+      "workout",
+      "electronic",
+      "study",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_311.mp3",
+    "coverArt": "albums/album_65.jpg",
+    "playCount": 874446,
+    "rating": 3.7,
+    "createdAt": "2022-06-19T00:00:00Z",
+    "updatedAt": "2022-06-19T00:00:00Z"
+  },
+  {
+    "id": 312,
+    "title": "Networked solution-oriented time-frame",
+    "artistId": 14,
+    "albumId": 65,
+    "duration": 223,
+    "categories": [
+      "workout",
+      "electronic",
+      "study",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_312.mp3",
+    "coverArt": "albums/album_65.jpg",
+    "playCount": 826856,
+    "rating": 3.5,
+    "createdAt": "2022-06-22T00:00:00Z",
+    "updatedAt": "2022-06-22T00:00:00Z"
+  },
+  {
+    "id": 313,
+    "title": "Programmable leadingedge extranet",
+    "artistId": 14,
+    "albumId": 65,
+    "duration": 415,
+    "categories": [
+      "workout",
+      "electronic",
+      "study",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_313.mp3",
+    "coverArt": "albums/album_65.jpg",
+    "playCount": 581989,
+    "rating": 3.9,
+    "createdAt": "2021-04-05T00:00:00Z",
+    "updatedAt": "2021-04-05T00:00:00Z"
+  },
+  {
+    "id": 314,
+    "title": "Organic optimizing architecture",
+    "artistId": 14,
+    "albumId": 65,
+    "duration": 302,
+    "categories": [
+      "workout",
+      "electronic",
+      "study",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_314.mp3",
+    "coverArt": "albums/album_65.jpg",
+    "playCount": 911927,
+    "rating": 3.5,
+    "createdAt": "2023-03-21T00:00:00Z",
+    "updatedAt": "2023-03-21T00:00:00Z"
+  },
+  {
+    "id": 315,
+    "title": "Enhanced even-keeled policy",
+    "artistId": 14,
+    "albumId": 65,
+    "duration": 383,
+    "categories": [
+      "workout",
+      "electronic",
+      "study",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_315.mp3",
+    "coverArt": "albums/album_65.jpg",
+    "playCount": 489366,
+    "rating": 3.9,
+    "createdAt": "2024-11-12T00:00:00Z",
+    "updatedAt": "2024-11-12T00:00:00Z"
+  },
+  {
+    "id": 316,
+    "title": "Open-architected global ability",
+    "artistId": 11,
+    "albumId": 66,
+    "duration": 396,
+    "categories": [
+      "chill",
+      "pop",
+      "meditation",
+      "energetic"
+    ],
+    "audioUrl": "songs/song_316.mp3",
+    "coverArt": "albums/album_66.jpg",
+    "playCount": 165615,
+    "rating": 3.6,
+    "createdAt": "2023-04-01T00:00:00Z",
+    "updatedAt": "2023-04-01T00:00:00Z"
+  },
+  {
+    "id": 317,
+    "title": "Managed multi-tasking utilization",
+    "artistId": 11,
+    "albumId": 66,
+    "duration": 184,
+    "categories": [
+      "chill",
+      "pop",
+      "meditation",
+      "energetic"
+    ],
+    "audioUrl": "songs/song_317.mp3",
+    "coverArt": "albums/album_66.jpg",
+    "playCount": 586265,
+    "rating": 4.4,
+    "createdAt": "2023-05-01T00:00:00Z",
+    "updatedAt": "2023-05-01T00:00:00Z"
+  },
+  {
+    "id": 318,
+    "title": "Customizable value-added intranet",
+    "artistId": 11,
+    "albumId": 66,
+    "duration": 200,
+    "categories": [
+      "chill",
+      "pop",
+      "meditation",
+      "energetic"
+    ],
+    "audioUrl": "songs/song_318.mp3",
+    "coverArt": "albums/album_66.jpg",
+    "playCount": 417002,
+    "rating": 3.2,
+    "createdAt": "2024-05-11T00:00:00Z",
+    "updatedAt": "2024-05-11T00:00:00Z"
+  },
+  {
+    "id": 319,
+    "title": "Down-sized content-based system engine",
+    "artistId": 11,
+    "albumId": 66,
+    "duration": 318,
+    "categories": [
+      "chill",
+      "pop",
+      "meditation",
+      "energetic"
+    ],
+    "audioUrl": "songs/song_319.mp3",
+    "coverArt": "albums/album_66.jpg",
+    "playCount": 292529,
+    "rating": 5.0,
+    "createdAt": "2022-10-31T00:00:00Z",
+    "updatedAt": "2022-10-31T00:00:00Z"
+  },
+  {
+    "id": 320,
+    "title": "Configurable modular approach",
+    "artistId": 11,
+    "albumId": 66,
+    "duration": 303,
+    "categories": [
+      "chill",
+      "pop",
+      "meditation",
+      "energetic"
+    ],
+    "audioUrl": "songs/song_320.mp3",
+    "coverArt": "albums/album_66.jpg",
+    "playCount": 361924,
+    "rating": 3.1,
+    "createdAt": "2022-11-01T00:00:00Z",
+    "updatedAt": "2022-11-01T00:00:00Z"
+  },
+  {
+    "id": 321,
+    "title": "Multi-layered local application",
+    "artistId": 11,
+    "albumId": 66,
+    "duration": 414,
+    "categories": [
+      "chill",
+      "pop",
+      "meditation",
+      "energetic"
+    ],
+    "audioUrl": "songs/song_321.mp3",
+    "coverArt": "albums/album_66.jpg",
+    "playCount": 350428,
+    "rating": 4.5,
+    "createdAt": "2023-05-04T00:00:00Z",
+    "updatedAt": "2023-05-04T00:00:00Z"
+  },
+  {
+    "id": 322,
+    "title": "Universal needs-based framework",
+    "artistId": 31,
+    "albumId": 67,
+    "duration": 384,
+    "categories": [
+      "electronic",
+      "melancholic",
+      "afternoon",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_322.mp3",
+    "coverArt": "albums/album_67.jpg",
+    "playCount": 565561,
+    "rating": 4.3,
+    "createdAt": "2022-07-05T00:00:00Z",
+    "updatedAt": "2022-07-05T00:00:00Z"
+  },
+  {
+    "id": 323,
+    "title": "Proactive heuristic contingency",
+    "artistId": 31,
+    "albumId": 67,
+    "duration": 354,
+    "categories": [
+      "electronic",
+      "melancholic",
+      "afternoon",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_323.mp3",
+    "coverArt": "albums/album_67.jpg",
+    "playCount": 34524,
+    "rating": 4.1,
+    "createdAt": "2024-01-28T00:00:00Z",
+    "updatedAt": "2024-01-28T00:00:00Z"
+  },
+  {
+    "id": 324,
+    "title": "Customer-focused holistic architecture",
+    "artistId": 31,
+    "albumId": 67,
+    "duration": 415,
+    "categories": [
+      "electronic",
+      "melancholic",
+      "afternoon",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_324.mp3",
+    "coverArt": "albums/album_67.jpg",
+    "playCount": 999951,
+    "rating": 3.0,
+    "createdAt": "2024-11-24T00:00:00Z",
+    "updatedAt": "2024-11-24T00:00:00Z"
+  },
+  {
+    "id": 325,
+    "title": "Realigned full-range matrices",
+    "artistId": 31,
+    "albumId": 67,
+    "duration": 285,
+    "categories": [
+      "electronic",
+      "melancholic",
+      "afternoon",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_325.mp3",
+    "coverArt": "albums/album_67.jpg",
+    "playCount": 513849,
+    "rating": 4.9,
+    "createdAt": "2024-12-25T00:00:00Z",
+    "updatedAt": "2024-12-25T00:00:00Z"
+  },
+  {
+    "id": 326,
+    "title": "Streamlined 5thgeneration moderator",
+    "artistId": 19,
+    "albumId": 68,
+    "duration": 281,
+    "categories": [
+      "morning",
+      "electronic",
+      "travel",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_326.mp3",
+    "coverArt": "albums/album_68.jpg",
+    "playCount": 608663,
+    "rating": 3.9,
+    "createdAt": "2024-09-03T00:00:00Z",
+    "updatedAt": "2024-09-03T00:00:00Z"
+  },
+  {
+    "id": 327,
+    "title": "Cross-platform uniform strategy",
+    "artistId": 19,
+    "albumId": 68,
+    "duration": 195,
+    "categories": [
+      "morning",
+      "electronic",
+      "travel",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_327.mp3",
+    "coverArt": "albums/album_68.jpg",
+    "playCount": 191027,
+    "rating": 3.2,
+    "createdAt": "2024-10-12T00:00:00Z",
+    "updatedAt": "2024-10-12T00:00:00Z"
+  },
+  {
+    "id": 328,
+    "title": "Polarized didactic adapter",
+    "artistId": 19,
+    "albumId": 68,
+    "duration": 420,
+    "categories": [
+      "morning",
+      "electronic",
+      "travel",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_328.mp3",
+    "coverArt": "albums/album_68.jpg",
+    "playCount": 817941,
+    "rating": 4.3,
+    "createdAt": "2024-02-11T00:00:00Z",
+    "updatedAt": "2024-02-11T00:00:00Z"
+  },
+  {
+    "id": 329,
+    "title": "Devolved dynamic definition",
+    "artistId": 19,
+    "albumId": 68,
+    "duration": 229,
+    "categories": [
+      "morning",
+      "electronic",
+      "travel",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_329.mp3",
+    "coverArt": "albums/album_68.jpg",
+    "playCount": 814489,
+    "rating": 3.3,
+    "createdAt": "2025-04-15T00:00:00Z",
+    "updatedAt": "2025-04-15T00:00:00Z"
+  },
+  {
+    "id": 330,
+    "title": "Integrated context-sensitive instruction set",
+    "artistId": 19,
+    "albumId": 68,
+    "duration": 383,
+    "categories": [
+      "morning",
+      "electronic",
+      "travel",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_330.mp3",
+    "coverArt": "albums/album_68.jpg",
+    "playCount": 615654,
+    "rating": 4.9,
+    "createdAt": "2023-03-05T00:00:00Z",
+    "updatedAt": "2023-03-05T00:00:00Z"
+  },
+  {
+    "id": 331,
+    "title": "Universal next generation software",
+    "artistId": 19,
+    "albumId": 68,
+    "duration": 243,
+    "categories": [
+      "morning",
+      "electronic",
+      "travel",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_331.mp3",
+    "coverArt": "albums/album_68.jpg",
+    "playCount": 995470,
+    "rating": 4.6,
+    "createdAt": "2020-04-05T00:00:00Z",
+    "updatedAt": "2020-04-05T00:00:00Z"
+  },
+  {
+    "id": 332,
+    "title": "De-engineered system-worthy archive",
+    "artistId": 6,
+    "albumId": 69,
+    "duration": 328,
+    "categories": [
+      "rock",
+      "melancholic",
+      "afternoon",
+      "jazz"
+    ],
+    "audioUrl": "songs/song_332.mp3",
+    "coverArt": "albums/album_69.jpg",
+    "playCount": 340822,
+    "rating": 3.8,
+    "createdAt": "2021-04-22T00:00:00Z",
+    "updatedAt": "2021-04-22T00:00:00Z"
+  },
+  {
+    "id": 333,
+    "title": "Adaptive analyzing migration",
+    "artistId": 6,
+    "albumId": 69,
+    "duration": 385,
+    "categories": [
+      "rock",
+      "melancholic",
+      "afternoon",
+      "jazz"
+    ],
+    "audioUrl": "songs/song_333.mp3",
+    "coverArt": "albums/album_69.jpg",
+    "playCount": 404603,
+    "rating": 4.4,
+    "createdAt": "2020-11-17T00:00:00Z",
+    "updatedAt": "2020-11-17T00:00:00Z"
+  },
+  {
+    "id": 334,
+    "title": "Monitored tangible moderator",
+    "artistId": 6,
+    "albumId": 69,
+    "duration": 384,
+    "categories": [
+      "rock",
+      "melancholic",
+      "afternoon",
+      "jazz"
+    ],
+    "audioUrl": "songs/song_334.mp3",
+    "coverArt": "albums/album_69.jpg",
+    "playCount": 962884,
+    "rating": 3.8,
+    "createdAt": "2023-05-23T00:00:00Z",
+    "updatedAt": "2023-05-23T00:00:00Z"
+  },
+  {
+    "id": 335,
+    "title": "Horizontal background archive",
+    "artistId": 6,
+    "albumId": 69,
+    "duration": 186,
+    "categories": [
+      "rock",
+      "melancholic",
+      "afternoon",
+      "jazz"
+    ],
+    "audioUrl": "songs/song_335.mp3",
+    "coverArt": "albums/album_69.jpg",
+    "playCount": 699827,
+    "rating": 3.8,
+    "createdAt": "2022-08-19T00:00:00Z",
+    "updatedAt": "2022-08-19T00:00:00Z"
+  },
+  {
+    "id": 336,
+    "title": "Operative static standardization",
+    "artistId": 6,
+    "albumId": 69,
+    "duration": 189,
+    "categories": [
+      "rock",
+      "melancholic",
+      "afternoon",
+      "jazz"
+    ],
+    "audioUrl": "songs/song_336.mp3",
+    "coverArt": "albums/album_69.jpg",
+    "playCount": 478125,
+    "rating": 4.5,
+    "createdAt": "2020-02-07T00:00:00Z",
+    "updatedAt": "2020-02-07T00:00:00Z"
+  },
+  {
+    "id": 337,
+    "title": "Re-contextualized actuating benchmark",
+    "artistId": 6,
+    "albumId": 69,
+    "duration": 237,
+    "categories": [
+      "rock",
+      "melancholic",
+      "afternoon",
+      "jazz"
+    ],
+    "audioUrl": "songs/song_337.mp3",
+    "coverArt": "albums/album_69.jpg",
+    "playCount": 166600,
+    "rating": 3.9,
+    "createdAt": "2020-01-19T00:00:00Z",
+    "updatedAt": "2020-01-19T00:00:00Z"
+  },
+  {
+    "id": 338,
+    "title": "Integrated human-resource approach",
+    "artistId": 12,
+    "albumId": 70,
+    "duration": 262,
+    "categories": [
+      "electronic",
+      "travel",
+      "study"
+    ],
+    "audioUrl": "songs/song_338.mp3",
+    "coverArt": "albums/album_70.jpg",
+    "playCount": 262664,
+    "rating": 3.4,
+    "createdAt": "2021-02-27T00:00:00Z",
+    "updatedAt": "2021-02-27T00:00:00Z"
+  },
+  {
+    "id": 339,
+    "title": "Adaptive bi-directional portal",
+    "artistId": 12,
+    "albumId": 70,
+    "duration": 403,
+    "categories": [
+      "electronic",
+      "travel",
+      "study"
+    ],
+    "audioUrl": "songs/song_339.mp3",
+    "coverArt": "albums/album_70.jpg",
+    "playCount": 572311,
+    "rating": 4.0,
+    "createdAt": "2023-02-18T00:00:00Z",
+    "updatedAt": "2023-02-18T00:00:00Z"
+  },
+  {
+    "id": 340,
+    "title": "Fully-configurable multi-state secured line",
+    "artistId": 12,
+    "albumId": 70,
+    "duration": 198,
+    "categories": [
+      "electronic",
+      "travel",
+      "study"
+    ],
+    "audioUrl": "songs/song_340.mp3",
+    "coverArt": "albums/album_70.jpg",
+    "playCount": 75617,
+    "rating": 3.3,
+    "createdAt": "2020-07-04T00:00:00Z",
+    "updatedAt": "2020-07-04T00:00:00Z"
+  },
+  {
+    "id": 341,
+    "title": "Re-engineered high-level alliance",
+    "artistId": 12,
+    "albumId": 70,
+    "duration": 263,
+    "categories": [
+      "electronic",
+      "travel",
+      "study"
+    ],
+    "audioUrl": "songs/song_341.mp3",
+    "coverArt": "albums/album_70.jpg",
+    "playCount": 95337,
+    "rating": 3.3,
+    "createdAt": "2022-05-31T00:00:00Z",
+    "updatedAt": "2022-05-31T00:00:00Z"
+  },
+  {
+    "id": 342,
+    "title": "Up-sized maximized focus group",
+    "artistId": 12,
+    "albumId": 70,
+    "duration": 398,
+    "categories": [
+      "electronic",
+      "travel",
+      "study"
+    ],
+    "audioUrl": "songs/song_342.mp3",
+    "coverArt": "albums/album_70.jpg",
+    "playCount": 356235,
+    "rating": 4.7,
+    "createdAt": "2022-02-21T00:00:00Z",
+    "updatedAt": "2022-02-21T00:00:00Z"
+  },
+  {
+    "id": 343,
+    "title": "Phased demand-driven website",
+    "artistId": 14,
+    "albumId": 71,
+    "duration": 411,
+    "categories": [
+      "workout",
+      "electronic",
+      "study",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_343.mp3",
+    "coverArt": "albums/album_71.jpg",
+    "playCount": 900220,
+    "rating": 4.3,
+    "createdAt": "2021-04-01T00:00:00Z",
+    "updatedAt": "2021-04-01T00:00:00Z"
+  },
+  {
+    "id": 344,
+    "title": "Phased bifurcated collaboration",
+    "artistId": 14,
+    "albumId": 71,
+    "duration": 204,
+    "categories": [
+      "workout",
+      "electronic",
+      "study",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_344.mp3",
+    "coverArt": "albums/album_71.jpg",
+    "playCount": 293782,
+    "rating": 3.3,
+    "createdAt": "2021-12-08T00:00:00Z",
+    "updatedAt": "2021-12-08T00:00:00Z"
+  },
+  {
+    "id": 345,
+    "title": "Enterprise-wide asymmetric frame",
+    "artistId": 14,
+    "albumId": 71,
+    "duration": 247,
+    "categories": [
+      "workout",
+      "electronic",
+      "study",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_345.mp3",
+    "coverArt": "albums/album_71.jpg",
+    "playCount": 349623,
+    "rating": 3.2,
+    "createdAt": "2021-04-30T00:00:00Z",
+    "updatedAt": "2021-04-30T00:00:00Z"
+  },
+  {
+    "id": 346,
+    "title": "Function-based composite alliance",
+    "artistId": 14,
+    "albumId": 71,
+    "duration": 379,
+    "categories": [
+      "workout",
+      "electronic",
+      "study",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_346.mp3",
+    "coverArt": "albums/album_71.jpg",
+    "playCount": 487471,
+    "rating": 4.6,
+    "createdAt": "2024-09-07T00:00:00Z",
+    "updatedAt": "2024-09-07T00:00:00Z"
+  },
+  {
+    "id": 347,
+    "title": "De-engineered directional complexity",
+    "artistId": 14,
+    "albumId": 71,
+    "duration": 247,
+    "categories": [
+      "workout",
+      "electronic",
+      "study",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_347.mp3",
+    "coverArt": "albums/album_71.jpg",
+    "playCount": 396127,
+    "rating": 3.0,
+    "createdAt": "2023-01-20T00:00:00Z",
+    "updatedAt": "2023-01-20T00:00:00Z"
+  },
+  {
+    "id": 348,
+    "title": "Vision-oriented methodical instruction set",
+    "artistId": 14,
+    "albumId": 71,
+    "duration": 208,
+    "categories": [
+      "workout",
+      "electronic",
+      "study",
+      "experimental"
+    ],
+    "audioUrl": "songs/song_348.mp3",
+    "coverArt": "albums/album_71.jpg",
+    "playCount": 510864,
+    "rating": 3.7,
+    "createdAt": "2023-03-02T00:00:00Z",
+    "updatedAt": "2023-03-02T00:00:00Z"
+  },
+  {
+    "id": 349,
+    "title": "Networked holistic extranet",
+    "artistId": 20,
+    "albumId": 72,
+    "duration": 360,
+    "categories": [
+      "rock",
+      "ambient",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_349.mp3",
+    "coverArt": "albums/album_72.jpg",
+    "playCount": 991661,
+    "rating": 4.9,
+    "createdAt": "2022-03-02T00:00:00Z",
+    "updatedAt": "2022-03-02T00:00:00Z"
+  },
+  {
+    "id": 350,
+    "title": "Robust scalable installation",
+    "artistId": 20,
+    "albumId": 72,
+    "duration": 361,
+    "categories": [
+      "rock",
+      "ambient",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_350.mp3",
+    "coverArt": "albums/album_72.jpg",
+    "playCount": 427259,
+    "rating": 3.6,
+    "createdAt": "2021-09-10T00:00:00Z",
+    "updatedAt": "2021-09-10T00:00:00Z"
+  },
+  {
+    "id": 351,
+    "title": "Persevering optimizing policy",
+    "artistId": 20,
+    "albumId": 72,
+    "duration": 404,
+    "categories": [
+      "rock",
+      "ambient",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_351.mp3",
+    "coverArt": "albums/album_72.jpg",
+    "playCount": 410222,
+    "rating": 4.4,
+    "createdAt": "2023-12-20T00:00:00Z",
+    "updatedAt": "2023-12-20T00:00:00Z"
+  },
+  {
+    "id": 352,
+    "title": "Persistent 24hour workforce",
+    "artistId": 20,
+    "albumId": 72,
+    "duration": 265,
+    "categories": [
+      "rock",
+      "ambient",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_352.mp3",
+    "coverArt": "albums/album_72.jpg",
+    "playCount": 680006,
+    "rating": 3.1,
+    "createdAt": "2023-09-08T00:00:00Z",
+    "updatedAt": "2023-09-08T00:00:00Z"
+  },
+  {
+    "id": 353,
+    "title": "Front-line discrete software",
+    "artistId": 20,
+    "albumId": 72,
+    "duration": 338,
+    "categories": [
+      "rock",
+      "ambient",
+      "afternoon"
+    ],
+    "audioUrl": "songs/song_353.mp3",
+    "coverArt": "albums/album_72.jpg",
+    "playCount": 628926,
+    "rating": 4.9,
+    "createdAt": "2021-10-22T00:00:00Z",
+    "updatedAt": "2021-10-22T00:00:00Z"
+  },
+  {
+    "id": 354,
+    "title": "Seamless 24/7 emulation",
+    "artistId": 13,
+    "albumId": 73,
+    "duration": 322,
+    "categories": [
+      "energetic",
+      "electronic",
+      "night",
+      "study"
+    ],
+    "audioUrl": "songs/song_354.mp3",
+    "coverArt": "albums/album_73.jpg",
+    "playCount": 28424,
+    "rating": 4.0,
+    "createdAt": "2020-02-03T00:00:00Z",
+    "updatedAt": "2020-02-03T00:00:00Z"
+  },
+  {
+    "id": 355,
+    "title": "Versatile executive model",
+    "artistId": 13,
+    "albumId": 73,
+    "duration": 268,
+    "categories": [
+      "energetic",
+      "electronic",
+      "night",
+      "study"
+    ],
+    "audioUrl": "songs/song_355.mp3",
+    "coverArt": "albums/album_73.jpg",
+    "playCount": 782253,
+    "rating": 3.9,
+    "createdAt": "2025-05-08T00:00:00Z",
+    "updatedAt": "2025-05-08T00:00:00Z"
+  },
+  {
+    "id": 356,
+    "title": "Reduced well-modulated instruction set",
+    "artistId": 13,
+    "albumId": 73,
+    "duration": 317,
+    "categories": [
+      "energetic",
+      "electronic",
+      "night",
+      "study"
+    ],
+    "audioUrl": "songs/song_356.mp3",
+    "coverArt": "albums/album_73.jpg",
+    "playCount": 929549,
+    "rating": 4.1,
+    "createdAt": "2023-11-11T00:00:00Z",
+    "updatedAt": "2023-11-11T00:00:00Z"
+  },
+  {
+    "id": 357,
+    "title": "Self-enabling leadingedge capability",
+    "artistId": 35,
+    "albumId": 74,
+    "duration": 383,
+    "categories": [
+      "rock",
+      "night",
+      "melancholic",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_357.mp3",
+    "coverArt": "albums/album_74.jpg",
+    "playCount": 950431,
+    "rating": 4.4,
+    "createdAt": "2021-05-24T00:00:00Z",
+    "updatedAt": "2021-05-24T00:00:00Z"
+  },
+  {
+    "id": 358,
+    "title": "Centralized radical open system",
+    "artistId": 35,
+    "albumId": 74,
+    "duration": 202,
+    "categories": [
+      "rock",
+      "night",
+      "melancholic",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_358.mp3",
+    "coverArt": "albums/album_74.jpg",
+    "playCount": 933998,
+    "rating": 3.9,
+    "createdAt": "2023-04-06T00:00:00Z",
+    "updatedAt": "2023-04-06T00:00:00Z"
+  },
+  {
+    "id": 359,
+    "title": "Automated even-keeled firmware",
+    "artistId": 35,
+    "albumId": 74,
+    "duration": 368,
+    "categories": [
+      "rock",
+      "night",
+      "melancholic",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_359.mp3",
+    "coverArt": "albums/album_74.jpg",
+    "playCount": 887562,
+    "rating": 3.5,
+    "createdAt": "2023-11-10T00:00:00Z",
+    "updatedAt": "2023-11-10T00:00:00Z"
+  },
+  {
+    "id": 360,
+    "title": "Cross-group encompassing installation",
+    "artistId": 35,
+    "albumId": 74,
+    "duration": 190,
+    "categories": [
+      "rock",
+      "night",
+      "melancholic",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_360.mp3",
+    "coverArt": "albums/album_74.jpg",
+    "playCount": 401709,
+    "rating": 3.3,
+    "createdAt": "2025-04-13T00:00:00Z",
+    "updatedAt": "2025-04-13T00:00:00Z"
+  },
+  {
+    "id": 361,
+    "title": "Enterprise-wide 4thgeneration alliance",
+    "artistId": 35,
+    "albumId": 74,
+    "duration": 231,
+    "categories": [
+      "rock",
+      "night",
+      "melancholic",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_361.mp3",
+    "coverArt": "albums/album_74.jpg",
+    "playCount": 929767,
+    "rating": 3.1,
+    "createdAt": "2020-04-26T00:00:00Z",
+    "updatedAt": "2020-04-26T00:00:00Z"
+  },
+  {
+    "id": 362,
+    "title": "Down-sized tertiary hub",
+    "artistId": 35,
+    "albumId": 74,
+    "duration": 287,
+    "categories": [
+      "rock",
+      "night",
+      "melancholic",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_362.mp3",
+    "coverArt": "albums/album_74.jpg",
+    "playCount": 788088,
+    "rating": 3.6,
+    "createdAt": "2024-03-24T00:00:00Z",
+    "updatedAt": "2024-03-24T00:00:00Z"
+  },
+  {
+    "id": 363,
+    "title": "Mandatory tangible installation",
+    "artistId": 35,
+    "albumId": 74,
+    "duration": 366,
+    "categories": [
+      "rock",
+      "night",
+      "melancholic",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_363.mp3",
+    "coverArt": "albums/album_74.jpg",
+    "playCount": 238552,
+    "rating": 4.0,
+    "createdAt": "2024-05-10T00:00:00Z",
+    "updatedAt": "2024-05-10T00:00:00Z"
+  },
+  {
+    "id": 364,
+    "title": "Universal bi-directional toolset",
+    "artistId": 31,
+    "albumId": 75,
+    "duration": 305,
+    "categories": [
+      "ambient",
+      "travel",
+      "melancholic",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_364.mp3",
+    "coverArt": "albums/album_75.jpg",
+    "playCount": 371024,
+    "rating": 3.5,
+    "createdAt": "2020-08-17T00:00:00Z",
+    "updatedAt": "2020-08-17T00:00:00Z"
+  },
+  {
+    "id": 365,
+    "title": "Universal bottom-line challenge",
+    "artistId": 31,
+    "albumId": 75,
+    "duration": 379,
+    "categories": [
+      "ambient",
+      "travel",
+      "melancholic",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_365.mp3",
+    "coverArt": "albums/album_75.jpg",
+    "playCount": 285717,
+    "rating": 4.3,
+    "createdAt": "2021-04-28T00:00:00Z",
+    "updatedAt": "2021-04-28T00:00:00Z"
+  },
+  {
+    "id": 366,
+    "title": "Re-engineered human-resource matrices",
+    "artistId": 31,
+    "albumId": 75,
+    "duration": 279,
+    "categories": [
+      "ambient",
+      "travel",
+      "melancholic",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_366.mp3",
+    "coverArt": "albums/album_75.jpg",
+    "playCount": 298412,
+    "rating": 4.5,
+    "createdAt": "2025-02-26T00:00:00Z",
+    "updatedAt": "2025-02-26T00:00:00Z"
+  },
+  {
+    "id": 367,
+    "title": "Reverse-engineered coherent encoding",
+    "artistId": 31,
+    "albumId": 75,
+    "duration": 379,
+    "categories": [
+      "ambient",
+      "travel",
+      "melancholic",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_367.mp3",
+    "coverArt": "albums/album_75.jpg",
+    "playCount": 377771,
+    "rating": 3.3,
+    "createdAt": "2023-10-20T00:00:00Z",
+    "updatedAt": "2023-10-20T00:00:00Z"
+  },
+  {
+    "id": 368,
+    "title": "Secured 3rdgeneration ability",
+    "artistId": 31,
+    "albumId": 75,
+    "duration": 270,
+    "categories": [
+      "ambient",
+      "travel",
+      "melancholic",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_368.mp3",
+    "coverArt": "albums/album_75.jpg",
+    "playCount": 306664,
+    "rating": 4.5,
+    "createdAt": "2020-08-17T00:00:00Z",
+    "updatedAt": "2020-08-17T00:00:00Z"
+  },
+  {
+    "id": 369,
+    "title": "Multi-channeled asymmetric instruction set",
+    "artistId": 31,
+    "albumId": 75,
+    "duration": 390,
+    "categories": [
+      "ambient",
+      "travel",
+      "melancholic",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_369.mp3",
+    "coverArt": "albums/album_75.jpg",
+    "playCount": 279776,
+    "rating": 4.1,
+    "createdAt": "2024-11-07T00:00:00Z",
+    "updatedAt": "2024-11-07T00:00:00Z"
+  },
+  {
+    "id": 370,
+    "title": "Secured non-volatile groupware",
+    "artistId": 31,
+    "albumId": 75,
+    "duration": 419,
+    "categories": [
+      "ambient",
+      "travel",
+      "melancholic",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_370.mp3",
+    "coverArt": "albums/album_75.jpg",
+    "playCount": 592642,
+    "rating": 4.6,
+    "createdAt": "2020-01-20T00:00:00Z",
+    "updatedAt": "2020-01-20T00:00:00Z"
+  },
+  {
+    "id": 371,
+    "title": "Synchronized human-resource encryption",
+    "artistId": 8,
+    "albumId": 76,
+    "duration": 267,
+    "categories": [
+      "pop",
+      "evening",
+      "melancholic"
+    ],
+    "audioUrl": "songs/song_371.mp3",
+    "coverArt": "albums/album_76.jpg",
+    "playCount": 651694,
+    "rating": 3.0,
+    "createdAt": "2022-01-06T00:00:00Z",
+    "updatedAt": "2022-01-06T00:00:00Z"
+  },
+  {
+    "id": 372,
+    "title": "Expanded cohesive knowledgebase",
+    "artistId": 8,
+    "albumId": 76,
+    "duration": 273,
+    "categories": [
+      "pop",
+      "evening",
+      "melancholic"
+    ],
+    "audioUrl": "songs/song_372.mp3",
+    "coverArt": "albums/album_76.jpg",
+    "playCount": 758837,
+    "rating": 4.9,
+    "createdAt": "2022-12-31T00:00:00Z",
+    "updatedAt": "2022-12-31T00:00:00Z"
+  },
+  {
+    "id": 373,
+    "title": "Realigned 5thgeneration extranet",
+    "artistId": 8,
+    "albumId": 76,
+    "duration": 199,
+    "categories": [
+      "pop",
+      "evening",
+      "melancholic"
+    ],
+    "audioUrl": "songs/song_373.mp3",
+    "coverArt": "albums/album_76.jpg",
+    "playCount": 500912,
+    "rating": 4.4,
+    "createdAt": "2023-02-24T00:00:00Z",
+    "updatedAt": "2023-02-24T00:00:00Z"
+  },
+  {
+    "id": 374,
+    "title": "Optimized optimizing complexity",
+    "artistId": 8,
+    "albumId": 76,
+    "duration": 270,
+    "categories": [
+      "pop",
+      "evening",
+      "melancholic"
+    ],
+    "audioUrl": "songs/song_374.mp3",
+    "coverArt": "albums/album_76.jpg",
+    "playCount": 377696,
+    "rating": 3.4,
+    "createdAt": "2020-04-23T00:00:00Z",
+    "updatedAt": "2020-04-23T00:00:00Z"
+  },
+  {
+    "id": 375,
+    "title": "Ameliorated stable concept",
+    "artistId": 8,
+    "albumId": 76,
+    "duration": 233,
+    "categories": [
+      "pop",
+      "evening",
+      "melancholic"
+    ],
+    "audioUrl": "songs/song_375.mp3",
+    "coverArt": "albums/album_76.jpg",
+    "playCount": 690059,
+    "rating": 4.4,
+    "createdAt": "2023-03-14T00:00:00Z",
+    "updatedAt": "2023-03-14T00:00:00Z"
+  },
+  {
+    "id": 376,
+    "title": "Phased interactive instruction set",
+    "artistId": 22,
+    "albumId": 77,
+    "duration": 353,
+    "categories": [
+      "experimental",
+      "morning",
+      "workout",
+      "focus"
+    ],
+    "audioUrl": "songs/song_376.mp3",
+    "coverArt": "albums/album_77.jpg",
+    "playCount": 729221,
+    "rating": 3.5,
+    "createdAt": "2020-10-22T00:00:00Z",
+    "updatedAt": "2020-10-22T00:00:00Z"
+  },
+  {
+    "id": 377,
+    "title": "Centralized radical implementation",
+    "artistId": 22,
+    "albumId": 77,
+    "duration": 329,
+    "categories": [
+      "experimental",
+      "morning",
+      "workout",
+      "focus"
+    ],
+    "audioUrl": "songs/song_377.mp3",
+    "coverArt": "albums/album_77.jpg",
+    "playCount": 441978,
+    "rating": 3.1,
+    "createdAt": "2020-09-09T00:00:00Z",
+    "updatedAt": "2020-09-09T00:00:00Z"
+  },
+  {
+    "id": 378,
+    "title": "Managed asynchronous contingency",
+    "artistId": 22,
+    "albumId": 77,
+    "duration": 363,
+    "categories": [
+      "experimental",
+      "morning",
+      "workout",
+      "focus"
+    ],
+    "audioUrl": "songs/song_378.mp3",
+    "coverArt": "albums/album_77.jpg",
+    "playCount": 853586,
+    "rating": 4.6,
+    "createdAt": "2025-03-19T00:00:00Z",
+    "updatedAt": "2025-03-19T00:00:00Z"
+  },
+  {
+    "id": 379,
+    "title": "Down-sized intangible interface",
+    "artistId": 22,
+    "albumId": 77,
+    "duration": 393,
+    "categories": [
+      "experimental",
+      "morning",
+      "workout",
+      "focus"
+    ],
+    "audioUrl": "songs/song_379.mp3",
+    "coverArt": "albums/album_77.jpg",
+    "playCount": 411203,
+    "rating": 4.8,
+    "createdAt": "2025-01-06T00:00:00Z",
+    "updatedAt": "2025-01-06T00:00:00Z"
+  },
+  {
+    "id": 380,
+    "title": "User-friendly optimal open architecture",
+    "artistId": 22,
+    "albumId": 77,
+    "duration": 207,
+    "categories": [
+      "experimental",
+      "morning",
+      "workout",
+      "focus"
+    ],
+    "audioUrl": "songs/song_380.mp3",
+    "coverArt": "albums/album_77.jpg",
+    "playCount": 236315,
+    "rating": 4.6,
+    "createdAt": "2025-01-14T00:00:00Z",
+    "updatedAt": "2025-01-14T00:00:00Z"
+  },
+  {
+    "id": 381,
+    "title": "Progressive hybrid ability",
+    "artistId": 12,
+    "albumId": 78,
+    "duration": 218,
+    "categories": [
+      "afternoon",
+      "travel",
+      "study",
+      "focus"
+    ],
+    "audioUrl": "songs/song_381.mp3",
+    "coverArt": "albums/album_78.jpg",
+    "playCount": 457915,
+    "rating": 4.3,
+    "createdAt": "2023-06-11T00:00:00Z",
+    "updatedAt": "2023-06-11T00:00:00Z"
+  },
+  {
+    "id": 382,
+    "title": "Right-sized foreground pricing structure",
+    "artistId": 12,
+    "albumId": 78,
+    "duration": 219,
+    "categories": [
+      "afternoon",
+      "travel",
+      "study",
+      "focus"
+    ],
+    "audioUrl": "songs/song_382.mp3",
+    "coverArt": "albums/album_78.jpg",
+    "playCount": 510635,
+    "rating": 3.7,
+    "createdAt": "2023-01-01T00:00:00Z",
+    "updatedAt": "2023-01-01T00:00:00Z"
+  },
+  {
+    "id": 383,
+    "title": "Cross-platform well-modulated functionalities",
+    "artistId": 12,
+    "albumId": 78,
+    "duration": 259,
+    "categories": [
+      "afternoon",
+      "travel",
+      "study",
+      "focus"
+    ],
+    "audioUrl": "songs/song_383.mp3",
+    "coverArt": "albums/album_78.jpg",
+    "playCount": 353944,
+    "rating": 4.4,
+    "createdAt": "2022-12-30T00:00:00Z",
+    "updatedAt": "2022-12-30T00:00:00Z"
+  },
+  {
+    "id": 384,
+    "title": "Customer-focused demand-driven circuit",
+    "artistId": 12,
+    "albumId": 78,
+    "duration": 291,
+    "categories": [
+      "afternoon",
+      "travel",
+      "study",
+      "focus"
+    ],
+    "audioUrl": "songs/song_384.mp3",
+    "coverArt": "albums/album_78.jpg",
+    "playCount": 35073,
+    "rating": 3.0,
+    "createdAt": "2024-10-25T00:00:00Z",
+    "updatedAt": "2024-10-25T00:00:00Z"
+  },
+  {
+    "id": 385,
+    "title": "Universal intangible encryption",
+    "artistId": 12,
+    "albumId": 78,
+    "duration": 372,
+    "categories": [
+      "afternoon",
+      "travel",
+      "study",
+      "focus"
+    ],
+    "audioUrl": "songs/song_385.mp3",
+    "coverArt": "albums/album_78.jpg",
+    "playCount": 80508,
+    "rating": 4.2,
+    "createdAt": "2023-01-29T00:00:00Z",
+    "updatedAt": "2023-01-29T00:00:00Z"
+  },
+  {
+    "id": 386,
+    "title": "Enterprise-wide zero-defect core",
+    "artistId": 28,
+    "albumId": 79,
+    "duration": 327,
+    "categories": [
+      "morning",
+      "electronic",
+      "night"
+    ],
+    "audioUrl": "songs/song_386.mp3",
+    "coverArt": "albums/album_79.jpg",
+    "playCount": 500869,
+    "rating": 3.3,
+    "createdAt": "2024-08-16T00:00:00Z",
+    "updatedAt": "2024-08-16T00:00:00Z"
+  },
+  {
+    "id": 387,
+    "title": "Synergized next generation forecast",
+    "artistId": 28,
+    "albumId": 79,
+    "duration": 252,
+    "categories": [
+      "morning",
+      "electronic",
+      "night"
+    ],
+    "audioUrl": "songs/song_387.mp3",
+    "coverArt": "albums/album_79.jpg",
+    "playCount": 265071,
+    "rating": 3.5,
+    "createdAt": "2021-08-06T00:00:00Z",
+    "updatedAt": "2021-08-06T00:00:00Z"
+  },
+  {
+    "id": 388,
+    "title": "Stand-alone clear-thinking policy",
+    "artistId": 28,
+    "albumId": 79,
+    "duration": 210,
+    "categories": [
+      "morning",
+      "electronic",
+      "night"
+    ],
+    "audioUrl": "songs/song_388.mp3",
+    "coverArt": "albums/album_79.jpg",
+    "playCount": 502114,
+    "rating": 3.5,
+    "createdAt": "2023-06-29T00:00:00Z",
+    "updatedAt": "2023-06-29T00:00:00Z"
+  },
+  {
+    "id": 389,
+    "title": "Function-based system-worthy approach",
+    "artistId": 50,
+    "albumId": 80,
+    "duration": 315,
+    "categories": [
+      "evening",
+      "electronic",
+      "afternoon",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_389.mp3",
+    "coverArt": "albums/album_80.jpg",
+    "playCount": 790819,
+    "rating": 3.8,
+    "createdAt": "2022-07-23T00:00:00Z",
+    "updatedAt": "2022-07-23T00:00:00Z"
+  },
+  {
+    "id": 390,
+    "title": "Fully-configurable value-added migration",
+    "artistId": 50,
+    "albumId": 80,
+    "duration": 287,
+    "categories": [
+      "evening",
+      "electronic",
+      "afternoon",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_390.mp3",
+    "coverArt": "albums/album_80.jpg",
+    "playCount": 174264,
+    "rating": 3.1,
+    "createdAt": "2024-12-10T00:00:00Z",
+    "updatedAt": "2024-12-10T00:00:00Z"
+  },
+  {
+    "id": 391,
+    "title": "Profit-focused logistical instruction set",
+    "artistId": 50,
+    "albumId": 80,
+    "duration": 253,
+    "categories": [
+      "evening",
+      "electronic",
+      "afternoon",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_391.mp3",
+    "coverArt": "albums/album_80.jpg",
+    "playCount": 403314,
+    "rating": 4.5,
+    "createdAt": "2022-12-03T00:00:00Z",
+    "updatedAt": "2022-12-03T00:00:00Z"
+  },
+  {
+    "id": 392,
+    "title": "Integrated responsive algorithm",
+    "artistId": 50,
+    "albumId": 80,
+    "duration": 240,
+    "categories": [
+      "evening",
+      "electronic",
+      "afternoon",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_392.mp3",
+    "coverArt": "albums/album_80.jpg",
+    "playCount": 438225,
+    "rating": 3.0,
+    "createdAt": "2021-07-05T00:00:00Z",
+    "updatedAt": "2021-07-05T00:00:00Z"
+  },
+  {
+    "id": 393,
+    "title": "Assimilated dynamic standardization",
+    "artistId": 50,
+    "albumId": 80,
+    "duration": 322,
+    "categories": [
+      "evening",
+      "electronic",
+      "afternoon",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_393.mp3",
+    "coverArt": "albums/album_80.jpg",
+    "playCount": 605547,
+    "rating": 4.6,
+    "createdAt": "2022-02-24T00:00:00Z",
+    "updatedAt": "2022-02-24T00:00:00Z"
+  },
+  {
+    "id": 394,
+    "title": "Optimized value-added product",
+    "artistId": 50,
+    "albumId": 80,
+    "duration": 250,
+    "categories": [
+      "evening",
+      "electronic",
+      "afternoon",
+      "meditation"
+    ],
+    "audioUrl": "songs/song_394.mp3",
+    "coverArt": "albums/album_80.jpg",
+    "playCount": 402471,
+    "rating": 4.7,
+    "createdAt": "2025-04-22T00:00:00Z",
+    "updatedAt": "2025-04-22T00:00:00Z"
+  }
+]

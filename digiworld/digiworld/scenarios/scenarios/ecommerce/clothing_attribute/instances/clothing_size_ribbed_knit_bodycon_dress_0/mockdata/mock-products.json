@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Ribbed Knit Bodycon Dress",
+    "description": "Stretchy ribbed knit fabric hugs the figure, creating a sleek bodycon silhouette that falls just above the knee. The dress includes a modest scoop neck and short sleeves, with a concealed zip at the back. Great for night outs or office-to-evening transition.",
+    "shortDescription": "Form-fitting ribbed knit bodycon dress with hidden zip.",
+    "rating": 4.0,
+    "reviewCount": 4,
+    "seller": "Urban Curve Apparel",
+    "price": 938.52,
+    "discountedPrice": 685.12,
+    "discountPercent": 27,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 10,
+    "subcategoryName": "Women's Dresses",
+    "inStock": true,
+    "stockCount": 193,
+    "imageUrl": "/40_1",
+    "specs": "{\"material\": \"85% rayon, 15% spandex ribbed knit\", \"careInstructions\": \"Machine wash cold, lay flat to dry, do not tumble dry\", \"fit\": \"Bodycon fit\", \"size\": \"XS, S, M, L\", \"color\": \"Black\", \"pattern\": \"Solid\"}",
+    "tags": "[\"clothing\", \"womens\", \"dresses\", \"popular\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

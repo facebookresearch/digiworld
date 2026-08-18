@@ -1,0 +1,24 @@
+{
+  "parameters": {
+    "street_address": "1543 Redwood Terrace"
+  },
+  "compatible_profiles": [
+    "default",
+    "empty_cart",
+    "full_cart",
+    "large_orders",
+    "low_stock",
+    "power_shopper",
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:09.283256+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

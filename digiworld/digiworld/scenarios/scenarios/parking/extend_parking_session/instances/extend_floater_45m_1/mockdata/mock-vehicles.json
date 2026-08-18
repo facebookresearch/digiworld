@@ -1,0 +1,17 @@
+[
+  {
+    "id": 99902,
+    "userId": 1,
+    "nickname": "Floater",
+    "make": "Harmony",
+    "model": "CR-X",
+    "color": "Blue",
+    "year": 2024,
+    "plateNumber": "FLTBY",
+    "vehicleTypeId": 2,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

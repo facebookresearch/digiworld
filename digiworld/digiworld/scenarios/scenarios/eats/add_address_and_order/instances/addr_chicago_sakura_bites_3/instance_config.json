@@ -1,0 +1,32 @@
+{
+  "parameters": {
+    "address_line1": "321 Oak Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "postcode": "60611",
+    "country": "US",
+    "label": "Other",
+    "quantity": "1",
+    "restaurant_item": "Salmon Sushi Roll",
+    "restaurant": "Sakura Bites"
+  },
+  "compatible_profiles": [
+    "budget_menu",
+    "default",
+    "excellent_ratings",
+    "high_order_volume",
+    "new_user",
+    "pending_orders",
+    "premium_menu"
+  ],
+  "metadata": {
+    "created_at": "2026-04-11T00:00:00.000000+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

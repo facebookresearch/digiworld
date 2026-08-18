@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "{{current_user_email}}",
+    "receiver": [
+      "finance.admin@example.com"
+    ],
+    "subject": "Reminder: Submit Expense Reports by Friday",
+    "preview": "Hi, this is a reminder to submit your expense repo...",
+    "body": "Hi, this is a reminder to submit your expense reports by Friday to ensure timely reimbursement. The submission portal is open 24/7 for your convenience.",
+    "timestamp": "{{recent_timestamp}}",
+    "unread": 0,
+    "read": 0,
+    "status": "draft",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 1,
+    "threadId": "draft_reminder_submit_expense_reports_by_frid",
+    "folder": "draft",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

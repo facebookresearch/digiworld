@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754760134,
+    "title": "Rare 1950s Tin Toy Train Set \u2013 Complete and Operational",
+    "description": "Every component of this tin train set is intact and runs smoothly; a collector\u2019s gem that showcases detailed craftsmanship from the mid\u2011century era.",
+    "categoryId": 8,
+    "sellerId": 2,
+    "price": 157.14,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/rare-1950s-tin-toy-train-set-\u2013-complete-and-operational.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 1,
+    "categoryId": 7,
+    "title": "Exploring Abandoned Places in Tokyo",
+    "description": "Join me on a thrilling adventure as I explore abandoned Tokyo. I visit a creepy old hospital and share my experiences.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 430,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 588,
+    "likeCount": 16,
+    "commentCount": 2,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

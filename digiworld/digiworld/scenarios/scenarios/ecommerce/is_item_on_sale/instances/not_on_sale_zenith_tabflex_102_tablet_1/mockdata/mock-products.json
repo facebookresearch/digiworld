@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Zenith TabFlex 10.2 Tablet",
+    "description": "Zenith TabFlex 10.2 offers a 10.2-inch ClearView\u2011grade display and a detachable keyboard for versatile use. Powered by a Stormcore 8cx processor and 6GB RAM, it handles productivity apps and streaming effortlessly. The tablet includes a 10MP rear camera and a 7,000mAh battery for extended workdays.",
+    "shortDescription": "A 10.2-inch tablet with a detachable keyboard and Stormcore performance.",
+    "rating": 2.5,
+    "reviewCount": 2,
+    "seller": "TechDepot",
+    "price": 604.54,
+    "discountedPrice": 604.54,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 3,
+    "subcategoryName": "Tablets",
+    "inStock": true,
+    "stockCount": 142,
+    "imageUrl": "/9_1",
+    "specs": "{\"display\": \"10.2\\\" LCD, 2000x1200, 224 ppi\", \"processor\": \"NovaSil Solis G99\", \"ram\": \"4 GB LPDDR4X\", \"storage\": \"64 GB eMMC\", \"battery\": \"7,000 mAh, 18W fast charge\", \"os\": \"Nimbus OS 13\", \"connectivity\": \"Wi\u2011Fi 6, Bluetooth 5.2, LTE optional\"}",
+    "tags": "[\"electronics\", \"tablets\", \"popular\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

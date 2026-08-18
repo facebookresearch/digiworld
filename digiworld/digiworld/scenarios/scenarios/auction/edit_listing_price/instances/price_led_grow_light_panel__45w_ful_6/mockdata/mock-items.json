@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754090052,
+    "title": "LED Grow Light Panel \u2013 45W Full Spectrum for Indoor Plants",
+    "description": "45\u2011watt full\u2011spectrum panel with adjustable timer; promotes healthy growth for herbs, veg, and flowers.",
+    "categoryId": 5,
+    "sellerId": "{{current_user_id}}",
+    "price": 965.81,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/led-grow-light-panel-\u2013-45w-full-spectrum-for-indoor-plants.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

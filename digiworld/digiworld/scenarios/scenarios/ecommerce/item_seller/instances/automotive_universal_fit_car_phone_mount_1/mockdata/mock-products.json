@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Universal Fit Car Phone Mount",
+    "description": "A sturdy, adjustable phone holder that attaches to any dashboard or windshield with a strong suction cup. Made from ABS plastic and silicone pads to protect your device and vehicle interior. Rotates 360\u00b0 for optimal viewing angles while driving. Easy to install and remove without leaving residue.",
+    "shortDescription": "Adjustable dashboard phone mount with 360\u00b0 rotation.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "AutoGear Supplies",
+    "price": 737.86,
+    "discountedPrice": 700.97,
+    "discountPercent": 5,
+    "categoryId": 8,
+    "categoryName": "Automotive",
+    "subcategoryId": 57,
+    "subcategoryName": "Car Accessories",
+    "inStock": true,
+    "stockCount": 93,
+    "imageUrl": "/225_1",
+    "specs": "{\"material\": \"ABS plastic with silicone pads\", \"compatibility\": \"Fits LumaPhone and Nimbus OS smartphones up to 6.5 inches\", \"dimensions\": \"8 x 5 x 3 cm\", \"weight\": \"120 g\", \"warranty\": \"1 year limited\", \"madeIn\": \"China\"}",
+    "tags": "[\"automotive\", \"accessories\", \"car\", \"top-rated\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

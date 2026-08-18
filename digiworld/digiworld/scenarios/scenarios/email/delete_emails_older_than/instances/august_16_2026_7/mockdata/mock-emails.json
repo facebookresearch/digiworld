@@ -1,0 +1,90 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "emma.walsh@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Social media engagement report",
+    "preview": "Hi. The latest social media engagement report is n...",
+    "body": "Hi. The latest social media engagement report is now available. Analyze the metrics and suggest content adjustments.",
+    "timestamp": "2026-07-17T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_emma_walsh_social_media_engagement_repor",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "thomas.keller@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Research study publication draft",
+    "preview": "Hello. The draft of the research study publication...",
+    "body": "Hello. The draft of the research study publication is attached for review. Submit your comments by the end of the week.",
+    "timestamp": "2026-08-09T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_thomas_keller_research_study_publication",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "abigail.russell@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Budget allocation for new project",
+    "preview": "Hi team. Budget allocation for the new project has...",
+    "body": "Hi team. Budget allocation for the new project has been approved. Review the allocated amounts and begin planning.",
+    "timestamp": "2026-08-23T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_abigail_russell_budget_allocation_for_ne",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "william.ortiz@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Customer onboarding checklist",
+    "preview": "Hello. A checklist for customer onboarding has bee...",
+    "body": "Hello. A checklist for customer onboarding has been created to streamline the process. Follow the steps to ensure consistent experience.",
+    "timestamp": "2026-09-15T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_william_ortiz_customer_onboarding_checkl",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

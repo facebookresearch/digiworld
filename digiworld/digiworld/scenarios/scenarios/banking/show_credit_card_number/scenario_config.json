@@ -1,0 +1,18 @@
+{
+  "task_name": "Show me the full credit card number",
+  "app_name": "banking",
+  "scenario_class": "ShowCreditCardNumberScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Navigate to the cards screen and reveal the full credit card number.",
+  "compatible_profiles": [
+    "default",
+    "failed_transactions",
+    "high_balance",
+    "high_credit_limit",
+    "many_beneficiaries",
+    "many_zelle_contacts",
+    "overdue_bills",
+    "premium_users"
+  ]
+}

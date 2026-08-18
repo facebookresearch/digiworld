@@ -1,0 +1,9 @@
+{
+  "task_name": "Remove <item> from my cart",
+  "app_name": "ecommerce",
+  "scenario_class": "RemoveItemFromCartScenario",
+  "parameters": ["item"],
+  "context_fields": [],
+  "description": "Remove a product from the shopping cart",
+  "additional_mockdata": true
+}

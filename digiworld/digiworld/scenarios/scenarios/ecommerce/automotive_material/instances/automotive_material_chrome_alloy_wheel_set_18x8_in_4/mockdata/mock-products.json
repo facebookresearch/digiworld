@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Chrome Alloy Wheel Set 18x8 Inch (Pair)",
+    "description": "Upgrade your vehicle's look with this chrome alloy wheel set, sized at 18x8 inches for a sleek stance. The lightweight alloy construction reduces unsprung weight, improving acceleration and fuel efficiency. Each wheel includes a matching lug nut set.",
+    "shortDescription": "Sleek chrome alloy wheel set offering reduced unsprung weight and style.",
+    "rating": 3.5,
+    "reviewCount": 0,
+    "seller": "ChromeDrive Wheels",
+    "price": 1673.17,
+    "discountedPrice": 1070.83,
+    "discountPercent": 36,
+    "categoryId": 8,
+    "categoryName": "Automotive",
+    "subcategoryId": 58,
+    "subcategoryName": "Tires & Wheels",
+    "inStock": true,
+    "stockCount": 194,
+    "imageUrl": "/232_1",
+    "specs": "{\"material\": \"Cast aluminum alloy with chrome plating\", \"compatibility\": \"18-inch bolt pattern 5x114.3, fits performance cars like Nimbus 370Z\", \"dimensions\": \"18 x 8 inches, offset ET45\", \"weight\": \"18 lbs (8.2 kg) per wheel\", \"warranty\": \"3-year limited\", \"madeIn\": \"Japan\"}",
+    "tags": "[\"tires\", \"wheels\", \"automotive\", \"popular\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

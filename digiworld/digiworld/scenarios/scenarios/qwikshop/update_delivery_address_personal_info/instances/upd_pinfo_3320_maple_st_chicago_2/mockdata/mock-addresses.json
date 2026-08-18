@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Sofia Lee",
+    "street": "3320 Maple St",
+    "city": "Chicago",
+    "state": "IL",
+    "pincode": "60657",
+    "phone": "3125558421",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

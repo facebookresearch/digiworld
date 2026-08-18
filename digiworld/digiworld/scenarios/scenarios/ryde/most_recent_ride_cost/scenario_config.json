@@ -1,0 +1,18 @@
+{
+  "task_name": "How much did my most recent past ride cost?",
+  "app_name": "ryde",
+  "scenario_class": "MostRecentRideCostScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Look up the fare amount of the most recent completed ride",
+  "compatible_profiles": [
+    "default",
+    "excellent_feedback",
+    "high_rated_drivers",
+    "inactive_users",
+    "low_rated_drivers",
+    "new_user",
+    "poor_feedback",
+    "premium_fares"
+  ]
+}

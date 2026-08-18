@@ -1,0 +1,9 @@
+{
+    "task_name": "Add \"<recipient_emails>\" as CC to the email draft with subject \"<email_subject>\"",
+    "app_name": "email",
+    "scenario_class": "AddCcToDraft",
+    "parameters": ["recipient_emails", "email_subject"],
+    "context_fields": [],
+    "description": "Add recipients as CC to an existing email draft with a specific subject",
+    "additional_mockdata": true
+}

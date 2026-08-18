@@ -1,0 +1,22 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "title": "Mint-Condition 2021 Auralis WH-1000XM5 Noise\u2011Canceling Headphones \u2013 Sealed Box",
+    "description": "Brand\u2011new, factory\u2011sealed headphones featuring industry\u2011leading active noise cancellation and crystal\u2011clear sound, perfect for audiophiles and travelers.",
+    "categoryId": 1,
+    "sellerId": 1,
+    "price": 370.36,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 2,
+    "imageUrl": "https://example.com/images/mint-condition-2021-sony-wh-1000xm5-noise\u2011canceling-headphones-\u2013-sealed-box.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 122.5,
+    "currentBid": 258.6,
+    "bidIncrement": 5.0,
+    "endTime": 1766138166,
+    "expired": 0
+  }
+]

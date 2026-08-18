@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "EchoPulse Wireless Earbuds",
+    "description": "EchoPulse Wireless Earbuds - premium quality product.",
+    "shortDescription": "EchoPulse Wireless Earbuds.",
+    "rating": 4.3,
+    "reviewCount": 0,
+    "seller": "MockSeller",
+    "price": 59.99,
+    "discountedPrice": 47.99,
+    "discountPercent": 20,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 0,
+    "subcategoryName": "Headphones",
+    "inStock": true,
+    "stockCount": 100,
+    "imageUrl": "/mock_darkcart_earbuds_0_0",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": false,
+    "dateAdded": "2025-01-01 12:00:00.000"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "task_name": "What is the current wallet balance?",
+  "app_name": "payment",
+  "scenario_class": "CheckWalletBalanceScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Verify the agent correctly reports the current wallet balance.",
+  "compatible_profiles": [
+    "big_spender",
+    "default",
+    "high_deposit",
+    "high_failure_rate",
+    "low_transfer",
+    "micro_payments",
+    "mostly_pending",
+    "recent_activity",
+    "savings_mode",
+    "sparse_contacts"
+  ]
+}

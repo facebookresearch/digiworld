@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "David Brown",
+    "street": "654 Cedar Ln",
+    "city": "Miami",
+    "state": "FL",
+    "pincode": "33101",
+    "phone": "3055557890",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

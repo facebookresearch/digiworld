@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Waterless Car Wash Concentrate \u2013 1 Gallon",
+    "description": "Clean your vehicle without a hose using this biodegradable waterless wash concentrate that lifts dirt and grime with a single wipe. The formula leaves a glossy finish and contains UV protection to guard paintwork. Dilute as directed for up to 30 washes.",
+    "shortDescription": "Eco\u2011friendly waterless car wash concentrate for quick, shine\u2011rich cleaning.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "GreenGlide Auto Care",
+    "price": 1953.77,
+    "discountedPrice": 1387.18,
+    "discountPercent": 29,
+    "categoryId": 8,
+    "categoryName": "Automotive",
+    "subcategoryId": 62,
+    "subcategoryName": "Car Care",
+    "inStock": true,
+    "stockCount": 160,
+    "imageUrl": "/245_1",
+    "specs": "{\"material\": \"Biodegradable surfactant concentrate (waterless formula)\", \"compatibility\": \"All vehicle paint finishes, glass and chrome\", \"dimensions\": \"1\\u2011gallon (128\\u202foz) bottle, 12\\u202fin \\u00d7 8\\u202fin \\u00d7 10\\u202fin\", \"weight\": \"8.50 lbs\", \"warranty\": \"30\\u2011day satisfaction guarantee\", \"madeIn\": \"USA\"}",
+    "tags": "[\"automotive\", \"car\", \"care\", \"top-rated\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

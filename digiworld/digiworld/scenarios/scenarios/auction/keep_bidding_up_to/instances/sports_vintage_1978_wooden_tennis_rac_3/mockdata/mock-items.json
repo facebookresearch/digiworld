@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754750132,
+    "title": "Vintage 1978 Wooden Tennis Racket \u2013 Restored to Original Finish",
+    "description": "A classic wooden tennis racket from 1978, meticulously restored to its original luthier finish; the grip shows minimal wear and the strings are intact.",
+    "categoryId": 6,
+    "sellerId": 2,
+    "price": 2141.91,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 14,
+    "imageUrl": "https://example.com/images/vintage-1978-wooden-tennis-racket-\u2013-restored-to-original-finish.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 78.65,
+    "currentBid": 113.08,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

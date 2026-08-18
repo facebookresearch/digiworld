@@ -1,0 +1,8 @@
+{
+  "task_name": "Change my name to <name>",
+  "app_name": "parking",
+  "scenario_class": "ChangeNameScenario",
+  "parameters": ["name"],
+  "context_fields": [],
+  "description": "Change the current user's display name to a new specified name."
+}

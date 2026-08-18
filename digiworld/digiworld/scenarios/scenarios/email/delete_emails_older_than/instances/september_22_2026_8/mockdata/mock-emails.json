@@ -1,0 +1,90 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "madison.clark@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "System upgrade rollout plan",
+    "preview": "Hi there. The rollout plan for the system upgrade ...",
+    "body": "Hi there. The rollout plan for the system upgrade is outlined in the attached document. Coordinate with your teams to minimize disruption.",
+    "timestamp": "2026-08-23T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_madison_clark_system_upgrade_rollout_pla",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "anthony.fox@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Employee recognition program details",
+    "preview": "Hello. Details of the upcoming employee recognitio...",
+    "body": "Hello. Details of the upcoming employee recognition program are now posted. Nominate colleagues who have demonstrated excellence.",
+    "timestamp": "2026-09-15T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_anthony_fox_employee_recognition_program",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "samantha.pierce@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Stakeholder meeting agenda",
+    "preview": "Hi. The agenda for the upcoming stakeholder meetin...",
+    "body": "Hi. The agenda for the upcoming stakeholder meeting is attached. Review the topics and prepare any necessary updates.",
+    "timestamp": "2026-09-29T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_samantha_pierce_stakeholder_meeting_agen",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "robert.west@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "License key distribution instructions",
+    "preview": "Hello. Instructions for distributing the new licen...",
+    "body": "Hello. Instructions for distributing the new license keys to all users are included below. Follow the steps to ensure activation.",
+    "timestamp": "2026-10-22T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_robert_west_license_key_distribution_ins",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

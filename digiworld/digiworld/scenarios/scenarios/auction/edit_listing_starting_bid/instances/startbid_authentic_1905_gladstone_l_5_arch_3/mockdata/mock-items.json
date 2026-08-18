@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754070048,
+    "title": "Authentic 1905 Gladstone L-5 Archtop Guitar, Fully Restored",
+    "description": "A 1905 Gladstone L-5 archtop guitar, fully restored to playing condition, with original mahogany body and ebony fingerboard.",
+    "categoryId": 12,
+    "sellerId": "{{current_user_id}}",
+    "price": 965.32,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 8,
+    "imageUrl": "https://example.com/images/authentic-1905-gibson-l-5-archtop-guitar,-fully-restored.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 393.55,
+    "currentBid": 501.84,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

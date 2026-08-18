@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "name": "Living Room",
+    "description": "Main living area with entertainment center",
+    "type": "living_room",
+    "floor": 1,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "name": "Master Bedroom",
+    "description": "Primary bedroom with smart lighting",
+    "type": "bedroom",
+    "floor": 1,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 3,
+    "userId": 1,
+    "name": "Kitchen",
+    "description": "Kitchen with smart appliances",
+    "type": "kitchen",
+    "floor": 1,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 4,
+    "userId": 1,
+    "name": "Bathroom",
+    "description": "Main bathroom with smart fixtures",
+    "type": "bathroom",
+    "floor": 1,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 5,
+    "userId": 1,
+    "name": "Home Office",
+    "description": "Dedicated workspace with smart lighting",
+    "type": "office",
+    "floor": 1,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "userId": 1,
+    "name": "Garage",
+    "description": "Attached garage with security",
+    "type": "garage",
+    "floor": 1,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 7,
+    "userId": 2,
+    "name": "Guest Bedroom",
+    "description": "Spare bedroom for guests",
+    "type": "bedroom",
+    "floor": 1,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 8,
+    "userId": 2,
+    "name": "Dining Room",
+    "description": "Formal dining area",
+    "type": "other",
+    "floor": 1,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 9,
+    "userId": 3,
+    "name": "Basement",
+    "description": "Finished basement with entertainment",
+    "type": "other",
+    "floor": 0,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 10,
+    "userId": 3,
+    "name": "Backyard",
+    "description": "Outdoor area with smart lighting",
+    "type": "other",
+    "floor": 1,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z",
+    "deletedAt": null
+  }
+]

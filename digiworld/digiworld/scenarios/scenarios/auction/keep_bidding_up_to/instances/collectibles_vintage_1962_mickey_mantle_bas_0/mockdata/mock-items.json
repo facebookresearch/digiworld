@@ -1,0 +1,22 @@
+[
+  {
+    "id": 181890012,
+    "title": "Vintage 1962 Mickey Mantle Baseball Card #350",
+    "description": "This highly sought-after card is in near-mint condition, with sharp corners and a glossy finish, making it a rare find for collectors.",
+    "categoryId": 8,
+    "sellerId": 2,
+    "price": 600.84,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 13,
+    "imageUrl": "https://example.com/images/vintage-1962-mickey-mantle-baseball-card-#350.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 16.33,
+    "currentBid": 38.14,
+    "bidIncrement": 5.0,
+    "endTime": 1772935589,
+    "expired": 0
+  }
+]

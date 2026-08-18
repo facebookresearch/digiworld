@@ -1,0 +1,8 @@
+{
+  "task_name": "Add a new room with the name \"<room_name>\", description \"<description>\", and room type <room_type> on floor <floor>",
+  "app_name": "smarthome",
+  "scenario_class": "AddNewRoomScenario",
+  "parameters": ["room_name", "description", "room_type", "floor"],
+  "context_fields": [],
+  "description": "Add a new room with the specified name, description, type, and floor."
+}

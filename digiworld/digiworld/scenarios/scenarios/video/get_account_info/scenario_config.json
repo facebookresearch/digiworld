@@ -1,0 +1,8 @@
+{
+  "task_name": "What's my <field>?",
+  "app_name": "video",
+  "scenario_class": "GetAccountInfoScenario",
+  "parameters": ["field"],
+  "context_fields": [],
+  "description": "Retrieve the current user's account information (name, email, etc.)"
+}

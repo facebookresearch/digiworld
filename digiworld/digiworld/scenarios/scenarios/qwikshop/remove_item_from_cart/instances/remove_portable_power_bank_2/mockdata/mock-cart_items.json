@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "cartId": 1,
+    "userId": 1,
+    "productId": 9902,
+    "productName": "Portable Power Bank",
+    "productImage": "/product_9902",
+    "shortDescription": "Portable charger",
+    "seller": "PowerUp Solutions",
+    "quantity": 1,
+    "price": 117.13,
+    "discountedPrice": 99.56,
+    "total": 99.56,
+    "inStock": 1
+  }
+]

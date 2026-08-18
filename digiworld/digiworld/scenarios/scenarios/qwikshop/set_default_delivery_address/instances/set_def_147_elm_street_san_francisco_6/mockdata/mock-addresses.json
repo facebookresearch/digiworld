@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Olivia Davis",
+    "street": "147 Elm Street",
+    "city": "San Francisco",
+    "state": "CA",
+    "pincode": "94102",
+    "phone": "4155550444",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 9990,
+    "categoryId": 7,
+    "title": "A Day in Osaka: Food & Streets",
+    "description": "Join me as I explore Osaka's bustling markets, tasting street ramen and discovering hidden alleyways.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 3232,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 9028,
+    "likeCount": 58,
+    "commentCount": 14,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

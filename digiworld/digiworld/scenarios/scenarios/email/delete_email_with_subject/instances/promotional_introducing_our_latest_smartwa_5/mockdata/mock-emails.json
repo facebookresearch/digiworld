@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "jin.park@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Introducing Our Latest Smartwatch Model",
+    "preview": "Hello, our newest smartwatch features advanced hea...",
+    "body": "Hello, our newest smartwatch features advanced health tracking and a longer battery life. Check out the product page for a special early-bird discount.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_jin_park_introducing_our_latest_smartwat",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

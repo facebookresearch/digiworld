@@ -1,0 +1,91 @@
+{
+  "name": "andojo-music-sbx",
+  "displayName": "Andojo Music",
+  "expo": {
+    "name": "Andojo Music",
+    "slug": "andojo-music-sbx",
+    "scheme": "andojomusic",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "icon": "./assets/images/app-icon-all.png",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "newArchEnabled": true,
+    "jsEngine": "hermes",
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "buildProperties": {
+        "kotlinVersion": "1.9.25"
+      },
+      "icon": "./assets/images/app-icon-android-legacy.png",
+      "package": "com.andojomusic.sbx",
+      "permissions": ["WRITE_EXTERNAL_STORAGE", "READ_EXTERNAL_STORAGE", "MANAGE_EXTERNAL_STORAGE"],
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/app-icon-android-adaptive-foreground.png",
+        "backgroundImage": "./assets/images/app-icon-android-adaptive-background.png"
+      },
+      "intentFilters": [
+        {
+          "action": "VIEW",
+          "autoVerify": true,
+          "data": [
+            {
+              "scheme": "andojomusic",
+              "host": "sbx",
+              "pathPrefix": "/event"
+            }
+          ],
+          "category": ["BROWSABLE", "DEFAULT"]
+        }
+      ],
+      "allowBackup": false,
+      "splash": {
+        "backgroundColor": "#121719",
+        "image": "./assets/images/splash-logo-android-universal.png",
+        "resizeMode": "contain"
+      }
+    },
+    "ios": {
+      "icon": "./assets/images/app-icon-ios.png",
+      "supportsTablet": true,
+      "bundleIdentifier": "com.andojomusic.sbx",
+      "splash": {
+        "backgroundColor": "#121719"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/app-icon-web-favicon.png",
+      "bundler": "metro",
+      "splash": {
+        "backgroundColor": "#121719"
+      }
+    },
+    "plugins": [
+      "expo-localization",
+      "expo-sqlite",
+      "expo-font",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/app-icon-android-adaptive-foreground.png",
+          "imageWidth": 300,
+          "resizeMode": "contain",
+          "backgroundColor": "#191015"
+        }
+      ],
+      "expo-router"
+    ],
+    "experiments": {
+      "tsconfigPaths": true,
+      "typedRoutes": true
+    },
+    "splash": {
+      "backgroundColor": "#121719"
+    }
+  },
+  "ignite": {
+    "version": "10.3.0"
+  }
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "orderId": 1,
+    "name": "Charlie Driver",
+    "phone": "+15551234567",
+    "vehicle": "Toyota Prius",
+    "assignedAt": "2024-06-01T12:21:00Z"
+  },
+  {
+    "id": 2,
+    "orderId": 2,
+    "name": "Dana Courier",
+    "phone": "+15557654321",
+    "vehicle": "Honda Civic",
+    "assignedAt": "2024-06-01T12:26:00Z"
+  }
+]

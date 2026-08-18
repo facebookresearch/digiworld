@@ -1,0 +1,22 @@
+[
+  {
+    "id": 753970022,
+    "title": "Bluetooth Noise-Cancelling Over\u2011Ear Headphones \u2013 Black",
+    "description": "Active\u2011noise reduction, 30\u2011hour battery, and seamless Bluetooth 5.2 connectivity for immersive listening.",
+    "categoryId": 10,
+    "sellerId": "{{current_user_id}}",
+    "price": 2022.64,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/bluetooth-noise-cancelling-over\u2011ear-headphones-\u2013-black.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

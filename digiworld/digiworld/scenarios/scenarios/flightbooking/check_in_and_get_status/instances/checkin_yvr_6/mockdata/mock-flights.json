@@ -1,0 +1,19 @@
+[
+  {
+    "flight_id": "AC8962_{{tomorrow_date}}",
+    "airline_id": "airline_ac",
+    "airline_code": "AC",
+    "flight_number": "AC8962",
+    "origin": "IAD",
+    "destination": "YVR",
+    "departure_time": "{{tomorrow_date}}T07:15:00Z",
+    "arrival_time": "{{tomorrow_date}}T16:12:00Z",
+    "duration_minutes": 537,
+    "fare": 1057.68,
+    "currency": "USD",
+    "seats_available": 150,
+    "aircraft_type": "Boeing 777-300ER",
+    "date": "{{tomorrow_date}}",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

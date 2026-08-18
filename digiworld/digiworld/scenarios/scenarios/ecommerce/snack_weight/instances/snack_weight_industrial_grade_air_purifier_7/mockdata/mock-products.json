@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Industrial-Grade Air Purifier with UV-C Sterilization",
+    "description": "Industrial\u2011Grade Air Purifier combines HEPA filtration, UV\u2011C sterilization, and a high\u2011capacity blower to clean large spaces up to 1,000\u202fft\u00b2. Ideal for commercial offices, gyms, and clinics, it reduces airborne bacteria, viruses, and allergens. Includes digital controls and a timer function.",
+    "shortDescription": "Heavy\u2011duty air purifier with UV\u2011C for large commercial areas.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "ProGuard Air Systems",
+    "price": 1905.78,
+    "discountedPrice": 1257.81,
+    "discountPercent": 34,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 69,
+    "subcategoryName": "Air Purifiers",
+    "inStock": true,
+    "stockCount": 181,
+    "imageUrl": "/276_1",
+    "specs": "{\"ingredients\": \"HEPA H14 filter, UV-C lamp, Activated carbon filter, Stainless steel housing, High-capacity fan\", \"dosage\": \"Run 24/7 in industrial space, replace UV lamp annually\", \"weight\": \"25kg\", \"expiryPeriod\": \"8 years\", \"madeIn\": \"Germany\", \"certifications\": \"ISO 14644-1, CE, UL, CSA\"}",
+    "tags": "[\"wellness\", \"health\", \"air\", \"purifiers\", \"best\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

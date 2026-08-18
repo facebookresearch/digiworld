@@ -1,0 +1,12 @@
+{
+  "task_name": "Edit the listing for \"<title>\", change the category to \"<category>\"",
+  "app_name": "auction",
+  "scenario_class": "EditListingCategoryScenario",
+  "parameters": [
+    "title",
+    "category"
+  ],
+  "context_fields": [],
+  "additional_mockdata": true,
+  "description": "Edit an auction listing to change its category."
+}

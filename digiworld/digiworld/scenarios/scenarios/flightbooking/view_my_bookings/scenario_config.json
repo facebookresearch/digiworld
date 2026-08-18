@@ -1,0 +1,21 @@
+{
+  "task_name": "View My Bookings",
+  "app_name": "flightbooking",
+  "scenario_class": "ViewMyBookingsScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Navigate to the screen showing the user's flight bookings and reservations.",
+  "compatible_profiles": [
+    "budget_flights",
+    "cancelled_flights",
+    "default",
+    "frequent_flyer",
+    "high_booking_volume",
+    "international_focus",
+    "limited_seats",
+    "multi_passenger",
+    "new_user",
+    "pending_bookings",
+    "premium_flights"
+  ]
+}

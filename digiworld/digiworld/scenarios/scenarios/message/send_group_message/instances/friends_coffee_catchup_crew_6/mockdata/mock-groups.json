@@ -1,0 +1,12 @@
+[
+  {
+    "id": "injected-group-001",
+    "name": "Coffee Catch\u2011Up Crew",
+    "description": "Our hangout spot for catching up and making plans.",
+    "avatarUrl": null,
+    "createdBy": "{{current_user_id}}",
+    "createdAt": "{{recent_message_time}}",
+    "isActive": 1,
+    "deletedBy": null
+  }
+]

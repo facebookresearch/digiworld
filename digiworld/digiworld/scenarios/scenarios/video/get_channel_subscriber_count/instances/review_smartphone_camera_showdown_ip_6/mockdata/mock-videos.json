@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 9990,
+    "categoryId": 6,
+    "title": "Smartphone Camera Showdown: LumaPhone vs. Galaxy",
+    "description": "We test photo and video performance of the latest LumaPhone and Galaxy models to see which wins.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 3185,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 1239,
+    "likeCount": 10,
+    "commentCount": 42,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Stainless Steel Bread Maker, 2\u2011lb Loaf",
+    "description": "Bake perfect loaves with this 2\u2011pound bread maker that features 12 programmable settings, including gluten\u2011free and dough cycles. The non\u2011stick baking pan releases bread easily, and the timer allows you to start baking up to 24 hours in advance.",
+    "shortDescription": "Programmable 2\u2011pound bread maker with 12 baking settings.",
+    "rating": 3.0,
+    "reviewCount": 3,
+    "seller": "Rise & Bake Appliances",
+    "price": 1336.13,
+    "discountedPrice": 921.93,
+    "discountPercent": 31,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 18,
+    "subcategoryName": "Small Appliances",
+    "inStock": true,
+    "stockCount": 133,
+    "imageUrl": "/72_1",
+    "specs": "{\"material\": \"Stainless steel interior and exterior\", \"dimensions\": \"15 x 9 x 13 in\", \"weight\": \"9 lbs\", \"warranty\": \"2\\u2011year limited warranty\", \"color\": \"Polished stainless steel\", \"careInstructions\": \"Remove pan after cycle; hand wash pan and kneading blade; wipe exterior\"}",
+    "tags": "[\"kitchen\", \"small\", \"home\", \"appliances\", \"high-quality\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

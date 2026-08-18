@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754260100,
+    "title": "Vintage 1978 Apex Athletics Air Zoom 'Cortez' \u2013 Size 9",
+    "description": "A pair of vintage 1978 Apex Athletics Air Zoom 'Cortez' sneakers in size 9, featuring original white leather and faded teal accents; still in solid condition with minimal creasing.",
+    "categoryId": 6,
+    "sellerId": "{{current_user_id}}",
+    "price": 1903.05,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 8,
+    "imageUrl": "https://example.com/images/vintage-1978-nike-air-zoom-'cortez'-\u2013-size-9.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 662.07,
+    "currentBid": 885.91,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

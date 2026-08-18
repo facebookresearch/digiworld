@@ -1,0 +1,6 @@
+{
+    "app_name": "ecommerce",
+    "apk_name": "com.andojoshop.sbx",
+    "database_doc_path": "../../../../../apps/ecommerce/src/docs/database.md",
+    "feature_scope_path": "../../../../../apps/ecommerce/src/docs/feature_scope_ecommerce.md"
+}

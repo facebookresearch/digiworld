@@ -1,0 +1,13 @@
+[
+  {
+    "id": 9998,
+    "email": "mia.patel.reply@example.com",
+    "username": "Mia Patel",
+    "password": "password123",
+    "avatar": "",
+    "bio": "",
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{past_timestamp}}",
+    "deletedAt": null
+  }
+]

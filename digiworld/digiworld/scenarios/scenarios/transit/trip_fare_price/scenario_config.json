@@ -1,0 +1,13 @@
+{
+  "task_name": "I want to plan a trip from <stop_1> to <stop_2> departing <time>, find the <optimization> and tell me the fare price",
+  "app_name": "transit",
+  "scenario_class": "TripFarePriceScenario",
+  "parameters": [
+    "stop_1",
+    "stop_2",
+    "time",
+    "optimization"
+  ],
+  "context_fields": [],
+  "description": "Retrieve the fare price of an optimized trip between two stops."
+}

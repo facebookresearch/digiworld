@@ -1,0 +1,17 @@
+[
+  {
+    "id": 99902,
+    "userId": "{{current_user_id}}",
+    "nickname": "Blue Beast",
+    "make": "Fairmont",
+    "model": "T-150",
+    "color": "Red",
+    "year": 2026,
+    "plateNumber": "RIDE45",
+    "vehicleTypeId": 3,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

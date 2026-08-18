@@ -1,0 +1,22 @@
+[
+  {
+    "id": 182230028,
+    "title": "Vintage 1960s Lyra M3 Camera",
+    "description": "The Lyra M3 is a highly sought-after camera among collectors, known for its rangefinder design and exceptional image quality.",
+    "categoryId": 4,
+    "sellerId": "{{current_user_id}}",
+    "price": 1633.46,
+    "auctionFlag": 1,
+    "status": "expired",
+    "quantity": 1,
+    "bidCount": 8,
+    "imageUrl": "https://example.com/images/vintage-1960s-leica-m3-camera.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 757.08,
+    "currentBid": 890.59,
+    "bidIncrement": 5.0,
+    "endTime": 1767924423,
+    "expired": 1
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "task_name": "View My Orders",
+  "app_name": "qwikshop",
+  "scenario_class": "ViewMyOrdersScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Navigate to the screen showing the user's order history and current orders.",
+  "compatible_profiles": [
+    "bulk_quantity",
+    "default",
+    "empty_cart",
+    "full_cart",
+    "heavy_discounts",
+    "high_order_volume",
+    "large_orders",
+    "low_stock",
+    "new_user",
+    "power_shopper",
+    "premium_products"
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "cartId": 1,
+    "userId": 1,
+    "productId": 9902,
+    "productName": "Herbaluxe Organic Vitamin C Gummies",
+    "productImage": "/product_9902",
+    "shortDescription": "Organic vitamin C gummies",
+    "seller": "Herbaluxe Naturals",
+    "quantity": 4,
+    "price": 25.57,
+    "discountedPrice": 25.57,
+    "total": 102.28,
+    "inStock": 1
+  }
+]

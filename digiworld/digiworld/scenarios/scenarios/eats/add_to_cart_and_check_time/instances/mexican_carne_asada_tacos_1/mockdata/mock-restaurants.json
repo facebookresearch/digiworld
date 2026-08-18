@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Fiesta Fresh",
+    "description": "Fiesta Fresh serves authentic street-style Mexican tacos with vibrant salsas and fresh cilantro.",
+    "address": "456 Oak Avenue, Brooklyn, NY 11201",
+    "latitude": 40.6892,
+    "longitude": -73.9857,
+    "logo": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 3.8,
+    "deliveryFee": 3.77,
+    "minOrder": 7.0,
+    "deliveryRadius": 10,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

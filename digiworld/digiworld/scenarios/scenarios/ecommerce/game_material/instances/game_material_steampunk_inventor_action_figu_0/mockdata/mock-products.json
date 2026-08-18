@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Steampunk Inventor Action Figure",
+    "description": "The Steampunk Inventor boasts a brass-styled outfit, gear-laden backpack, and a set of mechanical tools. Its poseable joints let children create inventive scenarios in a Victorian-future world. Crafted from sturdy plastic, it withstands active play.",
+    "shortDescription": "A steampunk-themed figure with gear accessories for creative play.",
+    "rating": 2.9,
+    "reviewCount": 0,
+    "seller": "Steampunk Studios",
+    "price": 1442.1,
+    "discountedPrice": 879.68,
+    "discountPercent": 39,
+    "categoryId": 7,
+    "categoryName": "Toys & Games",
+    "subcategoryId": 50,
+    "subcategoryName": "Action Figures",
+    "inStock": true,
+    "stockCount": 113,
+    "imageUrl": "/200_1",
+    "specs": "{\"ageRange\": \"6-12 years\", \"material\": \"ABS plastic with metal accents\", \"dimensions\": \"7.5 x 2.5 x 2.5 inches\", \"batteryRequired\": \"No\", \"warranty\": \"6 months\", \"safetyRating\": \"ASTM F963\"}",
+    "tags": "[\"action\", \"figures\", \"toys\", \"games\", \"top-rated\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

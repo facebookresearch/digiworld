@@ -1,0 +1,18 @@
+[
+  {
+    "flight_id": "FC_CX7227",
+    "airline_id": "airline_cx",
+    "airline_code": "CX",
+    "flight_number": "CX7227",
+    "origin": "HKG",
+    "destination": "ICN",
+    "departure_time": "19:30",
+    "arrival_time": "23:52",
+    "duration_minutes": 262,
+    "fare": 681.24,
+    "currency": "USD",
+    "seats_available": 63,
+    "aircraft_type": "Boeing 737-800",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

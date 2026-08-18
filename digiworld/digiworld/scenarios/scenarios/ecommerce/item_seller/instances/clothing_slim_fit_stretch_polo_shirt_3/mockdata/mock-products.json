@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Slim Fit Stretch Polo Shirt",
+    "description": "The Slim Fit Stretch Polo blends a traditional look with modern performance fabrics. Designed with four-way stretch, it moves with you while maintaining a sharp silhouette. The contrast collar and breathable micro-pore mesh keep you cool all day.",
+    "shortDescription": "Slim fit polo with stretch fabric and breathable mesh for all\u2011day comfort.",
+    "rating": 3.0,
+    "reviewCount": 4,
+    "seller": "Evergreen Apparel",
+    "price": 32.98,
+    "discountedPrice": 29.68,
+    "discountPercent": 10,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 9,
+    "subcategoryName": "Men's Shirts",
+    "inStock": true,
+    "stockCount": 128,
+    "imageUrl": "/34_1",
+    "specs": "{\"material\": \"95% polyester, 5% spandex stretch knit\", \"careInstructions\": \"Machine wash gentle, line dry, do not bleach\", \"fit\": \"Slim fit\", \"size\": \"S-XXL\", \"color\": \"Midnight navy\", \"pattern\": \"Solid\"}",
+    "tags": "[\"clothing\", \"mens\", \"shirts\", \"popular\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "saved-harbor-breeze",
+    "userId": 1,
+    "name": "Harbor Breeze",
+    "originStopId": "stop-1",
+    "destinationStopId": "stop-6",
+    "preferredMode": "subway",
+    "remindersEnabled": false,
+    "departureReminderMinutes": 10,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

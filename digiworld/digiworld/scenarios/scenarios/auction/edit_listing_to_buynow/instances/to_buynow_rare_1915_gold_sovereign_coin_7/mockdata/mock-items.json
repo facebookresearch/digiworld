@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754180083,
+    "title": "Rare 1915 Gold Sovereign Coin \u2013 Mint Condition",
+    "description": "British Gold Sovereign minted in 1915, graded MS\u201170, comes in a protective holder with certificate of authenticity.",
+    "categoryId": 10,
+    "sellerId": "{{current_user_id}}",
+    "price": 1938.34,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 3,
+    "imageUrl": "https://example.com/images/rare-1915-gold-sovereign-coin-\u2013-mint-condition.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 1154.41,
+    "currentBid": 1944.32,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

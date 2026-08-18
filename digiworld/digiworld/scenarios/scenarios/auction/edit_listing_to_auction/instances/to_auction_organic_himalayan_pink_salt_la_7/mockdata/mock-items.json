@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754160074,
+    "title": "Organic Himalayan Pink Salt Lamp \u2013 12\" Height \u2013 $45",
+    "description": "Natural crystal glow, hand\u2011carved base, perfect night\u2011light or decor accent.",
+    "categoryId": 1,
+    "sellerId": "{{current_user_id}}",
+    "price": 941.2,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/organic-himalayan-pink-salt-lamp-\u2013-12\"-height-\u2013-$45.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

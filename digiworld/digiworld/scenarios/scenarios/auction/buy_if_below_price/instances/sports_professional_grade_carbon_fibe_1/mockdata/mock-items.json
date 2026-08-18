@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754690122,
+    "title": "Professional Grade Carbon Fiber Tennis Racket \u2013 Near Mint Condition",
+    "description": "Engineered for power and control, this carbon\u2011fiber racket shows minimal wear and delivers a crisp feel, ideal for competitive players seeking precision.",
+    "categoryId": 6,
+    "sellerId": 2,
+    "price": 69.51,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/professional-grade-carbon-fiber-tennis-racket-\u2013-near-mint-condition.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

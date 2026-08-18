@@ -1,0 +1,33 @@
+{
+  "parameters": {
+    "payee_name": "Southern California Edison",
+    "account_number": "6789-0123-4567",
+    "phone": "(714) 555-0678",
+    "category": "utilities",
+    "address": "987 Sunset Blvd, Los Angeles, CA 90028",
+    "description": "Electric utility serving Southern California."
+  },
+  "compatible_profiles": [
+    "default",
+    "failed_transactions",
+    "high_balance",
+    "high_credit_limit",
+    "high_transaction_volume",
+    "low_balance",
+    "many_beneficiaries",
+    "many_zelle_contacts",
+    "maxed_out_cards",
+    "overdue_bills",
+    "premium_users"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:01:13.188281+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

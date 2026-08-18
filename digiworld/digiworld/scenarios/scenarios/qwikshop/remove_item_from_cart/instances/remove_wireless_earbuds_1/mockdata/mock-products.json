@@ -1,0 +1,24 @@
+[
+  {
+    "id": 9901,
+    "name": "Wireless Earbuds",
+    "description": "Experience crystal-clear sound with our wireless earbuds, featuring long battery life and sleek design.",
+    "shortDescription": "Wireless audio",
+    "price": 299.34,
+    "discountedPrice": 299.34,
+    "discountPercent": 0,
+    "rating": 3.8,
+    "reviewCount": 239,
+    "seller": "SoundWave Electronics",
+    "categoryId": 9603,
+    "categoryName": "Electronics",
+    "subcategoryId": 9284,
+    "subcategoryName": "Headphones",
+    "inStock": 1,
+    "stockCount": 11,
+    "imageUrl": "/product_3615",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "GPS Running Watch with Heart\u2011Rate Monitor",
+    "description": "Track distance, pace, and heart rate on this waterproof GPS watch that syncs with popular fitness apps. The large, backlit display is easy to read in any lighting, and the battery lasts up to 12 hours of continuous use. Includes interval training and VO2 max estimations.",
+    "shortDescription": "Waterproof GPS running watch with integrated heart\u2011rate monitoring.",
+    "rating": 4.0,
+    "reviewCount": 1,
+    "seller": "PulseTech Gadgets",
+    "price": 465.31,
+    "discountedPrice": 325.72,
+    "discountPercent": 30,
+    "categoryId": 4,
+    "categoryName": "Sports & Outdoors",
+    "subcategoryId": 28,
+    "subcategoryName": "Running",
+    "inStock": false,
+    "stockCount": 0,
+    "imageUrl": "/112_1",
+    "specs": "{\"material\": \"silicone strap, polycarbonate case\", \"weight\": \"0.05 lb\", \"dimensions\": \"1.8\\\"x1.2\\\"x0.5\\\"\", \"warranty\": \"2 years\", \"color\": \"black with red display\", \"suitableFor\": \"running, cycling, swimming\"}",
+    "tags": "[\"sports\", \"running\", \"outdoors\", \"high-quality\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

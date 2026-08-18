@@ -1,0 +1,9 @@
+{
+  "task_name": "Reply to the newest comment on the video \"<title>\" and say \"<reply_text>\"",
+  "app_name": "video",
+  "scenario_class": "ReplyToCommentScenario",
+  "parameters": ["title", "reply_text"],
+  "context_fields": [],
+  "description": "Reply to the newest comment on a video with specified text",
+  "additional_mockdata": true
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 1,
+    "categoryId": 3,
+    "title": "Photoshop Basics: Master Layers in 10 Minutes",
+    "description": "Learn how to organize, edit, and blend layers efficiently with step\u2011by\u2011step examples. Perfect for beginners.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 3408,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 2715,
+    "likeCount": 94,
+    "commentCount": 1,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

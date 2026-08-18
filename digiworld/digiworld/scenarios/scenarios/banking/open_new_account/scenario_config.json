@@ -1,0 +1,11 @@
+{
+  "task_name": "Open a new account with the account name \"<account_name>\", account type <account_type>",
+  "app_name": "banking",
+  "scenario_class": "OpenNewAccountScenario",
+  "parameters": [
+    "account_name",
+    "account_type"
+  ],
+  "context_fields": [],
+  "description": "Open a new bank account with a specific name and type."
+}

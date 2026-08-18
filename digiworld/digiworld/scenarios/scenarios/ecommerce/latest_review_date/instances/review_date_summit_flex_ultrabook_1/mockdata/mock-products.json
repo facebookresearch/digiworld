@@ -1,0 +1,48 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Summit Flex Ultrabook",
+    "description": "Summit Flex Ultrabook offers a 13.3\u2011inch QHD display that folds 360\u00b0 for tablet mode versatility. It runs on an Vertex Micro i5 processor with 12\u202fGB RAM and a 1\u202fTB SSD, ideal for multitasking. The integrated Vertex Micro Iris Xe graphics ensure crisp visuals. Includes a stylus for note\u2011taking and drawing.",
+    "shortDescription": "Convertible 13.3\u2011inch ultrabook with 360\u00b0 hinge and stylus support.",
+    "rating": 2.7,
+    "reviewCount": 3,
+    "seller": "Vertex Solutions",
+    "price": 1671.53,
+    "discountedPrice": 852.48,
+    "discountPercent": 49,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 2,
+    "subcategoryName": "Laptops",
+    "inStock": true,
+    "stockCount": 141,
+    "imageUrl": "/7_1",
+    "specs": "{\"display\": \"13.3-inch OLED, 2160x1440, 90Hz\", \"processor\": \"Vertex Micro Core i5-1340P\", \"ram\": \"8 GB LPDDR5\", \"storage\": \"512 GB NVMe SSD\", \"battery\": \"52 Wh\", \"os\": \"Skylight 11 Home\", \"connectivity\": \"Wi-Fi 6E, Bluetooth 5.2, Thunderbolt 4\"}",
+    "tags": "[\"electronics\", \"laptops\", \"top-rated\", \"high-quality\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000",
+    "reviews": [
+      {
+        "userName": "Reviewer",
+        "rating": 3,
+        "title": "Decent performance but some quirks",
+        "comment": "The Summit Flex Ultrabook feels light and the 13\u2011inch display is bright, which is great for on\u2011the\u2011go work. However, the keyboard has a mushy feel and the fan gets noisy under moderate load, making it feel less premium than expected.",
+        "reviewDate": "2025-06-15T10:00:00.000Z"
+      },
+      {
+        "userName": "Reviewer",
+        "rating": 1,
+        "title": "Disappointing build quality and speed",
+        "comment": "I was excited about the ultrabook's slim profile, but the plastic chassis flexes easily and feels cheap. The Vertex Micro processor struggles with basic multitasking, and the SSD performance is slower than advertised, leaving me frustrated after just a week of use.",
+        "reviewDate": "2025-06-15T10:00:00.000Z"
+      },
+      {
+        "userName": "Reviewer",
+        "rating": 4,
+        "title": "Sleek design and solid speed",
+        "comment": "The Summit Flex Ultrabook impresses with its buttery\u2011smooth touchscreen and long\u2011lasting battery that gets me through a full workday. Its 8th\u2011gen Vertex Micro CPU paired with a fast NVMe SSD handles demanding apps without hiccups, and the overall build feels premium and sturdy.",
+        "reviewDate": "2025-06-15T10:00:00.000Z"
+      }
+    ]
+  }
+]

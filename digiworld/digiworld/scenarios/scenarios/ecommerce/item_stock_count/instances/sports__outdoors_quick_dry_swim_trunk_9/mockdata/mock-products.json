@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Quick-Dry Swim Trunk",
+    "description": "These quick\u2011dry swim trunks are crafted from lightweight polyester with a built-in mesh lining for comfort. The vibrant, fade\u2011resistant print stays bright after repeated chlorine exposure. Includes a secure zip pocket for small valuables.",
+    "shortDescription": "Quick\u2011dry swim trunks with mesh lining and secure zip pocket.",
+    "rating": 2.0,
+    "reviewCount": 1,
+    "seller": "SunWave Swimwear",
+    "price": 334.99,
+    "discountedPrice": 334.99,
+    "discountPercent": 0,
+    "categoryId": 4,
+    "categoryName": "Sports & Outdoors",
+    "subcategoryId": 30,
+    "subcategoryName": "Water Sports",
+    "inStock": true,
+    "stockCount": 28,
+    "imageUrl": "/118_1",
+    "specs": "{\"material\": \"Polyester blend with quick-dry finish\", \"weight\": \"0.4 lbs\", \"dimensions\": \"Medium: 20 x 12 x 2 inches\", \"warranty\": \"30 days\", \"color\": \"Turquoise pattern\", \"suitableFor\": \"Swimming, beach\"}",
+    "tags": "[\"sports\", \"water\", \"outdoors\", \"top-rated\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "jordan.patel@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Catching Up Over the Weekend?",
+    "preview": "Catching Up Over the Weekend?...",
+    "body": "Hey Alex, it's been ages since we last talked and I was thinking we could grab coffee this Saturday afternoon. Let me know if you're free, I'd love to hear about your new job. Talk soon!",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_target",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

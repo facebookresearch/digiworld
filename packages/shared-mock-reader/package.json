@@ -1,0 +1,36 @@
+{
+    "name": "@andojo/shared-mock-reader",
+    "version": "1.0.0",
+    "description": "Shared mock reader utility for Andojo apps",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "type": "module",
+    "scripts": {
+      "build": "yarn clean && tsc",
+      "clean": "rm -rf dist && find . -name '*.tsbuildinfo' -delete",
+      "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,json,md}\"",
+      "lint": "eslint . --fix",
+      "prepare": "yarn build",
+      "test": "jest --passWithNoTests"
+    },
+    "keywords": [
+      "mock-reader",
+      "images",
+      "react-native"
+    ],
+    "author": "Andojo Team",
+    "license": "UNLICENSED",
+    "private": true,
+    "dependencies": {
+      "react-native-fs": "^2.20.0"
+    },
+    "peerDependencies": {
+      "react": ">=16.8.0",
+      "react-native": ">=0.60.0"
+    },
+    "devDependencies": {
+      "@types/react": "^18.0.0",
+      "@types/react-native": "^0.70.0"
+    }
+  }
+  

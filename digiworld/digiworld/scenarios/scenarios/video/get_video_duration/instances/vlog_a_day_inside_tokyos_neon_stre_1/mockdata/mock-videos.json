@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 1,
+    "categoryId": 7,
+    "title": "A Day Inside Tokyo's Neon Streets",
+    "description": "Join me as I explore Tokyo\u2019s vibrant neon districts, sampling street food and capturing the city\u2019s electric nightlife.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 683,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 3682,
+    "likeCount": 34,
+    "commentCount": 32,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

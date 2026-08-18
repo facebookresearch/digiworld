@@ -1,0 +1,12 @@
+{
+  "task_name": "Reply to the newest comment on the video \"<title>\" with \"<reply_text>\", then tell me the total number of comments on the video \"<title>\"",
+  "app_name": "video",
+  "scenario_class": "ReplyToCommentAndCountScenario",
+  "parameters": [
+    "title",
+    "reply_text"
+  ],
+  "context_fields": [],
+  "description": "Reply to the newest comment on a video with specified text, then report the total comment count",
+  "additional_mockdata": true
+}

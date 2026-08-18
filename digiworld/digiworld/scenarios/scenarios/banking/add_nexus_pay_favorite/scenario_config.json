@@ -1,0 +1,10 @@
+{
+  "task_name": "Add <contact_name> to favorites on Nexus Pay",
+  "app_name": "banking",
+  "scenario_class": "AddNexusPayFavoriteScenario",
+  "parameters": [
+    "contact_name"
+  ],
+  "context_fields": [],
+  "description": "Mark a Nexus Pay (QuickPay) contact as a favorite."
+}

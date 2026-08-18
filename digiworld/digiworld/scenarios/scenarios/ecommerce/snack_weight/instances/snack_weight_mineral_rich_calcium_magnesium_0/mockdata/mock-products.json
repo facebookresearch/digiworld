@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Mineral-Rich Calcium Magnesium Zinc Capsules",
+    "description": "Combining calcium, magnesium, and zinc in a balanced ratio, these capsules aid bone density, muscle function, and immune support. The minerals are chelated for enhanced bioavailability. Perfect for adults seeking a daily mineral boost.",
+    "shortDescription": "Mineral blend of calcium, magnesium, and zinc for bone and muscle health.",
+    "rating": 4.4,
+    "reviewCount": 0,
+    "seller": "PureLife Distributors",
+    "price": 1895.46,
+    "discountedPrice": 947.73,
+    "discountPercent": 50,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 63,
+    "subcategoryName": "Vitamins",
+    "inStock": true,
+    "stockCount": 116,
+    "imageUrl": "/252_1",
+    "specs": "{\"ingredients\": \"Calcium Carbonate, Magnesium Oxide, Zinc Gluconate, Vitamin D3, Microcrystalline Cellulose (capsule)\", \"dosage\": \"Two capsules daily with water\", \"weight\": \"120 capsules (40g total)\", \"expiryPeriod\": \"36 months\", \"madeIn\": \"Germany\", \"certifications\": \"ISO 9001, GMP, Vegan\"}",
+    "tags": "[\"wellness\", \"health\", \"vitamins\", \"premium\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

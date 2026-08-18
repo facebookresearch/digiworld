@@ -1,0 +1,15 @@
+{
+  "task_name": "Add a new payee with the name \"<payee_name>\", account number <account_number>, phone number <phone>, category <category>, address \"<address>\", description \"<description>\"",
+  "app_name": "banking",
+  "scenario_class": "AddNewPayeeScenario",
+  "parameters": [
+    "payee_name",
+    "account_number",
+    "phone",
+    "category",
+    "address",
+    "description"
+  ],
+  "context_fields": [],
+  "description": "Add a new biller/payee to the system with the given details."
+}

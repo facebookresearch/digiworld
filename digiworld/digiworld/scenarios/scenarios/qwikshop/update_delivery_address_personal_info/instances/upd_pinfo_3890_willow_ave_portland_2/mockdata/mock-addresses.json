@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Sofia Lee",
+    "street": "3890 Willow Ave",
+    "city": "Portland",
+    "state": "OR",
+    "pincode": "97205",
+    "phone": "5035550456",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

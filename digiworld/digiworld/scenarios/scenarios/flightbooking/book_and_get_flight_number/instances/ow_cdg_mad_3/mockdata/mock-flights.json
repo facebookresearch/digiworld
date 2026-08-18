@@ -1,0 +1,19 @@
+[
+  {
+    "flight_id": "AF6514_2026-08-15",
+    "airline_id": "airline_af",
+    "airline_code": "AF",
+    "flight_number": "AF6514",
+    "origin": "CDG",
+    "destination": "MAD",
+    "departure_time": "2026-08-15T07:45:00Z",
+    "arrival_time": "2026-08-15T10:37:00Z",
+    "duration_minutes": 172,
+    "fare": 666.67,
+    "currency": "USD",
+    "seats_available": 98,
+    "aircraft_type": "Boeing 737-800",
+    "date": "2026-08-15",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Universal LED Daytime Running Light Kit",
+    "description": "Product: Universal LED Daytime Running Light Kit",
+    "shortDescription": "Universal LED Daytime Running Light Kit",
+    "rating": 4.0,
+    "reviewCount": 0,
+    "seller": "Test Seller",
+    "price": 29.99,
+    "discountedPrice": 29.99,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Automotive",
+    "subcategoryId": 1,
+    "subcategoryName": "Accessories",
+    "inStock": true,
+    "stockCount": 50,
+    "imageUrl": "/test_1",
+    "specs": "{\"installation\": \"Clip-on brackets, no drilling required; secure with supplied self-tapping screws.\"}",
+    "tags": "[\"automotive\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

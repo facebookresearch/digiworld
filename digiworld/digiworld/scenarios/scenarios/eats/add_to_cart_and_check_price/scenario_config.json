@@ -1,0 +1,9 @@
+{
+  "task_name": "Add <restaurant_item> from <restaurant> to my cart, then tell me the price of <restaurant_item> at <restaurant>",
+  "app_name": "eats",
+  "scenario_class": "AddToCartAndCheckPriceScenario",
+  "parameters": ["restaurant_item", "restaurant"],
+  "context_fields": [],
+  "description": "Add a menu item to the cart and then report its price",
+  "additional_mockdata": true
+}

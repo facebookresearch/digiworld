@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Mia Wilson",
+    "street": "369 Aspen Way",
+    "city": "Portland",
+    "state": "OR",
+    "pincode": "97201",
+    "phone": "5035550666",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

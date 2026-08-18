@@ -1,0 +1,8 @@
+{
+  "task_name": "Add a payment method with \"<name>\", \"<cardNumber>\", \"<expirationMonth>\", \"<expirationYear>\"",
+  "app_name": "qwikshop",
+  "scenario_class": "AddPaymentMethodScenario",
+  "parameters": ["name", "cardNumber", "expirationMonth", "expirationYear"],
+  "context_fields": [],
+  "description": "Add a new payment method with the specified card details."
+}

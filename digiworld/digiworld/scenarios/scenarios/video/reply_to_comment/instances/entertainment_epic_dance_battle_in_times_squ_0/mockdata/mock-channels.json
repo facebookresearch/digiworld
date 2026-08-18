@@ -1,0 +1,14 @@
+[
+  {
+    "id": 9990,
+    "userId": 9998,
+    "name": "Maya Patel's Channel",
+    "description": "",
+    "banner": null,
+    "avatar": null,
+    "subscriberCount": 6240,
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{past_timestamp}}",
+    "deletedAt": null
+  }
+]

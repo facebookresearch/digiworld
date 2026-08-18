@@ -1,0 +1,18 @@
+{
+  "parameters": {
+    "item": "EchoLuxe Outdoor Speaker"
+  },
+  "compatible_profiles": [
+    "full_cart"
+  ],
+  "metadata": {
+    "created_at": "2026-03-31T04:15:03.259235+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

@@ -1,0 +1,9 @@
+[
+  {
+    "id": "airline_sq",
+    "name": "Singapore Airlines",
+    "iata_code": "SQ",
+    "country": "Singapore",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

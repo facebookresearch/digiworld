@@ -1,0 +1,21 @@
+{
+  "parameters": {
+    "stop_1": "Market Street",
+    "stop_2": "University Heights",
+    "time": "08:05",
+    "optimization": "fastest"
+  },
+  "compatible_profiles": [
+    "default"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:43.736801+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "theme": "dark",
+    "language": "en",
+    "notificationsEnabled": 1,
+    "geofencingEnabled": 0,
+    "homeLocation": "{\"latitude\": 37.7749, \"longitude\": -122.4194}",
+    "geofenceRadius": 100,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "theme": "light",
+    "language": "en",
+    "notificationsEnabled": 1,
+    "geofencingEnabled": 1,
+    "homeLocation": "{\"latitude\": 40.7128, \"longitude\": -74.0060}",
+    "geofenceRadius": 150,
+    "createdAt": "2024-01-20 14:45:00",
+    "updatedAt": "2024-01-20 14:45:00"
+  },
+  {
+    "id": 3,
+    "userId": 3,
+    "theme": "auto",
+    "language": "en",
+    "notificationsEnabled": 1,
+    "geofencingEnabled": 1,
+    "homeLocation": "{\"latitude\": 34.0522, \"longitude\": -118.2437}",
+    "geofenceRadius": 200,
+    "createdAt": "2024-02-01 09:15:00",
+    "updatedAt": "2024-02-01 09:15:00"
+  },
+  {
+    "id": 4,
+    "userId": 4,
+    "theme": "dark",
+    "language": "en",
+    "notificationsEnabled": 0,
+    "geofencingEnabled": 0,
+    "homeLocation": "{\"latitude\": 41.8781, \"longitude\": -87.6298}",
+    "geofenceRadius": 100,
+    "createdAt": "2024-02-10 16:20:00",
+    "updatedAt": "2024-02-10 16:20:00"
+  },
+  {
+    "id": 5,
+    "userId": 5,
+    "theme": "light",
+    "language": "en",
+    "notificationsEnabled": 1,
+    "geofencingEnabled": 1,
+    "homeLocation": "{\"latitude\": 29.7604, \"longitude\": -95.3698}",
+    "geofenceRadius": 120,
+    "createdAt": "2024-02-15 11:30:00",
+    "updatedAt": "2024-02-15 11:30:00"
+  }
+]

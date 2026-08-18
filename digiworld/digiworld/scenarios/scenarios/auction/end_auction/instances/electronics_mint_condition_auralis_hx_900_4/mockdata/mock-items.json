@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754040039,
+    "title": "Mint Condition Auralis WH-1000XM5 Noise\u2011Canceling Headphones",
+    "description": "Auralis WH\u20111000XM5 headphones in mint condition, still in original packaging, offering industry\u2011leading noise cancellation and premium sound quality.",
+    "categoryId": 1,
+    "sellerId": "{{current_user_id}}",
+    "price": 409.81,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 2,
+    "imageUrl": "https://example.com/images/mint-condition-sony-wh-1000xm5-noise\u2011canceling-headphones.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 240.63,
+    "currentBid": 305.43,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "parameters": {
+    "color": "Black",
+    "make": "Harley-Davidson",
+    "model": "Street 750",
+    "vehicle_type": "Motorcycle",
+    "license_plate": "NIGHTR",
+    "nickname": "Night Rider"
+  },
+  "compatible_profiles": [
+    "active_sessions",
+    "budget_zones",
+    "default",
+    "electric_vehicles",
+    "expired_sessions",
+    "high_parking_volume",
+    "many_vehicles",
+    "new_user",
+    "premium_zones",
+    "zone_full"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:00.576674+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

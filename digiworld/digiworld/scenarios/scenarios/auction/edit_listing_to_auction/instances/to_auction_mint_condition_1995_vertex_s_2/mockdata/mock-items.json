@@ -1,0 +1,22 @@
+[
+  {
+    "id": 182570037,
+    "title": "Mint Condition 1995 Vertex Super PlayLad",
+    "description": "Enhance your Super Vertex experience with this rare and working Super PlayLad, complete with original packaging and documentation.",
+    "categoryId": 7,
+    "sellerId": "{{current_user_id}}",
+    "price": 1483.43,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/mint-condition-1995-nintendo-super-game-boy.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

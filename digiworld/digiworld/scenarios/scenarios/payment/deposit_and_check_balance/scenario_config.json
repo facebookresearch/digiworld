@@ -1,0 +1,14 @@
+{
+  "task_name": "Deposit $<amount> to my Andojo Pay account using <deposit_method>, then tell me my current wallet balance",
+  "app_name": "payment",
+  "scenario_class": "DepositAndCheckBalanceScenario",
+  "parameters": [
+    "amount",
+    "deposit_method"
+  ],
+  "context_fields": [
+    "current_user_pin"
+  ],
+  "description": "Deposit a specified amount and then report the resulting wallet balance",
+  "additional_mockdata": false
+}

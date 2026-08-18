@@ -1,0 +1,9 @@
+{
+    "task_name": "Add my three latest messaged contacts to a group named \"<group_name>\", with the description \"<group_description>\"",
+    "app_name": "message",
+    "scenario_class": "CreateGroupWithLatestContactsScenario",
+    "parameters": ["group_name", "group_description"],
+    "context_fields": [],
+    "description": "Create a group with the three latest messaged contacts",
+    "additional_mockdata": false
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Zen Ramen",
+    "description": "Rich tonkotsu broth simmered 18 hours for a silky ramen experience.",
+    "address": "412 Willow Creek Road, Phoenix, AZ 85004",
+    "latitude": 33.4484,
+    "longitude": -112.074,
+    "logo": "https://images.unsplash.com/photo-1424847651672-bf20a4b0982b?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.4,
+    "deliveryFee": 2.27,
+    "minOrder": 20.0,
+    "deliveryRadius": 6,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754770137,
+    "title": "Amethyst Halo Pendant in Sterling Silver \u2013 Hand\u2011crafted Design",
+    "description": "The amethyst stone is set in polished sterling silver, exuding a gentle violet glow; a handcrafted pendant that adds elegance to any outfit.",
+    "categoryId": 10,
+    "sellerId": 2,
+    "price": 385.43,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/amethyst-halo-pendant-in-sterling-silver-\u2013-hand\u2011crafted-design.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "task_name": "What's the expiration period for the <item> item?",
+  "app_name": "ecommerce",
+  "scenario_class": "BeautyExpirationPeriodScenario",
+  "parameters": ["item"],
+  "context_fields": [],
+  "description": "Retrieve the expiration period for a beauty product"
+}

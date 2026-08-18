@@ -1,0 +1,28 @@
+{
+  "parameters": {
+    "destination": "LAX"
+  },
+  "compatible_profiles": [
+    "budget_flights",
+    "cancelled_flights",
+    "default",
+    "frequent_flyer",
+    "high_booking_volume",
+    "international_focus",
+    "limited_seats",
+    "multi_passenger",
+    "new_user",
+    "pending_bookings",
+    "premium_flights"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:20.295455+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

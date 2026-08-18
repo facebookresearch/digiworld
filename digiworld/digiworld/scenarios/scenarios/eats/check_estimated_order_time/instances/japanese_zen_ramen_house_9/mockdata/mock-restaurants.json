@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Zen Ramen House",
+    "description": "Rich miso ramen broth with pork belly, soft boiled egg, and bamboo shoots.",
+    "address": "715 Chestnut Street, Philadelphia, PA 19106",
+    "latitude": 39.9526,
+    "longitude": -75.1652,
+    "logo": "https://images.unsplash.com/photo-1552566626-52f8b828add9?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.7,
+    "deliveryFee": 4.28,
+    "minOrder": 10.0,
+    "deliveryRadius": 10,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "task_name": "What's the <extreme_type> <direction> transaction in my history?",
+  "app_name": "banking",
+  "scenario_class": "ExtremeTransactionQueryScenario",
+  "parameters": [
+    "extreme_type",
+    "direction"
+  ],
+  "context_fields": [],
+  "description": "Find the most/least expensive or oldest/newest incoming/outgoing transaction."
+}

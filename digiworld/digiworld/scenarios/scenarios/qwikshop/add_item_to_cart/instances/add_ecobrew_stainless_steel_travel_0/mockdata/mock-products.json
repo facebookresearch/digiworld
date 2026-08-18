@@ -1,0 +1,22 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "EcoBrew Stainless Steel Travel Mug",
+    "description": "A double-walled, vacuum-insulated steel mug that keeps drinks hot for up to 8 hours and cold for up to 12 hours.",
+    "shortDescription": "Insulated travel mug",
+    "price": 119.37,
+    "discountedPrice": 95.5,
+    "discountPercent": 20,
+    "rating": 3.4,
+    "reviewCount": 342,
+    "seller": "GreenGear Co.",
+    "categoryName": "Home & Kitchen",
+    "subcategoryName": "Kitchen Tools",
+    "inStock": 1,
+    "stockCount": 189,
+    "imageUrl": "/product_9928",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

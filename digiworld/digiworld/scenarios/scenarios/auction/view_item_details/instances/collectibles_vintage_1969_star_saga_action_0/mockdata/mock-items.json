@@ -1,0 +1,22 @@
+[
+  {
+    "id": 181880002,
+    "title": "Vintage 1969 Star Saga Action Figure Collection",
+    "description": "This rare collection of original 1969 Star Saga action figures is in excellent condition, with minimal wear and original packaging, making it a highly sought-after collector's item.",
+    "categoryId": 8,
+    "sellerId": "{{current_user_id}}",
+    "price": 370.36,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 2,
+    "imageUrl": "https://example.com/images/vintage-1969-star-wars-action-figure-collection.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 122.5,
+    "currentBid": 195.09,
+    "bidIncrement": 5.0,
+    "endTime": 1773453988,
+    "expired": 0
+  }
+]

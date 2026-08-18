@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "maya.patel@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Flash Sale: 50% Off All Summer Apparel",
+    "preview": "Hi, we're excited to announce a limited-time flash...",
+    "body": "Hi, we're excited to announce a limited-time flash sale with 50% off all summer apparel. Shop now and enjoy free shipping on orders over $50. Offer ends this Sunday.",
+    "timestamp": "{{middle_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_maya_patel_flash_sale_50_off_all_summe",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

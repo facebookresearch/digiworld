@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754000030,
+    "title": "Handcrafted Sterling Silver Celtic Knot Ring \u2013 Size 7 \u2013 $120",
+    "description": "Intricate knot design, polished finish, hypoallergenic, ideal for everyday wear.",
+    "categoryId": 10,
+    "sellerId": "{{current_user_id}}",
+    "price": 2022.64,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/handcrafted-sterling-silver-celtic-knot-ring-\u2013-size-7-\u2013-$120.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

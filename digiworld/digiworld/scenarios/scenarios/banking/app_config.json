@@ -1,0 +1,7 @@
+{
+  "app_name": "banking",
+  "apk_name": "com.andojobank.sbx",
+  "bundle_id": "com.andojobank.sbx",
+  "database_doc_path": "../../../../../apps/banking/docs/database.md",
+  "feature_scope_path": "../../../../../apps/banking/docs/banking-feature-scope.md"
+}

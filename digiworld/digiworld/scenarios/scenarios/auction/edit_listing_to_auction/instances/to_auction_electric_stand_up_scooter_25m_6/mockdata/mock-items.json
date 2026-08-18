@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754120066,
+    "title": "Electric Stand-Up Scooter, 25mph Max Speed, 15-mile Range \u2013 $420",
+    "description": "Foldable, lightweight aluminum frame, dual\u2011motor, LED display, suitable for urban commuting.",
+    "categoryId": 5,
+    "sellerId": "{{current_user_id}}",
+    "price": 965.81,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/electric-stand-up-scooter,-25mph-max-speed,-15-mile-range-\u2013-$420.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

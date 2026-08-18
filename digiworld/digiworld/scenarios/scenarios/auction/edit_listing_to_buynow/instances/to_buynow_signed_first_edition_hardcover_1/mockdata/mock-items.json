@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754000027,
+    "title": "Signed First Edition Hardcover of \"The Wind-Up Bird Chronicle\" by Haruki Murakami",
+    "description": "First\u2011edition hardcover, signed on the title page, crisp pages, and dust\u2011jacket in excellent condition.",
+    "categoryId": 4,
+    "sellerId": "{{current_user_id}}",
+    "price": 1903.05,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 8,
+    "imageUrl": "https://example.com/images/signed-first-edition-hardcover-of-\"the-wind-up-bird-chronicle\"-by-haruki-murakami.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 662.07,
+    "currentBid": 885.91,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

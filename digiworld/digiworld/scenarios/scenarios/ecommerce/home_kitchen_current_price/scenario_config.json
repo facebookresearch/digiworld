@@ -1,0 +1,10 @@
+{
+  "task_name": "What's the current price of the <item> item?",
+  "app_name": "ecommerce",
+  "scenario_class": "HomeKitchenCurrentPriceScenario",
+  "parameters": [
+    "item"
+  ],
+  "context_fields": [],
+  "description": "Retrieve the current price of a Home & Kitchen product"
+}

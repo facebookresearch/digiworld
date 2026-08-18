@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9900,
+    "name": "AeroFit Bluetooth Running Shoes",
+    "description": "These lightweight running shoes feature built-in Bluetooth speakers that sync with your smartphone, delivering high\u2011quality sound while you jog.",
+    "shortDescription": "Bluetooth-enabled running shoes with integrated speakers.",
+    "price": 60.44,
+    "discountedPrice": 44.12,
+    "discountPercent": 27,
+    "rating": 3.5,
+    "reviewCount": 318,
+    "seller": "StrideTech",
+    "categoryName": "Electronics",
+    "subcategoryName": "Smartphones",
+    "inStock": 1,
+    "stockCount": 16,
+    "imageUrl": "/product_4257",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

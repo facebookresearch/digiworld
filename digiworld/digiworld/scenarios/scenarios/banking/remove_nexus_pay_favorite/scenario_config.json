@@ -1,0 +1,10 @@
+{
+  "task_name": "Remove <contact_name> from favorites on Nexus Pay",
+  "app_name": "banking",
+  "scenario_class": "RemoveNexusPayFavoriteScenario",
+  "parameters": [
+    "contact_name"
+  ],
+  "context_fields": [],
+  "description": "Remove a Nexus Pay (QuickPay) contact from favorites."
+}

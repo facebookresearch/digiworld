@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Emily Chen",
+    "street": "456 Oak Ave",
+    "city": "Seattle",
+    "state": "WA",
+    "pincode": "98101",
+    "phone": "2065557342",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

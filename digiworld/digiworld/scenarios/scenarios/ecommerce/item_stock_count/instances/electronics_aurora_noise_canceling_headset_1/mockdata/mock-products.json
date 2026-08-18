@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Aurora Noise-Canceling Headset",
+    "description": "Aurora Noise\u2011Canceling Headset combines hi\u2011fi sound with adaptive ANC that adjusts to ambient noise levels. The touch\u2011control panel lets users manage music and calls effortlessly.",
+    "shortDescription": "Noise\u2011canceling headset with adaptive ANC and touch controls.",
+    "rating": 2.5,
+    "reviewCount": 2,
+    "seller": "Aurora Soundworks",
+    "price": 580.9,
+    "discountedPrice": 580.9,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 4,
+    "subcategoryName": "Headphones",
+    "inStock": true,
+    "stockCount": 135,
+    "imageUrl": "/15_1",
+    "specs": "{\"display\": \"N/A\", \"processor\": \"Cellwave QCC5142\", \"ram\": \"N/A\", \"storage\": \"N/A\", \"battery\": \"380 mAh\", \"os\": \"Proprietary\", \"connectivity\": \"Bluetooth 5.2, NFC\"}",
+    "tags": "[\"electronics\", \"headphones\", \"high-quality\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

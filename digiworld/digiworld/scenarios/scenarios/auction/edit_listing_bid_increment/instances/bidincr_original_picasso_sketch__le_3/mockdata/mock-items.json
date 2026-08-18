@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754030038,
+    "title": "Original Picasso Sketch \u2013 'Le Chat' (1911) \u2013 Provenance Included",
+    "description": "A delicate charcoal drawing on paper, authenticated by the Picasso estate, ready for framing.",
+    "categoryId": 11,
+    "sellerId": "{{current_user_id}}",
+    "price": 277.97,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 11,
+    "imageUrl": "https://example.com/images/original-picasso-sketch-\u2013-'le-chat'-(1911)-\u2013-provenance-included.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 115.07,
+    "currentBid": 148.12,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "name": "Movie Night",
+    "description": "Perfect lighting for movie watching",
+    "icon": "film",
+    "isActive": 1,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "name": "Good Morning",
+    "description": "Bright lighting to start the day",
+    "icon": "sunny",
+    "isActive": 1,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 3,
+    "userId": 1,
+    "name": "Good Night",
+    "description": "Dim lighting for bedtime",
+    "icon": "moon",
+    "isActive": 1,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 4,
+    "userId": 2,
+    "name": "Party Mode",
+    "description": "Colorful lighting for celebrations",
+    "icon": "happy",
+    "isActive": 1,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 5,
+    "userId": 1,
+    "name": "Work Mode",
+    "description": "Bright, focused lighting for productivity",
+    "icon": "briefcase",
+    "isActive": 1,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "userId": 2,
+    "name": "Dinner Time",
+    "description": "Warm lighting for meals",
+    "icon": "restaurant",
+    "isActive": 1,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 7,
+    "userId": 3,
+    "name": "Away Mode",
+    "description": "Security lighting when away",
+    "icon": "exit",
+    "isActive": 1,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 8,
+    "userId": 1,
+    "name": "Reading Time",
+    "description": "Comfortable lighting for reading",
+    "icon": "library",
+    "isActive": 1,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 9,
+    "userId": 1,
+    "name": "Workout Energy",
+    "description": "Bright, cool lights with upbeat audio cues for workouts",
+    "icon": "barbell",
+    "isActive": 1,
+    "createdAt": "2024-02-10T09:00:00.000Z",
+    "updatedAt": "2024-02-10T09:00:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 10,
+    "userId": 1,
+    "name": "Focus Deep Work",
+    "description": "Neutral white task lighting with minimal distractions",
+    "icon": "glasses",
+    "isActive": 1,
+    "createdAt": "2024-02-10T09:05:00.000Z",
+    "updatedAt": "2024-02-10T09:05:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 11,
+    "userId": 1,
+    "name": "Stormy Cozy",
+    "description": "Warm ambient lamps with sound machine for rainy days",
+    "icon": "cloudy",
+    "isActive": 1,
+    "createdAt": "2024-02-10T09:10:00.000Z",
+    "updatedAt": "2024-02-10T09:10:00.000Z",
+    "deletedAt": null
+  }
+]

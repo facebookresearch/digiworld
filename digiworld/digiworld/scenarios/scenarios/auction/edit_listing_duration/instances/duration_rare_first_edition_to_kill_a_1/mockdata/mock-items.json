@@ -1,0 +1,22 @@
+[
+  {
+    "id": 182210018,
+    "title": "Rare First Edition 'To Kill a Mockingbird' by Harper Lee",
+    "description": "A highly sought-after first edition of Harper Lee's classic novel in excellent condition.",
+    "categoryId": 4,
+    "sellerId": "{{current_user_id}}",
+    "price": 1069.26,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/rare-first-edition-'to-kill-a-mockingbird'-by-harper-lee.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 330.34,
+    "currentBid": 388.12,
+    "bidIncrement": 5.0,
+    "endTime": 1773367621,
+    "expired": 0
+  }
+]

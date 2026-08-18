@@ -1,0 +1,40 @@
+{
+  "app_name": "ryde",
+  "apk_name": "com.andojoryde.sbx",
+  "database_name": "default.db",
+  "home_route": "/(tabs)/home",
+  "routes": [
+    {
+      "id": "home",
+      "route": "/(tabs)/home",
+      "screen_name": "home",
+      "description": "Home screen with ride booking",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "history",
+      "route": "/(tabs)/history",
+      "screen_name": "history",
+      "description": "Ride history list",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "payment",
+      "route": "/(tabs)/payment",
+      "screen_name": "payment",
+      "description": "Payment methods view",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "help",
+      "route": "/(tabs)/help",
+      "screen_name": "help",
+      "description": "Help and support screen",
+      "back_route": null,
+      "context_variations": []
+    }
+  ]
+}

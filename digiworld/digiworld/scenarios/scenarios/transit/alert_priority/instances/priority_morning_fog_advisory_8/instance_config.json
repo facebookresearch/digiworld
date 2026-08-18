@@ -1,0 +1,27 @@
+{
+  "parameters": {
+    "alert_title": "Morning Fog Advisory"
+  },
+  "compatible_profiles": [
+    "default",
+    "few_stops",
+    "frequent_traveler",
+    "many_lines",
+    "many_stops",
+    "multi_modal",
+    "new_user",
+    "peak_hours",
+    "service_disruptions",
+    "weekend_schedule"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:56.988188+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

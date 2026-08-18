@@ -1,0 +1,53 @@
+{
+  "timestamp": 1759569612903,
+  "sessionStore": {
+    "session": {
+      "id": "state-transaction_detail_middle-0",
+      "data": {
+        "screenName": "transactionDetail",
+        "route": "/screens/transaction/151",
+        "startTime": 1759569612903,
+        "endTime": 0,
+        "sessionData": {
+          "interactionType": "SCREEN_MOUNTED",
+          "currentFocusedElement": "",
+          "formData": {
+            "screen": "transactionDetail",
+            "route": "/screens/transaction/151",
+            "messageID": "151",
+            "position": "middle"
+          }
+        },
+        "action": "",
+        "timestamp": 1759569612903
+      }
+    }
+  },
+  "userStore": {
+    "currentUser": {
+      "id": 1,
+      "email": "brian.s@example.com",
+      "password": "password123",
+      "pin": "1234",
+      "pinAttempts": 0,
+      "pinLockedUntil": null,
+      "firstName": "Brian",
+      "lastName": "S",
+      "phoneNumber": "+12345678901",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z",
+      "settings": {},
+      "status": "active",
+      "kycVerified": 1,
+      "dailyLimit": 1000,
+      "monthlyLimit": 20000,
+      "displayName": "Brian S",
+      "role": "user"
+    },
+    "authToken": "dummy-token-1"
+  },
+  "uiStore": {
+    "isDeeplinkLoading": false,
+    "storagePermissionUri": null
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "balance": 1358.98,
+    "currency": "USD",
+    "type": "personal",
+    "status": "active",
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{past_timestamp}}"
+  },
+  {
+    "id": "{{auto_id}}",
+    "userId": 10001,
+    "balance": 237.58,
+    "currency": "USD",
+    "type": "personal",
+    "status": "active",
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{past_timestamp}}"
+  }
+]

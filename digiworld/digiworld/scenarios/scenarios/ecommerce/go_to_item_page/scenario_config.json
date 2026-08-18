@@ -1,0 +1,10 @@
+{
+  "task_name": "Take me to the page for the <item> item",
+  "app_name": "ecommerce",
+  "scenario_class": "GoToItemPageScenario",
+  "parameters": [
+    "item"
+  ],
+  "context_fields": [],
+  "description": "Navigate to the product detail page for a specific item"
+}

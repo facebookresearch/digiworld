@@ -1,0 +1,23 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "accountTypeId": 2,
+    "accountNumber": "3746317213",
+    "accountName": "College Tuition Savings",
+    "balance": 18042.48,
+    "availableBalance": 18042.48,
+    "isPrimary": 0,
+    "status": "active",
+    "openedDate": "{{past_timestamp}}",
+    "closedDate": null,
+    "lastStatementDate": null,
+    "nextStatementDate": null,
+    "overdraftProtectionEnabled": 0,
+    "overdraftProtectionSourceAccountId": null,
+    "linkedSavingsAccountId": null,
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{past_timestamp}}",
+    "deletedAt": null
+  }
+]

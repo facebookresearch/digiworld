@@ -1,0 +1,19 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Suburban Lot",
+    "description": "Parking zone SLB44",
+    "latitude": 40.739704,
+    "longitude": -73.975894,
+    "zoneCode": "SLB44",
+    "operator": "City Parking Authority",
+    "zoneType": "metered",
+    "capacity": 147,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.28,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 9990,
+    "categoryId": 4,
+    "title": "Hidden Easter Eggs in 2024 Blockbusters",
+    "description": "We dive into the most surprising Easter eggs hidden in this year's biggest movies, revealing secrets you probably missed.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 683,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 3682,
+    "likeCount": 34,
+    "commentCount": 32,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

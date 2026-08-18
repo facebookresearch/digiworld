@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "userId": "{{current_user_id}}",
+    "restaurantId": 90001,
+    "addressId": 1,
+    "status": "delivered",
+    "total": 13.0,
+    "deliveryAddress": "412 Willow Creek Road, Phoenix, AZ 85004",
+    "paymentMethod": "cash",
+    "specialInstructions": "",
+    "cutlery": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

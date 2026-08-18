@@ -1,0 +1,8 @@
+{
+  "task_name": "What's the weight of the <item> snack?",
+  "app_name": "ecommerce",
+  "scenario_class": "SnackWeightScenario",
+  "parameters": ["item"],
+  "context_fields": [],
+  "description": "Retrieve the weight of a snack product"
+}

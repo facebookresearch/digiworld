@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Off-Road All-Terrain Tire 265/70R17",
+    "description": "Designed for off-road adventures, these all-terrain tires feature deep tread blocks and reinforced sidewalls to resist punctures. The aggressive pattern provides traction on mud, sand, and rocky surfaces. Sized for 265/70R17, they are compatible with most SUV and light-truck setups.",
+    "shortDescription": "All-terrain tire built for rugged off-road performance.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "OffRoad Gear Ltd.",
+    "price": 521.47,
+    "discountedPrice": 417.18,
+    "discountPercent": 20,
+    "categoryId": 8,
+    "categoryName": "Automotive",
+    "subcategoryId": 58,
+    "subcategoryName": "Tires & Wheels",
+    "inStock": true,
+    "stockCount": 97,
+    "imageUrl": "/232_1",
+    "specs": "{\"material\": \"Reinforced rubber with sidewall puncture-resistant layer\", \"compatibility\": \"Fits 17-inch off-road rims, bolt pattern 5x114.3\", \"dimensions\": \"265/70R17 17x11 inches\", \"weight\": \"13.8 kg per tire\", \"warranty\": \"3-year treadwear warranty\", \"madeIn\": \"South Africa\"}",
+    "tags": "[\"automotive\", \"tires\", \"wheels\", \"high-quality\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

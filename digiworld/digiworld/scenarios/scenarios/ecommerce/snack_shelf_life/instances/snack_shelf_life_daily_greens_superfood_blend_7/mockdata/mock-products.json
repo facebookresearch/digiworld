@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Daily Greens Superfood Blend",
+    "description": "Product: Daily Greens Superfood Blend",
+    "shortDescription": "Daily Greens Superfood Blend",
+    "rating": 4.0,
+    "reviewCount": 0,
+    "seller": "Test Seller",
+    "price": 29.99,
+    "discountedPrice": 29.99,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 1,
+    "subcategoryName": "Supplements",
+    "inStock": true,
+    "stockCount": 50,
+    "imageUrl": "/test_1",
+    "specs": "{\"shelfLife\": \"12 months sealed\"}",
+    "tags": "[\"health & wellness\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

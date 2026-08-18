@@ -1,0 +1,240 @@
+[
+  {
+    "id": 1,
+    "name": "Mobiles & Tablets",
+    "icon": "smartphone",
+    "subcategories": [
+      {
+        "id": 1,
+        "name": "Smartphones",
+        "parentCategoryId": 1
+      },
+      {
+        "id": 2,
+        "name": "Tablets",
+        "parentCategoryId": 1
+      },
+      {
+        "id": 3,
+        "name": "Feature Phones",
+        "parentCategoryId": 1
+      },
+      {
+        "id": 4,
+        "name": "Accessories",
+        "parentCategoryId": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Fashion & Apparel",
+    "icon": "checkroom",
+    "subcategories": [
+      {
+        "id": 5,
+        "name": "Men's Clothing",
+        "parentCategoryId": 2
+      },
+      {
+        "id": 6,
+        "name": "Women's Clothing",
+        "parentCategoryId": 2
+      },
+      {
+        "id": 7,
+        "name": "Kids' Wear",
+        "parentCategoryId": 2
+      },
+      {
+        "id": 8,
+        "name": "Footwear",
+        "parentCategoryId": 2
+      },
+      {
+        "id": 9,
+        "name": "Accessories",
+        "parentCategoryId": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Electronics & Gadgets",
+    "icon": "devices",
+    "subcategories": [
+      {
+        "id": 10,
+        "name": "Laptops",
+        "parentCategoryId": 3
+      },
+      {
+        "id": 11,
+        "name": "Cameras",
+        "parentCategoryId": 3
+      },
+      {
+        "id": 12,
+        "name": "Audio Devices",
+        "parentCategoryId": 3
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Home & Kitchen",
+    "icon": "home",
+    "subcategories": [
+      {
+        "id": 13,
+        "name": "Furniture",
+        "parentCategoryId": 4
+      },
+      {
+        "id": 14,
+        "name": "Kitchen Appliances",
+        "parentCategoryId": 4
+      },
+      {
+        "id": 15,
+        "name": "Home Decor",
+        "parentCategoryId": 4
+      },
+      {
+        "id": 16,
+        "name": "Bedding",
+        "parentCategoryId": 4
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Beauty & Health",
+    "icon": "spa",
+    "subcategories": [
+      {
+        "id": 17,
+        "name": "Skincare",
+        "parentCategoryId": 5
+      },
+      {
+        "id": 18,
+        "name": "Makeup",
+        "parentCategoryId": 5
+      },
+      {
+        "id": 19,
+        "name": "Haircare",
+        "parentCategoryId": 5
+      },
+      {
+        "id": 20,
+        "name": "Personal Care",
+        "parentCategoryId": 5
+      },
+      {
+        "id": 21,
+        "name": "Health Supplements",
+        "parentCategoryId": 5
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Sports & Fitness",
+    "icon": "fitness-center",
+    "subcategories": [
+      {
+        "id": 22,
+        "name": "Exercise Equipment",
+        "parentCategoryId": 6
+      },
+      {
+        "id": 23,
+        "name": "Sports Gear",
+        "parentCategoryId": 6
+      },
+      {
+        "id": 24,
+        "name": "Outdoor Activities",
+        "parentCategoryId": 6
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Toys & Games",
+    "icon": "toys",
+    "subcategories": [
+      {
+        "id": 25,
+        "name": "Board Games",
+        "parentCategoryId": 7
+      },
+      {
+        "id": 26,
+        "name": "Puzzles",
+        "parentCategoryId": 7
+      },
+      {
+        "id": 27,
+        "name": "Action Figures",
+        "parentCategoryId": 7
+      },
+      {
+        "id": 28,
+        "name": "Educational Toys",
+        "parentCategoryId": 7
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Automotive Needs",
+    "icon": "directions-car",
+    "subcategories": [
+      {
+        "id": 29,
+        "name": "Car Accessories",
+        "parentCategoryId": 8
+      },
+      {
+        "id": 30,
+        "name": "Bike Accessories",
+        "parentCategoryId": 8
+      },
+      {
+        "id": 31,
+        "name": "Car Care",
+        "parentCategoryId": 8
+      },
+      {
+        "id": 32,
+        "name": "Tools",
+        "parentCategoryId": 8
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Snacks & Beverages",
+    "icon": "local-cafe",
+    "subcategories": [
+      {
+        "id": 33,
+        "name": "Chips & Crackers",
+        "parentCategoryId": 9
+      },
+      {
+        "id": 34,
+        "name": "Chocolates & Candies",
+        "parentCategoryId": 9
+      },
+      {
+        "id": 35,
+        "name": "Soft Drinks",
+        "parentCategoryId": 9
+      }
+    ]
+  }
+]

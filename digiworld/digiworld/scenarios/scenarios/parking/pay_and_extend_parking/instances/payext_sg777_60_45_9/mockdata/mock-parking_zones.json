@@ -1,0 +1,19 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Southgate Lot",
+    "description": "Parking zone SG777",
+    "latitude": 40.7180,
+    "longitude": -73.9920,
+    "zoneCode": "SG777",
+    "operator": "City Parking Authority",
+    "zoneType": "lot",
+    "capacity": 95,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.35,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

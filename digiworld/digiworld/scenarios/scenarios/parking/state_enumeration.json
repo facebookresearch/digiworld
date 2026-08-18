@@ -1,0 +1,56 @@
+{
+  "app_name": "parking",
+  "apk_name": "com.andojopark.sbx",
+  "database_name": "default.db",
+  "home_route": "/(tabs)/home",
+  "routes": [
+    {
+      "id": "home",
+      "route": "/(tabs)/home",
+      "screen_name": "home",
+      "description": "Home screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "vehicles",
+      "route": "/(tabs)/vehicles",
+      "screen_name": "vehicles",
+      "description": "Vehicles screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "history",
+      "route": "/(tabs)/history",
+      "screen_name": "history",
+      "description": "History screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "payment",
+      "route": "/(tabs)/payment",
+      "screen_name": "payment",
+      "description": "Payment screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "account",
+      "route": "/(tabs)/account",
+      "screen_name": "account",
+      "description": "Account screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "parking_search",
+      "route": "/screens/parking/search",
+      "screen_name": "parkingSearch",
+      "description": "Parking search screen",
+      "back_route": "/(tabs)/home",
+      "context_variations": []
+    }
+  ]
+}

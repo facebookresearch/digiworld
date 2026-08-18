@@ -1,0 +1,9 @@
+{
+  "task_name": "Order <quantity> <restaurant_item> from <restaurant>",
+  "app_name": "eats",
+  "scenario_class": "OrderItemScenario",
+  "parameters": ["quantity", "restaurant_item", "restaurant"],
+  "context_fields": [],
+  "description": "Order a specific quantity of a menu item from a restaurant.",
+  "additional_mockdata": true
+}

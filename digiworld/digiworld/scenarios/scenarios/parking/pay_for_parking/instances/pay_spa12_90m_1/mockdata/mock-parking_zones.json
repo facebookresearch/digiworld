@@ -1,0 +1,19 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Solar Plaza",
+    "description": "Parking zone SPA12",
+    "latitude": 40.723977,
+    "longitude": -73.980002,
+    "zoneCode": "SPA12",
+    "operator": "City Parking Authority",
+    "zoneType": "rooftop",
+    "capacity": 157,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.22,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

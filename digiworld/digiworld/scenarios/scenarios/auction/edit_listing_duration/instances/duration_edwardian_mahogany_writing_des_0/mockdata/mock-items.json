@@ -1,0 +1,22 @@
+[
+  {
+    "id": 751820007,
+    "title": "Edwardian Mahogany Writing Desk with Original Brass Handles",
+    "description": "Hand\u2011crafted mahogany desk featuring intricate paneling, original brass hardware, and a hidden drawer, perfect for a study or office.",
+    "categoryId": 1,
+    "sellerId": "{{current_user_id}}",
+    "price": 1633.46,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 8,
+    "imageUrl": "https://example.com/images/edwardian-mahogany-writing-desk-with-original-brass-handles.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 757.08,
+    "currentBid": 890.59,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

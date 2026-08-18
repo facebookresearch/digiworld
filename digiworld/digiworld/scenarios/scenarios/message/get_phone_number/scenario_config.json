@@ -1,0 +1,22 @@
+{
+  "task_name": "What is the phone number registered to my account?",
+  "app_name": "message",
+  "scenario_class": "GetPhoneNumberScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Retrieve the phone number registered to the current user's account",
+  "additional_mockdata": false,
+  "compatible_profiles": [
+    "default",
+    "high_message_volume",
+    "inactive_groups",
+    "large_groups",
+    "long_calls",
+    "many_groups",
+    "media_heavy",
+    "missed_calls",
+    "new_user",
+    "recent_activity",
+    "unread_messages"
+  ]
+}

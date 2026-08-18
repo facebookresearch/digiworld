@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Waterproof Utility Field Jacket",
+    "description": "Built with a breathable waterproof membrane, this field jacket shields you from rain while allowing airflow. Multiple utility pockets store essentials, and the adjustable hem tailors the fit. Ideal for outdoor adventures.",
+    "shortDescription": "Waterproof field jacket with utility pockets for outdoor protection.",
+    "rating": 3.7,
+    "reviewCount": 3,
+    "seller": "Frontier Gear Outfitters",
+    "price": 160.23,
+    "discountedPrice": 128.18,
+    "discountPercent": 20,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 12,
+    "subcategoryName": "Jackets",
+    "inStock": true,
+    "stockCount": 101,
+    "imageUrl": "/45_1",
+    "specs": "{\"material\": \"100% polyester waterproof shell with 10,000mm rating\", \"careInstructions\": \"Machine wash cold, air dry, do not tumble dry\", \"fit\": \"Utility, regular\", \"size\": \"S-XXL\", \"color\": \"Olive Green\", \"pattern\": \"Solid\"}",
+    "tags": "[\"jackets\", \"clothing\", \"best\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

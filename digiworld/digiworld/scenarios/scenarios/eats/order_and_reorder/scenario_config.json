@@ -1,0 +1,9 @@
+{
+  "task_name": "Order <quantity> <restaurant_item> from <restaurant>, then reorder from <restaurant>",
+  "app_name": "eats",
+  "scenario_class": "OrderAndReorderScenario",
+  "parameters": ["quantity", "restaurant_item", "restaurant"],
+  "context_fields": [],
+  "description": "Order a specific quantity of a menu item from a restaurant, then reorder the same items",
+  "additional_mockdata": true
+}

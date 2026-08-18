@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Towel Warmers Rack, Stainless Steel",
+    "description": "Warm your towels quickly with this stainless\u2011steel rack that heats up in minutes. The adjustable length accommodates multiple towels, and the built\u2011in timer helps conserve energy. Ideal for bathrooms and spa\u2011like comfort.",
+    "shortDescription": "Stainless\u2011steel towel warmer rack with adjustable length.",
+    "rating": 4.0,
+    "reviewCount": 1,
+    "seller": "WarmLux Home",
+    "price": 1073.22,
+    "discountedPrice": 601.0,
+    "discountPercent": 44,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 23,
+    "subcategoryName": "Bathroom",
+    "inStock": true,
+    "stockCount": 195,
+    "imageUrl": "/92_1",
+    "specs": "{\"material\": \"Stainless steel rack with heated elements\", \"dimensions\": \"30 x 15 x 8 in\", \"weight\": \"12 lbs\", \"warranty\": \"3\\u2011year limited warranty\", \"color\": \"Brushed stainless steel\", \"careInstructions\": \"Wipe with damp cloth; unplug when not in use; avoid overloading beyond 10 towels\"}",
+    "tags": "[\"kitchen\", \"home\", \"bathroom\", \"high-quality\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

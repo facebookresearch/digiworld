@@ -1,0 +1,19 @@
+[
+  {
+    "flight_id": "EK5333_{{tomorrow_date}}",
+    "airline_id": "airline_ek",
+    "airline_code": "EK",
+    "flight_number": "EK5333",
+    "origin": "DXB",
+    "destination": "LHR",
+    "departure_time": "{{tomorrow_date}}T06:45:00Z",
+    "arrival_time": "{{tomorrow_date}}T15:38:00Z",
+    "duration_minutes": 533,
+    "fare": 362.27,
+    "currency": "USD",
+    "seats_available": 106,
+    "aircraft_type": "Boeing 787-9 Dreamliner",
+    "date": "{{tomorrow_date}}",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

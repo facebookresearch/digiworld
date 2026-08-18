@@ -1,0 +1,10 @@
+{
+  "task_name": "View the <document_type>",
+  "app_name": "banking",
+  "scenario_class": "ViewLegalDocumentScenario",
+  "parameters": [
+    "document_type"
+  ],
+  "context_fields": [],
+  "description": "Navigate to and view a specific legal document (Terms & Conditions or Privacy Policy)."
+}

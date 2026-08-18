@@ -1,0 +1,11 @@
+{
+  "task_name": "Check the estimated order time from <restaurant>",
+  "app_name": "eats",
+  "scenario_class": "CheckEstimatedOrderTimeScenario",
+  "parameters": [
+    "restaurant"
+  ],
+  "context_fields": [],
+  "description": "Check the estimated delivery time for a restaurant",
+  "additional_mockdata": true
+}

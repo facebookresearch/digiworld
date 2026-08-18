@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Vertex MediaPad 11",
+    "description": "Vertex MediaPad 11 provides an 11-inch 2K display and a detachable magnetic keyboard. Equipped with an Vertex Micro Pentium processor, 8GB RAM, and 256GB SSD, it balances performance and affordability. The tablet supports LTE connectivity and a high\u2011capacity 8,000mAh battery.",
+    "shortDescription": "An 11-inch 2K tablet with a detachable keyboard and LTE connectivity.",
+    "rating": 3.5,
+    "reviewCount": 4,
+    "seller": "ElectroMart",
+    "price": 308.54,
+    "discountedPrice": 293.11,
+    "discountPercent": 5,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 3,
+    "subcategoryName": "Tablets",
+    "inStock": true,
+    "stockCount": 158,
+    "imageUrl": "/12_1",
+    "specs": "{\"display\": \"11\\\" TFT, 2000x1200, 212 ppi, 90Hz\", \"processor\": \"Cellwave Stormcore 8 Gen 1\", \"ram\": \"8 GB LPDDR5\", \"storage\": \"256 GB UFS 3.0\", \"battery\": \"7,500 mAh, 33W fast charge\", \"os\": \"Nimbus OS 13, Vertex UI\", \"connectivity\": \"Wi\u2011Fi 6, Bluetooth 5.3, NFC\"}",
+    "tags": "[\"electronics\", \"tablets\", \"best\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

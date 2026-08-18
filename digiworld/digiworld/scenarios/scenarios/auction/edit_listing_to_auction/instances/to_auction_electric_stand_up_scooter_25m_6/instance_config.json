@@ -1,0 +1,28 @@
+{
+  "parameters": {
+    "title": "Electric Stand-Up Scooter, 25mph Max Speed, 15-mile Range \u2013 $420",
+    "startBid": "227.36"
+  },
+  "compatible_profiles": [
+    "auction_heavy",
+    "budget_items",
+    "buy_now_focus",
+    "default",
+    "ending_soon",
+    "failed_payments",
+    "high_bid_volume",
+    "new_seller",
+    "power_seller",
+    "premium_items"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:15.503799+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "cart_id": "{{current_user_cart_id}}",
+    "user_id": "{{current_user_id}}",
+    "product_id": 115,
+    "product_name": "Indoor Volleyball Net Kit",
+    "product_image": "https://picsum.photos/seed/mock/600/400",
+    "short_description": "Mock product",
+    "seller": "CourtMaster Supplies",
+    "quantity": 1,
+    "price": 396.37,
+    "discounted_price": 396.37,
+    "total": 396.37,
+    "saved_amount": 0.0,
+    "in_stock": 1,
+    "category_name": "Sports & Outdoors",
+    "subcategory_name": "Team Sports",
+    "sku": "",
+    "added_at": "2025-06-15 12:00:00.000",
+    "created_at": "2025-06-15 12:00:00.000",
+    "updated_at": "2025-06-15 12:00:00.000"
+  }
+]

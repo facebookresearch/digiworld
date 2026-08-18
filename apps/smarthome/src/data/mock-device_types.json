@@ -1,0 +1,524 @@
+[
+  {
+    "id": 1,
+    "name": "Smart Bulb",
+    "category": "lighting",
+    "subcategory": "smart_bulbs",
+    "capabilities": [
+      "on_off",
+      "brightness",
+      "color_temperature",
+      "rgb_colors",
+      "scheduling"
+    ],
+    "icon": "bulb",
+    "brand": "Andojo",
+    "model": "GLOW-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 2,
+    "name": "Smart Switch",
+    "category": "lighting",
+    "subcategory": "smart_switches",
+    "capabilities": [
+      "on_off",
+      "scheduling",
+      "energy_monitoring"
+    ],
+    "icon": "switch",
+    "brand": "Andojo",
+    "model": "SWITCH-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 3,
+    "name": "Smart Plug",
+    "category": "lighting",
+    "subcategory": "smart_plugs",
+    "capabilities": [
+      "on_off",
+      "scheduling",
+      "energy_monitoring"
+    ],
+    "icon": "plug",
+    "brand": "Andojo",
+    "model": "PLUG-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 4,
+    "name": "Security Camera",
+    "category": "security",
+    "subcategory": "security_cameras",
+    "capabilities": [
+      "on_off",
+      "motion_detection",
+      "night_vision",
+      "two_way_audio",
+      "recording",
+      "cloud_storage"
+    ],
+    "icon": "camera",
+    "brand": "Andojo",
+    "model": "CAM-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 5,
+    "name": "Smart AC",
+    "category": "temperature",
+    "subcategory": "smart_ac",
+    "capabilities": [
+      "on_off",
+      "temperature_control",
+      "mode_selection",
+      "fan_speed",
+      "scheduling",
+      "energy_monitoring"
+    ],
+    "icon": "ac",
+    "brand": "Andojo",
+    "model": "CHILL-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 6,
+    "name": "Smart Fan",
+    "category": "temperature",
+    "subcategory": "smart_fans",
+    "capabilities": [
+      "on_off",
+      "fan_speed",
+      "oscillation",
+      "scheduling"
+    ],
+    "icon": "fan",
+    "brand": "Andojo",
+    "model": "WHIRL-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 7,
+    "name": "Smart Speaker",
+    "category": "audio",
+    "subcategory": "smart_audio",
+    "capabilities": [
+      "on_off",
+      "volume_control",
+      "music_playback",
+      "voice_assistant",
+      "bluetooth"
+    ],
+    "icon": "speaker",
+    "brand": "Andojo",
+    "model": "ECHO-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 8,
+    "name": "LED Strip",
+    "category": "lighting",
+    "subcategory": "led_strips",
+    "capabilities": [
+      "on_off",
+      "brightness",
+      "rgb_colors",
+      "effects",
+      "music_sync"
+    ],
+    "icon": "strip",
+    "brand": "Andojo",
+    "model": "STRIP-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 9,
+    "name": "Ceiling Light",
+    "category": "lighting",
+    "subcategory": "ceiling_lights",
+    "capabilities": [
+      "on_off",
+      "brightness",
+      "color_temperature",
+      "scheduling"
+    ],
+    "icon": "ceiling",
+    "brand": "Andojo",
+    "model": "CEIL-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 10,
+    "name": "Smart Desk Lamp",
+    "category": "lighting",
+    "subcategory": "desk_lamps",
+    "capabilities": [
+      "on_off",
+      "brightness",
+      "color_temperature",
+      "rgb_colors",
+      "scheduling"
+    ],
+    "icon": "lamp",
+    "brand": "Andojo",
+    "model": "DESK-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 11,
+    "name": "Smart Night Light",
+    "category": "lighting",
+    "subcategory": "night_lights",
+    "capabilities": [
+      "on_off",
+      "brightness",
+      "rgb_colors",
+      "scheduling"
+    ],
+    "icon": "night_light",
+    "brand": "Andojo",
+    "model": "NIGHT-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 12,
+    "name": "Smart Flood Light",
+    "category": "lighting",
+    "subcategory": "flood_lights",
+    "capabilities": [
+      "on_off",
+      "brightness",
+      "motion_detection",
+      "scheduling"
+    ],
+    "icon": "flood_light",
+    "brand": "Andojo",
+    "model": "FLOOD-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 13,
+    "name": "Smart Chandelier",
+    "category": "lighting",
+    "subcategory": "chandeliers",
+    "capabilities": [
+      "on_off",
+      "brightness",
+      "color_temperature",
+      "rgb_colors",
+      "effects",
+      "scheduling"
+    ],
+    "icon": "chandelier",
+    "brand": "Andojo",
+    "model": "CHANDELIER-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 14,
+    "name": "Smart Pendant Light",
+    "category": "lighting",
+    "subcategory": "pendant_lights",
+    "capabilities": [
+      "on_off",
+      "brightness",
+      "color_temperature",
+      "scheduling"
+    ],
+    "icon": "pendant",
+    "brand": "Andojo",
+    "model": "PENDANT-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 15,
+    "name": "Smart Wall Sconce",
+    "category": "lighting",
+    "subcategory": "wall_sconces",
+    "capabilities": [
+      "on_off",
+      "brightness",
+      "color_temperature",
+      "scheduling"
+    ],
+    "icon": "sconce",
+    "brand": "Andojo",
+    "model": "SCONCE-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 16,
+    "name": "Smart Outdoor Light",
+    "category": "lighting",
+    "subcategory": "outdoor_lights",
+    "capabilities": [
+      "on_off",
+      "brightness",
+      "motion_detection",
+      "scheduling"
+    ],
+    "icon": "outdoor_light",
+    "brand": "Andojo",
+    "model": "OUTDOOR-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 17,
+    "name": "Smart Ceiling Fan",
+    "category": "temperature",
+    "subcategory": "ceiling_fans",
+    "capabilities": [
+      "on_off",
+      "fan_speed",
+      "oscillation",
+      "scheduling"
+    ],
+    "icon": "ceiling_fan",
+    "brand": "Andojo",
+    "model": "CFAN-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 18,
+    "name": "Smart Tower Fan",
+    "category": "temperature",
+    "subcategory": "tower_fans",
+    "capabilities": [
+      "on_off",
+      "fan_speed",
+      "oscillation",
+      "scheduling"
+    ],
+    "icon": "tower_fan",
+    "brand": "Andojo",
+    "model": "TOWER-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 19,
+    "name": "Smart Table Fan",
+    "category": "temperature",
+    "subcategory": "table_fans",
+    "capabilities": [
+      "on_off",
+      "fan_speed",
+      "oscillation",
+      "scheduling"
+    ],
+    "icon": "table_fan",
+    "brand": "Andojo",
+    "model": "TABLE-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 20,
+    "name": "Smart Soundbar",
+    "category": "audio",
+    "subcategory": "soundbars",
+    "capabilities": [
+      "on_off",
+      "volume_control",
+      "music_playback",
+      "bluetooth"
+    ],
+    "icon": "soundbar",
+    "brand": "Andojo",
+    "model": "SOUND-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 21,
+    "name": "Smart Microphone",
+    "category": "audio",
+    "subcategory": "microphones",
+    "capabilities": [
+      "on_off",
+      "voice_assistant",
+      "bluetooth"
+    ],
+    "icon": "microphone",
+    "brand": "Andojo",
+    "model": "MIC-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 22,
+    "name": "Smart Subwoofer",
+    "category": "audio",
+    "subcategory": "subwoofers",
+    "capabilities": [
+      "on_off",
+      "volume_control",
+      "bluetooth"
+    ],
+    "icon": "subwoofer",
+    "brand": "Andojo",
+    "model": "SUB-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 23,
+    "name": "Indoor Security Camera",
+    "category": "security",
+    "subcategory": "indoor_cameras",
+    "capabilities": [
+      "on_off",
+      "motion_detection",
+      "night_vision",
+      "two_way_audio",
+      "recording",
+      "cloud_storage"
+    ],
+    "icon": "indoor_camera",
+    "brand": "Andojo",
+    "model": "INDOOR-CAM-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 24,
+    "name": "Outdoor Security Camera",
+    "category": "security",
+    "subcategory": "outdoor_cameras",
+    "capabilities": [
+      "on_off",
+      "motion_detection",
+      "night_vision",
+      "two_way_audio",
+      "recording",
+      "cloud_storage"
+    ],
+    "icon": "outdoor_camera",
+    "brand": "Andojo",
+    "model": "OUTDOOR-CAM-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 25,
+    "name": "Doorbell Camera",
+    "category": "security",
+    "subcategory": "doorbell_cameras",
+    "capabilities": [
+      "on_off",
+      "motion_detection",
+      "night_vision",
+      "two_way_audio",
+      "recording",
+      "cloud_storage"
+    ],
+    "icon": "doorbell",
+    "brand": "Andojo",
+    "model": "BELL-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 26,
+    "name": "PTZ Security Camera",
+    "category": "security",
+    "subcategory": "ptz_cameras",
+    "capabilities": [
+      "on_off",
+      "motion_detection",
+      "night_vision",
+      "two_way_audio",
+      "recording",
+      "cloud_storage"
+    ],
+    "icon": "ptz_camera",
+    "brand": "Andojo",
+    "model": "PTZ-CAM-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 27,
+    "name": "Wireless Security Camera",
+    "category": "security",
+    "subcategory": "wireless_cameras",
+    "capabilities": [
+      "on_off",
+      "motion_detection",
+      "night_vision",
+      "two_way_audio",
+      "recording",
+      "cloud_storage"
+    ],
+    "icon": "wireless_camera",
+    "brand": "Andojo",
+    "model": "WIRELESS-CAM-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 28,
+    "name": "Battery Security Camera",
+    "category": "security",
+    "subcategory": "battery_cameras",
+    "capabilities": [
+      "on_off",
+      "motion_detection",
+      "night_vision",
+      "two_way_audio",
+      "recording",
+      "cloud_storage"
+    ],
+    "icon": "battery_camera",
+    "brand": "Andojo",
+    "model": "BATTERY-CAM-001",
+    "isActive": 1,
+    "createdAt": "2024-01-15 10:30:00",
+    "updatedAt": "2024-01-15 10:30:00"
+  }
+]

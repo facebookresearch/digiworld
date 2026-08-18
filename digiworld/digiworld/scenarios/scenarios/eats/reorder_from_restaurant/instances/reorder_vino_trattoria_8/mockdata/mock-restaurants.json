@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Vino Trattoria",
+    "description": "Features house-made truffle mushroom risotto cooked al dente.",
+    "address": "456 Oak Avenue, Brooklyn, NY 11201",
+    "latitude": 40.6892,
+    "longitude": -73.9857,
+    "logo": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 3.9,
+    "deliveryFee": 4.35,
+    "minOrder": 10.0,
+    "deliveryRadius": 6,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

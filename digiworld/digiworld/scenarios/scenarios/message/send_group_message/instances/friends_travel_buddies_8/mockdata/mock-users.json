@@ -1,0 +1,16 @@
+[
+  {
+    "id": "friend-001",
+    "phoneNumber": "{{random_phone}}",
+    "name": "Maya Rodriguez",
+    "avatarUrl": null,
+    "lastLoggedIn": 0
+  },
+  {
+    "id": "friend-002",
+    "phoneNumber": "{{random_phone}}",
+    "name": "Kai Bennett",
+    "avatarUrl": null,
+    "lastLoggedIn": 0
+  }
+]

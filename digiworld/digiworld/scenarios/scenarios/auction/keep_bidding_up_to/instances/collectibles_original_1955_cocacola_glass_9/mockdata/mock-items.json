@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754820148,
+    "title": "Original 1955 Coca\u2011Cola Glass Bottle \u2013 Rare Promotional Item",
+    "description": "An original Coca\u2011Cola glass bottle from 1955, featuring the classic red script and embossed logo; the bottle is in superb condition with no chips and comes with a collector\u2019s authentication card.",
+    "categoryId": 8,
+    "sellerId": 2,
+    "price": 1260.6,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 4,
+    "imageUrl": "https://example.com/images/original-1955-coca\u2011cola-glass-bottle-\u2013-rare-promotional-item.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 15.44,
+    "currentBid": 33.29,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

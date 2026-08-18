@@ -1,0 +1,7 @@
+{
+  "app_name": "parking",
+  "apk_name": "com.andojopark.sbx",
+  "bundle_id": "com.andojopark.sbx",
+  "database_doc_path": "../../../../../apps/parking/docs/database.md",
+  "feature_scope_path": "../../../../../apps/parking/docs/parking-feature-scope.md"
+}

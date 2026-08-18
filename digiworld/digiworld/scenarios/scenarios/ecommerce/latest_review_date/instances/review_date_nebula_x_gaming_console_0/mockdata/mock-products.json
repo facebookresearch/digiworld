@@ -1,0 +1,55 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Nebula X Gaming Console",
+    "description": "Nebula X runs on a custom Radiant Zen 4 CPU and RDNX 3 GPU, delivering 4K gaming at 120 fps. It includes 16 GB GDDR6 memory, a 1TB SSD, and supports backward compatibility with previous generation titles. Dual wireless controllers feature haptic feedback and adaptive triggers.",
+    "shortDescription": "Next-gen console with 4K/120 fps performance and 1TB SSD.",
+    "rating": 3.8,
+    "reviewCount": 4,
+    "seller": "GameSphere Entertainment",
+    "price": 800.15,
+    "discountedPrice": 448.08,
+    "discountPercent": 44,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 8,
+    "subcategoryName": "Gaming Consoles",
+    "inStock": true,
+    "stockCount": 93,
+    "imageUrl": "/29_1",
+    "specs": "{\"display\": \"N/A\", \"processor\": \"Custom Radiant Zen 3 + RDNX 2 (8 cores, 2.4GHz)\", \"ram\": \"16GB GDDR6\", \"storage\": \"1TB NVMe SSD\", \"battery\": \"N/A (plug-in)\", \"os\": \"Nebula OS 1.0\", \"connectivity\": \"Wi-Fi 6E, Bluetooth 5.2, HDMI 2.1, Ethernet, USB 3.2\"}",
+    "tags": "[\"gaming\", \"electronics\", \"consoles\", \"popular\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000",
+    "reviews": [
+      {
+        "userName": "Reviewer",
+        "rating": 5,
+        "title": "Stunning Performance and Sleek Design",
+        "comment": "The Nebula X delivers breathtaking 4K graphics thanks to its custom GPU and dual-SSD storage, making every game feel smooth and responsive. I love the ergonomic controller and the built-in VR support, which adds a whole new level of immersion. Setup was a breeze and the UI feels modern.",
+        "reviewDate": "2025-05-08T16:13:34.814031Z"
+      },
+      {
+        "userName": "Reviewer",
+        "rating": 2,
+        "title": "Disappointing Battery Life and Lag",
+        "comment": "Unfortunately, the Nebula X suffers from poor thermal management, causing the console to overheat after just an hour of play. The wireless controller's battery drains quickly, and the limited internal storage forces me to constantly manage space. Overall, the experience feels far from the premium price.",
+        "reviewDate": "2026-02-16T09:23:11.814037Z"
+      },
+      {
+        "userName": "Reviewer",
+        "rating": 4,
+        "title": "Great Graphics, Minor UI Quirks",
+        "comment": "The Nebula X impresses with its crisp 4K output and lightning-fast load times, thanks to the dual-SSD setup. However, the user interface can be a bit clunky when navigating between apps. Still, the responsive controller and solid build quality make it a strong contender.",
+        "reviewDate": "2026-03-02T15:50:32.814043Z"
+      },
+      {
+        "userName": "Reviewer",
+        "rating": 4,
+        "title": "Fast Load Times, Immersive Audio",
+        "comment": "I'm thrilled with the Nebula X's rapid load times and the rich, immersive audio that brings games to life. The console's sleek design fits nicely in my entertainment center, and the built-in streaming apps work flawlessly. The only downside is the lack of expandable storage, but it's a small trade-off for the performance.",
+        "reviewDate": "2025-08-25T18:48:49.814049Z"
+      }
+    ]
+  }
+]

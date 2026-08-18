@@ -1,0 +1,90 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "lily.patel@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Team Lunch",
+    "preview": "Hello, let's schedule a team lunch for next Friday...",
+    "body": "Hello, let's schedule a team lunch for next Friday at 12:30 PM. More details will follow.",
+    "timestamp": "2023-05-16T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_lily_patel_team_lunch",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "caleb.kim@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Travel Itinerary",
+    "preview": "Hi, your travel itinerary for the upcoming trip ha...",
+    "body": "Hi, your travel itinerary for the upcoming trip has been finalized. Please find the details attached.",
+    "timestamp": "2023-06-08T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_caleb_kim_travel_itinerary",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "mia.garcia@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Budget Report",
+    "preview": "Hi team, the latest budget report is now available...",
+    "body": "Hi team, the latest budget report is now available. Please review it and let me know if you have any questions.",
+    "timestamp": "2023-06-22T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_mia_garcia_budget_report",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "julian.sanchez@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Software Update",
+    "preview": "Hello, a new software update is available. Please ...",
+    "body": "Hello, a new software update is available. Please install it as soon as possible to ensure compatibility.",
+    "timestamp": "2023-07-15T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_julian_sanchez_software_update",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

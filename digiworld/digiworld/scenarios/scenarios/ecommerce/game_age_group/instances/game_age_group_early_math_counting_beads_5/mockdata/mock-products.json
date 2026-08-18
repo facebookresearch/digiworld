@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Early Math Counting Beads",
+    "description": "Early Math Counting Beads include 200 wooden beads in five colors, a sturdy abacus frame, and a beginner\u2019s guide to counting and simple addition. The tactile design supports fine\u2011motor development and early numeracy skills.",
+    "shortDescription": "Early math counting beads and abacus for hands\u2011on numeracy practice.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "NumberNest Toys",
+    "price": 1724.95,
+    "discountedPrice": 1241.96,
+    "discountPercent": 28,
+    "categoryId": 7,
+    "categoryName": "Toys & Games",
+    "subcategoryId": 55,
+    "subcategoryName": "Educational Toys",
+    "inStock": true,
+    "stockCount": 22,
+    "imageUrl": "/220_1",
+    "specs": "{\"ageRange\": \"3-6 years\", \"material\": \"Wooden beads, silicone strings\", \"dimensions\": \"8 x 6 x 2 inches\", \"batteryRequired\": \"No\", \"warranty\": \"6 months limited\", \"safetyRating\": \"EN71\"}",
+    "tags": "[\"educational\", \"games\", \"toys\", \"popular\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

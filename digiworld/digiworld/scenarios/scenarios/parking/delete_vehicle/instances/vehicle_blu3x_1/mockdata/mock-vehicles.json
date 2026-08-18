@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "nickname": "Blue Beast",
+    "make": "Harmony",
+    "model": "Civix",
+    "color": "Blue",
+    "year": 2018,
+    "plateNumber": "BLU3X",
+    "vehicleTypeId": 7,
+    "isDefault": 0,
+    "createdAt": "{{end_timestamp}}",
+    "updatedAt": "{{end_timestamp}}",
+    "metadata": null
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "task_name": "Uncheck all preferred transit options",
+  "app_name": "transit",
+  "scenario_class": "UncheckAllModesScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Uncheck all preferred transit mode options so none are selected.",
+  "compatible_profiles": [
+    "default",
+    "few_stops",
+    "frequent_traveler",
+    "many_lines",
+    "many_stops",
+    "multi_modal",
+    "new_user",
+    "peak_hours",
+    "service_disruptions",
+    "weekend_schedule"
+  ]
+}

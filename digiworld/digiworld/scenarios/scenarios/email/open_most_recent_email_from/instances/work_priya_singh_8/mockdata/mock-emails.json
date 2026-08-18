@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "priya.singh@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Budget forecast for FY2025",
+    "preview": "Hi, Please review the attached budget forecast for...",
+    "body": "Hi, Please review the attached budget forecast for FY2025 and share any concerns. We need to finalize it by next Monday.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_priya_singh_budget_forecast_for_fy2025",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "priya.singh@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Approved FY2025 budget distribution",
+    "preview": "Hello, The FY2025 budget has been approved and the...",
+    "body": "Hello, The FY2025 budget has been approved and the allocations are now posted on the finance portal. Let me know if you need access.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_priya_singh_approved_fy2025_budget_distr",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

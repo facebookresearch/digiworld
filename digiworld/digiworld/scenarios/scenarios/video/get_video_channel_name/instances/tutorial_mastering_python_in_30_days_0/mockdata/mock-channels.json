@@ -1,0 +1,14 @@
+[
+  {
+    "id": 9990,
+    "userId": 9998,
+    "name": "CodeWithChris",
+    "description": "",
+    "banner": null,
+    "avatar": null,
+    "subscriberCount": 48365,
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{past_timestamp}}",
+    "deletedAt": null
+  }
+]

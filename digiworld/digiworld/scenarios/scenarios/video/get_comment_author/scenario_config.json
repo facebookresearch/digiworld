@@ -1,0 +1,9 @@
+{
+  "task_name": "Who made the <order> comment on the video \"<title>\"?",
+  "app_name": "video",
+  "scenario_class": "GetCommentAuthorScenario",
+  "parameters": ["order", "title"],
+  "context_fields": [],
+  "description": "Report who made the most recent or oldest comment on a video",
+  "additional_mockdata": true
+}

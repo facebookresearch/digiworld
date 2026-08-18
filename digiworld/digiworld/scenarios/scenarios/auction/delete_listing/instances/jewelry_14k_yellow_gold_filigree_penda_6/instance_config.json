@@ -1,0 +1,16 @@
+{
+  "parameters": {
+    "title": "14k Yellow Gold Filigree Pendant with Sapphire"
+  },
+  "compatible_profiles": [],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:53.306194+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

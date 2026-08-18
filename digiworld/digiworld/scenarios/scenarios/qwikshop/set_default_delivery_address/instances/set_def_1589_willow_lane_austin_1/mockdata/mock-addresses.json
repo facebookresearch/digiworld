@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Javier Garcia",
+    "street": "1589 Willow Lane",
+    "city": "Austin",
+    "state": "TX",
+    "pincode": "78705",
+    "phone": "5125550456",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

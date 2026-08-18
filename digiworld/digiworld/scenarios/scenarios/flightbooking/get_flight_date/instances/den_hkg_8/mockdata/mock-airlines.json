@@ -1,0 +1,9 @@
+[
+  {
+    "id": "airline_cx",
+    "name": "Cathay Pacific",
+    "iata_code": "CX",
+    "country": "Hong Kong",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "{{current_user_email}}",
+    "receiver": [
+      "hr.team@example.com"
+    ],
+    "subject": "Celebrating Employee of the Month - Nomination Process",
+    "preview": "Hi team, we are opening nominations for Employee o...",
+    "body": "Hi team, we are opening nominations for Employee of the Month and would like your submissions by Friday. Share stories that highlight outstanding contributions.",
+    "timestamp": "{{recent_timestamp}}",
+    "unread": 0,
+    "read": 0,
+    "status": "draft",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 1,
+    "threadId": "draft_celebrating_employee_of_the_month_nomi",
+    "folder": "draft",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

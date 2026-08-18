@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "rahul.patel@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Meeting Reschedule",
+    "preview": "Hello, the meeting has been rescheduled for Thursd...",
+    "body": "Hello, the meeting has been rescheduled for Thursday at 2 PM.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_rahul_patel_meeting_reschedule",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "rahul.patel@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "New Proposal",
+    "preview": "Hello, we have received a new proposal from the cl...",
+    "body": "Hello, we have received a new proposal from the client and need to review it ASAP.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_rahul_patel_new_proposal",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

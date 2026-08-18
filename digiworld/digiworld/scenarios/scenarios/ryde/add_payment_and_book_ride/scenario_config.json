@@ -1,0 +1,8 @@
+{
+  "task_name": "Add a <payment_type> payment method, then book a ride from <origin> to <destination> in a <car_type> and pay with <payment_type>",
+  "app_name": "ryde",
+  "scenario_class": "AddPaymentAndBookRideScenario",
+  "parameters": ["payment_type", "origin", "destination", "car_type"],
+  "context_fields": [],
+  "description": "Add a new payment method and then book a ride with a specific car type, paying with the newly added method"
+}

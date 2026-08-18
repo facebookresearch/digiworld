@@ -1,0 +1,22 @@
+[
+  {
+    "id": 182200016,
+    "title": "Mid-Century Modern Chandelier",
+    "description": "A stylish lighting fixture from the 1950s, suitable for adding a touch of retro flair to any room.",
+    "categoryId": 12,
+    "sellerId": "{{current_user_id}}",
+    "price": 98.75,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/mid-century-modern-chandelier.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 36.1,
+    "currentBid": 50.69,
+    "bidIncrement": 5.0,
+    "endTime": 1773367620,
+    "expired": 0
+  }
+]

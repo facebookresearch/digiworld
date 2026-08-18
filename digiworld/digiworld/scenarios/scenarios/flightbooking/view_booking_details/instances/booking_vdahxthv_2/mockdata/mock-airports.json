@@ -1,0 +1,18 @@
+[
+  {
+    "code": "CDG",
+    "name": "CDG International Airport",
+    "city": "CDG",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "code": "JFK",
+    "name": "JFK International Airport",
+    "city": "JFK",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

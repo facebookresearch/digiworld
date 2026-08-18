@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Joshua Anderson",
+    "street": "4302 Hickory Way",
+    "city": "Atlanta",
+    "state": "GA",
+    "pincode": "30303",
+    "phone": "4045558910",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

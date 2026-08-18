@@ -1,0 +1,8 @@
+{
+  "task_name": "When was the latest review for the <item> item posted?",
+  "app_name": "ecommerce",
+  "scenario_class": "LatestReviewDateScenario",
+  "parameters": ["item"],
+  "context_fields": [],
+  "description": "Retrieve the date of the latest review for a product"
+}

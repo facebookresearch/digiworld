@@ -1,0 +1,22 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "SilkTouch Luxury Bed Sheet Set",
+    "description": "100% mulberry silk 600\u2011thread\u2011count sheets offering a cool, hypoallergenic sleep experience.",
+    "shortDescription": "Silk bed sheets",
+    "price": 299.34,
+    "discountedPrice": 299.34,
+    "discountPercent": 0,
+    "rating": 4.6,
+    "reviewCount": 13,
+    "seller": "DreamLinens Co.",
+    "categoryName": "Home & Kitchen",
+    "subcategoryName": "Bedding",
+    "inStock": 1,
+    "stockCount": 50,
+    "imageUrl": "/product_7924",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

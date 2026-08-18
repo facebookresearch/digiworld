@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Michael Chen",
+    "street": "1600 Maple Avenue Apt 12B",
+    "city": "Seattle",
+    "state": "WA",
+    "pincode": "98109",
+    "phone": "2065550198",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

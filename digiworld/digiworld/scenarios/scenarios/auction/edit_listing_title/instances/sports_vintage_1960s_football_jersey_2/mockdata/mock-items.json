@@ -1,0 +1,22 @@
+[
+  {
+    "id": 182580040,
+    "title": "Vintage 1960s Football Jersey",
+    "description": "A vintage football jersey from the 1960s, perfect for collectors of sports memorabilia.",
+    "categoryId": 6,
+    "sellerId": "{{current_user_id}}",
+    "price": 517.12,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 7,
+    "imageUrl": "https://example.com/images/vintage-1960s-football-jersey.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 255.96,
+    "currentBid": 367.55,
+    "bidIncrement": 5.0,
+    "endTime": 1773281258,
+    "expired": 0
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 99905,
+    "userId": "{{current_user_id}}",
+    "nickname": "Silver Arrow",
+    "make": "Camdon",
+    "model": "Silverpeak",
+    "color": "Silver",
+    "year": 2022,
+    "plateNumber": "SLVR1",
+    "vehicleTypeId": 3,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

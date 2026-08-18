@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754620118,
+    "title": "First Edition Monstacard Card \u2013 Charizard Holo #4, PSA 9",
+    "description": "First edition Monstacard Charizard holographic card, PSA graded 9; rare collector's item in pristine condition, housed in a protective sleeve.",
+    "categoryId": 8,
+    "sellerId": "{{current_user_id}}",
+    "price": 1938.34,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 3,
+    "imageUrl": "https://example.com/images/first-edition-pok\u00e9mon-card-\u2013-charizard-holo-#4,-psa-9.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 1154.41,
+    "currentBid": 1944.32,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

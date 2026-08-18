@@ -1,0 +1,9 @@
+{
+  "task_name": "Add a <color> <make> <model> <vehicle_type> with license plate <license_plate> as <nickname>, then pay for a parking spot at <zone_code> for <nickname> for <minutes> minutes",
+  "app_name": "parking",
+  "scenario_class": "AddVehicleAndPayScenario",
+  "parameters": ["color", "make", "model", "vehicle_type", "license_plate", "nickname", "zone_code", "minutes"],
+  "context_fields": [],
+  "additional_mockdata": true,
+  "description": "Add a new vehicle with specified details, then pay for parking at a specific zone using that vehicle."
+}

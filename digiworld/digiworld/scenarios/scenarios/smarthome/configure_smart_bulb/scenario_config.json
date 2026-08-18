@@ -1,0 +1,9 @@
+{
+  "task_name": "Turn on the Smart Bulb named \"<device_name>\", set the brightness to <brightness>%, set the Chromaticity to around <chromaticity>K, set the Color Mode to <color_mode>, and <scheduling> scheduling",
+  "app_name": "smarthome",
+  "scenario_class": "ConfigureSmartBulbScenario",
+  "parameters": ["device_name", "brightness", "chromaticity", "color_mode", "scheduling"],
+  "context_fields": [],
+  "description": "Configure a Smart Bulb with brightness, chromaticity, color mode, and scheduling settings",
+  "additional_mockdata": true
+}

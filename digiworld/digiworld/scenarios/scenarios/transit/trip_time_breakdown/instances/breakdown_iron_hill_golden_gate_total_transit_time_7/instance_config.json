@@ -1,0 +1,22 @@
+{
+  "parameters": {
+    "stop_1": "Market Street",
+    "stop_2": "Union Square",
+    "time": "08:05",
+    "optimization": "cheapest",
+    "time_type": "total transit time"
+  },
+  "compatible_profiles": [
+    "default"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:47.908961+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

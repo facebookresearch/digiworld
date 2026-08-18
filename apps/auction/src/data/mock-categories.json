@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "code": "electronics",
+    "name": "Electronics",
+    "description": "Electronic devices and gadgets",
+    "createdAt": "2025-03-22 09:55:28.465825"
+  },
+  {
+    "id": 2,
+    "code": "books",
+    "name": "Books",
+    "description": "Books, magazines, and reading materials",
+    "createdAt": "2025-01-31 09:55:28.465825"
+  },
+  {
+    "id": 3,
+    "code": "fashion",
+    "name": "Fashion",
+    "description": "Clothing, accessories, and fashion items",
+    "createdAt": "2025-11-22 09:55:28.465825"
+  },
+  {
+    "id": 4,
+    "code": "home",
+    "name": "Home",
+    "description": "Home decor, furniture, and household items",
+    "createdAt": "2025-02-21 09:55:28.465825"
+  },
+  {
+    "id": 5,
+    "code": "toys",
+    "name": "Toys",
+    "description": "Toys, games, and children's items",
+    "createdAt": "2025-08-26 09:55:28.465825"
+  },
+  {
+    "id": 6,
+    "code": "sports",
+    "name": "Sports & Outdoors",
+    "description": "Sports equipment, outdoor gear, and fitness items",
+    "createdAt": "2025-01-07 09:55:28.465825"
+  },
+  {
+    "id": 7,
+    "code": "automotive",
+    "name": "Automotive",
+    "description": "Car parts, accessories, and automotive supplies",
+    "createdAt": "2024-12-11 09:55:28.465825"
+  },
+  {
+    "id": 8,
+    "code": "collectibles",
+    "name": "Collectibles",
+    "description": "Rare items, antiques, and collectible memorabilia",
+    "createdAt": "2025-03-01 09:55:28.465825"
+  },
+  {
+    "id": 9,
+    "code": "art",
+    "name": "Art & Crafts",
+    "description": "Artwork, craft supplies, and handmade items",
+    "createdAt": "2025-05-05 09:55:28.465825"
+  },
+  {
+    "id": 10,
+    "code": "jewelry",
+    "name": "Jewelry & Watches",
+    "description": "Fine jewelry, watches, and accessories",
+    "createdAt": "2025-08-15 09:55:28.465825"
+  },
+  {
+    "id": 11,
+    "code": "music",
+    "name": "Music & Instruments",
+    "description": "Musical instruments, records, and audio equipment",
+    "createdAt": "2025-04-20 09:55:28.465825"
+  },
+  {
+    "id": 12,
+    "code": "health",
+    "name": "Health & Beauty",
+    "description": "Health products, beauty items, and personal care",
+    "createdAt": "2025-02-07 09:55:28.465825"
+  }
+]

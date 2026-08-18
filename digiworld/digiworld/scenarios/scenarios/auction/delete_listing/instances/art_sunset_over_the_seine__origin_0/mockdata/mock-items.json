@@ -1,0 +1,22 @@
+[
+  {
+    "id": 751830009,
+    "title": "Sunset Over the Seine \u2013 Original Oil on Canvas, 24x36\"",
+    "description": "A vibrant, fully original oil painting measuring 24x36 inches, showing a luminous sunset over the Seine; the canvas is in excellent condition with no signs of wear.",
+    "categoryId": 9,
+    "sellerId": "{{current_user_id}}",
+    "price": 1486.47,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 7,
+    "imageUrl": "https://example.com/images/sunset-over-the-seine-\u2013-original-oil-on-canvas,-24x36\".jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 460.11,
+    "currentBid": 494.6,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

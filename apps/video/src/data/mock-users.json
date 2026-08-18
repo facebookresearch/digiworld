@@ -1,0 +1,3907 @@
+[
+  {
+    "id": 1,
+    "email": "qswanson@example.net",
+    "username": "tanyasutton",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/1.jpg",
+    "bio": "Line house charge reduce office.",
+    "createdAt": "2025-06-07 00:04:36",
+    "updatedAt": "2025-06-07 00:04:36",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 1,
+        "channelId": 38,
+        "createdAt": "2025-06-29 10:05:23"
+      },
+      {
+        "userId": 1,
+        "channelId": 36,
+        "createdAt": "2025-06-14 05:51:55"
+      },
+      {
+        "userId": 1,
+        "channelId": 26,
+        "createdAt": "2025-07-08 04:47:12"
+      },
+      {
+        "userId": 1,
+        "channelId": 10,
+        "createdAt": "2025-07-04 13:34:27"
+      },
+      {
+        "userId": 1,
+        "channelId": 21,
+        "createdAt": "2025-06-15 17:38:15"
+      }
+    ],
+    "history": [
+      {
+        "userId": 1,
+        "videoId": 82,
+        "watchedAt": "2025-07-15 15:39:55"
+      },
+      {
+        "userId": 1,
+        "videoId": 26,
+        "watchedAt": "2025-07-10 03:17:26"
+      },
+      {
+        "userId": 1,
+        "videoId": 24,
+        "watchedAt": "2025-06-04 02:53:11"
+      },
+      {
+        "userId": 1,
+        "videoId": 31,
+        "watchedAt": "2025-07-18 08:40:31"
+      },
+      {
+        "userId": 1,
+        "videoId": 38,
+        "watchedAt": "2025-06-19 22:19:09"
+      },
+      {
+        "userId": 1,
+        "videoId": 37,
+        "watchedAt": "2025-07-08 07:36:10"
+      },
+      {
+        "userId": 1,
+        "videoId": 85,
+        "watchedAt": "2025-06-16 06:14:49"
+      },
+      {
+        "userId": 1,
+        "videoId": 72,
+        "watchedAt": "2025-06-08 12:10:05"
+      },
+      {
+        "userId": 1,
+        "videoId": 79,
+        "watchedAt": "2025-06-04 10:03:13"
+      },
+      {
+        "userId": 1,
+        "videoId": 98,
+        "watchedAt": "2025-07-02 13:59:15"
+      },
+      {
+        "userId": 1,
+        "videoId": 2,
+        "watchedAt": "2025-06-22 01:43:22"
+      },
+      {
+        "userId": 1,
+        "videoId": 45,
+        "watchedAt": "2025-06-13 16:20:35"
+      },
+      {
+        "userId": 1,
+        "videoId": 13,
+        "watchedAt": "2025-06-10 11:59:36"
+      },
+      {
+        "userId": 1,
+        "videoId": 8,
+        "watchedAt": "2025-06-22 01:16:33"
+      },
+      {
+        "userId": 1,
+        "videoId": 36,
+        "watchedAt": "2025-07-18 18:23:21"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "email": "salazarchristopher@example.org",
+    "username": "colingonzales",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/2.jpg",
+    "bio": "My better movie degree magazine box enough position.",
+    "createdAt": "2025-07-02 06:11:06",
+    "updatedAt": "2025-07-02 06:11:06",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 2,
+        "channelId": 35,
+        "createdAt": "2025-06-03 03:36:33"
+      },
+      {
+        "userId": 2,
+        "channelId": 37,
+        "createdAt": "2025-06-28 10:20:07"
+      },
+      {
+        "userId": 2,
+        "channelId": 6,
+        "createdAt": "2025-05-24 21:18:06"
+      },
+      {
+        "userId": 2,
+        "channelId": 24,
+        "createdAt": "2025-06-01 09:50:58"
+      }
+    ],
+    "history": [
+      {
+        "userId": 2,
+        "videoId": 39,
+        "watchedAt": "2025-05-31 20:38:47"
+      },
+      {
+        "userId": 2,
+        "videoId": 48,
+        "watchedAt": "2025-07-14 23:06:14"
+      },
+      {
+        "userId": 2,
+        "videoId": 45,
+        "watchedAt": "2025-05-29 13:16:07"
+      },
+      {
+        "userId": 2,
+        "videoId": 6,
+        "watchedAt": "2025-06-15 17:24:32"
+      },
+      {
+        "userId": 2,
+        "videoId": 31,
+        "watchedAt": "2025-06-25 10:37:01"
+      },
+      {
+        "userId": 2,
+        "videoId": 60,
+        "watchedAt": "2025-06-19 10:06:10"
+      },
+      {
+        "userId": 2,
+        "videoId": 54,
+        "watchedAt": "2025-07-06 02:09:36"
+      },
+      {
+        "userId": 2,
+        "videoId": 52,
+        "watchedAt": "2025-05-29 14:19:22"
+      },
+      {
+        "userId": 2,
+        "videoId": 9,
+        "watchedAt": "2025-07-12 11:07:24"
+      },
+      {
+        "userId": 2,
+        "videoId": 28,
+        "watchedAt": "2025-06-08 09:09:12"
+      },
+      {
+        "userId": 2,
+        "videoId": 91,
+        "watchedAt": "2025-06-16 04:32:52"
+      },
+      {
+        "userId": 2,
+        "videoId": 51,
+        "watchedAt": "2025-06-17 18:10:59"
+      },
+      {
+        "userId": 2,
+        "videoId": 47,
+        "watchedAt": "2025-06-21 14:59:50"
+      },
+      {
+        "userId": 2,
+        "videoId": 10,
+        "watchedAt": "2025-06-03 10:01:11"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "email": "johnnyblair@example.net",
+    "username": "bgomez",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/3.jpg",
+    "bio": "Maybe maybe environmental account.",
+    "createdAt": "2025-07-07 22:22:25",
+    "updatedAt": "2025-07-07 22:22:25",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 3,
+        "channelId": 27,
+        "createdAt": "2025-06-15 12:33:04"
+      },
+      {
+        "userId": 3,
+        "channelId": 11,
+        "createdAt": "2025-07-08 20:15:08"
+      },
+      {
+        "userId": 3,
+        "channelId": 2,
+        "createdAt": "2025-06-06 12:49:24"
+      },
+      {
+        "userId": 3,
+        "channelId": 36,
+        "createdAt": "2025-06-17 09:27:59"
+      },
+      {
+        "userId": 3,
+        "channelId": 22,
+        "createdAt": "2025-06-19 23:27:02"
+      },
+      {
+        "userId": 3,
+        "channelId": 30,
+        "createdAt": "2025-07-17 23:36:52"
+      },
+      {
+        "userId": 3,
+        "channelId": 28,
+        "createdAt": "2025-06-16 11:04:29"
+      }
+    ],
+    "history": [
+      {
+        "userId": 3,
+        "videoId": 55,
+        "watchedAt": "2025-07-16 08:50:24"
+      },
+      {
+        "userId": 3,
+        "videoId": 61,
+        "watchedAt": "2025-06-20 22:31:14"
+      },
+      {
+        "userId": 3,
+        "videoId": 15,
+        "watchedAt": "2025-06-13 22:23:45"
+      },
+      {
+        "userId": 3,
+        "videoId": 66,
+        "watchedAt": "2025-07-02 22:11:42"
+      },
+      {
+        "userId": 3,
+        "videoId": 95,
+        "watchedAt": "2025-07-06 16:26:35"
+      },
+      {
+        "userId": 3,
+        "videoId": 87,
+        "watchedAt": "2025-05-24 09:58:31"
+      },
+      {
+        "userId": 3,
+        "videoId": 22,
+        "watchedAt": "2025-07-20 08:17:18"
+      },
+      {
+        "userId": 3,
+        "videoId": 54,
+        "watchedAt": "2025-07-10 19:44:45"
+      },
+      {
+        "userId": 3,
+        "videoId": 20,
+        "watchedAt": "2025-06-03 18:28:37"
+      },
+      {
+        "userId": 3,
+        "videoId": 5,
+        "watchedAt": "2025-06-08 01:21:29"
+      },
+      {
+        "userId": 3,
+        "videoId": 10,
+        "watchedAt": "2025-07-12 04:24:26"
+      },
+      {
+        "userId": 3,
+        "videoId": 58,
+        "watchedAt": "2025-07-07 17:55:13"
+      },
+      {
+        "userId": 3,
+        "videoId": 100,
+        "watchedAt": "2025-07-12 10:39:20"
+      },
+      {
+        "userId": 3,
+        "videoId": 67,
+        "watchedAt": "2025-06-11 08:18:01"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "email": "bschmidt@example.com",
+    "username": "isabella20",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/4.jpg",
+    "bio": "Somebody social college those line table.",
+    "createdAt": "2025-06-27 13:02:16",
+    "updatedAt": "2025-06-27 13:02:16",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 4,
+        "channelId": 24,
+        "createdAt": "2025-07-01 21:02:29"
+      },
+      {
+        "userId": 4,
+        "channelId": 13,
+        "createdAt": "2025-07-05 14:39:30"
+      },
+      {
+        "userId": 4,
+        "channelId": 21,
+        "createdAt": "2025-07-21 09:58:30"
+      },
+      {
+        "userId": 4,
+        "channelId": 7,
+        "createdAt": "2025-07-07 00:19:17"
+      },
+      {
+        "userId": 4,
+        "channelId": 40,
+        "createdAt": "2025-07-04 16:08:13"
+      },
+      {
+        "userId": 4,
+        "channelId": 38,
+        "createdAt": "2025-07-05 18:23:10"
+      },
+      {
+        "userId": 4,
+        "channelId": 3,
+        "createdAt": "2025-07-06 03:40:37"
+      }
+    ],
+    "history": [
+      {
+        "userId": 4,
+        "videoId": 63,
+        "watchedAt": "2025-07-01 06:54:46"
+      },
+      {
+        "userId": 4,
+        "videoId": 49,
+        "watchedAt": "2025-07-11 04:24:05"
+      },
+      {
+        "userId": 4,
+        "videoId": 60,
+        "watchedAt": "2025-06-11 12:13:09"
+      },
+      {
+        "userId": 4,
+        "videoId": 33,
+        "watchedAt": "2025-06-01 22:03:36"
+      },
+      {
+        "userId": 4,
+        "videoId": 69,
+        "watchedAt": "2025-07-08 01:17:03"
+      },
+      {
+        "userId": 4,
+        "videoId": 32,
+        "watchedAt": "2025-06-09 00:13:46"
+      },
+      {
+        "userId": 4,
+        "videoId": 55,
+        "watchedAt": "2025-06-04 05:23:59"
+      },
+      {
+        "userId": 4,
+        "videoId": 70,
+        "watchedAt": "2025-06-13 18:22:52"
+      },
+      {
+        "userId": 4,
+        "videoId": 65,
+        "watchedAt": "2025-07-02 15:38:43"
+      },
+      {
+        "userId": 4,
+        "videoId": 46,
+        "watchedAt": "2025-07-12 22:07:51"
+      },
+      {
+        "userId": 4,
+        "videoId": 86,
+        "watchedAt": "2025-05-27 20:10:10"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "email": "ebrown@example.com",
+    "username": "brandon38",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/5.jpg",
+    "bio": "Red rather well not four protect save.",
+    "createdAt": "2025-07-10 14:53:28",
+    "updatedAt": "2025-07-10 14:53:28",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 5,
+        "channelId": 1,
+        "createdAt": "2025-07-22 19:50:59"
+      },
+      {
+        "userId": 5,
+        "channelId": 15,
+        "createdAt": "2025-07-19 19:34:03"
+      },
+      {
+        "userId": 5,
+        "channelId": 30,
+        "createdAt": "2025-05-28 09:20:40"
+      },
+      {
+        "userId": 5,
+        "channelId": 31,
+        "createdAt": "2025-06-01 11:42:57"
+      },
+      {
+        "userId": 5,
+        "channelId": 34,
+        "createdAt": "2025-06-14 19:15:20"
+      },
+      {
+        "userId": 5,
+        "channelId": 27,
+        "createdAt": "2025-05-27 07:14:55"
+      },
+      {
+        "userId": 5,
+        "channelId": 20,
+        "createdAt": "2025-06-01 03:13:47"
+      },
+      {
+        "userId": 5,
+        "channelId": 10,
+        "createdAt": "2025-06-28 01:45:26"
+      },
+      {
+        "userId": 5,
+        "channelId": 8,
+        "createdAt": "2025-07-20 02:55:53"
+      }
+    ],
+    "history": [
+      {
+        "userId": 5,
+        "videoId": 70,
+        "watchedAt": "2025-06-01 10:19:04"
+      },
+      {
+        "userId": 5,
+        "videoId": 88,
+        "watchedAt": "2025-05-25 07:55:57"
+      },
+      {
+        "userId": 5,
+        "videoId": 86,
+        "watchedAt": "2025-05-24 20:10:48"
+      },
+      {
+        "userId": 5,
+        "videoId": 90,
+        "watchedAt": "2025-06-01 20:25:09"
+      },
+      {
+        "userId": 5,
+        "videoId": 28,
+        "watchedAt": "2025-06-12 18:38:16"
+      },
+      {
+        "userId": 5,
+        "videoId": 77,
+        "watchedAt": "2025-06-27 18:24:47"
+      },
+      {
+        "userId": 5,
+        "videoId": 43,
+        "watchedAt": "2025-07-20 02:17:36"
+      },
+      {
+        "userId": 5,
+        "videoId": 27,
+        "watchedAt": "2025-06-23 21:06:14"
+      },
+      {
+        "userId": 5,
+        "videoId": 49,
+        "watchedAt": "2025-06-06 03:47:44"
+      },
+      {
+        "userId": 5,
+        "videoId": 69,
+        "watchedAt": "2025-05-29 07:05:07"
+      },
+      {
+        "userId": 5,
+        "videoId": 4,
+        "watchedAt": "2025-06-28 21:31:25"
+      },
+      {
+        "userId": 5,
+        "videoId": 5,
+        "watchedAt": "2025-06-26 02:59:16"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "email": "mary55@example.com",
+    "username": "smcmillan",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/6.jpg",
+    "bio": "Medical benefit house enough.",
+    "createdAt": "2025-06-15 12:04:31",
+    "updatedAt": "2025-06-15 12:04:31",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 6,
+        "channelId": 13,
+        "createdAt": "2025-06-24 05:36:50"
+      },
+      {
+        "userId": 6,
+        "channelId": 29,
+        "createdAt": "2025-06-17 08:38:09"
+      },
+      {
+        "userId": 6,
+        "channelId": 3,
+        "createdAt": "2025-05-27 01:28:34"
+      },
+      {
+        "userId": 6,
+        "channelId": 28,
+        "createdAt": "2025-06-06 10:59:41"
+      },
+      {
+        "userId": 6,
+        "channelId": 25,
+        "createdAt": "2025-06-15 13:23:38"
+      },
+      {
+        "userId": 6,
+        "channelId": 14,
+        "createdAt": "2025-06-30 05:03:51"
+      },
+      {
+        "userId": 6,
+        "channelId": 26,
+        "createdAt": "2025-06-05 21:53:39"
+      }
+    ],
+    "history": [
+      {
+        "userId": 6,
+        "videoId": 40,
+        "watchedAt": "2025-06-05 23:21:31"
+      },
+      {
+        "userId": 6,
+        "videoId": 63,
+        "watchedAt": "2025-07-17 06:42:52"
+      },
+      {
+        "userId": 6,
+        "videoId": 46,
+        "watchedAt": "2025-07-05 21:22:00"
+      },
+      {
+        "userId": 6,
+        "videoId": 89,
+        "watchedAt": "2025-07-18 06:31:44"
+      },
+      {
+        "userId": 6,
+        "videoId": 62,
+        "watchedAt": "2025-06-03 12:30:58"
+      },
+      {
+        "userId": 6,
+        "videoId": 68,
+        "watchedAt": "2025-06-17 21:46:55"
+      },
+      {
+        "userId": 6,
+        "videoId": 74,
+        "watchedAt": "2025-06-10 22:36:01"
+      },
+      {
+        "userId": 6,
+        "videoId": 47,
+        "watchedAt": "2025-06-14 19:54:44"
+      },
+      {
+        "userId": 6,
+        "videoId": 51,
+        "watchedAt": "2025-07-06 16:30:44"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "email": "brandi63@example.net",
+    "username": "gary45",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/7.jpg",
+    "bio": "Kitchen about law sometimes often imagine.",
+    "createdAt": "2025-06-17 16:53:42",
+    "updatedAt": "2025-06-17 16:53:42",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 7,
+        "channelId": 39,
+        "createdAt": "2025-07-01 02:42:41"
+      },
+      {
+        "userId": 7,
+        "channelId": 8,
+        "createdAt": "2025-06-28 08:12:38"
+      },
+      {
+        "userId": 7,
+        "channelId": 6,
+        "createdAt": "2025-06-27 00:41:32"
+      }
+    ],
+    "history": [
+      {
+        "userId": 7,
+        "videoId": 10,
+        "watchedAt": "2025-06-08 16:57:30"
+      },
+      {
+        "userId": 7,
+        "videoId": 23,
+        "watchedAt": "2025-05-31 11:40:25"
+      },
+      {
+        "userId": 7,
+        "videoId": 89,
+        "watchedAt": "2025-06-15 15:24:47"
+      },
+      {
+        "userId": 7,
+        "videoId": 93,
+        "watchedAt": "2025-07-13 17:58:10"
+      },
+      {
+        "userId": 7,
+        "videoId": 39,
+        "watchedAt": "2025-06-08 09:08:00"
+      },
+      {
+        "userId": 7,
+        "videoId": 17,
+        "watchedAt": "2025-06-22 02:32:49"
+      },
+      {
+        "userId": 7,
+        "videoId": 35,
+        "watchedAt": "2025-06-10 01:28:19"
+      },
+      {
+        "userId": 7,
+        "videoId": 79,
+        "watchedAt": "2025-07-13 08:49:15"
+      },
+      {
+        "userId": 7,
+        "videoId": 55,
+        "watchedAt": "2025-06-25 13:46:40"
+      },
+      {
+        "userId": 7,
+        "videoId": 40,
+        "watchedAt": "2025-06-27 08:42:16"
+      },
+      {
+        "userId": 7,
+        "videoId": 70,
+        "watchedAt": "2025-07-03 15:34:47"
+      },
+      {
+        "userId": 7,
+        "videoId": 33,
+        "watchedAt": "2025-07-10 10:41:29"
+      },
+      {
+        "userId": 7,
+        "videoId": 27,
+        "watchedAt": "2025-07-15 14:04:22"
+      },
+      {
+        "userId": 7,
+        "videoId": 16,
+        "watchedAt": "2025-06-07 01:33:37"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "email": "nicholasnguyen@example.com",
+    "username": "trevinotyler",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/8.jpg",
+    "bio": "Take threat throughout above east.",
+    "createdAt": "2025-07-21 03:04:19",
+    "updatedAt": "2025-07-21 03:04:19",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 8,
+        "channelId": 19,
+        "createdAt": "2025-06-06 05:44:13"
+      },
+      {
+        "userId": 8,
+        "channelId": 27,
+        "createdAt": "2025-07-05 17:39:02"
+      },
+      {
+        "userId": 8,
+        "channelId": 23,
+        "createdAt": "2025-05-25 14:43:46"
+      },
+      {
+        "userId": 8,
+        "channelId": 24,
+        "createdAt": "2025-06-12 02:04:03"
+      },
+      {
+        "userId": 8,
+        "channelId": 2,
+        "createdAt": "2025-06-03 00:56:43"
+      },
+      {
+        "userId": 8,
+        "channelId": 29,
+        "createdAt": "2025-07-15 05:40:08"
+      }
+    ],
+    "history": [
+      {
+        "userId": 8,
+        "videoId": 28,
+        "watchedAt": "2025-06-13 23:00:25"
+      },
+      {
+        "userId": 8,
+        "videoId": 18,
+        "watchedAt": "2025-07-22 03:15:41"
+      },
+      {
+        "userId": 8,
+        "videoId": 90,
+        "watchedAt": "2025-07-02 09:55:07"
+      },
+      {
+        "userId": 8,
+        "videoId": 4,
+        "watchedAt": "2025-06-29 21:44:35"
+      },
+      {
+        "userId": 8,
+        "videoId": 85,
+        "watchedAt": "2025-07-02 05:44:07"
+      },
+      {
+        "userId": 8,
+        "videoId": 16,
+        "watchedAt": "2025-07-03 23:15:16"
+      },
+      {
+        "userId": 8,
+        "videoId": 50,
+        "watchedAt": "2025-06-04 08:50:38"
+      },
+      {
+        "userId": 8,
+        "videoId": 86,
+        "watchedAt": "2025-07-06 11:55:03"
+      },
+      {
+        "userId": 8,
+        "videoId": 52,
+        "watchedAt": "2025-06-25 16:29:41"
+      },
+      {
+        "userId": 8,
+        "videoId": 45,
+        "watchedAt": "2025-07-17 05:16:28"
+      },
+      {
+        "userId": 8,
+        "videoId": 72,
+        "watchedAt": "2025-07-14 05:55:23"
+      },
+      {
+        "userId": 8,
+        "videoId": 11,
+        "watchedAt": "2025-07-18 08:15:36"
+      },
+      {
+        "userId": 8,
+        "videoId": 42,
+        "watchedAt": "2025-07-11 03:29:23"
+      },
+      {
+        "userId": 8,
+        "videoId": 6,
+        "watchedAt": "2025-06-04 10:38:00"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "email": "marissa38@example.org",
+    "username": "tyler41",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/9.jpg",
+    "bio": "Any single include research eat woman office.",
+    "createdAt": "2025-06-28 18:08:03",
+    "updatedAt": "2025-06-28 18:08:03",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 9,
+        "channelId": 27,
+        "createdAt": "2025-07-18 16:17:22"
+      },
+      {
+        "userId": 9,
+        "channelId": 38,
+        "createdAt": "2025-06-14 22:08:06"
+      }
+    ],
+    "history": [
+      {
+        "userId": 9,
+        "videoId": 91,
+        "watchedAt": "2025-06-21 05:57:22"
+      },
+      {
+        "userId": 9,
+        "videoId": 86,
+        "watchedAt": "2025-07-03 05:29:03"
+      },
+      {
+        "userId": 9,
+        "videoId": 57,
+        "watchedAt": "2025-05-29 10:28:55"
+      },
+      {
+        "userId": 9,
+        "videoId": 22,
+        "watchedAt": "2025-07-09 04:15:28"
+      },
+      {
+        "userId": 9,
+        "videoId": 38,
+        "watchedAt": "2025-05-26 12:08:28"
+      },
+      {
+        "userId": 9,
+        "videoId": 73,
+        "watchedAt": "2025-07-19 13:06:22"
+      },
+      {
+        "userId": 9,
+        "videoId": 89,
+        "watchedAt": "2025-06-23 22:30:24"
+      },
+      {
+        "userId": 9,
+        "videoId": 94,
+        "watchedAt": "2025-06-07 21:29:50"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "email": "kingalice@example.com",
+    "username": "hcopeland",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/10.jpg",
+    "bio": "Huge avoid their or training task entire.",
+    "createdAt": "2025-07-21 21:47:49",
+    "updatedAt": "2025-07-21 21:47:49",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 10,
+        "channelId": 23,
+        "createdAt": "2025-06-03 07:39:49"
+      },
+      {
+        "userId": 10,
+        "channelId": 11,
+        "createdAt": "2025-07-08 13:41:35"
+      },
+      {
+        "userId": 10,
+        "channelId": 13,
+        "createdAt": "2025-07-08 02:38:33"
+      },
+      {
+        "userId": 10,
+        "channelId": 28,
+        "createdAt": "2025-07-12 13:26:33"
+      },
+      {
+        "userId": 10,
+        "channelId": 26,
+        "createdAt": "2025-05-30 01:04:12"
+      },
+      {
+        "userId": 10,
+        "channelId": 6,
+        "createdAt": "2025-07-12 15:41:42"
+      },
+      {
+        "userId": 10,
+        "channelId": 15,
+        "createdAt": "2025-06-16 00:56:44"
+      }
+    ],
+    "history": [
+      {
+        "userId": 10,
+        "videoId": 86,
+        "watchedAt": "2025-06-14 21:54:00"
+      },
+      {
+        "userId": 10,
+        "videoId": 38,
+        "watchedAt": "2025-06-05 18:52:50"
+      },
+      {
+        "userId": 10,
+        "videoId": 79,
+        "watchedAt": "2025-06-23 06:14:14"
+      },
+      {
+        "userId": 10,
+        "videoId": 96,
+        "watchedAt": "2025-06-02 15:01:21"
+      },
+      {
+        "userId": 10,
+        "videoId": 42,
+        "watchedAt": "2025-06-20 21:31:28"
+      },
+      {
+        "userId": 10,
+        "videoId": 100,
+        "watchedAt": "2025-07-06 21:07:02"
+      },
+      {
+        "userId": 10,
+        "videoId": 2,
+        "watchedAt": "2025-07-02 12:53:33"
+      },
+      {
+        "userId": 10,
+        "videoId": 48,
+        "watchedAt": "2025-07-10 20:10:48"
+      },
+      {
+        "userId": 10,
+        "videoId": 10,
+        "watchedAt": "2025-06-02 16:32:11"
+      },
+      {
+        "userId": 10,
+        "videoId": 60,
+        "watchedAt": "2025-06-08 20:25:29"
+      },
+      {
+        "userId": 10,
+        "videoId": 97,
+        "watchedAt": "2025-06-24 15:18:13"
+      },
+      {
+        "userId": 10,
+        "videoId": 34,
+        "watchedAt": "2025-06-01 12:22:29"
+      },
+      {
+        "userId": 10,
+        "videoId": 81,
+        "watchedAt": "2025-07-13 22:47:19"
+      },
+      {
+        "userId": 10,
+        "videoId": 89,
+        "watchedAt": "2025-06-09 00:52:45"
+      },
+      {
+        "userId": 10,
+        "videoId": 53,
+        "watchedAt": "2025-06-02 18:51:10"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "email": "samuelcampbell@example.com",
+    "username": "gregorypacheco",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/11.jpg",
+    "bio": "Agency city option prepare anyone focus.",
+    "createdAt": "2025-06-22 08:34:31",
+    "updatedAt": "2025-06-22 08:34:31",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 11,
+        "channelId": 5,
+        "createdAt": "2025-07-08 18:12:22"
+      },
+      {
+        "userId": 11,
+        "channelId": 21,
+        "createdAt": "2025-06-27 11:09:46"
+      }
+    ],
+    "history": [
+      {
+        "userId": 11,
+        "videoId": 81,
+        "watchedAt": "2025-05-28 17:13:10"
+      },
+      {
+        "userId": 11,
+        "videoId": 30,
+        "watchedAt": "2025-06-23 09:07:42"
+      },
+      {
+        "userId": 11,
+        "videoId": 71,
+        "watchedAt": "2025-06-28 13:23:29"
+      },
+      {
+        "userId": 11,
+        "videoId": 22,
+        "watchedAt": "2025-06-13 17:04:16"
+      },
+      {
+        "userId": 11,
+        "videoId": 97,
+        "watchedAt": "2025-07-16 10:00:35"
+      },
+      {
+        "userId": 11,
+        "videoId": 56,
+        "watchedAt": "2025-06-12 13:52:36"
+      },
+      {
+        "userId": 11,
+        "videoId": 100,
+        "watchedAt": "2025-07-19 09:52:25"
+      },
+      {
+        "userId": 11,
+        "videoId": 88,
+        "watchedAt": "2025-06-19 18:18:40"
+      },
+      {
+        "userId": 11,
+        "videoId": 80,
+        "watchedAt": "2025-05-25 06:11:15"
+      },
+      {
+        "userId": 11,
+        "videoId": 69,
+        "watchedAt": "2025-06-26 17:24:30"
+      },
+      {
+        "userId": 11,
+        "videoId": 50,
+        "watchedAt": "2025-07-19 21:59:33"
+      },
+      {
+        "userId": 11,
+        "videoId": 20,
+        "watchedAt": "2025-05-25 08:24:36"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "email": "stevenkline@example.com",
+    "username": "williammeyer",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/12.jpg",
+    "bio": "Remain keep a put fly court here employee.",
+    "createdAt": "2025-06-05 12:22:45",
+    "updatedAt": "2025-06-05 12:22:45",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 12,
+        "channelId": 16,
+        "createdAt": "2025-07-18 21:43:38"
+      },
+      {
+        "userId": 12,
+        "channelId": 9,
+        "createdAt": "2025-05-25 14:54:36"
+      }
+    ],
+    "history": [
+      {
+        "userId": 12,
+        "videoId": 22,
+        "watchedAt": "2025-06-14 02:43:39"
+      },
+      {
+        "userId": 12,
+        "videoId": 32,
+        "watchedAt": "2025-06-28 12:51:49"
+      },
+      {
+        "userId": 12,
+        "videoId": 7,
+        "watchedAt": "2025-07-21 02:40:16"
+      },
+      {
+        "userId": 12,
+        "videoId": 53,
+        "watchedAt": "2025-06-11 00:57:09"
+      },
+      {
+        "userId": 12,
+        "videoId": 42,
+        "watchedAt": "2025-06-20 23:05:02"
+      },
+      {
+        "userId": 12,
+        "videoId": 81,
+        "watchedAt": "2025-06-13 23:33:05"
+      },
+      {
+        "userId": 12,
+        "videoId": 25,
+        "watchedAt": "2025-07-01 10:12:51"
+      },
+      {
+        "userId": 12,
+        "videoId": 47,
+        "watchedAt": "2025-07-19 17:26:09"
+      },
+      {
+        "userId": 12,
+        "videoId": 83,
+        "watchedAt": "2025-06-30 22:56:32"
+      },
+      {
+        "userId": 12,
+        "videoId": 91,
+        "watchedAt": "2025-06-26 11:51:07"
+      },
+      {
+        "userId": 12,
+        "videoId": 21,
+        "watchedAt": "2025-06-07 23:00:39"
+      },
+      {
+        "userId": 12,
+        "videoId": 45,
+        "watchedAt": "2025-07-16 11:30:57"
+      },
+      {
+        "userId": 12,
+        "videoId": 82,
+        "watchedAt": "2025-06-03 09:56:57"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "email": "tami63@example.net",
+    "username": "kellywalker",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/13.jpg",
+    "bio": "By perform treat garden new involve.",
+    "createdAt": "2025-07-15 16:32:50",
+    "updatedAt": "2025-07-15 16:32:50",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 13,
+        "channelId": 15,
+        "createdAt": "2025-07-13 10:58:29"
+      },
+      {
+        "userId": 13,
+        "channelId": 34,
+        "createdAt": "2025-07-13 21:21:22"
+      },
+      {
+        "userId": 13,
+        "channelId": 14,
+        "createdAt": "2025-07-12 11:32:13"
+      },
+      {
+        "userId": 13,
+        "channelId": 18,
+        "createdAt": "2025-07-11 08:11:33"
+      },
+      {
+        "userId": 13,
+        "channelId": 19,
+        "createdAt": "2025-07-06 13:18:20"
+      },
+      {
+        "userId": 13,
+        "channelId": 27,
+        "createdAt": "2025-06-22 20:03:33"
+      },
+      {
+        "userId": 13,
+        "channelId": 12,
+        "createdAt": "2025-07-11 12:04:44"
+      },
+      {
+        "userId": 13,
+        "channelId": 20,
+        "createdAt": "2025-05-27 11:01:50"
+      }
+    ],
+    "history": [
+      {
+        "userId": 13,
+        "videoId": 36,
+        "watchedAt": "2025-07-08 16:57:40"
+      },
+      {
+        "userId": 13,
+        "videoId": 38,
+        "watchedAt": "2025-06-24 05:43:12"
+      },
+      {
+        "userId": 13,
+        "videoId": 74,
+        "watchedAt": "2025-05-23 21:49:18"
+      },
+      {
+        "userId": 13,
+        "videoId": 100,
+        "watchedAt": "2025-06-27 00:29:55"
+      },
+      {
+        "userId": 13,
+        "videoId": 69,
+        "watchedAt": "2025-07-12 05:31:28"
+      },
+      {
+        "userId": 13,
+        "videoId": 98,
+        "watchedAt": "2025-07-19 11:46:02"
+      },
+      {
+        "userId": 13,
+        "videoId": 79,
+        "watchedAt": "2025-06-17 05:38:43"
+      },
+      {
+        "userId": 13,
+        "videoId": 8,
+        "watchedAt": "2025-06-12 19:50:43"
+      },
+      {
+        "userId": 13,
+        "videoId": 26,
+        "watchedAt": "2025-06-17 05:38:12"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "email": "malonejames@example.org",
+    "username": "bowerstara",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/14.jpg",
+    "bio": "Tv nothing film seem.",
+    "createdAt": "2025-06-21 07:34:41",
+    "updatedAt": "2025-06-21 07:34:41",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 14,
+        "channelId": 3,
+        "createdAt": "2025-07-04 03:20:16"
+      },
+      {
+        "userId": 14,
+        "channelId": 16,
+        "createdAt": "2025-06-19 01:07:34"
+      },
+      {
+        "userId": 14,
+        "channelId": 29,
+        "createdAt": "2025-06-23 04:39:22"
+      },
+      {
+        "userId": 14,
+        "channelId": 12,
+        "createdAt": "2025-07-19 23:08:52"
+      },
+      {
+        "userId": 14,
+        "channelId": 4,
+        "createdAt": "2025-06-09 06:35:25"
+      },
+      {
+        "userId": 14,
+        "channelId": 5,
+        "createdAt": "2025-06-12 10:24:21"
+      },
+      {
+        "userId": 14,
+        "channelId": 37,
+        "createdAt": "2025-07-08 14:56:57"
+      },
+      {
+        "userId": 14,
+        "channelId": 40,
+        "createdAt": "2025-07-09 21:01:48"
+      },
+      {
+        "userId": 14,
+        "channelId": 30,
+        "createdAt": "2025-06-17 10:01:41"
+      },
+      {
+        "userId": 14,
+        "channelId": 31,
+        "createdAt": "2025-07-04 07:54:01"
+      }
+    ],
+    "history": [
+      {
+        "userId": 14,
+        "videoId": 76,
+        "watchedAt": "2025-07-03 09:51:37"
+      },
+      {
+        "userId": 14,
+        "videoId": 100,
+        "watchedAt": "2025-06-19 04:40:43"
+      },
+      {
+        "userId": 14,
+        "videoId": 23,
+        "watchedAt": "2025-07-17 21:33:13"
+      },
+      {
+        "userId": 14,
+        "videoId": 51,
+        "watchedAt": "2025-07-08 09:58:34"
+      },
+      {
+        "userId": 14,
+        "videoId": 9,
+        "watchedAt": "2025-06-17 11:38:51"
+      },
+      {
+        "userId": 14,
+        "videoId": 52,
+        "watchedAt": "2025-07-18 16:16:07"
+      },
+      {
+        "userId": 14,
+        "videoId": 77,
+        "watchedAt": "2025-06-16 06:47:27"
+      },
+      {
+        "userId": 14,
+        "videoId": 8,
+        "watchedAt": "2025-06-12 08:28:32"
+      },
+      {
+        "userId": 14,
+        "videoId": 71,
+        "watchedAt": "2025-05-23 22:24:54"
+      },
+      {
+        "userId": 14,
+        "videoId": 95,
+        "watchedAt": "2025-06-17 22:51:19"
+      },
+      {
+        "userId": 14,
+        "videoId": 43,
+        "watchedAt": "2025-06-11 05:19:54"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "email": "kyu@example.com",
+    "username": "andre00",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/15.jpg",
+    "bio": "Deep add movie international.",
+    "createdAt": "2025-05-24 08:26:47",
+    "updatedAt": "2025-05-24 08:26:47",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 15,
+        "channelId": 26,
+        "createdAt": "2025-07-17 04:02:22"
+      },
+      {
+        "userId": 15,
+        "channelId": 19,
+        "createdAt": "2025-06-04 22:51:31"
+      },
+      {
+        "userId": 15,
+        "channelId": 39,
+        "createdAt": "2025-06-24 09:08:49"
+      },
+      {
+        "userId": 15,
+        "channelId": 36,
+        "createdAt": "2025-07-16 23:40:10"
+      },
+      {
+        "userId": 15,
+        "channelId": 30,
+        "createdAt": "2025-06-16 11:18:32"
+      },
+      {
+        "userId": 15,
+        "channelId": 5,
+        "createdAt": "2025-06-03 20:00:18"
+      },
+      {
+        "userId": 15,
+        "channelId": 7,
+        "createdAt": "2025-07-16 03:00:21"
+      }
+    ],
+    "history": [
+      {
+        "userId": 15,
+        "videoId": 18,
+        "watchedAt": "2025-06-19 18:58:18"
+      },
+      {
+        "userId": 15,
+        "videoId": 96,
+        "watchedAt": "2025-07-06 11:35:49"
+      },
+      {
+        "userId": 15,
+        "videoId": 87,
+        "watchedAt": "2025-06-11 08:04:01"
+      },
+      {
+        "userId": 15,
+        "videoId": 3,
+        "watchedAt": "2025-06-14 01:47:57"
+      },
+      {
+        "userId": 15,
+        "videoId": 74,
+        "watchedAt": "2025-06-26 08:50:34"
+      },
+      {
+        "userId": 15,
+        "videoId": 10,
+        "watchedAt": "2025-06-15 23:19:35"
+      },
+      {
+        "userId": 15,
+        "videoId": 81,
+        "watchedAt": "2025-06-30 01:48:21"
+      },
+      {
+        "userId": 15,
+        "videoId": 91,
+        "watchedAt": "2025-06-29 19:24:52"
+      },
+      {
+        "userId": 15,
+        "videoId": 20,
+        "watchedAt": "2025-06-08 06:55:57"
+      },
+      {
+        "userId": 15,
+        "videoId": 59,
+        "watchedAt": "2025-07-22 02:09:39"
+      },
+      {
+        "userId": 15,
+        "videoId": 90,
+        "watchedAt": "2025-07-14 00:24:17"
+      },
+      {
+        "userId": 15,
+        "videoId": 84,
+        "watchedAt": "2025-06-01 11:47:33"
+      },
+      {
+        "userId": 15,
+        "videoId": 94,
+        "watchedAt": "2025-07-06 00:55:53"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "email": "thompsondiana@example.org",
+    "username": "sheilanunez",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/16.jpg",
+    "bio": "Help usually grow class home us close see.",
+    "createdAt": "2025-05-25 01:19:27",
+    "updatedAt": "2025-05-25 01:19:27",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 16,
+        "channelId": 32,
+        "createdAt": "2025-06-29 00:34:02"
+      },
+      {
+        "userId": 16,
+        "channelId": 14,
+        "createdAt": "2025-06-23 11:15:46"
+      },
+      {
+        "userId": 16,
+        "channelId": 26,
+        "createdAt": "2025-05-27 02:06:29"
+      },
+      {
+        "userId": 16,
+        "channelId": 11,
+        "createdAt": "2025-06-25 19:47:22"
+      },
+      {
+        "userId": 16,
+        "channelId": 40,
+        "createdAt": "2025-07-17 21:11:29"
+      },
+      {
+        "userId": 16,
+        "channelId": 38,
+        "createdAt": "2025-06-02 02:17:54"
+      },
+      {
+        "userId": 16,
+        "channelId": 22,
+        "createdAt": "2025-06-20 13:58:26"
+      }
+    ],
+    "history": [
+      {
+        "userId": 16,
+        "videoId": 26,
+        "watchedAt": "2025-07-09 04:00:01"
+      },
+      {
+        "userId": 16,
+        "videoId": 15,
+        "watchedAt": "2025-07-17 10:48:42"
+      },
+      {
+        "userId": 16,
+        "videoId": 3,
+        "watchedAt": "2025-06-01 15:14:01"
+      },
+      {
+        "userId": 16,
+        "videoId": 32,
+        "watchedAt": "2025-05-26 20:39:05"
+      },
+      {
+        "userId": 16,
+        "videoId": 21,
+        "watchedAt": "2025-07-10 01:22:17"
+      },
+      {
+        "userId": 16,
+        "videoId": 78,
+        "watchedAt": "2025-06-13 16:24:45"
+      },
+      {
+        "userId": 16,
+        "videoId": 6,
+        "watchedAt": "2025-06-21 04:23:44"
+      },
+      {
+        "userId": 16,
+        "videoId": 33,
+        "watchedAt": "2025-05-25 09:07:21"
+      },
+      {
+        "userId": 16,
+        "videoId": 18,
+        "watchedAt": "2025-07-09 22:46:31"
+      },
+      {
+        "userId": 16,
+        "videoId": 40,
+        "watchedAt": "2025-06-17 20:53:46"
+      },
+      {
+        "userId": 16,
+        "videoId": 60,
+        "watchedAt": "2025-06-14 15:48:28"
+      },
+      {
+        "userId": 16,
+        "videoId": 8,
+        "watchedAt": "2025-06-01 06:28:14"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "email": "ortizelizabeth@example.com",
+    "username": "brian63",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/17.jpg",
+    "bio": "Song he employee speech occur car.",
+    "createdAt": "2025-07-05 07:53:06",
+    "updatedAt": "2025-07-05 07:53:06",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 17,
+        "channelId": 19,
+        "createdAt": "2025-06-10 23:48:13"
+      },
+      {
+        "userId": 17,
+        "channelId": 23,
+        "createdAt": "2025-06-07 20:11:25"
+      },
+      {
+        "userId": 17,
+        "channelId": 28,
+        "createdAt": "2025-06-30 21:12:03"
+      }
+    ],
+    "history": [
+      {
+        "userId": 17,
+        "videoId": 80,
+        "watchedAt": "2025-06-26 12:49:58"
+      },
+      {
+        "userId": 17,
+        "videoId": 64,
+        "watchedAt": "2025-06-05 05:46:52"
+      },
+      {
+        "userId": 17,
+        "videoId": 16,
+        "watchedAt": "2025-05-27 08:57:02"
+      },
+      {
+        "userId": 17,
+        "videoId": 62,
+        "watchedAt": "2025-06-29 08:36:36"
+      },
+      {
+        "userId": 17,
+        "videoId": 31,
+        "watchedAt": "2025-06-07 04:55:25"
+      },
+      {
+        "userId": 17,
+        "videoId": 14,
+        "watchedAt": "2025-07-22 00:41:03"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "email": "williamsalexander@example.com",
+    "username": "barbercheryl",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/18.jpg",
+    "bio": "Star person marriage but exactly into.",
+    "createdAt": "2025-07-10 09:27:52",
+    "updatedAt": "2025-07-10 09:27:52",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 18,
+        "channelId": 7,
+        "createdAt": "2025-06-22 04:49:50"
+      },
+      {
+        "userId": 18,
+        "channelId": 13,
+        "createdAt": "2025-07-09 11:26:18"
+      },
+      {
+        "userId": 18,
+        "channelId": 10,
+        "createdAt": "2025-06-24 23:14:55"
+      },
+      {
+        "userId": 18,
+        "channelId": 11,
+        "createdAt": "2025-06-07 12:39:29"
+      },
+      {
+        "userId": 18,
+        "channelId": 30,
+        "createdAt": "2025-05-29 01:57:21"
+      },
+      {
+        "userId": 18,
+        "channelId": 14,
+        "createdAt": "2025-07-15 09:34:09"
+      }
+    ],
+    "history": [
+      {
+        "userId": 18,
+        "videoId": 30,
+        "watchedAt": "2025-07-02 02:10:17"
+      },
+      {
+        "userId": 18,
+        "videoId": 36,
+        "watchedAt": "2025-07-14 00:50:52"
+      },
+      {
+        "userId": 18,
+        "videoId": 88,
+        "watchedAt": "2025-06-03 06:27:53"
+      },
+      {
+        "userId": 18,
+        "videoId": 13,
+        "watchedAt": "2025-06-13 14:35:09"
+      },
+      {
+        "userId": 18,
+        "videoId": 97,
+        "watchedAt": "2025-07-16 07:48:52"
+      },
+      {
+        "userId": 18,
+        "videoId": 92,
+        "watchedAt": "2025-05-24 09:13:43"
+      },
+      {
+        "userId": 18,
+        "videoId": 85,
+        "watchedAt": "2025-06-20 13:55:56"
+      },
+      {
+        "userId": 18,
+        "videoId": 41,
+        "watchedAt": "2025-07-14 02:05:16"
+      },
+      {
+        "userId": 18,
+        "videoId": 53,
+        "watchedAt": "2025-07-20 17:29:41"
+      },
+      {
+        "userId": 18,
+        "videoId": 62,
+        "watchedAt": "2025-07-14 00:33:20"
+      },
+      {
+        "userId": 18,
+        "videoId": 81,
+        "watchedAt": "2025-07-01 23:24:28"
+      },
+      {
+        "userId": 18,
+        "videoId": 89,
+        "watchedAt": "2025-06-20 03:54:47"
+      },
+      {
+        "userId": 18,
+        "videoId": 57,
+        "watchedAt": "2025-06-28 19:33:34"
+      },
+      {
+        "userId": 18,
+        "videoId": 99,
+        "watchedAt": "2025-05-31 07:08:00"
+      },
+      {
+        "userId": 18,
+        "videoId": 93,
+        "watchedAt": "2025-06-02 14:12:47"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "email": "uowens@example.com",
+    "username": "vweaver",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/19.jpg",
+    "bio": "Allow anyone window level our one whether.",
+    "createdAt": "2025-07-17 09:08:27",
+    "updatedAt": "2025-07-17 09:08:27",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 19,
+        "channelId": 36,
+        "createdAt": "2025-06-15 01:15:54"
+      },
+      {
+        "userId": 19,
+        "channelId": 33,
+        "createdAt": "2025-07-20 04:59:04"
+      },
+      {
+        "userId": 19,
+        "channelId": 37,
+        "createdAt": "2025-05-25 21:18:49"
+      },
+      {
+        "userId": 19,
+        "channelId": 7,
+        "createdAt": "2025-06-20 14:01:26"
+      }
+    ],
+    "history": [
+      {
+        "userId": 19,
+        "videoId": 3,
+        "watchedAt": "2025-07-14 13:12:45"
+      },
+      {
+        "userId": 19,
+        "videoId": 89,
+        "watchedAt": "2025-07-03 08:43:41"
+      },
+      {
+        "userId": 19,
+        "videoId": 55,
+        "watchedAt": "2025-06-28 09:24:40"
+      },
+      {
+        "userId": 19,
+        "videoId": 36,
+        "watchedAt": "2025-06-28 09:11:30"
+      },
+      {
+        "userId": 19,
+        "videoId": 65,
+        "watchedAt": "2025-07-11 20:22:01"
+      },
+      {
+        "userId": 19,
+        "videoId": 17,
+        "watchedAt": "2025-07-13 09:30:05"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "email": "thompsonrebecca@example.org",
+    "username": "colton62",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/20.jpg",
+    "bio": "Marriage including who hand professional approach compare.",
+    "createdAt": "2025-06-27 06:03:51",
+    "updatedAt": "2025-06-27 06:03:51",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 20,
+        "channelId": 33,
+        "createdAt": "2025-07-02 10:13:15"
+      },
+      {
+        "userId": 20,
+        "channelId": 39,
+        "createdAt": "2025-06-14 09:42:17"
+      },
+      {
+        "userId": 20,
+        "channelId": 27,
+        "createdAt": "2025-07-08 15:47:52"
+      },
+      {
+        "userId": 20,
+        "channelId": 38,
+        "createdAt": "2025-06-14 18:12:01"
+      },
+      {
+        "userId": 20,
+        "channelId": 19,
+        "createdAt": "2025-07-06 21:17:50"
+      },
+      {
+        "userId": 20,
+        "channelId": 29,
+        "createdAt": "2025-06-09 05:20:35"
+      }
+    ],
+    "history": [
+      {
+        "userId": 20,
+        "videoId": 34,
+        "watchedAt": "2025-07-09 11:01:28"
+      },
+      {
+        "userId": 20,
+        "videoId": 50,
+        "watchedAt": "2025-06-01 14:03:16"
+      },
+      {
+        "userId": 20,
+        "videoId": 59,
+        "watchedAt": "2025-07-04 11:35:22"
+      },
+      {
+        "userId": 20,
+        "videoId": 39,
+        "watchedAt": "2025-05-31 21:23:41"
+      },
+      {
+        "userId": 20,
+        "videoId": 69,
+        "watchedAt": "2025-06-13 05:54:28"
+      },
+      {
+        "userId": 20,
+        "videoId": 63,
+        "watchedAt": "2025-07-21 06:44:58"
+      },
+      {
+        "userId": 20,
+        "videoId": 22,
+        "watchedAt": "2025-06-20 09:11:54"
+      },
+      {
+        "userId": 20,
+        "videoId": 73,
+        "watchedAt": "2025-06-25 00:31:05"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "email": "sherriblack@example.com",
+    "username": "jacob44",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/21.jpg",
+    "bio": "Page exist ball.",
+    "createdAt": "2025-06-22 13:54:08",
+    "updatedAt": "2025-06-22 13:54:08",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 21,
+        "channelId": 11,
+        "createdAt": "2025-06-18 11:29:34"
+      },
+      {
+        "userId": 21,
+        "channelId": 12,
+        "createdAt": "2025-06-14 00:17:55"
+      },
+      {
+        "userId": 21,
+        "channelId": 31,
+        "createdAt": "2025-06-14 17:57:39"
+      },
+      {
+        "userId": 21,
+        "channelId": 22,
+        "createdAt": "2025-07-13 14:52:40"
+      },
+      {
+        "userId": 21,
+        "channelId": 18,
+        "createdAt": "2025-07-16 21:43:30"
+      }
+    ],
+    "history": [
+      {
+        "userId": 21,
+        "videoId": 44,
+        "watchedAt": "2025-06-22 01:34:51"
+      },
+      {
+        "userId": 21,
+        "videoId": 90,
+        "watchedAt": "2025-06-22 09:22:09"
+      },
+      {
+        "userId": 21,
+        "videoId": 34,
+        "watchedAt": "2025-07-04 22:14:10"
+      },
+      {
+        "userId": 21,
+        "videoId": 64,
+        "watchedAt": "2025-06-16 00:07:02"
+      },
+      {
+        "userId": 21,
+        "videoId": 77,
+        "watchedAt": "2025-07-05 16:32:06"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "email": "rachelgibson@example.net",
+    "username": "christine58",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/22.jpg",
+    "bio": "Like fact floor speech clear politics.",
+    "createdAt": "2025-07-02 19:23:41",
+    "updatedAt": "2025-07-02 19:23:41",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 22,
+        "channelId": 31,
+        "createdAt": "2025-06-12 17:58:27"
+      },
+      {
+        "userId": 22,
+        "channelId": 7,
+        "createdAt": "2025-07-19 03:01:16"
+      },
+      {
+        "userId": 22,
+        "channelId": 13,
+        "createdAt": "2025-07-22 13:58:31"
+      },
+      {
+        "userId": 22,
+        "channelId": 35,
+        "createdAt": "2025-07-05 21:03:44"
+      },
+      {
+        "userId": 22,
+        "channelId": 11,
+        "createdAt": "2025-05-30 08:26:00"
+      },
+      {
+        "userId": 22,
+        "channelId": 37,
+        "createdAt": "2025-07-22 10:09:29"
+      },
+      {
+        "userId": 22,
+        "channelId": 24,
+        "createdAt": "2025-06-27 04:06:00"
+      },
+      {
+        "userId": 22,
+        "channelId": 16,
+        "createdAt": "2025-06-26 06:45:25"
+      }
+    ],
+    "history": [
+      {
+        "userId": 22,
+        "videoId": 96,
+        "watchedAt": "2025-07-07 18:38:44"
+      },
+      {
+        "userId": 22,
+        "videoId": 64,
+        "watchedAt": "2025-07-13 08:26:12"
+      },
+      {
+        "userId": 22,
+        "videoId": 32,
+        "watchedAt": "2025-07-20 14:46:31"
+      },
+      {
+        "userId": 22,
+        "videoId": 15,
+        "watchedAt": "2025-06-06 04:32:27"
+      },
+      {
+        "userId": 22,
+        "videoId": 83,
+        "watchedAt": "2025-06-29 01:13:50"
+      },
+      {
+        "userId": 22,
+        "videoId": 52,
+        "watchedAt": "2025-06-06 10:38:52"
+      },
+      {
+        "userId": 22,
+        "videoId": 89,
+        "watchedAt": "2025-06-27 09:52:32"
+      },
+      {
+        "userId": 22,
+        "videoId": 91,
+        "watchedAt": "2025-07-19 14:42:32"
+      },
+      {
+        "userId": 22,
+        "videoId": 2,
+        "watchedAt": "2025-07-15 08:59:23"
+      },
+      {
+        "userId": 22,
+        "videoId": 60,
+        "watchedAt": "2025-07-16 15:08:45"
+      },
+      {
+        "userId": 22,
+        "videoId": 75,
+        "watchedAt": "2025-07-08 00:39:39"
+      },
+      {
+        "userId": 22,
+        "videoId": 84,
+        "watchedAt": "2025-07-20 22:23:41"
+      },
+      {
+        "userId": 22,
+        "videoId": 95,
+        "watchedAt": "2025-05-29 11:12:58"
+      },
+      {
+        "userId": 22,
+        "videoId": 36,
+        "watchedAt": "2025-07-08 02:36:04"
+      },
+      {
+        "userId": 22,
+        "videoId": 98,
+        "watchedAt": "2025-07-20 00:27:16"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "email": "nhancock@example.net",
+    "username": "jamesfarley",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/23.jpg",
+    "bio": "Teacher research miss PM natural six would.",
+    "createdAt": "2025-06-20 15:59:09",
+    "updatedAt": "2025-06-20 15:59:09",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 23,
+        "channelId": 27,
+        "createdAt": "2025-07-02 17:18:24"
+      },
+      {
+        "userId": 23,
+        "channelId": 19,
+        "createdAt": "2025-06-22 01:29:15"
+      }
+    ],
+    "history": [
+      {
+        "userId": 23,
+        "videoId": 23,
+        "watchedAt": "2025-07-22 09:52:32"
+      },
+      {
+        "userId": 23,
+        "videoId": 36,
+        "watchedAt": "2025-06-06 21:43:14"
+      },
+      {
+        "userId": 23,
+        "videoId": 88,
+        "watchedAt": "2025-07-06 22:10:34"
+      },
+      {
+        "userId": 23,
+        "videoId": 94,
+        "watchedAt": "2025-06-02 08:45:41"
+      },
+      {
+        "userId": 23,
+        "videoId": 74,
+        "watchedAt": "2025-07-09 12:43:48"
+      },
+      {
+        "userId": 23,
+        "videoId": 92,
+        "watchedAt": "2025-06-07 03:31:32"
+      },
+      {
+        "userId": 23,
+        "videoId": 95,
+        "watchedAt": "2025-07-14 23:17:35"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "email": "amberyoung@example.com",
+    "username": "keith01",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/24.jpg",
+    "bio": "Blue lose however project chance four.",
+    "createdAt": "2025-06-20 00:58:10",
+    "updatedAt": "2025-06-20 00:58:10",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 24,
+        "channelId": 16,
+        "createdAt": "2025-05-26 08:26:18"
+      },
+      {
+        "userId": 24,
+        "channelId": 13,
+        "createdAt": "2025-06-01 17:31:10"
+      }
+    ],
+    "history": [
+      {
+        "userId": 24,
+        "videoId": 51,
+        "watchedAt": "2025-06-12 06:06:31"
+      },
+      {
+        "userId": 24,
+        "videoId": 82,
+        "watchedAt": "2025-05-30 22:33:41"
+      },
+      {
+        "userId": 24,
+        "videoId": 55,
+        "watchedAt": "2025-07-22 17:36:58"
+      },
+      {
+        "userId": 24,
+        "videoId": 23,
+        "watchedAt": "2025-07-20 21:59:50"
+      },
+      {
+        "userId": 24,
+        "videoId": 92,
+        "watchedAt": "2025-06-07 22:46:31"
+      },
+      {
+        "userId": 24,
+        "videoId": 56,
+        "watchedAt": "2025-06-17 08:05:16"
+      },
+      {
+        "userId": 24,
+        "videoId": 13,
+        "watchedAt": "2025-05-27 02:33:36"
+      },
+      {
+        "userId": 24,
+        "videoId": 52,
+        "watchedAt": "2025-07-21 03:42:44"
+      },
+      {
+        "userId": 24,
+        "videoId": 70,
+        "watchedAt": "2025-06-13 04:59:44"
+      },
+      {
+        "userId": 24,
+        "videoId": 2,
+        "watchedAt": "2025-07-04 08:35:54"
+      },
+      {
+        "userId": 24,
+        "videoId": 48,
+        "watchedAt": "2025-06-05 05:13:19"
+      },
+      {
+        "userId": 24,
+        "videoId": 88,
+        "watchedAt": "2025-07-05 05:53:13"
+      },
+      {
+        "userId": 24,
+        "videoId": 57,
+        "watchedAt": "2025-07-10 22:02:07"
+      },
+      {
+        "userId": 24,
+        "videoId": 47,
+        "watchedAt": "2025-06-05 00:11:28"
+      },
+      {
+        "userId": 24,
+        "videoId": 43,
+        "watchedAt": "2025-06-03 16:20:32"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "email": "gtaylor@example.org",
+    "username": "amanda75",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/25.jpg",
+    "bio": "Memory here note this gas.",
+    "createdAt": "2025-07-22 06:01:57",
+    "updatedAt": "2025-07-22 06:01:57",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 25,
+        "channelId": 32,
+        "createdAt": "2025-06-23 09:48:02"
+      },
+      {
+        "userId": 25,
+        "channelId": 3,
+        "createdAt": "2025-07-06 21:30:04"
+      },
+      {
+        "userId": 25,
+        "channelId": 23,
+        "createdAt": "2025-07-10 06:37:09"
+      }
+    ],
+    "history": [
+      {
+        "userId": 25,
+        "videoId": 3,
+        "watchedAt": "2025-06-14 17:34:20"
+      },
+      {
+        "userId": 25,
+        "videoId": 30,
+        "watchedAt": "2025-06-10 01:12:45"
+      },
+      {
+        "userId": 25,
+        "videoId": 98,
+        "watchedAt": "2025-06-19 17:20:22"
+      },
+      {
+        "userId": 25,
+        "videoId": 70,
+        "watchedAt": "2025-07-22 10:33:52"
+      },
+      {
+        "userId": 25,
+        "videoId": 68,
+        "watchedAt": "2025-05-26 12:09:19"
+      },
+      {
+        "userId": 25,
+        "videoId": 23,
+        "watchedAt": "2025-06-12 10:33:14"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "email": "martinezgina@example.com",
+    "username": "raymond06",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/26.jpg",
+    "bio": "Bill mother law front situation last instead.",
+    "createdAt": "2025-05-24 04:06:44",
+    "updatedAt": "2025-05-24 04:06:44",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 26,
+        "channelId": 9,
+        "createdAt": "2025-07-05 20:12:26"
+      },
+      {
+        "userId": 26,
+        "channelId": 24,
+        "createdAt": "2025-06-22 10:56:47"
+      },
+      {
+        "userId": 26,
+        "channelId": 8,
+        "createdAt": "2025-06-07 10:55:34"
+      },
+      {
+        "userId": 26,
+        "channelId": 17,
+        "createdAt": "2025-07-02 14:34:42"
+      },
+      {
+        "userId": 26,
+        "channelId": 11,
+        "createdAt": "2025-06-08 01:28:08"
+      }
+    ],
+    "history": [
+      {
+        "userId": 26,
+        "videoId": 53,
+        "watchedAt": "2025-07-06 06:08:15"
+      },
+      {
+        "userId": 26,
+        "videoId": 86,
+        "watchedAt": "2025-05-29 10:16:37"
+      },
+      {
+        "userId": 26,
+        "videoId": 60,
+        "watchedAt": "2025-06-16 07:39:14"
+      },
+      {
+        "userId": 26,
+        "videoId": 79,
+        "watchedAt": "2025-06-18 10:53:05"
+      },
+      {
+        "userId": 26,
+        "videoId": 39,
+        "watchedAt": "2025-06-07 05:46:15"
+      },
+      {
+        "userId": 26,
+        "videoId": 77,
+        "watchedAt": "2025-07-07 09:11:14"
+      },
+      {
+        "userId": 26,
+        "videoId": 13,
+        "watchedAt": "2025-06-08 05:54:10"
+      },
+      {
+        "userId": 26,
+        "videoId": 89,
+        "watchedAt": "2025-07-16 01:35:14"
+      },
+      {
+        "userId": 26,
+        "videoId": 85,
+        "watchedAt": "2025-07-16 22:36:38"
+      },
+      {
+        "userId": 26,
+        "videoId": 71,
+        "watchedAt": "2025-06-18 00:44:39"
+      },
+      {
+        "userId": 26,
+        "videoId": 17,
+        "watchedAt": "2025-05-28 18:50:55"
+      },
+      {
+        "userId": 26,
+        "videoId": 62,
+        "watchedAt": "2025-07-01 19:47:23"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "email": "brittany58@example.com",
+    "username": "silvalarry",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/27.jpg",
+    "bio": "Material protect decade better debate hospital test.",
+    "createdAt": "2025-06-20 09:21:21",
+    "updatedAt": "2025-06-20 09:21:21",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 27,
+        "channelId": 31,
+        "createdAt": "2025-06-01 15:11:57"
+      },
+      {
+        "userId": 27,
+        "channelId": 19,
+        "createdAt": "2025-07-06 03:42:05"
+      },
+      {
+        "userId": 27,
+        "channelId": 7,
+        "createdAt": "2025-06-16 07:29:01"
+      },
+      {
+        "userId": 27,
+        "channelId": 3,
+        "createdAt": "2025-07-10 17:00:22"
+      },
+      {
+        "userId": 27,
+        "channelId": 18,
+        "createdAt": "2025-05-28 12:55:42"
+      },
+      {
+        "userId": 27,
+        "channelId": 15,
+        "createdAt": "2025-05-27 01:06:28"
+      },
+      {
+        "userId": 27,
+        "channelId": 6,
+        "createdAt": "2025-07-14 18:58:42"
+      },
+      {
+        "userId": 27,
+        "channelId": 30,
+        "createdAt": "2025-07-13 20:54:43"
+      }
+    ],
+    "history": [
+      {
+        "userId": 27,
+        "videoId": 42,
+        "watchedAt": "2025-05-29 21:12:26"
+      },
+      {
+        "userId": 27,
+        "videoId": 10,
+        "watchedAt": "2025-07-18 02:35:57"
+      },
+      {
+        "userId": 27,
+        "videoId": 37,
+        "watchedAt": "2025-07-11 13:01:49"
+      },
+      {
+        "userId": 27,
+        "videoId": 88,
+        "watchedAt": "2025-06-04 23:36:53"
+      },
+      {
+        "userId": 27,
+        "videoId": 63,
+        "watchedAt": "2025-07-18 10:36:09"
+      },
+      {
+        "userId": 27,
+        "videoId": 87,
+        "watchedAt": "2025-06-22 16:31:01"
+      },
+      {
+        "userId": 27,
+        "videoId": 56,
+        "watchedAt": "2025-05-26 15:23:26"
+      },
+      {
+        "userId": 27,
+        "videoId": 97,
+        "watchedAt": "2025-07-08 16:47:59"
+      },
+      {
+        "userId": 27,
+        "videoId": 26,
+        "watchedAt": "2025-06-11 18:14:23"
+      },
+      {
+        "userId": 27,
+        "videoId": 53,
+        "watchedAt": "2025-06-05 03:39:40"
+      },
+      {
+        "userId": 27,
+        "videoId": 39,
+        "watchedAt": "2025-06-01 02:30:29"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "email": "valdezshaun@example.com",
+    "username": "craig88",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/28.jpg",
+    "bio": "As Democrat of total go for.",
+    "createdAt": "2025-07-12 21:56:28",
+    "updatedAt": "2025-07-12 21:56:28",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 28,
+        "channelId": 2,
+        "createdAt": "2025-06-24 03:28:52"
+      },
+      {
+        "userId": 28,
+        "channelId": 8,
+        "createdAt": "2025-06-06 18:50:37"
+      },
+      {
+        "userId": 28,
+        "channelId": 17,
+        "createdAt": "2025-07-03 09:57:27"
+      },
+      {
+        "userId": 28,
+        "channelId": 34,
+        "createdAt": "2025-06-28 17:07:24"
+      },
+      {
+        "userId": 28,
+        "channelId": 22,
+        "createdAt": "2025-06-03 00:49:35"
+      },
+      {
+        "userId": 28,
+        "channelId": 40,
+        "createdAt": "2025-07-03 21:41:58"
+      },
+      {
+        "userId": 28,
+        "channelId": 30,
+        "createdAt": "2025-07-04 07:01:57"
+      },
+      {
+        "userId": 28,
+        "channelId": 21,
+        "createdAt": "2025-06-13 23:36:16"
+      },
+      {
+        "userId": 28,
+        "channelId": 19,
+        "createdAt": "2025-06-10 16:23:09"
+      },
+      {
+        "userId": 28,
+        "channelId": 14,
+        "createdAt": "2025-06-24 02:26:51"
+      }
+    ],
+    "history": [
+      {
+        "userId": 28,
+        "videoId": 79,
+        "watchedAt": "2025-06-01 13:15:00"
+      },
+      {
+        "userId": 28,
+        "videoId": 95,
+        "watchedAt": "2025-06-22 11:29:24"
+      },
+      {
+        "userId": 28,
+        "videoId": 50,
+        "watchedAt": "2025-07-10 12:18:20"
+      },
+      {
+        "userId": 28,
+        "videoId": 83,
+        "watchedAt": "2025-07-21 19:18:25"
+      },
+      {
+        "userId": 28,
+        "videoId": 78,
+        "watchedAt": "2025-07-13 18:51:32"
+      },
+      {
+        "userId": 28,
+        "videoId": 20,
+        "watchedAt": "2025-06-25 05:14:43"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "email": "sara10@example.org",
+    "username": "andrea64",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/29.jpg",
+    "bio": "Image law young economic own thousand performance away.",
+    "createdAt": "2025-06-20 08:35:26",
+    "updatedAt": "2025-06-20 08:35:26",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 29,
+        "channelId": 36,
+        "createdAt": "2025-06-28 07:05:45"
+      },
+      {
+        "userId": 29,
+        "channelId": 35,
+        "createdAt": "2025-07-06 20:13:10"
+      },
+      {
+        "userId": 29,
+        "channelId": 4,
+        "createdAt": "2025-06-13 05:55:27"
+      },
+      {
+        "userId": 29,
+        "channelId": 5,
+        "createdAt": "2025-06-22 06:05:49"
+      },
+      {
+        "userId": 29,
+        "channelId": 9,
+        "createdAt": "2025-06-11 15:54:26"
+      }
+    ],
+    "history": [
+      {
+        "userId": 29,
+        "videoId": 81,
+        "watchedAt": "2025-07-17 12:52:06"
+      },
+      {
+        "userId": 29,
+        "videoId": 61,
+        "watchedAt": "2025-07-12 04:23:36"
+      },
+      {
+        "userId": 29,
+        "videoId": 26,
+        "watchedAt": "2025-05-28 09:12:03"
+      },
+      {
+        "userId": 29,
+        "videoId": 53,
+        "watchedAt": "2025-06-14 17:40:49"
+      },
+      {
+        "userId": 29,
+        "videoId": 14,
+        "watchedAt": "2025-07-19 10:29:27"
+      },
+      {
+        "userId": 29,
+        "videoId": 73,
+        "watchedAt": "2025-07-03 18:00:54"
+      },
+      {
+        "userId": 29,
+        "videoId": 93,
+        "watchedAt": "2025-06-14 09:49:55"
+      },
+      {
+        "userId": 29,
+        "videoId": 22,
+        "watchedAt": "2025-06-16 08:27:31"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "email": "barnettalexis@example.org",
+    "username": "fpennington",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/30.jpg",
+    "bio": "Because make officer safe son else run.",
+    "createdAt": "2025-07-08 04:48:18",
+    "updatedAt": "2025-07-08 04:48:18",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 30,
+        "channelId": 16,
+        "createdAt": "2025-06-28 05:51:43"
+      },
+      {
+        "userId": 30,
+        "channelId": 28,
+        "createdAt": "2025-07-19 10:38:18"
+      },
+      {
+        "userId": 30,
+        "channelId": 22,
+        "createdAt": "2025-06-14 06:58:50"
+      },
+      {
+        "userId": 30,
+        "channelId": 20,
+        "createdAt": "2025-06-09 22:09:05"
+      },
+      {
+        "userId": 30,
+        "channelId": 26,
+        "createdAt": "2025-06-16 11:49:09"
+      },
+      {
+        "userId": 30,
+        "channelId": 10,
+        "createdAt": "2025-07-03 12:39:43"
+      },
+      {
+        "userId": 30,
+        "channelId": 29,
+        "createdAt": "2025-07-01 02:04:43"
+      },
+      {
+        "userId": 30,
+        "channelId": 3,
+        "createdAt": "2025-06-10 06:58:36"
+      },
+      {
+        "userId": 30,
+        "channelId": 2,
+        "createdAt": "2025-06-23 17:07:22"
+      }
+    ],
+    "history": [
+      {
+        "userId": 30,
+        "videoId": 87,
+        "watchedAt": "2025-06-12 11:07:55"
+      },
+      {
+        "userId": 30,
+        "videoId": 6,
+        "watchedAt": "2025-07-06 11:38:35"
+      },
+      {
+        "userId": 30,
+        "videoId": 18,
+        "watchedAt": "2025-06-17 18:38:02"
+      },
+      {
+        "userId": 30,
+        "videoId": 92,
+        "watchedAt": "2025-07-08 13:55:40"
+      },
+      {
+        "userId": 30,
+        "videoId": 9,
+        "watchedAt": "2025-06-05 21:10:15"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "email": "lisa36@example.org",
+    "username": "fbailey",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/31.jpg",
+    "bio": "Week character together sell continue.",
+    "createdAt": "2025-06-04 10:03:58",
+    "updatedAt": "2025-06-04 10:03:58",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 31,
+        "channelId": 4,
+        "createdAt": "2025-06-29 09:14:30"
+      },
+      {
+        "userId": 31,
+        "channelId": 17,
+        "createdAt": "2025-07-20 17:06:05"
+      },
+      {
+        "userId": 31,
+        "channelId": 20,
+        "createdAt": "2025-06-12 01:45:24"
+      },
+      {
+        "userId": 31,
+        "channelId": 5,
+        "createdAt": "2025-06-22 01:04:19"
+      },
+      {
+        "userId": 31,
+        "channelId": 9,
+        "createdAt": "2025-07-01 03:12:00"
+      },
+      {
+        "userId": 31,
+        "channelId": 23,
+        "createdAt": "2025-07-08 13:33:08"
+      },
+      {
+        "userId": 31,
+        "channelId": 40,
+        "createdAt": "2025-06-26 04:53:33"
+      },
+      {
+        "userId": 31,
+        "channelId": 10,
+        "createdAt": "2025-07-02 23:56:58"
+      },
+      {
+        "userId": 31,
+        "channelId": 28,
+        "createdAt": "2025-06-22 18:23:40"
+      }
+    ],
+    "history": [
+      {
+        "userId": 31,
+        "videoId": 9,
+        "watchedAt": "2025-06-28 14:08:10"
+      },
+      {
+        "userId": 31,
+        "videoId": 26,
+        "watchedAt": "2025-05-30 01:52:36"
+      },
+      {
+        "userId": 31,
+        "videoId": 1,
+        "watchedAt": "2025-07-05 11:56:21"
+      },
+      {
+        "userId": 31,
+        "videoId": 13,
+        "watchedAt": "2025-06-01 22:34:55"
+      },
+      {
+        "userId": 31,
+        "videoId": 64,
+        "watchedAt": "2025-06-15 20:53:54"
+      },
+      {
+        "userId": 31,
+        "videoId": 20,
+        "watchedAt": "2025-06-17 07:39:39"
+      },
+      {
+        "userId": 31,
+        "videoId": 72,
+        "watchedAt": "2025-07-02 20:09:28"
+      },
+      {
+        "userId": 31,
+        "videoId": 32,
+        "watchedAt": "2025-07-18 05:10:54"
+      },
+      {
+        "userId": 31,
+        "videoId": 51,
+        "watchedAt": "2025-06-11 18:24:04"
+      },
+      {
+        "userId": 31,
+        "videoId": 50,
+        "watchedAt": "2025-06-22 12:27:00"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "email": "drodriguez@example.org",
+    "username": "smithchristopher",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/32.jpg",
+    "bio": "Recently your word expert guess national.",
+    "createdAt": "2025-07-02 03:00:16",
+    "updatedAt": "2025-07-02 03:00:16",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 32,
+        "channelId": 18,
+        "createdAt": "2025-06-08 00:07:32"
+      },
+      {
+        "userId": 32,
+        "channelId": 24,
+        "createdAt": "2025-07-11 23:50:08"
+      },
+      {
+        "userId": 32,
+        "channelId": 31,
+        "createdAt": "2025-06-30 05:50:44"
+      },
+      {
+        "userId": 32,
+        "channelId": 38,
+        "createdAt": "2025-07-17 23:02:42"
+      },
+      {
+        "userId": 32,
+        "channelId": 29,
+        "createdAt": "2025-06-28 08:49:34"
+      },
+      {
+        "userId": 32,
+        "channelId": 11,
+        "createdAt": "2025-05-27 14:25:15"
+      },
+      {
+        "userId": 32,
+        "channelId": 20,
+        "createdAt": "2025-07-08 14:46:31"
+      },
+      {
+        "userId": 32,
+        "channelId": 4,
+        "createdAt": "2025-07-05 16:27:53"
+      }
+    ],
+    "history": [
+      {
+        "userId": 32,
+        "videoId": 48,
+        "watchedAt": "2025-07-15 12:38:41"
+      },
+      {
+        "userId": 32,
+        "videoId": 25,
+        "watchedAt": "2025-06-29 08:52:24"
+      },
+      {
+        "userId": 32,
+        "videoId": 72,
+        "watchedAt": "2025-07-12 11:05:53"
+      },
+      {
+        "userId": 32,
+        "videoId": 64,
+        "watchedAt": "2025-06-20 18:46:52"
+      },
+      {
+        "userId": 32,
+        "videoId": 97,
+        "watchedAt": "2025-06-14 22:07:25"
+      },
+      {
+        "userId": 32,
+        "videoId": 46,
+        "watchedAt": "2025-05-31 21:31:23"
+      },
+      {
+        "userId": 32,
+        "videoId": 36,
+        "watchedAt": "2025-06-18 18:30:24"
+      },
+      {
+        "userId": 32,
+        "videoId": 79,
+        "watchedAt": "2025-07-06 17:08:33"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "email": "melissajohnson@example.net",
+    "username": "marygarcia",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/33.jpg",
+    "bio": "Last around drive.",
+    "createdAt": "2025-07-05 13:08:16",
+    "updatedAt": "2025-07-05 13:08:16",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 33,
+        "channelId": 34,
+        "createdAt": "2025-07-20 14:28:36"
+      },
+      {
+        "userId": 33,
+        "channelId": 31,
+        "createdAt": "2025-05-30 03:23:30"
+      },
+      {
+        "userId": 33,
+        "channelId": 35,
+        "createdAt": "2025-07-15 23:29:07"
+      },
+      {
+        "userId": 33,
+        "channelId": 16,
+        "createdAt": "2025-06-20 08:38:52"
+      },
+      {
+        "userId": 33,
+        "channelId": 10,
+        "createdAt": "2025-06-07 21:19:52"
+      },
+      {
+        "userId": 33,
+        "channelId": 12,
+        "createdAt": "2025-07-08 08:42:09"
+      },
+      {
+        "userId": 33,
+        "channelId": 6,
+        "createdAt": "2025-07-07 13:11:14"
+      },
+      {
+        "userId": 33,
+        "channelId": 17,
+        "createdAt": "2025-06-12 01:32:15"
+      },
+      {
+        "userId": 33,
+        "channelId": 15,
+        "createdAt": "2025-07-20 17:14:29"
+      },
+      {
+        "userId": 33,
+        "channelId": 13,
+        "createdAt": "2025-06-17 10:44:48"
+      }
+    ],
+    "history": [
+      {
+        "userId": 33,
+        "videoId": 57,
+        "watchedAt": "2025-06-24 00:11:18"
+      },
+      {
+        "userId": 33,
+        "videoId": 87,
+        "watchedAt": "2025-07-17 10:08:33"
+      },
+      {
+        "userId": 33,
+        "videoId": 45,
+        "watchedAt": "2025-07-01 08:09:03"
+      },
+      {
+        "userId": 33,
+        "videoId": 68,
+        "watchedAt": "2025-05-27 16:03:29"
+      },
+      {
+        "userId": 33,
+        "videoId": 28,
+        "watchedAt": "2025-07-16 18:45:09"
+      },
+      {
+        "userId": 33,
+        "videoId": 37,
+        "watchedAt": "2025-05-28 00:39:45"
+      },
+      {
+        "userId": 33,
+        "videoId": 47,
+        "watchedAt": "2025-06-02 05:27:53"
+      },
+      {
+        "userId": 33,
+        "videoId": 65,
+        "watchedAt": "2025-07-17 04:09:12"
+      },
+      {
+        "userId": 33,
+        "videoId": 81,
+        "watchedAt": "2025-06-25 11:47:23"
+      },
+      {
+        "userId": 33,
+        "videoId": 70,
+        "watchedAt": "2025-07-21 19:41:37"
+      },
+      {
+        "userId": 33,
+        "videoId": 46,
+        "watchedAt": "2025-06-08 11:04:07"
+      },
+      {
+        "userId": 33,
+        "videoId": 12,
+        "watchedAt": "2025-06-10 18:30:15"
+      },
+      {
+        "userId": 33,
+        "videoId": 27,
+        "watchedAt": "2025-06-27 16:51:22"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "email": "mdixon@example.org",
+    "username": "victor03",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/34.jpg",
+    "bio": "Consider staff large lay six example.",
+    "createdAt": "2025-07-05 02:21:59",
+    "updatedAt": "2025-07-05 02:21:59",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 34,
+        "channelId": 22,
+        "createdAt": "2025-05-25 01:36:42"
+      },
+      {
+        "userId": 34,
+        "channelId": 9,
+        "createdAt": "2025-07-18 14:58:59"
+      },
+      {
+        "userId": 34,
+        "channelId": 40,
+        "createdAt": "2025-07-03 15:20:59"
+      },
+      {
+        "userId": 34,
+        "channelId": 37,
+        "createdAt": "2025-06-30 08:59:39"
+      },
+      {
+        "userId": 34,
+        "channelId": 5,
+        "createdAt": "2025-06-02 17:05:25"
+      }
+    ],
+    "history": [
+      {
+        "userId": 34,
+        "videoId": 23,
+        "watchedAt": "2025-06-20 08:36:38"
+      },
+      {
+        "userId": 34,
+        "videoId": 68,
+        "watchedAt": "2025-07-22 01:51:24"
+      },
+      {
+        "userId": 34,
+        "videoId": 88,
+        "watchedAt": "2025-06-21 14:47:05"
+      },
+      {
+        "userId": 34,
+        "videoId": 43,
+        "watchedAt": "2025-06-16 11:16:08"
+      },
+      {
+        "userId": 34,
+        "videoId": 79,
+        "watchedAt": "2025-06-14 14:36:53"
+      },
+      {
+        "userId": 34,
+        "videoId": 12,
+        "watchedAt": "2025-07-06 16:18:20"
+      },
+      {
+        "userId": 34,
+        "videoId": 65,
+        "watchedAt": "2025-07-16 07:22:52"
+      },
+      {
+        "userId": 34,
+        "videoId": 19,
+        "watchedAt": "2025-07-12 06:23:03"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "email": "justinjimenez@example.net",
+    "username": "harrisonsarah",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/35.jpg",
+    "bio": "Court court chance court however.",
+    "createdAt": "2025-06-26 22:05:10",
+    "updatedAt": "2025-06-26 22:05:10",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 35,
+        "channelId": 10,
+        "createdAt": "2025-05-26 17:58:43"
+      },
+      {
+        "userId": 35,
+        "channelId": 33,
+        "createdAt": "2025-07-11 13:52:33"
+      },
+      {
+        "userId": 35,
+        "channelId": 38,
+        "createdAt": "2025-07-05 23:01:40"
+      },
+      {
+        "userId": 35,
+        "channelId": 7,
+        "createdAt": "2025-06-09 13:39:07"
+      },
+      {
+        "userId": 35,
+        "channelId": 21,
+        "createdAt": "2025-05-30 11:08:31"
+      },
+      {
+        "userId": 35,
+        "channelId": 5,
+        "createdAt": "2025-05-28 23:42:43"
+      },
+      {
+        "userId": 35,
+        "channelId": 6,
+        "createdAt": "2025-06-05 12:05:03"
+      },
+      {
+        "userId": 35,
+        "channelId": 39,
+        "createdAt": "2025-07-09 08:21:29"
+      },
+      {
+        "userId": 35,
+        "channelId": 36,
+        "createdAt": "2025-07-19 11:07:57"
+      },
+      {
+        "userId": 35,
+        "channelId": 17,
+        "createdAt": "2025-06-23 23:20:33"
+      }
+    ],
+    "history": [
+      {
+        "userId": 35,
+        "videoId": 59,
+        "watchedAt": "2025-06-27 12:37:20"
+      },
+      {
+        "userId": 35,
+        "videoId": 25,
+        "watchedAt": "2025-07-02 23:08:35"
+      },
+      {
+        "userId": 35,
+        "videoId": 66,
+        "watchedAt": "2025-06-12 00:33:59"
+      },
+      {
+        "userId": 35,
+        "videoId": 52,
+        "watchedAt": "2025-06-13 17:37:53"
+      },
+      {
+        "userId": 35,
+        "videoId": 86,
+        "watchedAt": "2025-05-31 12:22:19"
+      },
+      {
+        "userId": 35,
+        "videoId": 35,
+        "watchedAt": "2025-05-26 00:03:46"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "email": "bondkimberly@example.com",
+    "username": "tnash",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/36.jpg",
+    "bio": "Relate make community activity popular.",
+    "createdAt": "2025-06-16 10:17:15",
+    "updatedAt": "2025-06-16 10:17:15",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 36,
+        "channelId": 16,
+        "createdAt": "2025-05-31 01:11:13"
+      },
+      {
+        "userId": 36,
+        "channelId": 29,
+        "createdAt": "2025-07-15 15:26:28"
+      },
+      {
+        "userId": 36,
+        "channelId": 4,
+        "createdAt": "2025-06-14 12:06:35"
+      },
+      {
+        "userId": 36,
+        "channelId": 19,
+        "createdAt": "2025-05-31 07:31:42"
+      },
+      {
+        "userId": 36,
+        "channelId": 21,
+        "createdAt": "2025-06-08 02:06:42"
+      },
+      {
+        "userId": 36,
+        "channelId": 12,
+        "createdAt": "2025-06-14 08:51:24"
+      },
+      {
+        "userId": 36,
+        "channelId": 11,
+        "createdAt": "2025-05-24 23:46:30"
+      }
+    ],
+    "history": [
+      {
+        "userId": 36,
+        "videoId": 54,
+        "watchedAt": "2025-06-06 18:48:02"
+      },
+      {
+        "userId": 36,
+        "videoId": 59,
+        "watchedAt": "2025-06-26 14:17:09"
+      },
+      {
+        "userId": 36,
+        "videoId": 43,
+        "watchedAt": "2025-07-14 07:54:14"
+      },
+      {
+        "userId": 36,
+        "videoId": 67,
+        "watchedAt": "2025-07-07 03:18:11"
+      },
+      {
+        "userId": 36,
+        "videoId": 46,
+        "watchedAt": "2025-06-06 02:04:17"
+      },
+      {
+        "userId": 36,
+        "videoId": 8,
+        "watchedAt": "2025-05-24 18:58:23"
+      },
+      {
+        "userId": 36,
+        "videoId": 45,
+        "watchedAt": "2025-06-18 17:19:46"
+      },
+      {
+        "userId": 36,
+        "videoId": 99,
+        "watchedAt": "2025-06-07 06:33:53"
+      },
+      {
+        "userId": 36,
+        "videoId": 14,
+        "watchedAt": "2025-05-24 13:33:56"
+      },
+      {
+        "userId": 36,
+        "videoId": 80,
+        "watchedAt": "2025-07-09 12:52:04"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "email": "todd90@example.org",
+    "username": "phillip53",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/37.jpg",
+    "bio": "On pretty market common.",
+    "createdAt": "2025-05-26 04:50:56",
+    "updatedAt": "2025-05-26 04:50:56",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 37,
+        "channelId": 30,
+        "createdAt": "2025-07-01 03:12:58"
+      },
+      {
+        "userId": 37,
+        "channelId": 32,
+        "createdAt": "2025-06-20 14:05:11"
+      },
+      {
+        "userId": 37,
+        "channelId": 22,
+        "createdAt": "2025-06-14 01:30:41"
+      },
+      {
+        "userId": 37,
+        "channelId": 20,
+        "createdAt": "2025-06-19 03:17:11"
+      },
+      {
+        "userId": 37,
+        "channelId": 15,
+        "createdAt": "2025-07-17 09:30:10"
+      }
+    ],
+    "history": [
+      {
+        "userId": 37,
+        "videoId": 13,
+        "watchedAt": "2025-06-20 05:16:41"
+      },
+      {
+        "userId": 37,
+        "videoId": 29,
+        "watchedAt": "2025-06-15 05:19:37"
+      },
+      {
+        "userId": 37,
+        "videoId": 95,
+        "watchedAt": "2025-06-03 14:01:48"
+      },
+      {
+        "userId": 37,
+        "videoId": 73,
+        "watchedAt": "2025-06-24 07:49:35"
+      },
+      {
+        "userId": 37,
+        "videoId": 59,
+        "watchedAt": "2025-05-28 17:20:46"
+      },
+      {
+        "userId": 37,
+        "videoId": 65,
+        "watchedAt": "2025-06-15 06:06:50"
+      },
+      {
+        "userId": 37,
+        "videoId": 58,
+        "watchedAt": "2025-07-04 19:07:39"
+      },
+      {
+        "userId": 37,
+        "videoId": 50,
+        "watchedAt": "2025-06-12 20:11:31"
+      },
+      {
+        "userId": 37,
+        "videoId": 41,
+        "watchedAt": "2025-06-20 17:50:45"
+      },
+      {
+        "userId": 37,
+        "videoId": 28,
+        "watchedAt": "2025-07-19 07:19:29"
+      },
+      {
+        "userId": 37,
+        "videoId": 35,
+        "watchedAt": "2025-06-16 23:46:15"
+      },
+      {
+        "userId": 37,
+        "videoId": 88,
+        "watchedAt": "2025-06-19 06:28:12"
+      },
+      {
+        "userId": 37,
+        "videoId": 61,
+        "watchedAt": "2025-05-24 20:14:14"
+      },
+      {
+        "userId": 37,
+        "videoId": 83,
+        "watchedAt": "2025-06-14 18:28:14"
+      },
+      {
+        "userId": 37,
+        "videoId": 5,
+        "watchedAt": "2025-07-17 21:57:00"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "email": "james12@example.net",
+    "username": "claudia43",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/38.jpg",
+    "bio": "Media leave source stage safe bring center.",
+    "createdAt": "2025-06-06 02:47:15",
+    "updatedAt": "2025-06-06 02:47:15",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 38,
+        "channelId": 26,
+        "createdAt": "2025-06-16 21:03:53"
+      },
+      {
+        "userId": 38,
+        "channelId": 23,
+        "createdAt": "2025-05-27 03:41:28"
+      },
+      {
+        "userId": 38,
+        "channelId": 18,
+        "createdAt": "2025-07-10 21:45:43"
+      },
+      {
+        "userId": 38,
+        "channelId": 30,
+        "createdAt": "2025-06-25 22:21:25"
+      }
+    ],
+    "history": [
+      {
+        "userId": 38,
+        "videoId": 42,
+        "watchedAt": "2025-06-09 03:41:22"
+      },
+      {
+        "userId": 38,
+        "videoId": 49,
+        "watchedAt": "2025-06-11 20:53:17"
+      },
+      {
+        "userId": 38,
+        "videoId": 21,
+        "watchedAt": "2025-07-18 03:01:11"
+      },
+      {
+        "userId": 38,
+        "videoId": 10,
+        "watchedAt": "2025-05-25 09:49:16"
+      },
+      {
+        "userId": 38,
+        "videoId": 35,
+        "watchedAt": "2025-07-18 13:18:15"
+      },
+      {
+        "userId": 38,
+        "videoId": 94,
+        "watchedAt": "2025-06-18 01:56:42"
+      },
+      {
+        "userId": 38,
+        "videoId": 2,
+        "watchedAt": "2025-06-27 19:25:06"
+      },
+      {
+        "userId": 38,
+        "videoId": 51,
+        "watchedAt": "2025-07-22 04:55:32"
+      },
+      {
+        "userId": 38,
+        "videoId": 27,
+        "watchedAt": "2025-07-16 15:36:59"
+      },
+      {
+        "userId": 38,
+        "videoId": 73,
+        "watchedAt": "2025-06-23 12:17:06"
+      },
+      {
+        "userId": 38,
+        "videoId": 23,
+        "watchedAt": "2025-07-09 07:52:02"
+      },
+      {
+        "userId": 38,
+        "videoId": 20,
+        "watchedAt": "2025-07-03 14:11:14"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "email": "mblack@example.com",
+    "username": "kimberlyjohnson",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/39.jpg",
+    "bio": "Such good growth amount actually source.",
+    "createdAt": "2025-07-02 02:56:23",
+    "updatedAt": "2025-07-02 02:56:23",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 39,
+        "channelId": 25,
+        "createdAt": "2025-06-07 19:12:32"
+      },
+      {
+        "userId": 39,
+        "channelId": 37,
+        "createdAt": "2025-07-22 11:50:07"
+      },
+      {
+        "userId": 39,
+        "channelId": 9,
+        "createdAt": "2025-05-25 14:29:14"
+      }
+    ],
+    "history": [
+      {
+        "userId": 39,
+        "videoId": 66,
+        "watchedAt": "2025-07-18 03:16:35"
+      },
+      {
+        "userId": 39,
+        "videoId": 71,
+        "watchedAt": "2025-07-03 08:59:03"
+      },
+      {
+        "userId": 39,
+        "videoId": 65,
+        "watchedAt": "2025-06-17 00:49:56"
+      },
+      {
+        "userId": 39,
+        "videoId": 29,
+        "watchedAt": "2025-06-16 20:19:56"
+      },
+      {
+        "userId": 39,
+        "videoId": 30,
+        "watchedAt": "2025-06-09 09:35:29"
+      },
+      {
+        "userId": 39,
+        "videoId": 20,
+        "watchedAt": "2025-07-04 21:28:47"
+      },
+      {
+        "userId": 39,
+        "videoId": 9,
+        "watchedAt": "2025-06-19 14:30:12"
+      },
+      {
+        "userId": 39,
+        "videoId": 78,
+        "watchedAt": "2025-07-01 22:24:13"
+      },
+      {
+        "userId": 39,
+        "videoId": 45,
+        "watchedAt": "2025-06-09 02:58:26"
+      },
+      {
+        "userId": 39,
+        "videoId": 77,
+        "watchedAt": "2025-06-16 23:10:13"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "email": "goodmanjuan@example.org",
+    "username": "kmiller",
+    "password": "password123",
+    "avatar": "https://example.com/avatars/40.jpg",
+    "bio": "Box many bad over car major.",
+    "createdAt": "2025-06-08 07:48:55",
+    "updatedAt": "2025-06-08 07:48:55",
+    "deletedAt": null,
+    "subscriptions": [
+      {
+        "userId": 40,
+        "channelId": 16,
+        "createdAt": "2025-07-06 04:47:05"
+      },
+      {
+        "userId": 40,
+        "channelId": 37,
+        "createdAt": "2025-06-19 18:35:32"
+      },
+      {
+        "userId": 40,
+        "channelId": 15,
+        "createdAt": "2025-06-12 18:40:21"
+      },
+      {
+        "userId": 40,
+        "channelId": 22,
+        "createdAt": "2025-05-31 05:26:28"
+      },
+      {
+        "userId": 40,
+        "channelId": 34,
+        "createdAt": "2025-06-28 23:08:35"
+      },
+      {
+        "userId": 40,
+        "channelId": 17,
+        "createdAt": "2025-07-14 23:16:06"
+      },
+      {
+        "userId": 40,
+        "channelId": 26,
+        "createdAt": "2025-05-27 17:22:05"
+      },
+      {
+        "userId": 40,
+        "channelId": 10,
+        "createdAt": "2025-06-29 10:10:16"
+      }
+    ],
+    "history": [
+      {
+        "userId": 40,
+        "videoId": 52,
+        "watchedAt": "2025-07-12 19:44:19"
+      },
+      {
+        "userId": 40,
+        "videoId": 33,
+        "watchedAt": "2025-06-05 06:31:54"
+      },
+      {
+        "userId": 40,
+        "videoId": 44,
+        "watchedAt": "2025-06-25 12:32:02"
+      },
+      {
+        "userId": 40,
+        "videoId": 12,
+        "watchedAt": "2025-07-04 09:03:02"
+      },
+      {
+        "userId": 40,
+        "videoId": 45,
+        "watchedAt": "2025-07-03 04:56:44"
+      },
+      {
+        "userId": 40,
+        "videoId": 17,
+        "watchedAt": "2025-06-25 18:58:42"
+      },
+      {
+        "userId": 40,
+        "videoId": 81,
+        "watchedAt": "2025-07-09 09:13:39"
+      },
+      {
+        "userId": 40,
+        "videoId": 36,
+        "watchedAt": "2025-07-17 18:24:46"
+      },
+      {
+        "userId": 40,
+        "videoId": 79,
+        "watchedAt": "2025-05-31 11:21:11"
+      },
+      {
+        "userId": 40,
+        "videoId": 1,
+        "watchedAt": "2025-06-22 08:20:51"
+      }
+    ]
+  }
+]

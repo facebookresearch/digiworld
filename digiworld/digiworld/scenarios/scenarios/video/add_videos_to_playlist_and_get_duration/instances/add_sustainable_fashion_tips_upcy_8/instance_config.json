@@ -1,0 +1,20 @@
+{
+  "parameters": {
+    "video_1": "Urban Legends: The Tale of the Midnight Train",
+    "video_2": "Saffron Sunrise: Homemade Persian-Inspired Breakfast",
+    "playlist_name": "Pixel Pop Parade"
+  },
+  "compatible_profiles": [
+    "comments_disabled"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:01:00.999040+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

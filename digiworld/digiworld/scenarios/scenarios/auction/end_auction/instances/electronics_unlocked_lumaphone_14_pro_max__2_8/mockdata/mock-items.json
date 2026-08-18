@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754180081,
+    "title": "Unlocked LumaPhone 14 Pro Max \u2013 256GB \u2013 Like New",
+    "description": "Unlocked LumaPhone 14 Pro Max, 256\u202fGB, in like\u2011new condition with no scratches; includes original box, charger, and a protective case.",
+    "categoryId": 1,
+    "sellerId": "{{current_user_id}}",
+    "price": 1453.95,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 7,
+    "imageUrl": "https://example.com/images/unlocked-iphone-14-pro-max-\u2013-256gb-\u2013-like-new.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 743.51,
+    "currentBid": 770.77,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

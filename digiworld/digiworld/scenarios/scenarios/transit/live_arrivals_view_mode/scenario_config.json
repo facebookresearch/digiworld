@@ -1,0 +1,8 @@
+{
+  "task_name": "Take me to the Live Arrivals page for <stop_name> and switch the view to <view_mode>",
+  "app_name": "transit",
+  "scenario_class": "LiveArrivalsViewModeScenario",
+  "parameters": ["stop_name", "view_mode"],
+  "context_fields": [],
+  "description": "Navigate to the Live Arrivals page for a specific stop and switch between Upcoming and Full Day view modes."
+}

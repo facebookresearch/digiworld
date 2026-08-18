@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Financial Futures: Money Mastery Game",
+    "description": "Product: Financial Futures: Money Mastery Game",
+    "shortDescription": "Financial Futures: Money Mastery Game",
+    "rating": 4.0,
+    "reviewCount": 0,
+    "seller": "Test Seller",
+    "price": 29.99,
+    "discountedPrice": 29.99,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Toys & Games",
+    "subcategoryId": 1,
+    "subcategoryName": "Educational",
+    "inStock": true,
+    "stockCount": 50,
+    "imageUrl": "/test_1",
+    "specs": "{\"educational\": \"Financial literacy - money management and budgeting\"}",
+    "tags": "[\"toys & games\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754080050,
+    "title": "Vintage Ceramic Figurine - Rooster",
+    "description": "Hand-painted early 1900s porcelain rooster, height 8 inches, excellent condition.",
+    "categoryId": 9,
+    "sellerId": "{{current_user_id}}",
+    "price": 570.59,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/vintage-ceramic-figurine---rooster.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 272.05,
+    "currentBid": 448.21,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "task_name": "Search for \"<search_term>\", then sort by <sort_option> and find me the <result_field> of the top result",
+  "app_name": "ecommerce",
+  "scenario_class": "SearchSortFindScenario",
+  "parameters": ["search_term", "sort_option", "result_field"],
+  "context_fields": [],
+  "description": "Search for products, apply a sort order, and retrieve a field from the top result"
+}

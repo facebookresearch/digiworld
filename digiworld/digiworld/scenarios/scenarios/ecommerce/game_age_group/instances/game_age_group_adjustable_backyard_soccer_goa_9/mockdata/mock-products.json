@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Adjustable Backyard Soccer Goal",
+    "description": "Adjustable Backyard Soccer Goal features a sturdy steel frame with telescoping height settings, allowing kids to customize the net size as they improve. The easy\u2011fold design makes storage simple, and the included net holds fast during intense matches.",
+    "shortDescription": "Adjustable backyard soccer goal with telescoping height and easy\u2011fold storage.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "GoalMaster Sports",
+    "price": 1413.83,
+    "discountedPrice": 805.88,
+    "discountPercent": 43,
+    "categoryId": 7,
+    "categoryName": "Toys & Games",
+    "subcategoryId": 54,
+    "subcategoryName": "Outdoor Toys",
+    "inStock": true,
+    "stockCount": 46,
+    "imageUrl": "/214_1",
+    "specs": "{\"ageRange\": \"8+ years\", \"material\": \"Steel frame, polyethylene net\", \"dimensions\": \"7 x 5 x 3 feet\", \"batteryRequired\": \"No\", \"warranty\": \"1 year limited\", \"safetyRating\": \"ASTM F963\"}",
+    "tags": "[\"games\", \"toys\", \"outdoor\", \"premium\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

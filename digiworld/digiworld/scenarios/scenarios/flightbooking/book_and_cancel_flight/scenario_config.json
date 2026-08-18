@@ -1,0 +1,10 @@
+{
+  "task_name": "Book a \"<travel_class>\" flight for <adults> adults and <children> children from \"<origin>\" to \"<destination>\" on \"<date>\", then cancel my flight to \"<destination>\"",
+  "app_name": "flightbooking",
+  "scenario_class": "BookAndCancelFlightScenario",
+  "parameters": ["travel_class", "adults", "children", "origin", "destination", "date"],
+  "context_fields": [],
+  "description": "Book a one-way flight and then immediately cancel it.",
+  "additional_mockdata": true,
+  "time": "2026-08-10T10:00:00Z"
+}

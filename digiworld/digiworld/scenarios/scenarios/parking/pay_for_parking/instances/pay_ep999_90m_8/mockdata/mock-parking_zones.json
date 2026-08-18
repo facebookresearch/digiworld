@@ -1,0 +1,19 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Eco Park",
+    "description": "Parking zone EP999",
+    "latitude": 40.723253,
+    "longitude": -73.985895,
+    "zoneCode": "EP999",
+    "operator": "City Parking Authority",
+    "zoneType": "underground",
+    "capacity": 118,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.7,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

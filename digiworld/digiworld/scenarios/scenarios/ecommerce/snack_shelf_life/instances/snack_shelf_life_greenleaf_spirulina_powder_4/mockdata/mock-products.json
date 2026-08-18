@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "GreenLeaf Spirulina Powder",
+    "description": "Product: GreenLeaf Spirulina Powder",
+    "shortDescription": "GreenLeaf Spirulina Powder",
+    "rating": 4.0,
+    "reviewCount": 0,
+    "seller": "Test Seller",
+    "price": 29.99,
+    "discountedPrice": 29.99,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 1,
+    "subcategoryName": "Supplements",
+    "inStock": true,
+    "stockCount": 50,
+    "imageUrl": "/test_1",
+    "specs": "{\"shelfLife\": \"36 months sealed\"}",
+    "tags": "[\"health & wellness\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

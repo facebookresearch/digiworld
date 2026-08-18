@@ -1,0 +1,14 @@
+[
+  {
+    "id": "saved-eastside-express",
+    "userId": 1,
+    "name": "Eastside Express",
+    "originStopId": "stop-1",
+    "destinationStopId": "stop-5",
+    "preferredMode": "train",
+    "remindersEnabled": false,
+    "departureReminderMinutes": 20,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

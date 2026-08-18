@@ -1,0 +1,15 @@
+[
+  {
+    "id": 90001,
+    "restaurantId": 90001,
+    "categoryId": 90001,
+    "name": "Salmon Nigiri",
+    "description": "Perfectly sliced salmon over seasoned sushi rice, served with a dab of wasabi.",
+    "price": 9.25,
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=600&q=80",
+    "calories": 210,
+    "isPopular": 0,
+    "isActive": 1,
+    "position": 1
+  }
+]

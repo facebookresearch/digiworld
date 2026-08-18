@@ -1,0 +1,12 @@
+{
+  "task_name": "What is my flight number from \"<origin>\" to \"<destination>\"",
+  "app_name": "flightbooking",
+  "scenario_class": "GetFlightNumberScenario",
+  "parameters": [
+    "origin",
+    "destination"
+  ],
+  "context_fields": [],
+  "additional_mockdata": true,
+  "description": "Retrieve the flight number for the user's flight between two airports."
+}

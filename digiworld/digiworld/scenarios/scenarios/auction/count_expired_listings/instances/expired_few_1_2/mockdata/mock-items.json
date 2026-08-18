@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754340106,
+    "title": "Regalis Deepline Date 116610LN \u2013 Stainless Steel, 2020",
+    "description": "2020 model Regalis Deepline Date, stainless steel, with original box and papers; serviced recently.",
+    "categoryId": 4,
+    "sellerId": "{{current_user_id}}",
+    "price": 965.81,
+    "auctionFlag": 1,
+    "status": "expired",
+    "quantity": 1,
+    "bidCount": 5,
+    "imageUrl": "https://example.com/images/rolex-submariner-date-116610ln-\u2013-stainless-steel,-2020.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 421.12,
+    "currentBid": 702.13,
+    "bidIncrement": 5.0,
+    "endTime": 1772251234,
+    "expired": 1
+  }
+]

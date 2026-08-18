@@ -1,0 +1,20 @@
+{
+  "task_name": "How many videos are in my watch history?",
+  "app_name": "video",
+  "scenario_class": "CountWatchHistoryScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Count the number of videos in the current user's watch history",
+  "compatible_profiles": [
+    "comments_disabled",
+    "default",
+    "high_engagement",
+    "high_view_count",
+    "inactive_users",
+    "long_videos",
+    "low_engagement",
+    "many_videos",
+    "new_content",
+    "short_videos"
+  ]
+}

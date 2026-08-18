@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "sarah.mitchell@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Project deadline extension approved",
+    "preview": "Hi team, the project deadline has been extended by...",
+    "body": "Hi team, the project deadline has been extended by one week to accommodate additional testing. Please adjust your schedules accordingly.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_sarah_mitchell_project_deadline_extensio",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "david.lee@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Request for project deadline extension",
+    "preview": "Hello, I have received approval for a project dead...",
+    "body": "Hello, I have received approval for a project deadline extension until Friday, June 14. Let me know if you need any help revising your tasks.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_david_lee_request_for_project_deadline_e",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

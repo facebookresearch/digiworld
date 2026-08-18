@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "omar.hassan@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Volunteer event this weekend",
+    "preview": "Hello, There's a community clean-up event this Sat...",
+    "body": "Hello, There's a community clean-up event this Saturday morning at the park. Let me know if you can join to help.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_omar_hassan_volunteer_event_this_weekend",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "omar.hassan@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Thank you for volunteering",
+    "preview": "Hi team, Thank you all for your effort at the clea...",
+    "body": "Hi team, Thank you all for your effort at the clean-up event. The park looks much better thanks to your help.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_omar_hassan_thank_you_for_volunteering",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

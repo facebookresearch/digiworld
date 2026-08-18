@@ -1,0 +1,10 @@
+{
+  "task_name": "Do I have any pending or outstanding bills in the <category> category?",
+  "app_name": "banking",
+  "scenario_class": "PendingBillsInCategoryScenario",
+  "parameters": [
+    "category"
+  ],
+  "context_fields": [],
+  "description": "Check whether the user has any pending or overdue bills in a specific biller category."
+}

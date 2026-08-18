@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Mystic Realms: Quest for the Crown",
+    "description": "Mystic Realms: Quest for the Crown invites players into a richly illustrated fantasy world where strategic alliances and hidden treasures determine the victor. The game includes modular board tiles, detailed character cards, and a rulebook for 2\u20114 players, offering a new adventure each time you play.",
+    "shortDescription": "A fantasy board game of alliances and hidden treasures for 2\u20114 players.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Riverbend Toys",
+    "price": 1799.44,
+    "discountedPrice": 899.72,
+    "discountPercent": 50,
+    "categoryId": 7,
+    "categoryName": "Toys & Games",
+    "subcategoryId": 49,
+    "subcategoryName": "Board Games",
+    "inStock": true,
+    "stockCount": 43,
+    "imageUrl": "/193_1",
+    "specs": "{\"ageRange\": \"12+ years\", \"material\": \"Cardboard, printed paper\", \"dimensions\": \"15 x 12 x 3 inches\", \"batteryRequired\": \"No\", \"warranty\": \"1 year limited\", \"safetyRating\": \"ASTM F963\"}",
+    "tags": "[\"board\", \"games\", \"toys\", \"high-quality\", \"popular\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 751800001,
+    "title": "Handcrafted Walnut Cutting Board \u2013 18\" x 12\"",
+    "description": "Premium walnut board finished with food\u2011safe oil; perfect for chopping, serving, and charcuterie displays.",
+    "categoryId": 1,
+    "sellerId": "{{current_user_id}}",
+    "price": 712.73,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/handcrafted-walnut-cutting-board-\u2013-18\"-x-12\".jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

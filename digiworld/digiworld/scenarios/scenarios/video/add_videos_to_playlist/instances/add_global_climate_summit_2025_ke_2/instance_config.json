@@ -1,0 +1,20 @@
+{
+  "parameters": {
+    "video_1": "Family Kitchen: Baking Fluffy Blueberry Pancakes with Kids",
+    "video_2": "Mystic Market: Exploring the Floating Bazaar of Zephyria",
+    "playlist_name": "Retro Gaming Grooves"
+  },
+  "compatible_profiles": [
+    "comments_disabled"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:57.478791+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

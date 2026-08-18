@@ -1,0 +1,3008 @@
+{
+  "apps": {
+    "music": [
+      {
+        "task_name": "Open Terms and Conditions",
+        "scenario_class": "OpenTermsAndConditionsScenario",
+        "module": "digiworld.scenarios.scenarios.music.open_terms_and_conditions.scenario",
+        "instances": []
+      },
+      {
+        "task_name": "Create a new playlist called <name>",
+        "scenario_class": "CreatePlaylistScenario",
+        "module": "digiworld.scenarios.scenarios.music.create_playlist.scenario",
+        "instances": [
+          {
+            "instance_name": "temporal_midnight_echoes_dawn_2",
+            "config": {
+              "parameters": {
+                "name": "Midnight Echoes Dawn"
+              },
+              "compatible_profiles": [
+                "default",
+                "genre_focused",
+                "high_rated_content",
+                "large_playlists",
+                "low_engagement",
+                "minimal_playlists",
+                "new_user",
+                "playlist_heavy",
+                "power_listener",
+                "recent_activity",
+                "test-profile-1",
+                "test-profile-2",
+                "viral_songs"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.708815+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "mood_velvet_sunset_reverie_0",
+            "config": {
+              "parameters": {
+                "name": "Velvet Sunset Reverie"
+              },
+              "compatible_profiles": [
+                "default",
+                "genre_focused",
+                "high_rated_content",
+                "large_playlists",
+                "low_engagement",
+                "minimal_playlists",
+                "new_user",
+                "playlist_heavy",
+                "power_listener",
+                "recent_activity",
+                "test-profile-1",
+                "test-profile-2",
+                "viral_songs"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.698192+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "activity_neon_sprint_groove_1",
+            "config": {
+              "parameters": {
+                "name": "Neon Sprint Groove"
+              },
+              "compatible_profiles": [
+                "default",
+                "genre_focused",
+                "high_rated_content",
+                "large_playlists",
+                "low_engagement",
+                "minimal_playlists",
+                "new_user",
+                "playlist_heavy",
+                "power_listener",
+                "recent_activity",
+                "test-profile-1",
+                "test-profile-2",
+                "viral_songs"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.703596+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "task_name": "Open any song and pause it at timestamp <seconds> seconds",
+        "scenario_class": "PauseAtTimestampScenario",
+        "module": "digiworld.scenarios.scenarios.music.pause_at_timestamp.scenario",
+        "instances": [
+          {
+            "instance_name": "pause_45s_1",
+            "config": {
+              "parameters": {
+                "seconds": "45"
+              },
+              "compatible_profiles": [
+                "default",
+                "genre_focused",
+                "high_rated_content",
+                "large_playlists",
+                "low_engagement",
+                "minimal_playlists",
+                "new_user",
+                "playlist_heavy",
+                "power_listener",
+                "recent_activity",
+                "test-profile-1",
+                "test-profile-2",
+                "viral_songs"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:31.088703+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "pause_30s_0",
+            "config": {
+              "parameters": {
+                "seconds": "30"
+              },
+              "compatible_profiles": [
+                "default",
+                "genre_focused",
+                "high_rated_content",
+                "large_playlists",
+                "low_engagement",
+                "minimal_playlists",
+                "new_user",
+                "playlist_heavy",
+                "power_listener",
+                "recent_activity",
+                "test-profile-1",
+                "test-profile-2",
+                "viral_songs"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:31.079159+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "pause_60s_2",
+            "config": {
+              "parameters": {
+                "seconds": "60"
+              },
+              "compatible_profiles": [
+                "default",
+                "genre_focused",
+                "high_rated_content",
+                "large_playlists",
+                "low_engagement",
+                "minimal_playlists",
+                "new_user",
+                "playlist_heavy",
+                "power_listener",
+                "recent_activity",
+                "test-profile-1",
+                "test-profile-2",
+                "viral_songs"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:31.103181+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "video": [
+      {
+        "task_name": "Open the video with title <title>",
+        "scenario_class": "OpenVideoWithTitleScenario",
+        "module": "digiworld.scenarios.scenarios.video.open_video_with_title.scenario",
+        "instances": [
+          {
+            "instance_name": "vlog_a_day_exploring_kyotos_hidden_2",
+            "config": {
+              "parameters": {
+                "title": "A Day Exploring Kyoto's Hidden Gardens"
+              },
+              "compatible_profiles": [
+                "comments_disabled",
+                "default",
+                "high_engagement",
+                "high_view_count",
+                "inactive_users",
+                "long_videos",
+                "low_engagement",
+                "many_videos",
+                "new_content",
+                "short_videos",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:33.212091+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "tutorial_master_photoshop_layers_in_10_0",
+            "config": {
+              "parameters": {
+                "title": "Master Photoshop Layers in 10 Minutes"
+              },
+              "compatible_profiles": [
+                "comments_disabled",
+                "default",
+                "high_engagement",
+                "high_view_count",
+                "inactive_users",
+                "long_videos",
+                "low_engagement",
+                "many_videos",
+                "new_content",
+                "short_videos",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:33.184532+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "entertainment_top_5_weird_food_challenges_1",
+            "config": {
+              "parameters": {
+                "title": "Top 5 Weird Food Challenges"
+              },
+              "compatible_profiles": [
+                "comments_disabled",
+                "default",
+                "high_engagement",
+                "high_view_count",
+                "inactive_users",
+                "long_videos",
+                "low_engagement",
+                "many_videos",
+                "new_content",
+                "short_videos",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:33.196964+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "auction": [
+      {
+        "task_name": "View My Bids",
+        "scenario_class": "ViewMyBidsScenario",
+        "module": "digiworld.scenarios.scenarios.auction.view_my_bids.scenario",
+        "instances": []
+      },
+      {
+        "task_name": "View details of item <item_title>",
+        "scenario_class": "ViewItemDetailsScenario",
+        "module": "digiworld.scenarios.scenarios.auction.view_item_details.scenario",
+        "instances": [
+          {
+            "instance_name": "art_original_hand_painted_abstract_1",
+            "config": {
+              "parameters": {
+                "item_title": "Original Hand-Painted Abstract Canvas by Emerging Berlin Artist"
+              },
+              "compatible_profiles": [
+                "auction_heavy",
+                "budget_items",
+                "buy_now_focus",
+                "default",
+                "ending_soon",
+                "failed_payments",
+                "high_bid_volume",
+                "new_seller",
+                "power_seller",
+                "premium_items",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:33.291609+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "electronics_pristine_4k_ultra_hd_smart_tv_0",
+            "config": {
+              "parameters": {
+                "item_title": "Pristine 4K Ultra-HD Smart TV with HDR10+"
+              },
+              "compatible_profiles": [
+                "auction_heavy",
+                "budget_items",
+                "buy_now_focus",
+                "default",
+                "ending_soon",
+                "failed_payments",
+                "high_bid_volume",
+                "new_seller",
+                "power_seller",
+                "premium_items",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:33.277125+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "vintage_mid_century_modern_walnut_writ_2",
+            "config": {
+              "parameters": {
+                "item_title": "Mid-Century Modern Walnut Writing Desk \u2013 Fully Restored"
+              },
+              "compatible_profiles": [
+                "auction_heavy",
+                "budget_items",
+                "buy_now_focus",
+                "default",
+                "ending_soon",
+                "failed_payments",
+                "high_bid_volume",
+                "new_seller",
+                "power_seller",
+                "premium_items",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:33.310154+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "ecommerce": [
+      {
+        "task_name": "Add <first_name> <last_name>, <address_line_1>, <city>, <state> <postal_code>, <country>, <phone_number> as a new saved address",
+        "scenario_class": "AddSavedAddressScenario",
+        "module": "digiworld.scenarios.scenarios.ecommerce.add_saved_address.scenario",
+        "instances": [
+          {
+            "instance_name": "addr_austin_1",
+            "config": {
+              "parameters": {
+                "first_name": "Javier",
+                "last_name": "Lopez",
+                "address_line_1": "1234 Willow St",
+                "city": "Austin",
+                "state": "TX",
+                "postal_code": "78701",
+                "country": "US",
+                "phone_number": "+1-555-8032"
+              },
+              "compatible_profiles": [
+                "bulk_quantity",
+                "default",
+                "empty_cart",
+                "full_cart",
+                "heavy_discounts",
+                "high_order_volume",
+                "large_orders",
+                "low_stock",
+                "new_user",
+                "power_shopper",
+                "premium_products",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.902181+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "addr_seattle_0",
+            "config": {
+              "parameters": {
+                "first_name": "Aisha",
+                "last_name": "Khan",
+                "address_line_1": "7422 Oakridge Dr Apt 4B",
+                "city": "Seattle",
+                "state": "WA",
+                "postal_code": "98109",
+                "country": "US",
+                "phone_number": "+1-555-2749"
+              },
+              "compatible_profiles": [
+                "bulk_quantity",
+                "default",
+                "empty_cart",
+                "full_cart",
+                "heavy_discounts",
+                "high_order_volume",
+                "large_orders",
+                "low_stock",
+                "new_user",
+                "power_shopper",
+                "premium_products",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.896658+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "addr_boston_2",
+            "config": {
+              "parameters": {
+                "first_name": "Mei",
+                "last_name": "Wong",
+                "address_line_1": "5678 Pine Blvd Suite 210",
+                "city": "Boston",
+                "state": "MA",
+                "postal_code": "02115",
+                "country": "US",
+                "phone_number": "+1-555-4610"
+              },
+              "compatible_profiles": [
+                "bulk_quantity",
+                "default",
+                "empty_cart",
+                "full_cart",
+                "heavy_discounts",
+                "high_order_volume",
+                "large_orders",
+                "low_stock",
+                "new_user",
+                "power_shopper",
+                "premium_products",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.908856+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "task_name": "Search for <query>",
+        "scenario_class": "SearchForQueryScenario",
+        "module": "digiworld.scenarios.scenarios.ecommerce.search_for_query.scenario",
+        "instances": [
+          {
+            "instance_name": "home_bamboo_cutting_board_2",
+            "config": {
+              "parameters": {
+                "query": "bamboo cutting board"
+              },
+              "compatible_profiles": [
+                "bulk_quantity",
+                "default",
+                "empty_cart",
+                "full_cart",
+                "heavy_discounts",
+                "high_order_volume",
+                "large_orders",
+                "low_stock",
+                "new_user",
+                "power_shopper",
+                "premium_products",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.443153+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "fashion_silk_midi_dress_0",
+            "config": {
+              "parameters": {
+                "query": "silk midi dress"
+              },
+              "compatible_profiles": [
+                "bulk_quantity",
+                "default",
+                "empty_cart",
+                "full_cart",
+                "heavy_discounts",
+                "high_order_volume",
+                "large_orders",
+                "low_stock",
+                "new_user",
+                "power_shopper",
+                "premium_products",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.432128+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "grocery_gluten_free_pasta_1",
+            "config": {
+              "parameters": {
+                "query": "gluten free pasta"
+              },
+              "compatible_profiles": [
+                "bulk_quantity",
+                "default",
+                "empty_cart",
+                "full_cart",
+                "heavy_discounts",
+                "high_order_volume",
+                "large_orders",
+                "low_stock",
+                "new_user",
+                "power_shopper",
+                "premium_products",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.437932+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "task_name": "Empty the cart",
+        "scenario_class": "EmptyTheCartScenario",
+        "module": "digiworld.scenarios.scenarios.ecommerce.empty_the_cart.scenario",
+        "instances": []
+      }
+    ],
+    "smarthome": [
+      {
+        "task_name": "Turn on <device_name>",
+        "scenario_class": "TurnOnDeviceScenario",
+        "module": "digiworld.scenarios.scenarios.smarthome.turn_on_device.scenario",
+        "instances": [
+          {
+            "instance_name": "bedroom_speaker_0",
+            "config": {
+              "parameters": {
+                "device_name": "Bedroom Speaker"
+              },
+              "compatible_profiles": [
+                "default",
+                "high_priority_alerts",
+                "large_home",
+                "low_battery_devices",
+                "many_automations",
+                "many_devices",
+                "new_user",
+                "offline_devices",
+                "security_focused",
+                "test-profile-1",
+                "unread_notifications",
+                "weak_signal"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:31.174778+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "driveway_camera_0",
+            "config": {
+              "parameters": {
+                "device_name": "Driveway Camera"
+              },
+              "compatible_profiles": [
+                "default",
+                "high_priority_alerts",
+                "large_home",
+                "low_battery_devices",
+                "many_automations",
+                "many_devices",
+                "new_user",
+                "offline_devices",
+                "security_focused",
+                "test-profile-1",
+                "unread_notifications",
+                "weak_signal"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:31.191001+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "living_room_fan_0",
+            "config": {
+              "parameters": {
+                "device_name": "Living Room Fan"
+              },
+              "compatible_profiles": [
+                "default",
+                "high_priority_alerts",
+                "large_home",
+                "low_battery_devices",
+                "many_automations",
+                "many_devices",
+                "new_user",
+                "offline_devices",
+                "security_focused",
+                "test-profile-1",
+                "unread_notifications",
+                "weak_signal"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:31.155463+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "payment": [
+      {
+        "task_name": "Open the QR code to receive a payment",
+        "scenario_class": "OpenReceivePaymentQRScenario",
+        "module": "digiworld.scenarios.scenarios.payment.open_receive_payment_qr.scenario",
+        "instances": []
+      },
+      {
+        "task_name": "Send $<amount> to <nickname>",
+        "scenario_class": "SendPaymentToNicknameScenario",
+        "module": "digiworld.scenarios.scenarios.payment.send_payment_to_nickname.scenario",
+        "instances": [
+          {
+            "instance_name": "friends_bestie_1",
+            "config": {
+              "parameters": {
+                "amount": "10.58",
+                "nickname": "Bestie"
+              },
+              "compatible_profiles": [
+                "big_spender",
+                "default",
+                "frozen_wallets",
+                "high_deposit",
+                "high_failure_rate",
+                "low_transfer",
+                "micro_payments",
+                "mostly_pending",
+                "recent_activity",
+                "savings_mode",
+                "sparse_contacts",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.842305+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              },
+              "scenario_context": {
+                "userPin": "{{current_user_pin}}"
+              }
+            }
+          },
+          {
+            "instance_name": "family_mom_0",
+            "config": {
+              "parameters": {
+                "amount": "39.66",
+                "nickname": "Mom"
+              },
+              "compatible_profiles": [
+                "big_spender",
+                "default",
+                "frozen_wallets",
+                "high_deposit",
+                "high_failure_rate",
+                "low_transfer",
+                "micro_payments",
+                "mostly_pending",
+                "recent_activity",
+                "savings_mode",
+                "sparse_contacts",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.815725+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              },
+              "scenario_context": {
+                "userPin": "{{current_user_pin}}"
+              }
+            }
+          },
+          {
+            "instance_name": "work_boss_2",
+            "config": {
+              "parameters": {
+                "amount": "1204.99",
+                "nickname": "Boss"
+              },
+              "compatible_profiles": [
+                "big_spender",
+                "default",
+                "frozen_wallets",
+                "high_deposit",
+                "high_failure_rate",
+                "low_transfer",
+                "micro_payments",
+                "mostly_pending",
+                "recent_activity",
+                "savings_mode",
+                "sparse_contacts",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.871222+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              },
+              "scenario_context": {
+                "userPin": "{{current_user_pin}}"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "task_name": "Set a monthly transaction limit of <amount>",
+        "scenario_class": "SetMonthlyTransactionLimitScenario",
+        "module": "digiworld.scenarios.scenarios.payment.set_monthly_transaction_limit.scenario",
+        "instances": [
+          {
+            "instance_name": "monthly_large_113600_2",
+            "config": {
+              "parameters": {
+                "amount": "113600"
+              },
+              "compatible_profiles": [
+                "big_spender",
+                "default",
+                "frozen_wallets",
+                "high_deposit",
+                "high_failure_rate",
+                "low_transfer",
+                "micro_payments",
+                "mostly_pending",
+                "recent_activity",
+                "savings_mode",
+                "sparse_contacts",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:31.146838+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "monthly_medium_16100_0",
+            "config": {
+              "parameters": {
+                "amount": "16100"
+              },
+              "compatible_profiles": [
+                "big_spender",
+                "default",
+                "frozen_wallets",
+                "high_deposit",
+                "high_failure_rate",
+                "low_transfer",
+                "micro_payments",
+                "mostly_pending",
+                "recent_activity",
+                "savings_mode",
+                "sparse_contacts",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:31.129112+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "monthly_small_6300_1",
+            "config": {
+              "parameters": {
+                "amount": "6300"
+              },
+              "compatible_profiles": [
+                "big_spender",
+                "default",
+                "frozen_wallets",
+                "high_deposit",
+                "high_failure_rate",
+                "low_transfer",
+                "micro_payments",
+                "mostly_pending",
+                "recent_activity",
+                "savings_mode",
+                "sparse_contacts",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:31.140868+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "task_name": "Set a daily transaction limit of <amount>",
+        "scenario_class": "SetDailyTransactionLimitScenario",
+        "module": "digiworld.scenarios.scenarios.payment.set_daily_transaction_limit.scenario",
+        "instances": [
+          {
+            "instance_name": "daily_medium_550_0",
+            "config": {
+              "parameters": {
+                "amount": "550"
+              },
+              "compatible_profiles": [
+                "big_spender",
+                "default",
+                "frozen_wallets",
+                "high_deposit",
+                "high_failure_rate",
+                "low_transfer",
+                "micro_payments",
+                "mostly_pending",
+                "recent_activity",
+                "savings_mode",
+                "sparse_contacts",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:31.117074+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "daily_small_200_1",
+            "config": {
+              "parameters": {
+                "amount": "200"
+              },
+              "compatible_profiles": [
+                "big_spender",
+                "default",
+                "frozen_wallets",
+                "high_deposit",
+                "high_failure_rate",
+                "low_transfer",
+                "micro_payments",
+                "mostly_pending",
+                "recent_activity",
+                "savings_mode",
+                "sparse_contacts",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:31.131866+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "daily_large_3800_2",
+            "config": {
+              "parameters": {
+                "amount": "3800"
+              },
+              "compatible_profiles": [
+                "big_spender",
+                "default",
+                "frozen_wallets",
+                "high_deposit",
+                "high_failure_rate",
+                "low_transfer",
+                "micro_payments",
+                "mostly_pending",
+                "recent_activity",
+                "savings_mode",
+                "sparse_contacts",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:31.142062+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "task_name": "Change PIN to <pin>",
+        "scenario_class": "ChangePinToScenario",
+        "module": "digiworld.scenarios.scenarios.payment.change_pin_to.scenario",
+        "instances": [
+          {
+            "instance_name": "pin_4062_2",
+            "config": {
+              "parameters": {
+                "pin": "4062"
+              },
+              "compatible_profiles": [
+                "big_spender",
+                "default",
+                "frozen_wallets",
+                "high_deposit",
+                "high_failure_rate",
+                "low_transfer",
+                "micro_payments",
+                "mostly_pending",
+                "recent_activity",
+                "savings_mode",
+                "sparse_contacts",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:31.859405+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              },
+              "scenario_context": {
+                "userPin": "{{current_user_pin}}"
+              }
+            }
+          },
+          {
+            "instance_name": "pin_5831_1",
+            "config": {
+              "parameters": {
+                "pin": "5831"
+              },
+              "compatible_profiles": [
+                "big_spender",
+                "default",
+                "frozen_wallets",
+                "high_deposit",
+                "high_failure_rate",
+                "low_transfer",
+                "micro_payments",
+                "mostly_pending",
+                "recent_activity",
+                "savings_mode",
+                "sparse_contacts",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:31.854152+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              },
+              "scenario_context": {
+                "userPin": "{{current_user_pin}}"
+              }
+            }
+          },
+          {
+            "instance_name": "pin_2749_0",
+            "config": {
+              "parameters": {
+                "pin": "2749"
+              },
+              "compatible_profiles": [
+                "big_spender",
+                "default",
+                "frozen_wallets",
+                "high_deposit",
+                "high_failure_rate",
+                "low_transfer",
+                "micro_payments",
+                "mostly_pending",
+                "recent_activity",
+                "savings_mode",
+                "sparse_contacts",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:31.847398+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              },
+              "scenario_context": {
+                "userPin": "{{current_user_pin}}"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "task_name": "View transaction history",
+        "scenario_class": "ViewTransactionHistoryScenario",
+        "module": "digiworld.scenarios.scenarios.payment.view_transaction_history.scenario",
+        "instances": []
+      }
+    ],
+    "message": [
+      {
+        "task_name": "Send a message to <contact_name>",
+        "scenario_class": "SendMessageToScenario",
+        "module": "digiworld.scenarios.scenarios.message.send_message_to.scenario",
+        "instances": [
+          {
+            "instance_name": "work_linh_nguyen_2",
+            "config": {
+              "parameters": {
+                "contact_name": "Linh Nguyen"
+              },
+              "compatible_profiles": [
+                "default",
+                "high_message_volume",
+                "inactive_groups",
+                "large_groups",
+                "long_calls",
+                "many_groups",
+                "media_heavy",
+                "missed_calls",
+                "new_user",
+                "recent_activity",
+                "test-profile-1",
+                "test-profile-2",
+                "unread_messages"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.469546+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "friends_michael_oconnor_1",
+            "config": {
+              "parameters": {
+                "contact_name": "Michael O'Connor"
+              },
+              "compatible_profiles": [
+                "default",
+                "high_message_volume",
+                "inactive_groups",
+                "large_groups",
+                "long_calls",
+                "many_groups",
+                "media_heavy",
+                "missed_calls",
+                "new_user",
+                "recent_activity",
+                "test-profile-1",
+                "test-profile-2",
+                "unread_messages"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.455195+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "family_aisha_patel_0",
+            "config": {
+              "parameters": {
+                "contact_name": "Aisha Patel"
+              },
+              "compatible_profiles": [
+                "default",
+                "high_message_volume",
+                "inactive_groups",
+                "large_groups",
+                "long_calls",
+                "many_groups",
+                "media_heavy",
+                "missed_calls",
+                "new_user",
+                "recent_activity",
+                "test-profile-1",
+                "test-profile-2",
+                "unread_messages"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.442582+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "transit": [
+      {
+        "task_name": "View Saved Routes",
+        "scenario_class": "ViewSavedRoutesScenario",
+        "module": "digiworld.scenarios.scenarios.transit.view_saved_routes.scenario",
+        "instances": []
+      },
+      {
+        "task_name": "Delete the saved route <route_name>",
+        "scenario_class": "DeleteSavedRouteScenario",
+        "module": "digiworld.scenarios.scenarios.transit.delete_saved_route.scenario",
+        "instances": [
+          {
+            "instance_name": "route_riverfront_voyager_0",
+            "config": {
+              "parameters": {
+                "route_name": "Riverfront Voyager"
+              },
+              "compatible_profiles": [
+                "default",
+                "few_stops",
+                "frequent_traveler",
+                "many_lines",
+                "many_stops",
+                "multi_modal",
+                "peak_hours",
+                "service_disruptions",
+                "test-profile-1",
+                "test-profile-2",
+                "test-profile-3",
+                "weekend_schedule"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.145416+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "route_lakeside_sprint_2",
+            "config": {
+              "parameters": {
+                "route_name": "Lakeside Sprint"
+              },
+              "compatible_profiles": [
+                "default",
+                "few_stops",
+                "frequent_traveler",
+                "many_lines",
+                "many_stops",
+                "multi_modal",
+                "peak_hours",
+                "service_disruptions",
+                "test-profile-1",
+                "test-profile-2",
+                "test-profile-3",
+                "weekend_schedule"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.182293+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "route_midtown_glide_1",
+            "config": {
+              "parameters": {
+                "route_name": "Midtown Glide"
+              },
+              "compatible_profiles": [
+                "default",
+                "few_stops",
+                "frequent_traveler",
+                "many_lines",
+                "many_stops",
+                "multi_modal",
+                "peak_hours",
+                "service_disruptions",
+                "test-profile-1",
+                "test-profile-2",
+                "test-profile-3",
+                "weekend_schedule"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.165321+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "banking": [
+      {
+        "task_name": "View My Transactions",
+        "scenario_class": "ViewMyTransactionsScenario",
+        "module": "digiworld.scenarios.scenarios.banking.view_my_transactions.scenario",
+        "instances": []
+      },
+      {
+        "task_name": "View details of transaction <transaction_description>",
+        "scenario_class": "ViewTransactionDetailsScenario",
+        "module": "digiworld.scenarios.scenarios.banking.view_transaction_details.scenario",
+        "instances": [
+          {
+            "instance_name": "withdrawal_atm_cash_withdrawal___downtown_0",
+            "config": {
+              "parameters": {
+                "transaction_description": "ATM Cash Withdrawal - Downtown Branch"
+              },
+              "compatible_profiles": [
+                "default",
+                "failed_transactions",
+                "high_balance",
+                "high_credit_limit",
+                "high_transaction_volume",
+                "low_balance",
+                "many_beneficiaries",
+                "many_zelle_contacts",
+                "maxed_out_cards",
+                "overdue_bills",
+                "premium_users",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.488320+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "transfer_online_transfer_to_savings_acc_2",
+            "config": {
+              "parameters": {
+                "transaction_description": "Online Transfer to Savings Account"
+              },
+              "compatible_profiles": [
+                "default",
+                "failed_transactions",
+                "high_balance",
+                "high_credit_limit",
+                "high_transaction_volume",
+                "low_balance",
+                "many_beneficiaries",
+                "many_zelle_contacts",
+                "maxed_out_cards",
+                "overdue_bills",
+                "premium_users",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.528159+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "deposit_direct_deposit___acme_corp_sal_1",
+            "config": {
+              "parameters": {
+                "transaction_description": "Direct Deposit - Acme Corp Salary"
+              },
+              "compatible_profiles": [
+                "default",
+                "failed_transactions",
+                "high_balance",
+                "high_credit_limit",
+                "high_transaction_volume",
+                "low_balance",
+                "many_beneficiaries",
+                "many_zelle_contacts",
+                "maxed_out_cards",
+                "overdue_bills",
+                "premium_users",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.507917+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "flightbooking": [
+      {
+        "task_name": "View My Bookings",
+        "scenario_class": "ViewMyBookingsScenario",
+        "module": "digiworld.scenarios.scenarios.flightbooking.view_my_bookings.scenario",
+        "instances": []
+      },
+      {
+        "task_name": "View details of booking <booking_reference>",
+        "scenario_class": "ViewBookingDetailsScenario",
+        "module": "digiworld.scenarios.scenarios.flightbooking.view_booking_details.scenario",
+        "instances": [
+          {
+            "instance_name": "booking_xaji0y_0",
+            "config": {
+              "parameters": {
+                "booking_reference": "XAJI0Y"
+              },
+              "compatible_profiles": [
+                "budget_flights",
+                "cancelled_flights",
+                "default",
+                "frequent_flyer",
+                "high_booking_volume",
+                "international_focus",
+                "limited_seats",
+                "multi_passenger",
+                "new_user",
+                "pending_bookings",
+                "premium_flights",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.670176+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "booking_6dpbhs_1",
+            "config": {
+              "parameters": {
+                "booking_reference": "6DPBHS"
+              },
+              "compatible_profiles": [
+                "budget_flights",
+                "cancelled_flights",
+                "default",
+                "frequent_flyer",
+                "high_booking_volume",
+                "international_focus",
+                "limited_seats",
+                "multi_passenger",
+                "new_user",
+                "pending_bookings",
+                "premium_flights",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.690558+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "booking_ahxthv_2",
+            "config": {
+              "parameters": {
+                "booking_reference": "AHXTHV"
+              },
+              "compatible_profiles": [
+                "budget_flights",
+                "cancelled_flights",
+                "default",
+                "frequent_flyer",
+                "high_booking_volume",
+                "international_focus",
+                "limited_seats",
+                "multi_passenger",
+                "new_user",
+                "pending_bookings",
+                "premium_flights",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.712624+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "qwikshop": [
+      {
+        "task_name": "View details of order <order_number>",
+        "scenario_class": "ViewOrderDetailsScenario",
+        "module": "digiworld.scenarios.scenarios.qwikshop.view_order_details.scenario",
+        "instances": [
+          {
+            "instance_name": "order_ord_126225_2",
+            "config": {
+              "parameters": {
+                "order_number": "ORD-126225"
+              },
+              "compatible_profiles": [
+                "bulk_quantity",
+                "default",
+                "empty_cart",
+                "full_cart",
+                "heavy_discounts",
+                "high_order_volume",
+                "large_orders",
+                "low_stock",
+                "new_user",
+                "power_shopper",
+                "premium_products",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:33.548170+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "order_ord_770487_0",
+            "config": {
+              "parameters": {
+                "order_number": "ORD-770487"
+              },
+              "compatible_profiles": [
+                "bulk_quantity",
+                "default",
+                "empty_cart",
+                "full_cart",
+                "heavy_discounts",
+                "high_order_volume",
+                "large_orders",
+                "low_stock",
+                "new_user",
+                "power_shopper",
+                "premium_products",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:33.510582+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "order_ord_216739_1",
+            "config": {
+              "parameters": {
+                "order_number": "ORD-216739"
+              },
+              "compatible_profiles": [
+                "bulk_quantity",
+                "default",
+                "empty_cart",
+                "full_cart",
+                "heavy_discounts",
+                "high_order_volume",
+                "large_orders",
+                "low_stock",
+                "new_user",
+                "power_shopper",
+                "premium_products",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:33.528878+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "task_name": "View My Orders",
+        "scenario_class": "ViewMyOrdersScenario",
+        "module": "digiworld.scenarios.scenarios.qwikshop.view_my_orders.scenario",
+        "instances": []
+      }
+    ],
+    "parking": [
+      {
+        "task_name": "Delete the vehicle with plate <plate_number>",
+        "scenario_class": "DeleteVehicleScenario",
+        "module": "digiworld.scenarios.scenarios.parking.delete_vehicle.scenario",
+        "instances": [
+          {
+            "instance_name": "vehicle_eco123_2",
+            "config": {
+              "parameters": {
+                "plate_number": "ECO123"
+              },
+              "compatible_profiles": [
+                "active_sessions",
+                "budget_zones",
+                "default",
+                "electric_vehicles",
+                "expired_sessions",
+                "high_parking_volume",
+                "many_vehicles",
+                "new_user",
+                "premium_zones",
+                "test-profile-1",
+                "test-profile-2",
+                "zone_full"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:33.458641+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "vehicle_blu3r_0",
+            "config": {
+              "parameters": {
+                "plate_number": "BLU3R"
+              },
+              "compatible_profiles": [
+                "active_sessions",
+                "budget_zones",
+                "default",
+                "electric_vehicles",
+                "expired_sessions",
+                "high_parking_volume",
+                "many_vehicles",
+                "new_user",
+                "premium_zones",
+                "test-profile-1",
+                "test-profile-2",
+                "zone_full"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:33.366501+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "vehicle_sunset_1",
+            "config": {
+              "parameters": {
+                "plate_number": "SUNSET"
+              },
+              "compatible_profiles": [
+                "active_sessions",
+                "budget_zones",
+                "default",
+                "electric_vehicles",
+                "expired_sessions",
+                "high_parking_volume",
+                "many_vehicles",
+                "new_user",
+                "premium_zones",
+                "test-profile-1",
+                "test-profile-2",
+                "zone_full"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:33.438623+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "task_name": "View My Vehicles",
+        "scenario_class": "ViewMyVehiclesScenario",
+        "module": "digiworld.scenarios.scenarios.parking.view_my_vehicles.scenario",
+        "instances": []
+      }
+    ],
+    "eats": [
+      {
+        "task_name": "Search for <query>",
+        "scenario_class": "SearchForQueryScenario",
+        "module": "digiworld.scenarios.scenarios.eats.search_for_query.scenario",
+        "instances": [
+          {
+            "instance_name": "food_items_pizza_0",
+            "config": {
+              "parameters": {
+                "query": "pizza"
+              },
+              "compatible_profiles": [
+                "budget_menu",
+                "cancelled_orders",
+                "default",
+                "excellent_ratings",
+                "high_order_volume",
+                "large_orders",
+                "new_user",
+                "pending_orders",
+                "poor_ratings",
+                "premium_menu",
+                "small_orders",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.281562+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "cuisines_mexican_1",
+            "config": {
+              "parameters": {
+                "query": "Mexican"
+              },
+              "compatible_profiles": [
+                "budget_menu",
+                "cancelled_orders",
+                "default",
+                "excellent_ratings",
+                "high_order_volume",
+                "large_orders",
+                "new_user",
+                "pending_orders",
+                "poor_ratings",
+                "premium_menu",
+                "small_orders",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.286474+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "meal_types_brunch_2",
+            "config": {
+              "parameters": {
+                "query": "brunch"
+              },
+              "compatible_profiles": [
+                "budget_menu",
+                "cancelled_orders",
+                "default",
+                "excellent_ratings",
+                "high_order_volume",
+                "large_orders",
+                "new_user",
+                "pending_orders",
+                "poor_ratings",
+                "premium_menu",
+                "small_orders",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.293479+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "task_name": "Show information about the last order",
+        "scenario_class": "ShowLastOrderInfoScenario",
+        "module": "digiworld.scenarios.scenarios.eats.show_last_order_info.scenario",
+        "instances": []
+      },
+      {
+        "task_name": "Add a new address <address_line1> <address_line2> <city> <state> <postcode> <country> and label it as <label>",
+        "scenario_class": "AddNewAddressScenario",
+        "module": "digiworld.scenarios.scenarios.eats.add_new_address.scenario",
+        "instances": [
+          {
+            "instance_name": "home_seattle_1",
+            "config": {
+              "parameters": {
+                "address_line1": "456 Pine Avenue",
+                "address_line2": "Unit 3",
+                "city": "Seattle",
+                "state": "WA",
+                "postcode": "98101",
+                "country": "US",
+                "label": "Home"
+              },
+              "compatible_profiles": [
+                "budget_menu",
+                "cancelled_orders",
+                "default",
+                "excellent_ratings",
+                "high_order_volume",
+                "large_orders",
+                "new_user",
+                "pending_orders",
+                "poor_ratings",
+                "premium_menu",
+                "small_orders",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.800421+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "other_miami_2",
+            "config": {
+              "parameters": {
+                "address_line1": "789 Maple Blvd",
+                "address_line2": "",
+                "city": "Miami",
+                "state": "FL",
+                "postcode": "33101",
+                "country": "US",
+                "label": "Other"
+              },
+              "compatible_profiles": [
+                "budget_menu",
+                "cancelled_orders",
+                "default",
+                "excellent_ratings",
+                "high_order_volume",
+                "large_orders",
+                "new_user",
+                "pending_orders",
+                "poor_ratings",
+                "premium_menu",
+                "small_orders",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.805344+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "office_austin_0",
+            "config": {
+              "parameters": {
+                "address_line1": "123 Oak Street",
+                "address_line2": "",
+                "city": "Austin",
+                "state": "TX",
+                "postcode": "78701",
+                "country": "US",
+                "label": "Office"
+              },
+              "compatible_profiles": [
+                "budget_menu",
+                "cancelled_orders",
+                "default",
+                "excellent_ratings",
+                "high_order_volume",
+                "large_orders",
+                "new_user",
+                "pending_orders",
+                "poor_ratings",
+                "premium_menu",
+                "small_orders",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.795495+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "email": [
+      {
+        "task_name": "Open the email with subject <subject>",
+        "scenario_class": "OpenEmailWithSubject",
+        "module": "digiworld.scenarios.scenarios.email.open_email_with_subject.scenario",
+        "instances": [
+          {
+            "instance_name": "promotional_unlock_20_off_your_next_purch_0",
+            "config": {
+              "parameters": {
+                "subject": "Unlock 20% Off Your Next Purchase \u2013 Limited Time!"
+              },
+              "compatible_profiles": [
+                "50_inbox_emails",
+                "5_inbox_emails",
+                "default",
+                "mixed",
+                "personal",
+                "spam_heavy",
+                "starred_important",
+                "test-profile-1",
+                "test-profile-1-compose_var0",
+                "test-profile-1-contacts_var0",
+                "test-profile-1-edit_profile_var0",
+                "test-profile-1-email_detail_beginning_var0",
+                "test-profile-1-email_detail_end_var0",
+                "test-profile-1-email_detail_middle_var0",
+                "test-profile-1-inbox_var0",
+                "test-profile-1-inbox_var1",
+                "test-profile-1-inbox_var2",
+                "test-profile-1-inbox_var3",
+                "test-profile-1-inbox_var4",
+                "test-profile-1-inbox_var5",
+                "test-profile-1-inbox_var6",
+                "test-profile-1-inbox_var7",
+                "test-profile-1-inbox_var8",
+                "test-profile-1-login_var0",
+                "test-profile-1-profile_var0",
+                "test-profile-1-signup_var0",
+                "test-profile-2",
+                "work_related"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:33.785543+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "promotional_introducing_our_new_loyalty_pr_2",
+            "config": {
+              "parameters": {
+                "subject": "Introducing Our New Loyalty Program \u2013 Earn Rewards Faster!"
+              },
+              "compatible_profiles": [
+                "50_inbox_emails",
+                "5_inbox_emails",
+                "default",
+                "mixed",
+                "personal",
+                "spam_heavy",
+                "starred_important",
+                "test-profile-1",
+                "test-profile-1-compose_var0",
+                "test-profile-1-contacts_var0",
+                "test-profile-1-edit_profile_var0",
+                "test-profile-1-email_detail_beginning_var0",
+                "test-profile-1-email_detail_end_var0",
+                "test-profile-1-email_detail_middle_var0",
+                "test-profile-1-inbox_var0",
+                "test-profile-1-inbox_var1",
+                "test-profile-1-inbox_var2",
+                "test-profile-1-inbox_var3",
+                "test-profile-1-inbox_var4",
+                "test-profile-1-inbox_var5",
+                "test-profile-1-inbox_var6",
+                "test-profile-1-inbox_var7",
+                "test-profile-1-inbox_var8",
+                "test-profile-1-login_var0",
+                "test-profile-1-profile_var0",
+                "test-profile-1-signup_var0",
+                "test-profile-2",
+                "work_related"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:33.833798+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "personal_catching_up_over_coffee_next_w_1",
+            "config": {
+              "parameters": {
+                "subject": "Catching Up Over Coffee Next Week?"
+              },
+              "compatible_profiles": [
+                "50_inbox_emails",
+                "5_inbox_emails",
+                "default",
+                "mixed",
+                "personal",
+                "spam_heavy",
+                "starred_important",
+                "test-profile-1",
+                "test-profile-1-compose_var0",
+                "test-profile-1-contacts_var0",
+                "test-profile-1-edit_profile_var0",
+                "test-profile-1-email_detail_beginning_var0",
+                "test-profile-1-email_detail_end_var0",
+                "test-profile-1-email_detail_middle_var0",
+                "test-profile-1-inbox_var0",
+                "test-profile-1-inbox_var1",
+                "test-profile-1-inbox_var2",
+                "test-profile-1-inbox_var3",
+                "test-profile-1-inbox_var4",
+                "test-profile-1-inbox_var5",
+                "test-profile-1-inbox_var6",
+                "test-profile-1-inbox_var7",
+                "test-profile-1-inbox_var8",
+                "test-profile-1-login_var0",
+                "test-profile-1-profile_var0",
+                "test-profile-1-signup_var0",
+                "test-profile-2",
+                "work_related"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:33.811283+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "task_name": "Create a draft email with subject <subject>",
+        "scenario_class": "CreateDraftWithSubject",
+        "module": "digiworld.scenarios.scenarios.email.create_draft_with_subject.scenario",
+        "instances": [
+          {
+            "instance_name": "work_q3_sales_forecast_review__mee_1",
+            "config": {
+              "parameters": {
+                "subject": "Q3 Sales Forecast Review \u2013 Meeting Agenda"
+              },
+              "compatible_profiles": [
+                "50_inbox_emails",
+                "5_inbox_emails",
+                "all_drafts",
+                "default",
+                "empty_inbox",
+                "mixed",
+                "personal",
+                "spam_heavy",
+                "starred_important",
+                "test-profile-1",
+                "test-profile-1-compose_var0",
+                "test-profile-1-contacts_var0",
+                "test-profile-1-edit_profile_var0",
+                "test-profile-1-email_detail_beginning_var0",
+                "test-profile-1-email_detail_end_var0",
+                "test-profile-1-email_detail_middle_var0",
+                "test-profile-1-inbox_var0",
+                "test-profile-1-inbox_var1",
+                "test-profile-1-inbox_var2",
+                "test-profile-1-inbox_var3",
+                "test-profile-1-inbox_var4",
+                "test-profile-1-inbox_var5",
+                "test-profile-1-inbox_var6",
+                "test-profile-1-inbox_var7",
+                "test-profile-1-inbox_var8",
+                "test-profile-1-login_var0",
+                "test-profile-1-profile_var0",
+                "test-profile-1-signup_var0",
+                "test-profile-2",
+                "work_related"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.159264+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "personal_catching_up_over_coffee_this_w_0",
+            "config": {
+              "parameters": {
+                "subject": "Catching up over coffee this weekend?"
+              },
+              "compatible_profiles": [
+                "50_inbox_emails",
+                "5_inbox_emails",
+                "all_drafts",
+                "default",
+                "empty_inbox",
+                "mixed",
+                "personal",
+                "spam_heavy",
+                "starred_important",
+                "test-profile-1",
+                "test-profile-1-compose_var0",
+                "test-profile-1-contacts_var0",
+                "test-profile-1-edit_profile_var0",
+                "test-profile-1-email_detail_beginning_var0",
+                "test-profile-1-email_detail_end_var0",
+                "test-profile-1-email_detail_middle_var0",
+                "test-profile-1-inbox_var0",
+                "test-profile-1-inbox_var1",
+                "test-profile-1-inbox_var2",
+                "test-profile-1-inbox_var3",
+                "test-profile-1-inbox_var4",
+                "test-profile-1-inbox_var5",
+                "test-profile-1-inbox_var6",
+                "test-profile-1-inbox_var7",
+                "test-profile-1-inbox_var8",
+                "test-profile-1-login_var0",
+                "test-profile-1-profile_var0",
+                "test-profile-1-signup_var0",
+                "test-profile-2",
+                "work_related"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.153926+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "work_action_required_update_to_the_2",
+            "config": {
+              "parameters": {
+                "subject": "Action Required: Update to the Project Timeline"
+              },
+              "compatible_profiles": [
+                "50_inbox_emails",
+                "5_inbox_emails",
+                "all_drafts",
+                "default",
+                "empty_inbox",
+                "mixed",
+                "personal",
+                "spam_heavy",
+                "starred_important",
+                "test-profile-1",
+                "test-profile-1-compose_var0",
+                "test-profile-1-contacts_var0",
+                "test-profile-1-edit_profile_var0",
+                "test-profile-1-email_detail_beginning_var0",
+                "test-profile-1-email_detail_end_var0",
+                "test-profile-1-email_detail_middle_var0",
+                "test-profile-1-inbox_var0",
+                "test-profile-1-inbox_var1",
+                "test-profile-1-inbox_var2",
+                "test-profile-1-inbox_var3",
+                "test-profile-1-inbox_var4",
+                "test-profile-1-inbox_var5",
+                "test-profile-1-inbox_var6",
+                "test-profile-1-inbox_var7",
+                "test-profile-1-inbox_var8",
+                "test-profile-1-login_var0",
+                "test-profile-1-profile_var0",
+                "test-profile-1-signup_var0",
+                "test-profile-2",
+                "work_related"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.165004+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "task_name": "Send any email to <email>",
+        "scenario_class": "SendEmailScenario",
+        "module": "digiworld.scenarios.scenarios.email.send_email_to.scenario",
+        "instances": [
+          {
+            "instance_name": "work_liamoconnorbrightfutureio_1",
+            "config": {
+              "parameters": {
+                "email": "liam.oconnor@brightfuture.io"
+              },
+              "compatible_profiles": [
+                "50_inbox_emails",
+                "5_inbox_emails",
+                "all_drafts",
+                "default",
+                "empty_inbox",
+                "mixed",
+                "personal",
+                "spam_heavy",
+                "starred_important",
+                "test-profile-1",
+                "test-profile-1-compose_var0",
+                "test-profile-1-contacts_var0",
+                "test-profile-1-edit_profile_var0",
+                "test-profile-1-email_detail_beginning_var0",
+                "test-profile-1-email_detail_end_var0",
+                "test-profile-1-email_detail_middle_var0",
+                "test-profile-1-inbox_var0",
+                "test-profile-1-inbox_var1",
+                "test-profile-1-inbox_var2",
+                "test-profile-1-inbox_var3",
+                "test-profile-1-inbox_var4",
+                "test-profile-1-inbox_var5",
+                "test-profile-1-inbox_var6",
+                "test-profile-1-inbox_var7",
+                "test-profile-1-inbox_var8",
+                "test-profile-1-login_var0",
+                "test-profile-1-profile_var0",
+                "test-profile-1-signup_var0",
+                "test-profile-2",
+                "work_related"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.540200+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "personal_aishapatelgmailcom_0",
+            "config": {
+              "parameters": {
+                "email": "aisha.patel@gmail.com"
+              },
+              "compatible_profiles": [
+                "50_inbox_emails",
+                "5_inbox_emails",
+                "all_drafts",
+                "default",
+                "empty_inbox",
+                "mixed",
+                "personal",
+                "spam_heavy",
+                "starred_important",
+                "test-profile-1",
+                "test-profile-1-compose_var0",
+                "test-profile-1-contacts_var0",
+                "test-profile-1-edit_profile_var0",
+                "test-profile-1-email_detail_beginning_var0",
+                "test-profile-1-email_detail_end_var0",
+                "test-profile-1-email_detail_middle_var0",
+                "test-profile-1-inbox_var0",
+                "test-profile-1-inbox_var1",
+                "test-profile-1-inbox_var2",
+                "test-profile-1-inbox_var3",
+                "test-profile-1-inbox_var4",
+                "test-profile-1-inbox_var5",
+                "test-profile-1-inbox_var6",
+                "test-profile-1-inbox_var7",
+                "test-profile-1-inbox_var8",
+                "test-profile-1-login_var0",
+                "test-profile-1-profile_var0",
+                "test-profile-1-signup_var0",
+                "test-profile-2",
+                "work_related"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.533939+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "work_yukitanakakawasaki_electroni_2",
+            "config": {
+              "parameters": {
+                "email": "yuki.tanaka@kawasaki-electronics.co.jp"
+              },
+              "compatible_profiles": [
+                "50_inbox_emails",
+                "5_inbox_emails",
+                "all_drafts",
+                "default",
+                "empty_inbox",
+                "mixed",
+                "personal",
+                "spam_heavy",
+                "starred_important",
+                "test-profile-1",
+                "test-profile-1-compose_var0",
+                "test-profile-1-contacts_var0",
+                "test-profile-1-edit_profile_var0",
+                "test-profile-1-email_detail_beginning_var0",
+                "test-profile-1-email_detail_end_var0",
+                "test-profile-1-email_detail_middle_var0",
+                "test-profile-1-inbox_var0",
+                "test-profile-1-inbox_var1",
+                "test-profile-1-inbox_var2",
+                "test-profile-1-inbox_var3",
+                "test-profile-1-inbox_var4",
+                "test-profile-1-inbox_var5",
+                "test-profile-1-inbox_var6",
+                "test-profile-1-inbox_var7",
+                "test-profile-1-inbox_var8",
+                "test-profile-1-login_var0",
+                "test-profile-1-profile_var0",
+                "test-profile-1-signup_var0",
+                "test-profile-2",
+                "work_related"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:32.545991+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "task_name": "Delete the email with subject <subject>",
+        "scenario_class": "DeleteEmailWithSubject",
+        "module": "digiworld.scenarios.scenarios.email.delete_email_with_subject.scenario",
+        "instances": [
+          {
+            "instance_name": "personal_catching_up_over_coffee_this_w_1",
+            "config": {
+              "parameters": {
+                "subject": "Catching Up Over Coffee This Weekend?"
+              },
+              "compatible_profiles": [
+                "50_inbox_emails",
+                "5_inbox_emails",
+                "default",
+                "mixed",
+                "personal",
+                "spam_heavy",
+                "starred_important",
+                "test-profile-1",
+                "test-profile-1-compose_var0",
+                "test-profile-1-contacts_var0",
+                "test-profile-1-edit_profile_var0",
+                "test-profile-1-email_detail_beginning_var0",
+                "test-profile-1-email_detail_end_var0",
+                "test-profile-1-email_detail_middle_var0",
+                "test-profile-1-inbox_var0",
+                "test-profile-1-inbox_var1",
+                "test-profile-1-inbox_var2",
+                "test-profile-1-inbox_var3",
+                "test-profile-1-inbox_var4",
+                "test-profile-1-inbox_var5",
+                "test-profile-1-inbox_var6",
+                "test-profile-1-inbox_var7",
+                "test-profile-1-inbox_var8",
+                "test-profile-1-login_var0",
+                "test-profile-1-profile_var0",
+                "test-profile-1-signup_var0",
+                "test-profile-2",
+                "work_related"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:33.896042+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "promotional_summer_sale_up_to_50_off_all_0",
+            "config": {
+              "parameters": {
+                "subject": "Summer Sale: Up to 50% Off All Outdoor Gear!"
+              },
+              "compatible_profiles": [
+                "50_inbox_emails",
+                "5_inbox_emails",
+                "default",
+                "mixed",
+                "personal",
+                "spam_heavy",
+                "starred_important",
+                "test-profile-1",
+                "test-profile-1-compose_var0",
+                "test-profile-1-contacts_var0",
+                "test-profile-1-edit_profile_var0",
+                "test-profile-1-email_detail_beginning_var0",
+                "test-profile-1-email_detail_end_var0",
+                "test-profile-1-email_detail_middle_var0",
+                "test-profile-1-inbox_var0",
+                "test-profile-1-inbox_var1",
+                "test-profile-1-inbox_var2",
+                "test-profile-1-inbox_var3",
+                "test-profile-1-inbox_var4",
+                "test-profile-1-inbox_var5",
+                "test-profile-1-inbox_var6",
+                "test-profile-1-inbox_var7",
+                "test-profile-1-inbox_var8",
+                "test-profile-1-login_var0",
+                "test-profile-1-profile_var0",
+                "test-profile-1-signup_var0",
+                "test-profile-2",
+                "work_related"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:33.871890+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "promotional_introducing_our_new_ai_powered_2",
+            "config": {
+              "parameters": {
+                "subject": "Introducing Our New AI-Powered Planner \u2013 Early Bird Access!"
+              },
+              "compatible_profiles": [
+                "50_inbox_emails",
+                "5_inbox_emails",
+                "default",
+                "mixed",
+                "personal",
+                "spam_heavy",
+                "starred_important",
+                "test-profile-1",
+                "test-profile-1-compose_var0",
+                "test-profile-1-contacts_var0",
+                "test-profile-1-edit_profile_var0",
+                "test-profile-1-email_detail_beginning_var0",
+                "test-profile-1-email_detail_end_var0",
+                "test-profile-1-email_detail_middle_var0",
+                "test-profile-1-inbox_var0",
+                "test-profile-1-inbox_var1",
+                "test-profile-1-inbox_var2",
+                "test-profile-1-inbox_var3",
+                "test-profile-1-inbox_var4",
+                "test-profile-1-inbox_var5",
+                "test-profile-1-inbox_var6",
+                "test-profile-1-inbox_var7",
+                "test-profile-1-inbox_var8",
+                "test-profile-1-login_var0",
+                "test-profile-1-profile_var0",
+                "test-profile-1-signup_var0",
+                "test-profile-2",
+                "work_related"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:33.919278+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "ryde": [
+      {
+        "task_name": "Open Terms of Use",
+        "scenario_class": "OpenTermsOfUseScenario",
+        "module": "digiworld.scenarios.scenarios.ryde.open_terms_of_use.scenario",
+        "instances": []
+      },
+      {
+        "task_name": "Book a ride from <origin> to <destination> with a <car_type> with any payment method",
+        "scenario_class": "BookRideWithCarTypeScenario",
+        "module": "digiworld.scenarios.scenarios.ryde.book_ride_with_car_type.scenario",
+        "instances": [
+          {
+            "instance_name": "ride_premium_408_east_13th_street__manhat_2",
+            "config": {
+              "parameters": {
+                "origin": "408, East 13th Street,  Manhattan, USA",
+                "destination": "Manor Community Church, 348, West 26th Street Manhattan, USA",
+                "car_type": "Premium"
+              },
+              "compatible_profiles": [
+                "budget_rides",
+                "cancelled_rides",
+                "default",
+                "excellent_feedback",
+                "high_rated_drivers",
+                "high_ride_volume",
+                "inactive_users",
+                "low_rated_drivers",
+                "new_user",
+                "poor_feedback",
+                "premium_fares",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:31.146307+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "ride_comfort_97_attorney_streetmanhattan_0",
+            "config": {
+              "parameters": {
+                "origin": "97, Attorney Street,Manhattan,USA",
+                "destination": "1177, Broadway, NoMad, Manhattan, USA",
+                "car_type": "Comfort"
+              },
+              "compatible_profiles": [
+                "budget_rides",
+                "cancelled_rides",
+                "default",
+                "excellent_feedback",
+                "high_rated_drivers",
+                "high_ride_volume",
+                "inactive_users",
+                "low_rated_drivers",
+                "new_user",
+                "poor_feedback",
+                "premium_fares",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:31.129473+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "ride_xl_santo_domingo_bakery__coffee_1",
+            "config": {
+              "parameters": {
+                "origin": "Santo Domingo Bakery & Coffee Shop, Clinton Street, USA",
+                "destination": "Chinese Hispanic Grocery, 130, Eldridge Street, Manhattan, USA",
+                "car_type": "XL"
+              },
+              "compatible_profiles": [
+                "budget_rides",
+                "cancelled_rides",
+                "default",
+                "excellent_feedback",
+                "high_rated_drivers",
+                "high_ride_volume",
+                "inactive_users",
+                "low_rated_drivers",
+                "new_user",
+                "poor_feedback",
+                "premium_fares",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:31.138655+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          }
+        ]
+      },
+      {
+        "task_name": "Show information about the last completed ride",
+        "scenario_class": "OpenLastCompletedRideInfoScenario",
+        "module": "digiworld.scenarios.scenarios.ryde.open_last_completed_ride_info.scenario",
+        "instances": []
+      },
+      {
+        "task_name": "Book any ride from <origin> to <destination>",
+        "scenario_class": "BookRideScenario",
+        "module": "digiworld.scenarios.scenarios.ryde.book_ride.scenario",
+        "instances": [
+          {
+            "instance_name": "ride_97_attorney_streetmanhattan_santo_domingo_bakery__coffee_0",
+            "config": {
+              "parameters": {
+                "origin": "97, Attorney Street,Manhattan,USA",
+                "destination": "Santo Domingo Bakery & Coffee Shop, Clinton Street, USA"
+              },
+              "compatible_profiles": [
+                "budget_rides",
+                "cancelled_rides",
+                "default",
+                "excellent_feedback",
+                "high_rated_drivers",
+                "high_ride_volume",
+                "inactive_users",
+                "low_rated_drivers",
+                "new_user",
+                "poor_feedback",
+                "premium_fares",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:31.123955+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "ride_xian_famous_foods_96_8th_av_cellar_dog_75_christopher_st_2",
+            "config": {
+              "parameters": {
+                "origin": "Xi'an Famous Foods, 96, 8th Avenue,Manhattan,USA ",
+                "destination": "Cellar Dog, 75, Christopher Street, West Village, Manhattan, USA"
+              },
+              "compatible_profiles": [
+                "budget_rides",
+                "cancelled_rides",
+                "default",
+                "excellent_feedback",
+                "high_rated_drivers",
+                "high_ride_volume",
+                "inactive_users",
+                "low_rated_drivers",
+                "new_user",
+                "poor_feedback",
+                "premium_fares",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:31.143146+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "ride_42nd_street_bryant_park_west_35_grand_street_hudson_squar_1",
+            "config": {
+              "parameters": {
+                "origin": "42nd Street-Bryant Park, West 40th Street, Midtown South, USA",
+                "destination": "35, Grand Street, Hudson Square, Manhattan, USA"
+              },
+              "compatible_profiles": [
+                "budget_rides",
+                "cancelled_rides",
+                "default",
+                "excellent_feedback",
+                "high_rated_drivers",
+                "high_ride_volume",
+                "inactive_users",
+                "low_rated_drivers",
+                "new_user",
+                "poor_feedback",
+                "premium_fares",
+                "test-profile-1",
+                "test-profile-2"
+              ],
+              "metadata": {
+                "created_at": "2026-02-23T19:35:31.136666+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

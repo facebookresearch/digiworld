@@ -1,0 +1,12 @@
+{
+  "task_name": "Edit the listing for \"<title>\", change listing to Auction with a starting bid of \"<startBid>\"",
+  "app_name": "auction",
+  "scenario_class": "EditListingToAuctionScenario",
+  "parameters": [
+    "title",
+    "startBid"
+  ],
+  "context_fields": [],
+  "additional_mockdata": true,
+  "description": "Convert a BuyNow listing to an auction listing with a starting bid."
+}

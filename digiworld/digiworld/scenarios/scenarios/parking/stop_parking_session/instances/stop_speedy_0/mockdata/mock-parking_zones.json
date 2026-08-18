@@ -1,0 +1,19 @@
+[
+  {
+    "id": 99801,
+    "name": "Riverside Garage",
+    "description": "Parking zone RG001",
+    "latitude": 40.7205,
+    "longitude": -73.987499,
+    "zoneCode": "RG001",
+    "operator": "City Parking Authority",
+    "zoneType": "lot",
+    "capacity": 85,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.74,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

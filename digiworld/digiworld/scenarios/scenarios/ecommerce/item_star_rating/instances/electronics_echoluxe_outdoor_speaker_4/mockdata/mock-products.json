@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "EchoLuxe Outdoor Speaker",
+    "description": "EchoLuxe Outdoor Speaker is rugged, with a weather-proof enclosure and a 30-hour battery life. It delivers powerful sound up to 100 dB and features a built-in FM tuner. The speaker can be paired with another unit for stereo performance.",
+    "shortDescription": "Outdoor speaker built to withstand weather, with 30-hour battery.",
+    "rating": 3.0,
+    "reviewCount": 4,
+    "seller": "EchoLuxe Outdoors",
+    "price": 548.34,
+    "discountedPrice": 438.67,
+    "discountPercent": 20,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 7,
+    "subcategoryName": "Speakers",
+    "inStock": true,
+    "stockCount": 149,
+    "imageUrl": "/28_1",
+    "specs": "{\"display\": \"N/A\", \"processor\": \"Class D amp with DSP\", \"ram\": \"N/A\", \"storage\": \"N/A\", \"battery\": \"8000 mAh, 18 h playtime\", \"os\": \"N/A\", \"connectivity\": \"Bluetooth 5.2, Wi-Fi, USB-C, 3.5 mm\"}",
+    "tags": "[\"electronics\", \"speakers\", \"high-quality\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

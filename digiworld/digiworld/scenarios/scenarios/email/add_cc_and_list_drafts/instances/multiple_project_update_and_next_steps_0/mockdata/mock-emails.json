@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "{{current_user_email}}",
+    "receiver": [
+      "john.doe@example.com"
+    ],
+    "subject": "Project Update and Next Steps",
+    "preview": "Hi team, this is an update on the current project ...",
+    "body": "Hi team, this is an update on the current project status and the next steps we need to take. We are on track to meet the deadline. Please let me know if you have any questions or concerns.",
+    "timestamp": "{{recent_timestamp}}",
+    "unread": 0,
+    "read": 0,
+    "status": "draft",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 1,
+    "threadId": "draft_project_update_and_next_steps",
+    "folder": "draft",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

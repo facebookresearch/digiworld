@@ -1,0 +1,9 @@
+[
+  {
+    "id": "contact-10004",
+    "phoneNumber": "{{random_phone}}",
+    "name": "Mateo Alvarez",
+    "avatarUrl": null,
+    "lastLoggedIn": 0
+  }
+]

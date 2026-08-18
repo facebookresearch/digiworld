@@ -1,0 +1,74 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "orderNumber": "ORD-877572",
+    "userId": "{{current_user_id}}",
+    "items": [
+      {
+        "id": 9777,
+        "productId": 9825,
+        "productName": "SmartFit Activity Tracker",
+        "productImage": "https://picsum.photos/seed/3615/600/400",
+        "shortDescription": "A lightweight fitness tracker monitoring heart rate, sleep, and daily activity with a vibrant OLED display.",
+        "sku": "SKU-7924",
+        "categoryName": "Wearables",
+        "subcategoryName": "Fitness Activity Tracker",
+        "seller": "Test Seller",
+        "quantity": 1,
+        "price": 149.92,
+        "discountedPrice": 149.92,
+        "total": 149.92,
+        "savedAmount": 0,
+        "addedAt": "{{middle_timestamp}}",
+        "inStock": true
+      }
+    ],
+    "subtotal": 149.92,
+    "totalSavings": 0,
+    "shipping": 22.39,
+    "tax": 12.37,
+    "couponDiscount": 0,
+    "couponCode": null,
+    "totalAmount": 184.68,
+    "status": "Delivered",
+    "statusHistory": [
+      {
+        "status": "Order Placed",
+        "timestamp": "{{middle_timestamp}}",
+        "description": "Your order has been received and is being processed."
+      },
+      {
+        "status": "Payment Confirmed",
+        "timestamp": "{{middle_timestamp}}",
+        "description": "Payment has been successfully processed."
+      },
+      {
+        "status": "Shipped",
+        "timestamp": "{{middle_timestamp}}",
+        "description": "Your order has been shipped and is on its way to you."
+      },
+      {
+        "status": "Delivered",
+        "timestamp": "{{end_timestamp}}",
+        "description": "Your order has been delivered successfully."
+      }
+    ],
+    "deliveryAddress": {
+      "fullName": "{{current_user_address_full_name}}",
+      "street": "{{current_user_address_street}}",
+      "city": "{{current_user_address_city}}",
+      "state": "{{current_user_address_state}}",
+      "pincode": "{{current_user_address_pincode}}"
+    },
+    "paymentMethod": "Credit Card",
+    "paymentStatus": "Completed",
+    "orderDate": "{{middle_timestamp}}",
+    "shippedDate": "{{middle_timestamp}}",
+    "deliveryDate": "{{end_timestamp}}",
+    "estimatedDeliveryDate": "{{end_timestamp}}",
+    "trackingNumber": "TRK-456778",
+    "courierPartner": "Express Shipping",
+    "isGift": false,
+    "giftMessage": null
+  }
+]

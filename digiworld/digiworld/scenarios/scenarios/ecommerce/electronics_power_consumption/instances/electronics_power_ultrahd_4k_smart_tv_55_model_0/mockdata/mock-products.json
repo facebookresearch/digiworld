@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "UltraHD 4K Smart TV 55\" Model XZ-550",
+    "description": "Product: UltraHD 4K Smart TV 55\" Model XZ-550",
+    "shortDescription": "UltraHD 4K Smart TV 55\" Model XZ-550",
+    "rating": 4.0,
+    "reviewCount": 0,
+    "seller": "Test Seller",
+    "price": 29.99,
+    "discountedPrice": 29.99,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 1,
+    "subcategoryName": "Appliances",
+    "inStock": true,
+    "stockCount": 50,
+    "imageUrl": "/test_1",
+    "specs": "{\"powerConsumption\": \"120W standby / 200W peak\"}",
+    "tags": "[\"electronics\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

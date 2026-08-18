@@ -1,0 +1,50 @@
+[
+  {
+    "id": "saved-1",
+    "userId": 1,
+    "name": "Morning Commute",
+    "originStopId": "stop-8",
+    "destinationStopId": "stop-2",
+    "preferredMode": "train",
+    "remindersEnabled": true,
+    "departureReminderMinutes": 15,
+    "createdAt": "2024-11-01T10:00:00.000Z",
+    "updatedAt": "2024-11-20T08:30:00.000Z"
+  },
+  {
+    "id": "saved-2",
+    "userId": 1,
+    "name": "Evening Return",
+    "originStopId": "stop-2",
+    "destinationStopId": "stop-8",
+    "preferredMode": "bus",
+    "remindersEnabled": true,
+    "departureReminderMinutes": 10,
+    "createdAt": "2024-11-01T10:05:00.000Z",
+    "updatedAt": "2024-11-20T17:00:00.000Z"
+  },
+  {
+    "id": "saved-3",
+    "userId": 1,
+    "name": "Weekend Beach Trip",
+    "originStopId": "stop-2",
+    "destinationStopId": "stop-12",
+    "preferredMode": "all",
+    "remindersEnabled": false,
+    "departureReminderMinutes": null,
+    "createdAt": "2024-11-10T14:00:00.000Z",
+    "updatedAt": "2024-11-10T14:00:00.000Z"
+  },
+  {
+    "id": "saved-4",
+    "userId": 1,
+    "name": "Tech Campus Visit",
+    "originStopId": "stop-8",
+    "destinationStopId": "stop-5",
+    "preferredMode": "train",
+    "remindersEnabled": false,
+    "departureReminderMinutes": null,
+    "createdAt": "2024-10-15T09:00:00.000Z",
+    "updatedAt": "2024-10-15T09:00:00.000Z"
+  }
+]

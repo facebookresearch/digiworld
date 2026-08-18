@@ -1,0 +1,9 @@
+{
+  "task_name": "Show me deals on items in \"<category>\" on sale for \"<percentage>\" or more",
+  "app_name": "qwikshop",
+  "scenario_class": "ShowDealsInCategoryScenario",
+  "parameters": ["category", "percentage"],
+  "context_fields": [],
+  "description": "Find and report items in a specific category that are on sale for the specified percentage or more.",
+  "additional_mockdata": true
+}

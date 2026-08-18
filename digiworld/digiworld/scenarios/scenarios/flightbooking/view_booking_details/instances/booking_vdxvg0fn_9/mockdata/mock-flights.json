@@ -1,0 +1,19 @@
+[
+  {
+    "flight_id": "AM4608_2026-08-15",
+    "airline_id": "airline_am",
+    "airline_code": "AM",
+    "flight_number": "AM4608",
+    "origin": "MEX",
+    "destination": "LIM",
+    "departure_time": "2026-08-15T07:00:00Z",
+    "arrival_time": "2026-08-15T09:03:00Z",
+    "duration_minutes": 123,
+    "fare": 287.62,
+    "currency": "USD",
+    "seats_available": 18,
+    "aircraft_type": "Boeing 737-800",
+    "date": "2026-08-15",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

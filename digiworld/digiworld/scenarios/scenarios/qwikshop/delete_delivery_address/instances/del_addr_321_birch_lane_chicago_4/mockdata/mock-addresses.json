@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Olivia Patel",
+    "street": "321 Birch Lane",
+    "city": "Chicago",
+    "state": "IL",
+    "pincode": "60605",
+    "phone": "3125557890",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

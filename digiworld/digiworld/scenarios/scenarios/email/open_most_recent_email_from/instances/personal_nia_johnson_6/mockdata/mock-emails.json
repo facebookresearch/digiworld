@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "nia.johnson@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Movie night suggestions",
+    "preview": "Hi, I'm putting together a list of movies for our ...",
+    "body": "Hi, I'm putting together a list of movies for our next movie night. Please send any titles you think would be fun.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_nia_johnson_movie_night_suggestions",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "nia.johnson@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Movie night confirmed for Friday",
+    "preview": "Hi there, Our movie night is set for Friday at 7pm...",
+    "body": "Hi there, Our movie night is set for Friday at 7pm. I've booked the living room and will bring popcorn.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_nia_johnson_movie_night_confirmed_for_fr",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

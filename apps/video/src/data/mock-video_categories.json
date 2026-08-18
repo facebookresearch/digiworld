@@ -1,0 +1,156 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Music",
+      "description": "Official music videos, covers, and instrumentals."
+    },
+    {
+      "id": 2,
+      "name": "Gaming",
+      "description": "Gameplays, walkthroughs, reviews, and live streams."
+    },
+    {
+      "id": 3,
+      "name": "Education",
+      "description": "Tutorials, how-tos, and lectures."
+    },
+    {
+      "id": 4,
+      "name": "Entertainment",
+      "description": "Comedy, skits, and viral content."
+    },
+    {
+      "id": 5,
+      "name": "News",
+      "description": "Current events and political commentary."
+    },
+    {
+      "id": 6,
+      "name": "Technology",
+      "description": "Product reviews and coding tutorials."
+    },
+    {
+      "id": 7,
+      "name": "Lifestyle",
+      "description": "Vlogs, productivity, and routines."
+    },
+    {
+      "id": 8,
+      "name": "Sports",
+      "description": "Highlights and analysis."
+    },
+    {
+      "id": 9,
+      "name": "Food & Drink",
+      "description": "Cooking tutorials and food reviews."
+    },
+    {
+      "id": 10,
+      "name": "Health & Fitness",
+      "description": "Workout routines and wellness tips."
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "tag": "though"
+    },
+    {
+      "id": 2,
+      "tag": "personal"
+    },
+    {
+      "id": 3,
+      "tag": "any"
+    },
+    {
+      "id": 4,
+      "tag": "major"
+    },
+    {
+      "id": 5,
+      "tag": "dark"
+    },
+    {
+      "id": 6,
+      "tag": "believe"
+    },
+    {
+      "id": 7,
+      "tag": "price"
+    },
+    {
+      "id": 8,
+      "tag": "seek"
+    },
+    {
+      "id": 9,
+      "tag": "assume"
+    },
+    {
+      "id": 10,
+      "tag": "natural"
+    },
+    {
+      "id": 11,
+      "tag": "fish"
+    },
+    {
+      "id": 12,
+      "tag": "issue"
+    },
+    {
+      "id": 13,
+      "tag": "benefit"
+    },
+    {
+      "id": 14,
+      "tag": "follow"
+    },
+    {
+      "id": 15,
+      "tag": "collection"
+    },
+    {
+      "id": 16,
+      "tag": "talk"
+    },
+    {
+      "id": 17,
+      "tag": "laugh"
+    },
+    {
+      "id": 18,
+      "tag": "reflect"
+    },
+    {
+      "id": 19,
+      "tag": "state"
+    },
+    {
+      "id": 20,
+      "tag": "growth"
+    },
+    {
+      "id": 21,
+      "tag": "include"
+    },
+    {
+      "id": 22,
+      "tag": "many"
+    },
+    {
+      "id": 23,
+      "tag": "discover"
+    },
+    {
+      "id": 24,
+      "tag": "left"
+    },
+    {
+      "id": 25,
+      "tag": "war"
+    }
+  ]
+}

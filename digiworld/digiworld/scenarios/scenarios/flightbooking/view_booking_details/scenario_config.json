@@ -1,0 +1,11 @@
+{
+  "task_name": "View details of booking <booking_reference>",
+  "app_name": "flightbooking",
+  "scenario_class": "ViewBookingDetailsScenario",
+  "parameters": [
+    "booking_reference"
+  ],
+  "context_fields": [],
+  "description": "View the details page of a specific flight booking by its reference code.",
+  "additional_mockdata": true
+}

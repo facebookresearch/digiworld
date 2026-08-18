@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9900,
+    "name": "UltraFit Pro Smartwatch",
+    "description": "A sleek smartwatch with built-in GPS, heart-rate monitoring, and up to 7 days of battery life, compatible with LumaMobile and Nimbus OS.",
+    "shortDescription": "Feature\u2011rich smartwatch with health tracking and long battery.",
+    "price": 301.39,
+    "discountedPrice": 301.39,
+    "discountPercent": 0,
+    "rating": 3.1,
+    "reviewCount": 57,
+    "seller": "TechGear Hub",
+    "categoryName": "Electronics",
+    "subcategoryName": "Smartwatches",
+    "inStock": 1,
+    "stockCount": 65,
+    "imageUrl": "/product_4811",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

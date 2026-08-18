@@ -1,0 +1,9 @@
+{
+  "task_name": "Delete <nickname> from my vehicles",
+  "app_name": "parking",
+  "scenario_class": "DeleteVehicleByNicknameScenario",
+  "parameters": ["nickname"],
+  "context_fields": [],
+  "additional_mockdata": true,
+  "description": "Delete a specific vehicle from the user's account by its nickname."
+}

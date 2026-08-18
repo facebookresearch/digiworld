@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Satin Finish Lip Stain",
+    "description": "Satin Finish Lip Stain provides long-wearing color that feels like a balm, thanks to its jojoba oil base. Available in five muted hues, it delivers a satin sheen without drying the lips. Ideal for all-day wear.",
+    "shortDescription": "Long-wear lip stain with a satin-sheen, jojoba-based formula.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Velvet Hue Cosmetics",
+    "price": 1957.82,
+    "discountedPrice": 1429.21,
+    "discountPercent": 27,
+    "categoryId": 6,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 42,
+    "subcategoryName": "Makeup",
+    "inStock": true,
+    "stockCount": 161,
+    "imageUrl": "/168_1",
+    "specs": "{\"ingredients\": \"Aqua, Dimethicone, Octyldodecyl Neopentanoate, Iron Oxides, Vitamin E, Fragrance\", \"skinType\": \"All skin types\", \"volume\": \"8 ml\", \"fragrance\": \"Subtle berry\", \"madeIn\": \"Spain\", \"expiryPeriod\": \"24 months unopened\"}",
+    "tags": "[\"personal\", \"beauty\", \"care\", \"makeup\", \"best\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

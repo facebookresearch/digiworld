@@ -1,0 +1,7 @@
+{
+  "app_name": "qwikshop",
+  "apk_name": "com.andojoqwikshop.sbx",
+  "bundle_id": "com.andojoqwikshop.sbx",
+  "database_doc_path": "../../../../../apps/qwikshop/docs/database.md",
+  "feature_scope_path": "../../../../../apps/qwikshop/docs/qwikshop-feature-scope.md"
+}

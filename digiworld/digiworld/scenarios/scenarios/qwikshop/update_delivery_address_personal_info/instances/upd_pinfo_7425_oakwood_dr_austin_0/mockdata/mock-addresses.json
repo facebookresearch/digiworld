@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Emily Johnson",
+    "street": "7425 Oakwood Dr",
+    "city": "Austin",
+    "state": "TX",
+    "pincode": "78734",
+    "phone": "5125550198",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

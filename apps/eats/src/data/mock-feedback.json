@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "orderId": 1,
+    "foodRating": 5,
+    "deliveryRating": 5,
+    "comment": "Great food and fast delivery!",
+    "createdAt": "2024-06-01T12:40:00Z"
+  },
+  {
+    "id": 2,
+    "orderId": 2,
+    "foodRating": 4,
+    "deliveryRating": 3,
+    "comment": "Tasty sushi, but delivery was a bit late.",
+    "createdAt": "2024-06-01T12:50:00Z"
+  }
+] 

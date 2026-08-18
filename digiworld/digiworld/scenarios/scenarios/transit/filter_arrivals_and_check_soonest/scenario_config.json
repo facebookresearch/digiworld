@@ -1,0 +1,8 @@
+{
+  "task_name": "Take me to the Live Arrivals page for <stop_name> and filter by <direction_filter>, then tell me what time is the soonest <direction> bus on the <line_name> line",
+  "app_name": "transit",
+  "scenario_class": "FilterArrivalsAndCheckSoonestScenario",
+  "parameters": ["stop_name", "direction_filter", "direction", "line_name"],
+  "context_fields": [],
+  "description": "Navigate to Live Arrivals with a direction filter, then report the soonest bus at that stop."
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Sheer Shine Top Coat",
+    "description": "A clear top coat that adds a glossy finish while extending the wear of nail polish. Its fast\u2011dry, chip\u2011resistant formula also protects against scratches. Suitable for all nail polish colors.",
+    "shortDescription": "A glossy top coat that enhances shine and durability.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "ShinePro Studios",
+    "price": 117.8,
+    "discountedPrice": 117.8,
+    "discountPercent": 0,
+    "categoryId": 6,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 46,
+    "subcategoryName": "Nail Care",
+    "inStock": true,
+    "stockCount": 158,
+    "imageUrl": "/183_1",
+    "specs": "{\"ingredients\": \"Butyl Acetate, Nitrocellulose, Silicone Resin, Vitamin E, Phenoxyethanol\", \"skinType\": \"All skin types\", \"volume\": \"10 ml\", \"fragrance\": \"Mild almond\", \"madeIn\": \"USA\", \"expiryPeriod\": \"24 months unopened\"}",
+    "tags": "[\"personal\", \"nail\", \"beauty\", \"care\", \"best\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

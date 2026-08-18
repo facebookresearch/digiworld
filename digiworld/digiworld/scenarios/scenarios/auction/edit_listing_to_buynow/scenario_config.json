@@ -1,0 +1,12 @@
+{
+  "task_name": "Edit the listing for \"<title>\", change listing to BuyNow with a price of \"<price>\"",
+  "app_name": "auction",
+  "scenario_class": "EditListingToBuynowScenario",
+  "parameters": [
+    "title",
+    "price"
+  ],
+  "context_fields": [],
+  "additional_mockdata": true,
+  "description": "Convert an auction listing to a BuyNow listing with a fixed price."
+}

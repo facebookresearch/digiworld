@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754000029,
+    "title": "1965 Shelby GT350 Coupe \u2013 Low Mileage, Fully Restored",
+    "description": "Original Shelby GT350 with a 302 V8, documented restoration, low miles, and a Certificate of Authenticity; a true muscle car gem.",
+    "categoryId": 11,
+    "sellerId": "{{current_user_id}}",
+    "price": 277.97,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 11,
+    "imageUrl": "https://example.com/images/1965-shelby-gt350-coupe-\u2013-low-mileage,-fully-restored.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 115.07,
+    "currentBid": 148.12,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

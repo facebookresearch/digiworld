@@ -1,0 +1,9 @@
+{
+  "task_name": "Create a new \"<category>\" auction listing, titled \"<title>\", set the starting bid at \"<startbid>\" and duration of the auction to \"<days>\", then tell me how many active auctions I have",
+  "app_name": "auction",
+  "scenario_class": "CreateListingAndCountActiveScenario",
+  "parameters": ["category", "title", "startbid", "days"],
+  "context_fields": [],
+  "description": "Create a new auction listing and then report the total number of active auctions.",
+  "additional_mockdata": false
+}

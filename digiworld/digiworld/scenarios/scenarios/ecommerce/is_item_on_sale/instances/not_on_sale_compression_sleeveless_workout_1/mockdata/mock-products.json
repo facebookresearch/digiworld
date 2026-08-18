@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Compression Sleeveless Workout Tank",
+    "description": "Compression sleeveless workout tank with flatlock seams and a racerback design. Engineered to wick sweat and support muscle performance.",
+    "shortDescription": "Compression sleeveless tank for high-intensity workouts.",
+    "rating": 4.0,
+    "reviewCount": 4,
+    "seller": "CoreFit Essentials",
+    "price": 216.78,
+    "discountedPrice": 216.78,
+    "discountPercent": 0,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 13,
+    "subcategoryName": "Activewear",
+    "inStock": true,
+    "stockCount": 18,
+    "imageUrl": "/52_1",
+    "specs": "{\"material\": \"Polyester/Elastane blend (85% polyester, 15% elastane)\", \"careInstructions\": \"Machine wash cold, do not tumble dry\", \"fit\": \"Compression fit\", \"size\": \"XS, S, M, L, XL\", \"color\": \"Slate gray\", \"pattern\": \"Solid\"}",
+    "tags": "[\"clothing\", \"activewear\", \"premium\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

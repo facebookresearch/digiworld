@@ -1,0 +1,10 @@
+{
+  "task_name": "What's the initial deposit needed for a(n) <account_type> account?",
+  "app_name": "banking",
+  "scenario_class": "CheckInitialDepositScenario",
+  "parameters": [
+    "account_type"
+  ],
+  "context_fields": [],
+  "description": "Check the minimum opening balance required for a given account type."
+}

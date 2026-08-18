@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Utility Field Jacket with Corduroy Lining",
+    "description": "Utility field jacket with corduroy lining, multiple front pockets, and adjustable cuffs. Made from durable cotton canvas for weather-ready style.",
+    "shortDescription": "Utility field jacket with corduroy lining and multiple pockets.",
+    "rating": 4.0,
+    "reviewCount": 2,
+    "seller": "North Ridge Outerwear",
+    "price": 296.77,
+    "discountedPrice": 296.77,
+    "discountPercent": 0,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 12,
+    "subcategoryName": "Jackets",
+    "inStock": true,
+    "stockCount": 3,
+    "imageUrl": "/45_1",
+    "specs": "{\"material\": \"100% cotton twill exterior, 100% cotton corduroy lining\", \"careInstructions\": \"Machine wash cold, gentle cycle, tumble dry low\", \"fit\": \"Utility fit\", \"size\": \"S, M, L, XL\", \"color\": \"Olive green\", \"pattern\": \"Solid\"}",
+    "tags": "[\"clothing\", \"jackets\", \"premium\", \"popular\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

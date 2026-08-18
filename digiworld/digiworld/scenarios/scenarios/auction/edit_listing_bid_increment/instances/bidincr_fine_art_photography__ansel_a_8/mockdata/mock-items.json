@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754180086,
+    "title": "Fine Art Photography \u2013 Ansel Adams \u2018Moonrise, Hernandez\u2019 Print (Limited 50)",
+    "description": "Archival silver gelatin print, signed and numbered, presented in a museum\u2011quality frame.",
+    "categoryId": 9,
+    "sellerId": "{{current_user_id}}",
+    "price": 965.81,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 5,
+    "imageUrl": "https://example.com/images/fine-art-photography-\u2013-ansel-adams-\u2018moonrise,-hernandez\u2019-print-(limited-50).jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 421.12,
+    "currentBid": 702.13,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

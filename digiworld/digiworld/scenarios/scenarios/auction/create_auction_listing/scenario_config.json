@@ -1,0 +1,8 @@
+{
+  "task_name": "Create a new \"<category>\" auction listing, titled \"<title>\", set the starting bid at \"<startbid>\" and duration of the auction to \"<days>\"",
+  "app_name": "auction",
+  "scenario_class": "CreateAuctionListingScenario",
+  "parameters": ["category", "title", "startbid", "days"],
+  "context_fields": [],
+  "description": "Create a new auction listing with the specified category, title, starting bid, and duration."
+}

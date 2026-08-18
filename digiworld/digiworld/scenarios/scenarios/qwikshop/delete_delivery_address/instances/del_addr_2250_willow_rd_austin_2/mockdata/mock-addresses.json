@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Sofia Patel",
+    "street": "2250 Willow Rd",
+    "city": "Austin",
+    "state": "TX",
+    "pincode": "78701",
+    "phone": "5125559012",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Downtown Lot",
+    "description": "Parking zone Z1A2B",
+    "latitude": 40.734831,
+    "longitude": -73.988102,
+    "zoneCode": "Z1A2B",
+    "operator": "City Parking Authority",
+    "zoneType": "lot",
+    "capacity": 238,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.1,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

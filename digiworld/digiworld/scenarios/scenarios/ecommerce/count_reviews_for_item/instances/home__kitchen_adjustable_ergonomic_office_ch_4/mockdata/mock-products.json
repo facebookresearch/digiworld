@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Adjustable Ergonomic Office Chair with Mesh Back",
+    "description": "Work comfortably with this adjustable ergonomic office chair, featuring a breathable mesh back, lumbar support, and a synchro\u2011tilt mechanism. The pneumatic height adjustment and tilt lock let you customize seating posture. Durable nylon base and smooth\u2011rolling casters ensure stability on various floor types.",
+    "shortDescription": "Ergonomic office chair with mesh back and adjustable tilt.",
+    "rating": 5.0,
+    "reviewCount": 1,
+    "seller": "ErgoSeat Industries",
+    "price": 441.27,
+    "discountedPrice": 353.02,
+    "discountPercent": 20,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 20,
+    "subcategoryName": "Furniture",
+    "inStock": true,
+    "stockCount": 159,
+    "imageUrl": "/78_1",
+    "specs": "{\"material\": \"Mesh fabric, steel frame\", \"dimensions\": \"Seat width 20\\\" x depth 20\\\"; height adjustable 36-48\\\"\", \"weight\": \"30 lbs\", \"warranty\": \"3-year\", \"color\": \"Black\", \"careInstructions\": \"Wipe mesh with damp cloth; tighten bolts quarterly\"}",
+    "tags": "[\"furniture\", \"kitchen\", \"home\", \"top-rated\", \"premium\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

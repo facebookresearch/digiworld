@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "balance": 1919.57,
+    "currency": "USD",
+    "type": "personal",
+    "status": "active",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "balance": 2517.45,
+    "currency": "USD",
+    "type": "personal",
+    "status": "active",
+    "createdAt": "2024-01-01T00:05:00.000Z",
+    "updatedAt": "2024-01-01T00:05:00.000Z"
+  },
+  {
+    "id": 3,
+    "userId": 3,
+    "balance": 4574.29,
+    "currency": "USD",
+    "type": "personal",
+    "status": "active",
+    "createdAt": "2024-01-01T00:10:00.000Z",
+    "updatedAt": "2024-01-01T00:10:00.000Z"
+  },
+  {
+    "id": 4,
+    "userId": 4,
+    "balance": 917.44,
+    "currency": "USD",
+    "type": "personal",
+    "status": "active",
+    "createdAt": "2024-01-01T00:15:00.000Z",
+    "updatedAt": "2024-01-01T00:15:00.000Z"
+  },
+  {
+    "id": 5,
+    "userId": 5,
+    "balance": 1139.79,
+    "currency": "USD",
+    "type": "personal",
+    "status": "active",
+    "createdAt": "2024-01-01T00:20:00.000Z",
+    "updatedAt": "2024-01-01T00:20:00.000Z"
+  },
+  {
+    "id": 6,
+    "userId": 6,
+    "balance": 4055.32,
+    "currency": "USD",
+    "type": "personal",
+    "status": "active",
+    "createdAt": "2024-01-01T00:25:00.000Z",
+    "updatedAt": "2024-01-01T00:25:00.000Z"
+  },
+  {
+    "id": 7,
+    "userId": 7,
+    "balance": 595.56,
+    "currency": "USD",
+    "type": "personal",
+    "status": "active",
+    "createdAt": "2024-01-01T00:30:00.000Z",
+    "updatedAt": "2024-01-01T00:30:00.000Z"
+  },
+  {
+    "id": 8,
+    "userId": 8,
+    "balance": 4600.18,
+    "currency": "USD",
+    "type": "personal",
+    "status": "active",
+    "createdAt": "2024-01-01T00:35:00.000Z",
+    "updatedAt": "2024-01-01T00:35:00.000Z"
+  },
+  {
+    "id": 9,
+    "userId": 9,
+    "balance": 3080.34,
+    "currency": "USD",
+    "type": "personal",
+    "status": "active",
+    "createdAt": "2024-01-01T00:40:00.000Z",
+    "updatedAt": "2024-01-01T00:40:00.000Z"
+  },
+  {
+    "id": 10,
+    "userId": 10,
+    "balance": 1693.95,
+    "currency": "USD",
+    "type": "personal",
+    "status": "active",
+    "createdAt": "2024-01-01T00:45:00.000Z",
+    "updatedAt": "2024-01-01T00:45:00.000Z"
+  },
+  {
+    "id": 11,
+    "userId": 11,
+    "balance": 4270.27,
+    "currency": "USD",
+    "type": "personal",
+    "status": "active",
+    "createdAt": "2024-01-01T00:50:00.000Z",
+    "updatedAt": "2024-01-01T00:50:00.000Z"
+  },
+  {
+    "id": 12,
+    "userId": 12,
+    "balance": 3959.58,
+    "currency": "USD",
+    "type": "personal",
+    "status": "active",
+    "createdAt": "2024-01-01T00:55:00.000Z",
+    "updatedAt": "2024-01-01T00:55:00.000Z"
+  },
+  {
+    "id": 13,
+    "userId": 13,
+    "balance": 2045.58,
+    "currency": "USD",
+    "type": "personal",
+    "status": "active",
+    "createdAt": "2024-01-01T01:00:00.000Z",
+    "updatedAt": "2024-01-01T01:00:00.000Z"
+  },
+  {
+    "id": 14,
+    "userId": 14,
+    "balance": 4106.73,
+    "currency": "USD",
+    "type": "personal",
+    "status": "active",
+    "createdAt": "2024-01-01T01:05:00.000Z",
+    "updatedAt": "2024-01-01T01:05:00.000Z"
+  },
+  {
+    "id": 15,
+    "userId": 15,
+    "balance": 1430.88,
+    "currency": "USD",
+    "type": "personal",
+    "status": "active",
+    "createdAt": "2024-01-01T01:10:00.000Z",
+    "updatedAt": "2024-01-01T01:10:00.000Z"
+  }
+]

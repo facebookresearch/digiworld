@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Adventure Outfit Rag Doll",
+    "description": "The Adventure Outfit rag doll comes dressed in a removable explorer's jacket, cargo pants, and a wide-brimmed hat. Its soft fabric body is safe for toddlers, while the detailed clothing encourages role-play. Includes a miniature backpack for added fun.",
+    "shortDescription": "A rag doll dressed for adventure with interchangeable clothing.",
+    "rating": 2.9,
+    "reviewCount": 0,
+    "seller": "Adventure Play Co.",
+    "price": 1629.44,
+    "discountedPrice": 1205.79,
+    "discountPercent": 26,
+    "categoryId": 7,
+    "categoryName": "Toys & Games",
+    "subcategoryId": 53,
+    "subcategoryName": "Dolls",
+    "inStock": true,
+    "stockCount": 122,
+    "imageUrl": "/210_1",
+    "specs": "{\"ageRange\": \"3-8 years\", \"material\": \"Cotton fabric, polyester stuffing\", \"dimensions\": \"14 x 4 x 3 inches\", \"batteryRequired\": \"No\", \"warranty\": \"6 months\", \"safetyRating\": \"ASTM F963\"}",
+    "tags": "[\"toys\", \"games\", \"dolls\", \"high-quality\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

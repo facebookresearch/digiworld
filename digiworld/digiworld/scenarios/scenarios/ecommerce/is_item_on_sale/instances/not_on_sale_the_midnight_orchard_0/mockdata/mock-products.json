@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "The Midnight Orchard",
+    "description": "When the small town of Willow Creek awakens to a mysterious orchard that blooms only at midnight, its residents are drawn into a web of secrets and old magic. A young botanist named Elara must unravel the orchard's origins before the night fades. The novel blends lyrical prose with a touch of supernatural intrigue.",
+    "shortDescription": "A haunting tale of a midnight-blooming orchard that reveals hidden secrets.",
+    "rating": 3.0,
+    "reviewCount": 1,
+    "seller": "Riverbend Books",
+    "price": 9.65,
+    "discountedPrice": 9.65,
+    "discountPercent": 0,
+    "categoryId": 5,
+    "categoryName": "Books",
+    "subcategoryId": 33,
+    "subcategoryName": "Fiction",
+    "inStock": true,
+    "stockCount": 160,
+    "imageUrl": "/129_1",
+    "specs": "{\"author\": \"Elena Vance\", \"publisher\": \"Midnight Press\", \"pages\": \"352\", \"language\": \"English\", \"isbn\": \"978-1-4028-9462-3\", \"format\": \"Hardcover\"}",
+    "tags": "[\"fiction\", \"books\", \"premium\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

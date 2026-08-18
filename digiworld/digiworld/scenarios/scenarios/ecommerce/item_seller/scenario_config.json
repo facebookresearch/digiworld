@@ -1,0 +1,10 @@
+{
+  "task_name": "Who is the seller of the <item> item?",
+  "app_name": "ecommerce",
+  "scenario_class": "ItemSellerScenario",
+  "parameters": [
+    "item"
+  ],
+  "context_fields": [],
+  "description": "Retrieve the seller of a given product"
+}

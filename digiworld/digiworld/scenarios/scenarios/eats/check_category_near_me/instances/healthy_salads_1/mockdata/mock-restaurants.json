@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Green Fork Kitchen",
+    "description": "Their signature salad features toasted quinoa and a citrus-honey vinaigrette.",
+    "address": "789 Elm Street, San Francisco, CA 94102",
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "logo": "https://images.unsplash.com/photo-1590846406792-0adc7f938f1d?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 3.8,
+    "deliveryFee": 4.2,
+    "minOrder": 15.0,
+    "deliveryRadius": 6,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "contactName": "Phaedra Wyrmwood",
+    "contactEmail": "phaedra.wyrmwood@example.com",
+    "contactPhone": "{{random_phone}}",
+    "isEnrolled": 1,
+    "isFavorite": 1,
+    "lastSentAmount": null,
+    "lastSentDate": null,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

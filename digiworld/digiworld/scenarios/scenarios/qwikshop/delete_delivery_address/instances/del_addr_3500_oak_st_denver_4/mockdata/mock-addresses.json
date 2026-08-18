@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Aisha Johnson",
+    "street": "3500 Oak St",
+    "city": "Denver",
+    "state": "CO",
+    "pincode": "80202",
+    "phone": "7205557890",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "task_name": "Schedule a payment of $<amount> to <payee> for <date>, then tell me the amount of my most recent transaction",
+  "app_name": "banking",
+  "scenario_class": "SchedulePaymentAndReportAmountScenario",
+  "parameters": [
+    "payee",
+    "amount",
+    "date",
+    "time",
+    "account",
+    "note"
+  ],
+  "context_fields": [],
+  "description": "Composed scenario: schedule a payment to a payee, then report the amount of the most recent transaction (the scheduled payment itself).",
+  "additional_mockdata": true
+}

@@ -1,0 +1,12 @@
+{
+  "task_name": "Send an email to \"<recipient_email>\" with the subject as \"<email_subject>\", saying \"<email_body>\", then tell me the subject and recipient of my most recently sent email",
+  "app_name": "email",
+  "scenario_class": "SendAndReportSentScenario",
+  "parameters": [
+    "recipient_email",
+    "email_subject",
+    "email_body"
+  ],
+  "context_fields": [],
+  "description": "Composed scenario: send an email with specific details, then report the subject and recipient of the most recently sent email."
+}

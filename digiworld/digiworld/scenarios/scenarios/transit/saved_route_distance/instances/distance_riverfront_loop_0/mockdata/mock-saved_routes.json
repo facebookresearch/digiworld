@@ -1,0 +1,14 @@
+[
+  {
+    "id": "saved-riverfront-loop",
+    "userId": 1,
+    "name": "Riverfront Loop",
+    "originStopId": "stop-3",
+    "destinationStopId": "stop-4",
+    "preferredMode": "subway",
+    "remindersEnabled": true,
+    "departureReminderMinutes": 30,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

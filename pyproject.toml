@@ -1,0 +1,30 @@
+[project]
+name = "digiworld_eval"
+version = "1.0.0"
+description = "DigiWorld evaluation harness and local bridge server"
+license = "Apache-2.0"
+license-files = ["LICENSE"]
+requires-python = ">=3.9"
+# Dependencies mirror digiworld_eval/requirements.txt so `pip install -e .` is
+# self-contained. The internal `digiworld` package is NOT on PyPI — install it
+# separately with `pip install -e digiworld` (see README §2).
+dependencies = [
+    "omegaconf",
+    "universal_pathlib",
+    "numpy",
+    "requests",
+    "pillow",
+    "fastapi",
+    "uvicorn",
+    "pydantic",
+    "litellm",
+    "pyyaml",
+]
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["digiworld_eval*"]

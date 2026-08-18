@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754800145,
+    "title": "Rose Gold Men's Signet Ring with Engraved Family Crest \u2013 Size 10",
+    "description": "A striking rose gold signet ring engraved with a detailed family crest; the metal is flawless, the engraving crisp, and it includes a sizing card for a comfortable fit.",
+    "categoryId": 10,
+    "sellerId": 2,
+    "price": 2111.06,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 1,
+    "imageUrl": "https://example.com/images/rose-gold-men's-signet-ring-with-engraved-family-crest-\u2013-size-10.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 45.37,
+    "currentBid": 74.94,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

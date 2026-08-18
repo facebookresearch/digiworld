@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "EchoBass Wireless Headset",
+    "description": "EchoBass Wireless Headset combines a comfortable on-ear design with a dynamic bass boost algorithm. It includes a built-in mic with noise reduction for clear calls and supports multipoint connectivity for switching between devices. Battery lasts up to 25 hours on a single charge.",
+    "shortDescription": "Wireless headset offering bass boost, multipoint pairing, and 25-hour playtime.",
+    "rating": 3.0,
+    "reviewCount": 3,
+    "seller": "EchoSound Ltd.",
+    "price": 483.27,
+    "discountedPrice": 459.11,
+    "discountPercent": 5,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 4,
+    "subcategoryName": "Headphones",
+    "inStock": true,
+    "stockCount": 5,
+    "imageUrl": "/15_1",
+    "specs": "{\"display\": \"N/A\", \"processor\": \"Cellwave aptX Adaptive chipset\", \"ram\": \"N/A\", \"storage\": \"N/A\", \"battery\": \"20 h talk time\", \"os\": \"N/A\", \"connectivity\": \"Bluetooth 5.2, NFC, USB-C charging\"}",
+    "tags": "[\"electronics\", \"headphones\", \"top-rated\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Boardshorts with Tropical Print",
+    "description": "Boardshorts with a vibrant tropical print and a 30-inch inner seam for comfort. The quick-dry fabric resists chlorine, and the built-in mesh liner offers support. Ideal for surfing or beach volleyball.",
+    "shortDescription": "Tropical print boardshorts with quick-dry fabric.",
+    "rating": 1.5,
+    "reviewCount": 2,
+    "seller": "Wave Rider Boardshorts",
+    "price": 859.15,
+    "discountedPrice": 644.36,
+    "discountPercent": 25,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 16,
+    "subcategoryName": "Swimwear",
+    "inStock": true,
+    "stockCount": 138,
+    "imageUrl": "/63_1",
+    "specs": "{\"material\": \"100% polyester with quick-dry coating\", \"careInstructions\": \"Rinse with fresh water after use, machine wash cold, tumble dry low\", \"fit\": \"Relaxed fit\", \"size\": \"S, M, L, XL\", \"color\": \"Turquoise\", \"pattern\": \"Tropical print\"}",
+    "tags": "[\"clothing\", \"swimwear\", \"best\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000",
+    "reviews": [
+      {
+        "userName": "Reviewer",
+        "rating": 1,
+        "title": "Faded Print and Poor Fit",
+        "comment": "The tropical print started to fade after the first wash, making the shorts look cheap. The elastic waistband dug into my hips and the length was too short for comfort. I expected a quick-dry fabric but it stayed soggy and heavy.",
+        "reviewDate": "2026-02-14T22:29:47.814709Z"
+      },
+      {
+        "userName": "Reviewer",
+        "rating": 2,
+        "title": "Color Bleeds, Still Uncomfortable",
+        "comment": "The bright palm pattern looked great online, but it bled onto my skin and other clothes after a couple of swims. The material feels stiff and the side pockets are too shallow to hold anything useful. Even though the price was low, the overall quality is disappointing.",
+        "reviewDate": "2025-08-27T08:20:09.814715Z"
+      }
+    ]
+  }
+]

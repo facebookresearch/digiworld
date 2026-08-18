@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 1,
+    "categoryId": 7,
+    "title": "Road Trip Through the Pacific Northwest",
+    "description": "Follow our journey along coastal highways, waterfalls, and mountain passes.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 1693,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 4652,
+    "likeCount": 24,
+    "commentCount": 2,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

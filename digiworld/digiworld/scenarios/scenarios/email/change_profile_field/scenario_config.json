@@ -1,0 +1,8 @@
+{
+    "task_name": "Change my \"<field_type>\" in my profile settings to \"<value>\"",
+    "app_name": "email",
+    "scenario_class": "ChangeProfileField",
+    "parameters": ["field_type", "value"],
+    "context_fields": [],
+    "description": "Change a profile field (first name, last name, birthday, or email address) to a new value"
+}

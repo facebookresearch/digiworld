@@ -1,0 +1,24 @@
+[
+  {
+    "id": 9900,
+    "name": "EcoBrew Reusable Coffee Filter",
+    "description": "A stainless\u2011steel, dishwasher\u2011safe coffee filter that fits standard drip machines, reducing paper waste while delivering a smooth brew.",
+    "shortDescription": "Stainless\u2011steel reusable coffee filter for drip makers.",
+    "price": 57.17,
+    "discountedPrice": 57.17,
+    "discountPercent": 0,
+    "rating": 3.8,
+    "reviewCount": 25,
+    "seller": "GreenLiving Goods",
+    "categoryName": "Home & Kitchen",
+    "subcategoryName": "Kitchen Tools",
+    "inStock": 1,
+    "stockCount": 33,
+    "imageUrl": "/product_4582",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0,
+    "categoryId": 3,
+    "subcategoryId": 0
+  }
+]

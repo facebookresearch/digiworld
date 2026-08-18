@@ -1,0 +1,11 @@
+{
+  "task_name": "Using the credit card, pay a bill to <payee>",
+  "app_name": "banking",
+  "scenario_class": "PayBillWithCreditCardScenario",
+  "parameters": [
+    "payee"
+  ],
+  "additional_mockdata": true,
+  "context_fields": [],
+  "description": "Pay an existing bill to a payee using the credit card as payment method."
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "code": "PHX",
+    "name": "PHX International Airport",
+    "city": "PHX",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "code": "GRU",
+    "name": "GRU International Airport",
+    "city": "GRU",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Jacob Baker",
+    "street": "1234 Elm St Apt 5B",
+    "city": "Seattle",
+    "state": "WA",
+    "pincode": "98109",
+    "phone": "2065555678",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "task_name": "What is a feature of the <item> sports item?",
+  "app_name": "ecommerce",
+  "scenario_class": "SportsItemFeatureScenario",
+  "parameters": ["item"],
+  "context_fields": [],
+  "description": "Retrieve a feature of a sports item from its product specs"
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "High-Performance Cold Air Intake",
+    "description": "Product: High-Performance Cold Air Intake",
+    "shortDescription": "High-Performance Cold Air Intake",
+    "rating": 4.0,
+    "reviewCount": 0,
+    "seller": "Test Seller",
+    "price": 29.99,
+    "discountedPrice": 29.99,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Automotive",
+    "subcategoryId": 1,
+    "subcategoryName": "Accessories",
+    "inStock": true,
+    "stockCount": 50,
+    "imageUrl": "/test_1",
+    "specs": "{\"installation\": \"Replace factory air filter housing; requires basic hand tools and torque to 8\\u202fNm.\"}",
+    "tags": "[\"automotive\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

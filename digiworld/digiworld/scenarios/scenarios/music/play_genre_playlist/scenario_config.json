@@ -1,0 +1,8 @@
+{
+  "task_name": "Play a <genre> playlist",
+  "app_name": "music",
+  "scenario_class": "PlayGenrePlaylistScenario",
+  "parameters": ["genre"],
+  "context_fields": [],
+  "description": "Play songs from a specific genre category"
+}

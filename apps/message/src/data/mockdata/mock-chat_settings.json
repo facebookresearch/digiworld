@@ -1,0 +1,122 @@
+[
+  {
+    "userId": "1",
+    "fontSize": "large",
+    "wallpaper": "/wallpapers/gradient.png",
+    "notificationTone": "chime.mp3"
+  },
+  {
+    "userId": "2",
+    "fontSize": "medium",
+    "wallpaper": "/wallpapers/space.jpg",
+    "notificationTone": "default.mp3"
+  },
+  {
+    "userId": "3",
+    "fontSize": "medium",
+    "wallpaper": "/wallpapers/gradient.png",
+    "notificationTone": "default.mp3"
+  },
+  {
+    "userId": "4",
+    "fontSize": "medium",
+    "wallpaper": "/wallpapers/space.jpg",
+    "notificationTone": "chime.mp3"
+  },
+  {
+    "userId": "5",
+    "fontSize": "medium",
+    "wallpaper": "/wallpapers/default.jpg",
+    "notificationTone": "default.mp3"
+  },
+  {
+    "userId": "6",
+    "fontSize": "medium",
+    "wallpaper": "/wallpapers/default.jpg",
+    "notificationTone": "default.mp3"
+  },
+  {
+    "userId": "7",
+    "fontSize": "small",
+    "wallpaper": "/wallpapers/space.jpg",
+    "notificationTone": "default.mp3"
+  },
+  {
+    "userId": "8",
+    "fontSize": "small",
+    "wallpaper": "/wallpapers/space.jpg",
+    "notificationTone": "chime.mp3"
+  },
+  {
+    "userId": "9",
+    "fontSize": "medium",
+    "wallpaper": "/wallpapers/default.jpg",
+    "notificationTone": "ping.mp3"
+  },
+  {
+    "userId": "10",
+    "fontSize": "medium",
+    "wallpaper": "/wallpapers/space.jpg",
+    "notificationTone": "ping.mp3"
+  },
+  {
+    "userId": "11",
+    "fontSize": "medium",
+    "wallpaper": "/wallpapers/space.jpg",
+    "notificationTone": "chime.mp3"
+  },
+  {
+    "userId": "12",
+    "fontSize": "medium",
+    "wallpaper": "/wallpapers/default.jpg",
+    "notificationTone": "default.mp3"
+  },
+  {
+    "userId": "13",
+    "fontSize": "small",
+    "wallpaper": "/wallpapers/default.jpg",
+    "notificationTone": "chime.mp3"
+  },
+  {
+    "userId": "14",
+    "fontSize": "small",
+    "wallpaper": "/wallpapers/space.jpg",
+    "notificationTone": "ping.mp3"
+  },
+  {
+    "userId": "15",
+    "fontSize": "medium",
+    "wallpaper": "/wallpapers/space.jpg",
+    "notificationTone": "default.mp3"
+  },
+  {
+    "userId": "16",
+    "fontSize": "medium",
+    "wallpaper": "/wallpapers/default.jpg",
+    "notificationTone": "ping.mp3"
+  },
+  {
+    "userId": "17",
+    "fontSize": "small",
+    "wallpaper": "/wallpapers/gradient.png",
+    "notificationTone": "ping.mp3"
+  },
+  {
+    "userId": "18",
+    "fontSize": "large",
+    "wallpaper": "/wallpapers/space.jpg",
+    "notificationTone": "ping.mp3"
+  },
+  {
+    "userId": "19",
+    "fontSize": "medium",
+    "wallpaper": "/wallpapers/space.jpg",
+    "notificationTone": "default.mp3"
+  },
+  {
+    "userId": "20",
+    "fontSize": "large",
+    "wallpaper": "/wallpapers/default.jpg",
+    "notificationTone": "ping.mp3"
+  }
+]

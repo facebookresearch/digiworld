@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "{{current_user_email}}",
+    "receiver": [
+      "product.lead@example.com"
+    ],
+    "subject": "Invitation to Beta Test New Project Management Tool",
+    "preview": "Hello, we are launching a beta test for our new pr...",
+    "body": "Hello, we are launching a beta test for our new project management tool and would like your participation. Please reply with your availability and any questions you may have.",
+    "timestamp": "{{recent_timestamp}}",
+    "unread": 0,
+    "read": 0,
+    "status": "draft",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 1,
+    "threadId": "draft_invitation_to_beta_test_new_project_mana",
+    "folder": "draft",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

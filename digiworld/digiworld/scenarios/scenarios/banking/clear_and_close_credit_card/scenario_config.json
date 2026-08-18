@@ -1,0 +1,11 @@
+{
+  "task_name": "Clear any outstanding balance on the credit card ending in <last4>, then close the card",
+  "app_name": "banking",
+  "scenario_class": "ClearAndCloseCreditCardScenario",
+  "parameters": [
+    "last4"
+  ],
+  "additional_mockdata": true,
+  "context_fields": [],
+  "description": "Pay off the outstanding balance on a credit card and then close it."
+}

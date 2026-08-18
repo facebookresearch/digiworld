@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Classic Wool Peacoat",
+    "description": "Tailored from 100% virgin wool, this double-breasted peacoat offers timeless elegance and warmth. Traditional lapels, reinforced button closures, and subtle side vents provide both style and comfort. Comes in navy and charcoal.",
+    "shortDescription": "A double-breasted wool peacoat delivering classic style and warmth.",
+    "rating": 3.2,
+    "reviewCount": 5,
+    "seller": "Heritage Outerwear",
+    "price": 75.76,
+    "discountedPrice": 64.4,
+    "discountPercent": 15,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 12,
+    "subcategoryName": "Jackets",
+    "inStock": true,
+    "stockCount": 54,
+    "imageUrl": "/46_1",
+    "specs": "{\"material\": \"100% wool melton\", \"careInstructions\": \"Dry clean only\", \"fit\": \"Classic peacoat, tailored\", \"size\": \"M, L, XL, XXL\", \"color\": \"Navy blue\", \"pattern\": \"Solid\"}",
+    "tags": "[\"jackets\", \"clothing\", \"best\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

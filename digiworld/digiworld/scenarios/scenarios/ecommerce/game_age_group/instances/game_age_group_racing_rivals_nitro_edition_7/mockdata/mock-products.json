@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Racing Rivals: Nitro Edition (Console)",
+    "description": "Racing Rivals: Nitro Edition (Console) delivers high\u2011octane arcade racing with customizable cars, vibrant tracks, and split\u2011screen multiplayer for up to four players. Nitro boosts and dynamic weather add excitement to each race.",
+    "shortDescription": "Racing Rivals delivers high\u2011speed arcade racing with customizable cars and multiplayer.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "SpeedLine Gaming",
+    "price": 657.2,
+    "discountedPrice": 407.46,
+    "discountPercent": 38,
+    "categoryId": 7,
+    "categoryName": "Toys & Games",
+    "subcategoryId": 56,
+    "subcategoryName": "Video Games",
+    "inStock": true,
+    "stockCount": 101,
+    "imageUrl": "/222_1",
+    "specs": "{\"ageRange\": \"3+ years\", \"material\": \"Physical disc or digital download\", \"dimensions\": \"Standard disc\", \"batteryRequired\": \"N/A\", \"warranty\": \"30-day refund\", \"safetyRating\": \"ESRB: Everyone (E)\"}",
+    "tags": "[\"video\", \"games\", \"toys\", \"top-rated\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

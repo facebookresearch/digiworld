@@ -1,0 +1,74 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "orderNumber": "ORD-246316",
+    "userId": "{{current_user_id}}",
+    "items": [
+      {
+        "id": 9081,
+        "productId": 9875,
+        "productName": "Chef's Choice 8\u2011inch Chef Knife",
+        "productImage": "https://picsum.photos/seed/4814/600/400",
+        "shortDescription": "High\u2011carbon stainless steel knife with ergonomic handle for precise chopping.",
+        "sku": "SKU-2654",
+        "categoryName": "Home & Kitchen",
+        "subcategoryName": "Kitchen Knives",
+        "seller": "Test Seller",
+        "quantity": 1,
+        "price": 335.71,
+        "discountedPrice": 335.71,
+        "total": 335.71,
+        "savedAmount": 0,
+        "addedAt": "{{middle_timestamp}}",
+        "inStock": true
+      }
+    ],
+    "subtotal": 335.71,
+    "totalSavings": 0,
+    "shipping": 20.46,
+    "tax": 27.7,
+    "couponDiscount": 0,
+    "couponCode": null,
+    "totalAmount": 383.87,
+    "status": "Delivered",
+    "statusHistory": [
+      {
+        "status": "Order Placed",
+        "timestamp": "{{middle_timestamp}}",
+        "description": "Your order has been received and is being processed."
+      },
+      {
+        "status": "Payment Confirmed",
+        "timestamp": "{{middle_timestamp}}",
+        "description": "Payment has been successfully processed."
+      },
+      {
+        "status": "Shipped",
+        "timestamp": "{{middle_timestamp}}",
+        "description": "Your order has been shipped and is on its way to you."
+      },
+      {
+        "status": "Delivered",
+        "timestamp": "{{end_timestamp}}",
+        "description": "Your order has been delivered successfully."
+      }
+    ],
+    "deliveryAddress": {
+      "fullName": "{{current_user_address_full_name}}",
+      "street": "{{current_user_address_street}}",
+      "city": "{{current_user_address_city}}",
+      "state": "{{current_user_address_state}}",
+      "pincode": "{{current_user_address_pincode}}"
+    },
+    "paymentMethod": "Credit Card",
+    "paymentStatus": "Completed",
+    "orderDate": "{{middle_timestamp}}",
+    "shippedDate": "{{middle_timestamp}}",
+    "deliveryDate": "{{end_timestamp}}",
+    "estimatedDeliveryDate": "{{end_timestamp}}",
+    "trackingNumber": "TRK-498591",
+    "courierPartner": "Express Shipping",
+    "isGift": false,
+    "giftMessage": null
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Sophia Lee",
+    "street": "4567 Pine Blvd",
+    "city": "Miami",
+    "state": "FL",
+    "pincode": "33101",
+    "phone": "3055559012",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "task_name": "How many payees do I have available to pay in the <category> category?",
+  "app_name": "banking",
+  "scenario_class": "CountPayeesInCategoryScenario",
+  "parameters": [
+    "category"
+  ],
+  "context_fields": [],
+  "description": "Count the number of billers (payees) available in a given category."
+}

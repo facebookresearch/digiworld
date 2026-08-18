@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "nickname": "Beast",
+    "make": "Fairmont",
+    "model": "T-150",
+    "color": "Black",
+    "year": 2018,
+    "plateNumber": "BEAST1",
+    "vehicleTypeId": 3,
+    "isDefault": 0,
+    "createdAt": "{{end_timestamp}}",
+    "updatedAt": "{{end_timestamp}}",
+    "metadata": null
+  }
+]

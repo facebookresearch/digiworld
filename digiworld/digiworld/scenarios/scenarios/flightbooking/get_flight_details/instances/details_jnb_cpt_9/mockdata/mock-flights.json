@@ -1,0 +1,19 @@
+[
+  {
+    "flight_id": "SA4899_2026-08-15",
+    "airline_id": "airline_sa",
+    "airline_code": "SA",
+    "flight_number": "SA4899",
+    "origin": "JNB",
+    "destination": "CPT",
+    "departure_time": "2026-08-15T20:15:00Z",
+    "arrival_time": "2026-08-16T00:37:00Z",
+    "duration_minutes": 262,
+    "fare": 1140.36,
+    "currency": "USD",
+    "seats_available": 156,
+    "aircraft_type": "Boeing 737-800",
+    "date": "2026-08-15",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "search-1",
+    "userId": 1,
+    "origin": "Seaside Terrace",
+    "destination": "Civic Center Hub",
+    "modeFilters": ["bus", "subway", "train"],
+    "searchedAt": "2024-11-24T08:15:00.000Z"
+  },
+  {
+    "id": "search-2",
+    "userId": 1,
+    "origin": "Civic Center Hub",
+    "destination": "Market Street Gateway",
+    "modeFilters": ["subway"],
+    "searchedAt": "2024-11-23T17:30:00.000Z"
+  },
+  {
+    "id": "search-3",
+    "userId": 1,
+    "origin": "Seaside Terrace",
+    "destination": "Innovation Park",
+    "modeFilters": ["train"],
+    "searchedAt": "2024-11-22T09:00:00.000Z"
+  },
+  {
+    "id": "search-4",
+    "userId": 1,
+    "origin": "University Square",
+    "destination": "Tech Plaza",
+    "modeFilters": ["subway", "bus"],
+    "searchedAt": "2024-11-21T14:45:00.000Z"
+  },
+  {
+    "id": "search-5",
+    "userId": 1,
+    "origin": "Harbor Exchange",
+    "destination": "Bayside Marina",
+    "modeFilters": ["bus"],
+    "searchedAt": "2024-11-20T11:20:00.000Z"
+  }
+]

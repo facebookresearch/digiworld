@@ -1,0 +1,10 @@
+{
+  "task_name": "Search for <query>",
+  "app_name": "ecommerce",
+  "scenario_class": "SearchForQueryScenario",
+  "parameters": [
+    "query"
+  ],
+  "context_fields": [],
+  "description": "Search for products using a search query"
+}

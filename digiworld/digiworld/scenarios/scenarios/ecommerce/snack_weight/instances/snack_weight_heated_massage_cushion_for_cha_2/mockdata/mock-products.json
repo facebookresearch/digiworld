@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Heated Massage Cushion for Chair",
+    "description": "Heated Massage Cushion fits most chairs and provides rolling massage nodes with adjustable heat up to 45\u202f\u00b0C. Six intensity levels and a remote control let you personalize the session. Ideal for relieving back and lumbar tension after a long day.",
+    "shortDescription": "Heated massage cushion for chair with customizable settings.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "ComfortWave Products",
+    "price": 1747.18,
+    "discountedPrice": 1118.2,
+    "discountPercent": 36,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 68,
+    "subcategoryName": "Massage",
+    "inStock": true,
+    "stockCount": 58,
+    "imageUrl": "/272_1",
+    "specs": "{\"ingredients\": \"Memory foam, 4 heating elements, 3 massage motors, fabric cover\", \"dosage\": \"Set timer 15-30 min, use up to 2 hours daily\", \"weight\": \"2.5kg\", \"expiryPeriod\": \"4 years\", \"madeIn\": \"Malaysia\", \"certifications\": \"CE, UL, ISO 9001\"}",
+    "tags": "[\"wellness\", \"health\", \"massage\", \"premium\", \"top-rated\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

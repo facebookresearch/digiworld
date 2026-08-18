@@ -1,0 +1,119 @@
+[
+  {
+    "id": 1,
+    "automationId": 1,
+    "actionType": "scene_execution",
+    "deviceId": null,
+    "sceneId": 2,
+    "actionValue": "{}",
+    "order": 1
+  },
+  {
+    "id": 2,
+    "automationId": 1,
+    "actionType": "device_control",
+    "deviceId": 4,
+    "sceneId": null,
+    "actionValue": "{\"target_temperature\": 72, \"mode\": \"auto\"}",
+    "order": 2
+  },
+  {
+    "id": 3,
+    "automationId": 2,
+    "actionType": "scene_execution",
+    "deviceId": null,
+    "sceneId": 3,
+    "actionValue": "{}",
+    "order": 1
+  },
+  {
+    "id": 4,
+    "automationId": 2,
+    "actionType": "device_control",
+    "deviceId": 4,
+    "sceneId": null,
+    "actionValue": "{\"target_temperature\": 68, \"mode\": \"auto\"}",
+    "order": 2
+  },
+  {
+    "id": 5,
+    "automationId": 3,
+    "actionType": "device_control",
+    "deviceId": 1,
+    "sceneId": null,
+    "actionValue": "{\"brightness\": 50, \"color_temperature\": 4000}",
+    "order": 1
+  },
+  {
+    "id": 7,
+    "automationId": 4,
+    "actionType": "device_control",
+    "deviceId": 4,
+    "sceneId": null,
+    "actionValue": "{\"target_temperature\": 70, \"mode\": \"cool\", \"fan_speed\": 3}",
+    "order": 1
+  },
+  {
+    "id": 8,
+    "automationId": 5,
+    "actionType": "scene_execution",
+    "deviceId": null,
+    "sceneId": 7,
+    "actionValue": "{}",
+    "order": 1
+  },
+  {
+    "id": 9,
+    "automationId": 5,
+    "actionType": "device_control",
+    "deviceId": 6,
+    "sceneId": null,
+    "actionValue": "{\"sensitivity\": 90, \"recording_enabled\": 1}",
+    "order": 2
+  },
+  {
+    "id": 10,
+    "automationId": 6,
+    "actionType": "device_control",
+    "deviceId": 11,
+    "sceneId": null,
+    "actionValue": "{\"brightness\": 90, \"color_temperature\": 5000}",
+    "order": 1
+  },
+  {
+    "id": 11,
+    "automationId": 7,
+    "actionType": "device_control",
+    "deviceId": 20,
+    "sceneId": null,
+    "actionValue": "{\"brightness\": 60, \"color_temperature\": 3500}",
+    "order": 1
+  },
+  {
+    "id": 13,
+    "automationId": 9,
+    "actionType": "device_control",
+    "deviceId": 2,
+    "sceneId": null,
+    "actionValue": "{\"brightness\": 0}",
+    "order": 1
+  },
+  {
+    "id": 14,
+    "automationId": 9,
+    "actionType": "device_control",
+    "deviceId": 8,
+    "sceneId": null,
+    "actionValue": "{\"volume\": 0}",
+    "order": 2
+  },
+  {
+    "id": 15,
+    "automationId": 10,
+    "actionType": "scene_execution",
+    "deviceId": null,
+    "sceneId": 6,
+    "actionValue": "{}",
+    "order": 1
+  }
+]

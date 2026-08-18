@@ -1,0 +1,10 @@
+"""Feasibility constraints for 'book_round_trip_and_get_date'.
+
+Requires airports to exist (for booking).
+"""
+
+from digiworld.scenarios.constraints import EntityExistsConstraint
+
+CONSTRAINTS = [
+    EntityExistsConstraint(table="airports", min_count=1),
+]

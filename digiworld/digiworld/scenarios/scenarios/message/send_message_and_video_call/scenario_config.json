@@ -1,0 +1,9 @@
+{
+  "task_name": "Send a message to <contact_name>, then call <contact_name> using the video call function",
+  "app_name": "message",
+  "scenario_class": "SendMessageAndVideoCallScenario",
+  "parameters": ["contact_name"],
+  "context_fields": [],
+  "description": "Send a message to a contact and then initiate a video call to the same contact.",
+  "additional_mockdata": true
+}

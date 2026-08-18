@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Fabric Closet Organizer with Drawers",
+    "description": "The fabric closet organizer hangs from a sturdy rod and includes three zippered drawers and multiple shelves for clothing, accessories, and shoes. Its breathable canvas material keeps garments fresh, and the detachable design allows for easy relocation.",
+    "shortDescription": "A hanging fabric closet organizer with drawers.",
+    "rating": 1.0,
+    "reviewCount": 1,
+    "seller": "Space Savers Inc.",
+    "price": 1634.96,
+    "discountedPrice": 1030.02,
+    "discountPercent": 37,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 21,
+    "subcategoryName": "Storage",
+    "inStock": true,
+    "stockCount": 31,
+    "imageUrl": "/82_1",
+    "specs": "{\"material\": \"600-D polyester fabric, wood base\", \"dimensions\": \"84\\\" H x 48\\\" W x 12\\\" D\", \"weight\": \"25 lbs\", \"warranty\": \"2-year limited\", \"color\": \"Navy blue\", \"careInstructions\": \"Spot clean fabric; wipe wood base with dry cloth; do not overload drawers\"}",
+    "tags": "[\"storage\", \"home\", \"kitchen\", \"premium\", \"top-rated\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "EcoFlow Portable Power Station",
+    "description": "A compact, high-capacity power station that delivers 1000Wh of clean energy for camping, emergencies, and off\u2011grid work.",
+    "shortDescription": "Portable high\u2011capacity power",
+    "price": 119.37,
+    "discountedPrice": 95.5,
+    "discountPercent": 20,
+    "rating": 3.4,
+    "reviewCount": 342,
+    "seller": "EcoTech Supplies",
+    "categoryName": "Home & Kitchen",
+    "subcategoryName": "Small Appliances",
+    "inStock": 1,
+    "stockCount": 189,
+    "imageUrl": "/product_9928",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

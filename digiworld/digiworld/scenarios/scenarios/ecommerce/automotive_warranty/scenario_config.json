@@ -1,0 +1,8 @@
+{
+  "task_name": "What's the warranty of the <item> automotive item?",
+  "app_name": "ecommerce",
+  "scenario_class": "AutomotiveWarrantyScenario",
+  "parameters": ["item"],
+  "context_fields": [],
+  "description": "Retrieve the warranty of an automotive product"
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Mosaic Masala",
+    "description": "Regional Indian street foods inspired by the flavors of Mumbai.",
+    "address": "630 Harbor Drive, San Diego, CA 92101",
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "logo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.6,
+    "deliveryFee": 5.92,
+    "minOrder": 8.0,
+    "deliveryRadius": 5,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

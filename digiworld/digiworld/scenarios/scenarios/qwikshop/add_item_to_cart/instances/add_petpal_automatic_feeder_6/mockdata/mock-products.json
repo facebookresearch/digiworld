@@ -1,0 +1,22 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "PetPal Automatic Feeder",
+    "description": "Programmable feeder dispenses up to 5 meals per day and includes a built\u2011in camera.",
+    "shortDescription": "Smart pet feeder",
+    "price": 86.18,
+    "discountedPrice": 86.18,
+    "discountPercent": 0,
+    "rating": 3.7,
+    "reviewCount": 117,
+    "seller": "HappyTails",
+    "categoryName": "Pet Supplies",
+    "subcategoryName": "Pet Health",
+    "inStock": 1,
+    "stockCount": 181,
+    "imageUrl": "/product_5374",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

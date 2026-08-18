@@ -1,0 +1,9 @@
+{
+  "task_name": "Add a <device_type> device to the room <room_name> with the name \"<device_name>\", then tell me the <info_type> of the device <device_name>",
+  "app_name": "smarthome",
+  "scenario_class": "AddDeviceAndQueryInfoScenario",
+  "parameters": ["device_type", "room_name", "device_name", "info_type"],
+  "context_fields": [],
+  "description": "Add a device to a room and then query information about that device",
+  "additional_mockdata": true
+}

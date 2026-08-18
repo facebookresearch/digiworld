@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 1,
+    "categoryId": 3,
+    "title": "How to Edit Videos in DaVinci Resolve",
+    "description": "Step\u2011by\u2011step guide on cutting, color\u2011grading, and exporting your first project using DaVinci Resolve's free version. Perfect for beginners!",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 683,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 3682,
+    "likeCount": 34,
+    "commentCount": 2,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

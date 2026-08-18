@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Ethan Anderson",
+    "street": "159 Hickory St",
+    "city": "Dallas",
+    "state": "TX",
+    "pincode": "75201",
+    "phone": "2145550777",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Aisha Williams",
+    "street": "2100 Cedar Court Suite 200",
+    "city": "Denver",
+    "state": "CO",
+    "pincode": "80203",
+    "phone": "7205558877",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

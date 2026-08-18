@@ -1,0 +1,50 @@
+[
+  {
+    "userId": "{{current_user_id}}",
+    "name": "Media Speaker",
+    "deviceTypeId": "{{device_type_id_by_name:Smart Speaker}}",
+    "roomId": 90001,
+    "status": "online",
+    "isOn": true,
+    "properties": "{\"volume\": 50, \"is_playing\": false, \"volume_control\": false, \"music_playback\": false, \"voice_assistant\": false, \"bluetooth\": false}",
+    "battery": 100,
+    "signalStrength": 95,
+    "firmwareVersion": "1.0.0",
+    "lastSeen": "{{recent_timestamp}}",
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  },
+  {
+    "userId": "{{current_user_id}}",
+    "name": "Media LED Strip",
+    "deviceTypeId": "{{device_type_id_by_name:LED Strips}}",
+    "roomId": 90001,
+    "status": "online",
+    "isOn": true,
+    "properties": "{\"brightness\": 50, \"color\": \"#ffffff\", \"color_mode\": \"white\", \"effects\": false, \"music_sync\": false}",
+    "battery": 100,
+    "signalStrength": 95,
+    "firmwareVersion": "1.0.0",
+    "lastSeen": "{{recent_timestamp}}",
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  },
+  {
+    "userId": "{{current_user_id}}",
+    "name": "Media AC",
+    "deviceTypeId": "{{device_type_id_by_name:Smart AC}}",
+    "roomId": 90001,
+    "status": "online",
+    "isOn": true,
+    "properties": "{\"temperature\": 72, \"target_temperature\": 72, \"humidity\": 50, \"fan_speed\": 1, \"mode\": \"auto\", \"scheduling\": false}",
+    "battery": 100,
+    "signalStrength": 95,
+    "firmwareVersion": "1.0.0",
+    "lastSeen": "{{recent_timestamp}}",
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

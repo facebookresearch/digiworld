@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "grace.liu@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Client Feedback Request for Recent Service",
+    "preview": "Hi, we would appreciate your feedback on the recen...",
+    "body": "Hi, we would appreciate your feedback on the recent service you received from our team. Your insights will help us improve and better serve you.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_grace_liu_client_feedback_request_for_re",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

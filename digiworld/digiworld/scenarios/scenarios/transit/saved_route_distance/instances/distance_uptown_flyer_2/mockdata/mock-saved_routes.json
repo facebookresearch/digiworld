@@ -1,0 +1,14 @@
+[
+  {
+    "id": "saved-uptown-flyer",
+    "userId": 1,
+    "name": "Uptown Flyer",
+    "originStopId": "stop-5",
+    "destinationStopId": "stop-12",
+    "preferredMode": "bus",
+    "remindersEnabled": true,
+    "departureReminderMinutes": 15,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

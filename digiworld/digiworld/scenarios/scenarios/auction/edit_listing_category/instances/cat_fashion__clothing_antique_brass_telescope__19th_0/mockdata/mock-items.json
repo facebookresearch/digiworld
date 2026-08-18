@@ -1,0 +1,22 @@
+[
+  {
+    "id": 751850012,
+    "title": "Antique Brass Telescope \u2013 19th Century Explorer\u2019s Instrument",
+    "description": "A fully functional brass telescope from the 1800s, complete with leather case and polishing kit.",
+    "categoryId": 10,
+    "sellerId": "{{current_user_id}}",
+    "price": 1414.08,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 13,
+    "imageUrl": "https://example.com/images/antique-brass-telescope-\u2013-19th-century-explorer\u2019s-instrument.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 727.98,
+    "currentBid": 1136.42,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

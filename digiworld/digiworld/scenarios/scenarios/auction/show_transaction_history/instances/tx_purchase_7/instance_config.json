@@ -1,0 +1,24 @@
+{
+  "parameters": {
+    "transactionType": "purchase"
+  },
+  "compatible_profiles": [
+    "budget_items",
+    "buy_now_focus",
+    "default",
+    "failed_payments",
+    "high_bid_volume",
+    "power_seller",
+    "premium_items"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T03:59:49.700167+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "task_name": "Add \"<quantity>\" of \"<item>\" to cart, then show me deals on items in \"<category>\" on sale for \"<percentage>\" or more",
+  "app_name": "qwikshop",
+  "scenario_class": "AddToCartAndShowDealsScenario",
+  "parameters": ["quantity", "item", "category", "percentage"],
+  "context_fields": [],
+  "description": "Add a product to the shopping cart, then find and report deals in a specific category.",
+  "additional_mockdata": true
+}

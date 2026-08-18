@@ -1,0 +1,20 @@
+{
+  "parameters": {
+    "video_1": "Tech Talk: Unboxing the Holo\u2011Lens Pro 3D Display",
+    "video_2": "Neon Skyline: Night Walk Through Luminara City",
+    "playlist_name": "Midnight Neon Vibes"
+  },
+  "compatible_profiles": [
+    "comments_disabled"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:56.285353+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754730127,
+    "title": "Vintage Leather Soccer Ball \u2013 Authentic 1970s Matchball",
+    "description": "A well\u2011preserved leather soccer ball from the 1970s, featuring original panel stitching and a nostalgic patina that adds historic charm to your collection.",
+    "categoryId": 6,
+    "sellerId": 2,
+    "price": 365.11,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/vintage-leather-soccer-ball-\u2013-authentic-1970s-matchball.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]
