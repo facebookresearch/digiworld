@@ -1,0 +1,20 @@
+{
+  "parameters": {
+    "stop_1": "Eagle Rock",
+    "stop_2": "Grand Avenue",
+    "time": "08:05"
+  },
+  "compatible_profiles": [
+    "many_lines"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:50.024608+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

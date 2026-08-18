@@ -1,0 +1,16 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "driverId": 2,
+    "pickupLocation": "{\"lat\": 40.727968, \"lng\": -73.988872, \"placename\": \"Chinese Hispanic Grocery, 130, Eldridge Street, Manhattan, USA\"}",
+    "dropLocation": "{\"lat\": 40.744772, \"lng\": -73.969648, \"placename\": \"Xi'an Famous Foods, 96, 8th Avenue, Manhattan, USA\"}",
+    "status": "completed",
+    "startTime": "{{middle_ride_time}}",
+    "endTime": "{{recent_ride_time}}",
+    "distanceKm": 3.5,
+    "fareAmount": 4.2,
+    "feedbackSubmitted": 0,
+    "paymentMode": "cash"
+  }
+]

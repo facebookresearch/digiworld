@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Dolce Vita Pasta",
+    "description": "Stone baked margherita pizza with San Marzano tomatoes and fresh basil.",
+    "address": "456 Oak Avenue, Brooklyn, NY 11201",
+    "latitude": 40.6892,
+    "longitude": -73.9857,
+    "logo": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.9,
+    "deliveryFee": 3.2,
+    "minOrder": 15.0,
+    "deliveryRadius": 7,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

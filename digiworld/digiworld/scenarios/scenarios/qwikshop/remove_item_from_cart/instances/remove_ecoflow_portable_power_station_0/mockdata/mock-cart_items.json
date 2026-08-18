@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "cartId": 1,
+    "userId": 1,
+    "productId": 9900,
+    "productName": "EcoFlow Portable Power Station",
+    "productImage": "/product_9900",
+    "shortDescription": "Portable high\u2011capacity power",
+    "seller": "EcoTech Supplies",
+    "quantity": 1,
+    "price": 78.37,
+    "discountedPrice": 78.37,
+    "total": 78.37,
+    "inStock": 1
+  }
+]

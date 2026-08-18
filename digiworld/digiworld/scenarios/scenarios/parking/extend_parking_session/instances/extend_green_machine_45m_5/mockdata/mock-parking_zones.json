@@ -1,0 +1,19 @@
+[
+  {
+    "id": 99806,
+    "name": "Level 2",
+    "description": "Parking zone L2Z99",
+    "latitude": 40.735461,
+    "longitude": -73.973296,
+    "zoneCode": "L2Z99",
+    "operator": "City Parking Authority",
+    "zoneType": "lot",
+    "capacity": 271,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.1,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

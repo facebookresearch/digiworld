@@ -1,0 +1,8 @@
+{
+  "task_name": "Create a new \"<category>\" BuyNow listing, titled \"<title>\", set the price to \"<price>\"",
+  "app_name": "auction",
+  "scenario_class": "CreateBuynowListingScenario",
+  "parameters": ["category", "title", "price"],
+  "context_fields": [],
+  "description": "Create a new BuyNow listing with the specified category, title, and price."
+}

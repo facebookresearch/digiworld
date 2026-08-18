@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Magnetic Dashboard Compass with Backlight",
+    "description": "This compact magnetic compass snaps onto any metal surface of the dashboard, providing reliable direction without electronic interference. A built-in LED backlight ensures readability at night, and the protective glass cover guards against scratches. Perfect for off-road adventures and daily commuting.",
+    "shortDescription": "A magnetic dashboard compass with night-time backlight.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "NavTech Instruments",
+    "price": 1524.36,
+    "discountedPrice": 792.67,
+    "discountPercent": 48,
+    "categoryId": 8,
+    "categoryName": "Automotive",
+    "subcategoryId": 57,
+    "subcategoryName": "Car Accessories",
+    "inStock": true,
+    "stockCount": 144,
+    "imageUrl": "/228_1",
+    "specs": "{\"material\": \"Brass base with acrylic cover\", \"compatibility\": \"Universal for all vehicle dashboards, magnetic attachment\", \"dimensions\": \"6 x 6 x 2 cm\", \"weight\": \"80 g\", \"warranty\": \"1-year warranty\", \"madeIn\": \"Taiwan\"}",
+    "tags": "[\"car\", \"automotive\", \"accessories\", \"high-quality\", \"premium\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

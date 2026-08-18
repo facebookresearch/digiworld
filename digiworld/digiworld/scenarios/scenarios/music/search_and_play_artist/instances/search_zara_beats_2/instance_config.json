@@ -1,0 +1,18 @@
+{
+  "parameters": {
+    "artist_name": "Sahara Echo"
+  },
+  "compatible_profiles": [
+    "high_rated_content"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T03:59:50.464783+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

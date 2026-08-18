@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "cart_id": "{{current_user_cart_id}}",
+    "user_id": "{{current_user_id}}",
+    "product_id": 112,
+    "product_name": "GPS Running Watch with Heart\u2011Rate Monitor",
+    "product_image": "https://picsum.photos/seed/mock/600/400",
+    "short_description": "Mock product",
+    "seller": "PulseTech Gadgets",
+    "quantity": 1,
+    "price": 465.31,
+    "discounted_price": 325.72,
+    "total": 325.72,
+    "saved_amount": 139.59,
+    "in_stock": 0,
+    "category_name": "Sports & Outdoors",
+    "subcategory_name": "Running",
+    "sku": "",
+    "added_at": "2025-06-15 12:00:00.000",
+    "created_at": "2025-06-15 12:00:00.000",
+    "updated_at": "2025-06-15 12:00:00.000"
+  }
+]

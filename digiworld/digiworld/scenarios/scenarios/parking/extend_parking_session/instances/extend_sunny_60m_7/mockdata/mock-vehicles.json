@@ -1,0 +1,17 @@
+[
+  {
+    "id": 99908,
+    "userId": "{{current_user_id}}",
+    "nickname": "Sunny",
+    "make": "Nimbus",
+    "model": "Fern",
+    "color": "Green",
+    "year": 2020,
+    "plateNumber": "SUNNY",
+    "vehicleTypeId": 5,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

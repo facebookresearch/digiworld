@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754780142,
+    "title": "Art Deco Sapphire and Diamond Drop Earrings \u2013 Certified Authentic",
+    "description": "These Art Deco drop earrings showcase a deep sapphire flanked by brilliant diamonds; they are set in 14\u2011k gold, polished to a high shine, and accompanied by a GIA grading report.",
+    "categoryId": 10,
+    "sellerId": 2,
+    "price": 964.15,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 7,
+    "imageUrl": "https://example.com/images/art-deco-sapphire-and-diamond-drop-earrings-\u2013-certified-authentic.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 53.27,
+    "currentBid": 118.64,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

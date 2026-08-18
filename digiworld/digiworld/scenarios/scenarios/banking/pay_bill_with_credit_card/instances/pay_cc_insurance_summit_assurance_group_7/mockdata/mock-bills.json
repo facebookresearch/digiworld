@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "billerId": 9997,
+    "accountId": null,
+    "billNumber": null,
+    "amount": 119.47,
+    "dueDate": "{{latest_timestamp}}",
+    "dueDay": null,
+    "isRecurring": 0,
+    "recurrenceInterval": 30,
+    "nextDueDate": null,
+    "autoPayEnabled": 0,
+    "autoPayAccountId": null,
+    "minimumPaymentAmount": null,
+    "status": "pending",
+    "paidDate": null,
+    "paidAmount": null,
+    "lateFee": 0.0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

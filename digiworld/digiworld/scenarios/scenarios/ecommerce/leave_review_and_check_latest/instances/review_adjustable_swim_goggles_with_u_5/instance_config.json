@@ -1,0 +1,21 @@
+{
+  "parameters": {
+    "item": "Adjustable Swim Goggles with UV Protection",
+    "star_rating": "1",
+    "review_title": "Too loud for my taste",
+    "review_content": "The sound quality is decent, but the volume is too high for my liking, even at the lowest setting. It distorts a bit and is not suitable for quiet environments. Might work for others who prefer louder audio."
+  },
+  "compatible_profiles": [
+    "power_shopper"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:00.205237+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

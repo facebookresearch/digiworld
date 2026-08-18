@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754740131,
+    "title": "Signed Original Baseball Card \u2013 1952 Mickey Mantle Rookie Card",
+    "description": "Mint\u2011condition 1952 Mickey Mantle rookie card, signed by the legend, graded PSA 9.",
+    "categoryId": 2,
+    "sellerId": "{{current_user_id}}",
+    "price": 965.32,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 8,
+    "imageUrl": "https://example.com/images/signed-original-baseball-card-\u2013-1952-mickey-mantle-rookie-card.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 393.55,
+    "currentBid": 501.84,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

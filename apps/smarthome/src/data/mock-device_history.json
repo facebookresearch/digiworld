@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "deviceId": 1,
+    "eventType": "state_change",
+    "oldValue": "{\"brightness\": 50, \"color_temperature\": 3000}",
+    "newValue": "{\"brightness\": 75, \"color_temperature\": 3000, \"description\": \"Living Room Light brightness set to 75% (previously 50%)\"}",
+    "timestamp": "2024-03-15 14:30:00"
+  },
+  {
+    "id": 2,
+    "deviceId": 4,
+    "eventType": "state_change",
+    "oldValue": "{\"target_temperature\": 72, \"mode\": \"auto\"}",
+    "newValue": "{\"target_temperature\": 70, \"mode\": \"cool\", \"description\": \"Bedroom AC set to 70°F (previously 72°F)\"}",
+    "timestamp": "2024-03-15 14:15:00"
+  },
+  {
+    "id": 3,
+    "deviceId": 6,
+    "eventType": "security",
+    "oldValue": "{\"motion_detection\": 0}",
+    "newValue": "{\"motion_detection\": 1, \"severity\": \"medium\", \"description\": \"Bedroom Security Camera motion detection enabled\"}",
+    "timestamp": "2024-03-15 14:25:00"
+  },
+  {
+    "id": 4,
+    "deviceId": 16,
+    "eventType": "status_change",
+    "oldValue": "{\"status\": \"online\"}",
+    "newValue": "{\"is_on\": 0, \"status\": \"offline\", \"battery\": 45, \"description\": \"Bedroom Light turned off. Device is now offline\"}",
+    "timestamp": "2024-03-14 22:15:00"
+  },
+  {
+    "id": 5,
+    "deviceId": 9,
+    "eventType": "state_change",
+    "oldValue": "{\"volume\": 0, \"is_playing\": 0}",
+    "newValue": "{\"volume\": 45, \"is_playing\": 1, \"description\": \"Kitchen Speaker volume set to 45 (previously 0)\"}",
+    "timestamp": "2024-03-15 10:15:00"
+  },
+  {
+    "id": 6,
+    "deviceId": 7,
+    "eventType": "security",
+    "oldValue": "{\"motion_detection\": 0}",
+    "newValue": "{\"motion_detection\": 1, \"severity\": \"medium\", \"description\": \"Backyard Camera Motion detection enabled\"}",
+    "timestamp": "2024-03-15 13:45:00"
+  },
+  {
+    "id": 7,
+    "deviceId": 14,
+    "eventType": "state_change",
+    "oldValue": "{\"is_on\": 0}",
+    "newValue": "{\"is_on\": 1, \"description\": \"Kitchen plug turned on. Device is now online\"}",
+    "timestamp": "2024-03-15 09:30:00"
+  },
+  {
+    "id": 8,
+    "deviceId": 6,
+    "eventType": "error",
+    "oldValue": "{\"is_on\": 1}",
+    "newValue": "{\"is_on\": 0, \"description\": \"Kitchen plug turned off. Device is now offline\"}",
+    "timestamp": "2024-03-15 11:20:00"
+  },
+  {
+    "id": 9,
+    "deviceId": 1,
+    "eventType": "usage",
+    "oldValue": "{\"brightness\": 45}",
+    "newValue": "{\"brightness\": 75, \"description\": \"Living Room Light brightness set to 75% (previously 45%)\"}",
+    "timestamp": "2024-03-15 14:00:00"
+  },
+  {
+    "id": 10,
+    "deviceId": 4,
+    "eventType": "state_change",
+    "oldValue": "{\"temperature\": 75, \"humidity\": 50}",
+    "newValue": "{\"temperature\": 72, \"humidity\": 45, \"description\": \"Bedroom AC set to 72°F (previously 75°F)\"}",
+    "timestamp": "2024-03-15 14:10:00"
+  }
+]

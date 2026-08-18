@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "vehicleTypeId": 1,
+    "ratePerHour": 2.5,
+    "currency": "USD",
+    "createdAt": "2025-11-27T10:51:13.126534"
+  },
+  {
+    "id": 2,
+    "vehicleTypeId": 2,
+    "ratePerHour": 1.0,
+    "currency": "USD",
+    "createdAt": "2025-11-27T10:51:13.126539"
+  },
+  {
+    "id": 3,
+    "vehicleTypeId": 3,
+    "ratePerHour": 3.5,
+    "currency": "USD",
+    "createdAt": "2025-11-27T10:51:13.126541"
+  },
+  {
+    "id": 4,
+    "vehicleTypeId": 4,
+    "ratePerHour": 4.0,
+    "currency": "USD",
+    "createdAt": "2025-11-27T10:51:13.126544"
+  },
+  {
+    "id": 5,
+    "vehicleTypeId": 5,
+    "ratePerHour": 3.0,
+    "currency": "USD",
+    "createdAt": "2025-11-27T10:51:13.126546"
+  }
+]

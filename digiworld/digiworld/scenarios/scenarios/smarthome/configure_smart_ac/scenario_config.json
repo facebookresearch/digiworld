@@ -1,0 +1,9 @@
+{
+  "task_name": "Turn on the Smart AC named \"<device_name>\", set temperature to <temperature> degrees, set the fan speed to <fan_speed>, set mode to <mode>, and <scheduling> scheduling",
+  "app_name": "smarthome",
+  "scenario_class": "ConfigureSmartAcScenario",
+  "parameters": ["device_name", "temperature", "fan_speed", "mode", "scheduling"],
+  "context_fields": [],
+  "description": "Turn on a Smart AC and configure its temperature, fan speed, mode, and scheduling.",
+  "additional_mockdata": true
+}

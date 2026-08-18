@@ -1,0 +1,18 @@
+[
+  {
+    "flight_id": "FC_AA7912",
+    "airline_id": "airline_aa",
+    "airline_code": "AA",
+    "flight_number": "AA7912",
+    "origin": "LAX",
+    "destination": "JFK",
+    "departure_time": "05:00",
+    "arrival_time": "07:16",
+    "duration_minutes": 136,
+    "fare": 502.46,
+    "currency": "USD",
+    "seats_available": 164,
+    "aircraft_type": "Boeing 737-800",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "task_name": "What <entity_type> are affected by the \"<alert_title>\" service alert?",
+  "app_name": "transit",
+  "scenario_class": "AlertAffectedEntitiesScenario",
+  "parameters": [
+    "entity_type",
+    "alert_title"
+  ],
+  "context_fields": [],
+  "description": "Retrieve the lines or stops affected by a specific service alert."
+}

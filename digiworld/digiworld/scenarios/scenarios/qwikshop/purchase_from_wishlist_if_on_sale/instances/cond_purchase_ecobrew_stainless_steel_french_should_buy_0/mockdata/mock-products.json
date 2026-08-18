@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9900,
+    "name": "EcoBrew Stainless Steel French Press",
+    "description": "A 1-liter stainless steel French press with double-walled insulation keeps your coffee hot for hours while the fine mesh filter ensures a smooth brew.",
+    "shortDescription": "Stainless steel French press that retains heat and delivers smooth coffee.",
+    "price": 60.44,
+    "discountedPrice": 44.12,
+    "discountPercent": 27,
+    "rating": 3.5,
+    "reviewCount": 318,
+    "seller": "GreenLeaf Home Goods",
+    "categoryName": "Home & Kitchen",
+    "subcategoryName": "Cookware",
+    "inStock": 1,
+    "stockCount": 16,
+    "imageUrl": "/product_4257",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

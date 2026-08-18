@@ -1,0 +1,8 @@
+{
+  "task_name": "Take me to the <page_name> page, then tell me the support <info_type> for the Ryde app",
+  "app_name": "ryde",
+  "scenario_class": "NavigateToPageAndCheckSupportScenario",
+  "parameters": ["page_name", "info_type"],
+  "context_fields": [],
+  "description": "Navigate to a specific page and then report the support contact information"
+}

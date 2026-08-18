@@ -1,0 +1,10 @@
+{
+  "task_name": "Set a monthly transaction limit of <amount>",
+  "app_name": "payment",
+  "scenario_class": "SetMonthlyTransactionLimitScenario",
+  "parameters": [
+    "amount"
+  ],
+  "context_fields": [],
+  "description": "Verify that the user sets their monthly transaction limit to the specified amount."
+}

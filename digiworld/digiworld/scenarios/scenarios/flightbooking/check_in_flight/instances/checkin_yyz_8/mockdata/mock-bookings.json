@@ -1,0 +1,53 @@
+[
+  {
+    "booking_id": "BK-TEST-CIWTIQJ7",
+    "booking_reference": "CIWTIQJ7",
+    "user_id": "{{current_user_id}}",
+    "trip_type": "one_way",
+    "booking_date": "{{end_timestamp}}",
+    "status": "confirmed",
+    "payment_status": "paid",
+    "total_price": 1120.19,
+    "refund_amount": 0,
+    "amount_paid": 1120.19,
+    "currency": "USD",
+    "flights": [
+      {
+        "flight_id": "AC4770_{{tomorrow_date}}",
+        "airline_code": "AC",
+        "flight_number": "AC4770",
+        "origin": "MCO",
+        "destination": "YYZ",
+        "departure_time": "{{tomorrow_date}}T12:00:00Z",
+        "arrival_time": "{{tomorrow_date}}T19:01:00Z",
+        "duration_minutes": 421,
+        "fare": 1120.19,
+        "segment": "outbound",
+        "status": "confirmed"
+      }
+    ],
+    "passengers": [
+      {
+        "passenger_id": "P-CIWTIQJ7-340062",
+        "first_name": "Test",
+        "last_name": "Traveler",
+        "email": "test.traveler@example.com",
+        "phone": "+1-555-2104",
+        "date_of_birth": "2003-01-28",
+        "passport_number": "X54349361",
+        "seat_assignments": [
+          {
+            "flight_id": "AC4770_{{tomorrow_date}}",
+            "seat_number": "3E",
+            "check_in_status": "not_checked_in",
+            "check_in_time": null
+          }
+        ],
+        "ticket_number": "TK-CIWTIQJ7-340062",
+        "created_at": "2026-01-01T00:00:00Z"
+      }
+    ],
+    "created_at": "{{end_timestamp}}",
+    "updated_at": "{{end_timestamp}}"
+  }
+]

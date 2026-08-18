@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 1,
+    "categoryId": 3,
+    "title": "Build a Simple Arduino LED Circuit",
+    "description": "Follow along as I wire an LED to an Arduino, program it, and get it blinking in minutes.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 2765,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 534,
+    "likeCount": 76,
+    "commentCount": 12,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

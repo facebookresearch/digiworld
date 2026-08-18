@@ -1,0 +1,41 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Nebula PlayCore",
+    "description": "Nebula PlayCore is a next-generation console that supports 8K gaming and ray-traced graphics. It includes a custom SSD with 1 TB capacity for ultra-fast load times, and a dual-sense controller with haptic feedback. The system also offers backward compatibility with a wide library of classic titles.",
+    "shortDescription": "Next-gen console supporting 8K gaming, ray tracing, and fast SSD storage.",
+    "rating": 5.0,
+    "reviewCount": 2,
+    "seller": "Nebula Gaming",
+    "price": 831.94,
+    "discountedPrice": 524.12,
+    "discountPercent": 37,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 8,
+    "subcategoryName": "Gaming Consoles",
+    "inStock": true,
+    "stockCount": 176,
+    "imageUrl": "/29_1",
+    "specs": "{\"display\": \"N/A\", \"processor\": \"Custom Radiant Zen 2 + RDNX 2\", \"ram\": \"16 GB GDDR6\", \"storage\": \"1 TB SSD\", \"battery\": \"N/A\", \"os\": \"PlayCore OS\", \"connectivity\": \"Wi-Fi 6, Bluetooth 5.2, Ethernet\"}",
+    "tags": "[\"electronics\", \"gaming\", \"consoles\", \"top-rated\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000",
+    "reviews": [
+      {
+        "userName": "Reviewer",
+        "rating": 5,
+        "title": "Stunning Graphics and Seamless Performance",
+        "comment": "The Nebula PlayCore's 4K HDR output blew me away, delivering crisp colors and deep blacks in every game. The built-in SSD loads titles in seconds, and the adaptive triggers on the controller add a new level of immersion. I also appreciate the quiet cooling system that keeps the console cool even during marathon sessions.",
+        "reviewDate": "2025-08-05T21:25:11.544524Z"
+      },
+      {
+        "userName": "Reviewer",
+        "rating": 5,
+        "title": "Best Console Experience Ever",
+        "comment": "I love the sleek design and the intuitive UI of the Nebula PlayCore, which makes navigating my library a breeze. The ray-tracing capabilities make even older games look brand new, and the integrated Wi-Fi 6 ensures lag-free online play. This console truly feels future-ready and has become the centerpiece of my gaming setup.",
+        "reviewDate": "2025-05-05T01:57:19.544530Z"
+      }
+    ]
+  }
+]

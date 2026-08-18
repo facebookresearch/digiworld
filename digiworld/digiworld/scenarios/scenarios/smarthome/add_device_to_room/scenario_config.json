@@ -1,0 +1,9 @@
+{
+  "task_name": "Add the device <device_type> to the room <room_name> with the Device Name <device_name>",
+  "app_name": "smarthome",
+  "scenario_class": "AddDeviceToRoomScenario",
+  "parameters": ["device_type", "room_name", "device_name"],
+  "context_fields": [],
+  "description": "Add a specific device type to a room with a custom name",
+  "additional_mockdata": true
+}

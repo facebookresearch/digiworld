@@ -1,0 +1,22 @@
+[
+  {
+    "id": 751820003,
+    "title": "Vintage 1970s Mid-Century Modern Walnut Coffee Table \u2013 $350",
+    "description": "Solid walnut top with tapered legs, gently worn patina, perfect for a retro living room.",
+    "categoryId": 1,
+    "sellerId": "{{current_user_id}}",
+    "price": 712.73,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/vintage-1970s-mid-century-modern-walnut-coffee-table-\u2013-$350.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

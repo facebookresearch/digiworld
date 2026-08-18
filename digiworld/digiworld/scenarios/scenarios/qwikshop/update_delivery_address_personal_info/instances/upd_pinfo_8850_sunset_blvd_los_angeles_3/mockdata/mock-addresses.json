@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "David Brown",
+    "street": "8850 Sunset Blvd",
+    "city": "Los Angeles",
+    "state": "CA",
+    "pincode": "90069",
+    "phone": "3235553310",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

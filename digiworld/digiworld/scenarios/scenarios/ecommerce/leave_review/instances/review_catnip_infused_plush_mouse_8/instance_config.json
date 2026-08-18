@@ -1,0 +1,21 @@
+{
+  "parameters": {
+    "item": "Catnip-Infused Plush Mouse",
+    "star_rating": "2",
+    "review_title": "Easy to set up and use",
+    "review_content": "Installation was a breeze\u2014just a few clicks and it was up and running. The user manual was clear, and the interface is intuitive. I was able to start using it right away without any hiccups."
+  },
+  "compatible_profiles": [
+    "power_shopper"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:03.859724+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

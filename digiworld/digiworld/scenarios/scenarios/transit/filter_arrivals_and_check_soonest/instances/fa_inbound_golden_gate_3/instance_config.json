@@ -1,0 +1,21 @@
+{
+  "parameters": {
+    "stop_name": "Old Town Square",
+    "direction_filter": "Inbound",
+    "direction": "inbound",
+    "line_name": "Canyon Ridge Line"
+  },
+  "compatible_profiles": [
+    "default"
+  ],
+  "metadata": {
+    "created_at": "2026-04-11T00:00:00.000000+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Manual instance for composed scenario",
+    "validated_by": null
+  }
+}

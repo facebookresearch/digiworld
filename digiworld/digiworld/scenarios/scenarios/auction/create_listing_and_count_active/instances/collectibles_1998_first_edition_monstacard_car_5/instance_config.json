@@ -1,0 +1,30 @@
+{
+  "parameters": {
+    "category": "Antiques & Collectibles",
+    "title": "1998 First Edition Monstacard Card \u2013 Charizard Holo (Mint)",
+    "startbid": "274.75",
+    "days": "4"
+  },
+  "compatible_profiles": [
+    "auction_heavy",
+    "budget_items",
+    "buy_now_focus",
+    "default",
+    "ending_soon",
+    "failed_payments",
+    "high_bid_volume",
+    "new_seller",
+    "power_seller",
+    "premium_items"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:45.118972+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

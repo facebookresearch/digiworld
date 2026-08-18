@@ -1,0 +1,53 @@
+[
+  {
+    "booking_id": "BK-TEST-VDAHXTHV",
+    "booking_reference": "VDAHXTHV",
+    "user_id": "{{current_user_id}}",
+    "trip_type": "one_way",
+    "booking_date": "{{end_timestamp}}",
+    "status": "confirmed",
+    "payment_status": "paid",
+    "total_price": 841.57,
+    "refund_amount": 0,
+    "amount_paid": 841.57,
+    "currency": "USD",
+    "flights": [
+      {
+        "flight_id": "AF7543_2026-08-15",
+        "airline_code": "AF",
+        "flight_number": "AF7543",
+        "origin": "CDG",
+        "destination": "JFK",
+        "departure_time": "2026-08-15T12:15:00Z",
+        "arrival_time": "2026-08-15T17:20:00Z",
+        "duration_minutes": 305,
+        "fare": 841.57,
+        "segment": "outbound",
+        "status": "confirmed"
+      }
+    ],
+    "passengers": [
+      {
+        "passenger_id": "P-VDAHXTHV-214975",
+        "first_name": "Test",
+        "last_name": "Traveler",
+        "email": "test.traveler@example.com",
+        "phone": "+1-555-3504",
+        "date_of_birth": "1995-03-26",
+        "passport_number": "X66661351",
+        "seat_assignments": [
+          {
+            "flight_id": "AF7543_2026-08-15",
+            "seat_number": "20A",
+            "check_in_status": "not_checked_in",
+            "check_in_time": null
+          }
+        ],
+        "ticket_number": "TK-VDAHXTHV-214975",
+        "created_at": "2026-01-01T00:00:00Z"
+      }
+    ],
+    "created_at": "{{end_timestamp}}",
+    "updated_at": "{{end_timestamp}}"
+  }
+]

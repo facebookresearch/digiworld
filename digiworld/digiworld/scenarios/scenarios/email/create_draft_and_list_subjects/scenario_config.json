@@ -1,0 +1,10 @@
+{
+  "task_name": "Create a draft email with subject \"<subject>\", then tell me the subjects of all my current email drafts",
+  "app_name": "email",
+  "scenario_class": "CreateDraftAndListSubjectsScenario",
+  "parameters": [
+    "subject"
+  ],
+  "context_fields": [],
+  "description": "Composed scenario: create a draft email with a given subject, then report the subjects of all current email drafts."
+}

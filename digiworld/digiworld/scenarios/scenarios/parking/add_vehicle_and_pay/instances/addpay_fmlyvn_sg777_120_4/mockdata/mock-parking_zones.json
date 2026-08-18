@@ -1,0 +1,19 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Speedway Garage",
+    "description": "Parking zone SG777",
+    "latitude": 40.732183,
+    "longitude": -73.989577,
+    "zoneCode": "SG777",
+    "operator": "City Parking Authority",
+    "zoneType": "underground",
+    "capacity": 112,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.16,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

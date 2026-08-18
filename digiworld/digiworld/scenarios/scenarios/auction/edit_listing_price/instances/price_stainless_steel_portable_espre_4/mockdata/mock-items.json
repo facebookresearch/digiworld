@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754030034,
+    "title": "Stainless Steel Portable Espresso Maker \u2013 350ml",
+    "description": "Compact, press\u2011type espresso maker; stainless steel body delivers barista\u2011grade shots on the go.",
+    "categoryId": 12,
+    "sellerId": "{{current_user_id}}",
+    "price": 1453.95,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/stainless-steel-portable-espresso-maker-\u2013-350ml.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

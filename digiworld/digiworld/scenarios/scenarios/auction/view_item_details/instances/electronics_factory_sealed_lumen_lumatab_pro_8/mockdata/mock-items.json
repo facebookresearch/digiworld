@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754210090,
+    "title": "Factory-Sealed Lumen LumaTab Pro 12.9\" 2023, Wi\u2011Fi Model",
+    "description": "Factory\u2011sealed Lumen LumaTab Pro 12.9\u2011inch (2023) Wi\u2011Fi model, unopened box, includes original accessories; ideal for tech enthusiasts wanting the latest tablet straight from the manufacturer.",
+    "categoryId": 1,
+    "sellerId": "{{current_user_id}}",
+    "price": 1453.95,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 7,
+    "imageUrl": "https://example.com/images/factory-sealed-apple-ipad-pro-12.9\"-2023,-wi\u2011fi-model.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 743.51,
+    "currentBid": 770.77,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

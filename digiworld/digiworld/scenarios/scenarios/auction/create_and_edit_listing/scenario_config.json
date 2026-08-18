@@ -1,0 +1,9 @@
+{
+  "task_name": "Create a new \"<category>\" BuyNow listing titled \"<title>\" with price \"<price>\", then convert it to an Auction with a starting bid of \"<startBid>\"",
+  "app_name": "auction",
+  "scenario_class": "CreateAndEditListingScenario",
+  "parameters": ["category", "title", "price", "startBid"],
+  "context_fields": [],
+  "description": "Create a BuyNow listing and then convert it to an auction with a starting bid.",
+  "additional_mockdata": false
+}

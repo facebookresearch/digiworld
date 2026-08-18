@@ -1,0 +1,10 @@
+{
+  "task_name": "It looks like my usual stop is affected by the \"<alert_title>\" service alert, tell me the recommended alternative(s)",
+  "app_name": "transit",
+  "scenario_class": "AlertAlternativesScenario",
+  "parameters": [
+    "alert_title"
+  ],
+  "context_fields": [],
+  "description": "Retrieve the recommended alternatives for a specific service alert."
+}

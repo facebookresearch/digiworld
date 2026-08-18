@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Sofia Patel",
+    "street": "3005 Pine Street",
+    "city": "Chicago",
+    "state": "IL",
+    "pincode": "60657",
+    "phone": "3125554321",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

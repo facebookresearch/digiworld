@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "contactName": "Quillon Sablecroft",
+    "contactEmail": "quillon.sablecroft@nexuspay.io",
+    "contactPhone": "+19307135116",
+    "isEnrolled": 1,
+    "isFavorite": 0,
+    "lastSentAmount": null,
+    "lastSentDate": null,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

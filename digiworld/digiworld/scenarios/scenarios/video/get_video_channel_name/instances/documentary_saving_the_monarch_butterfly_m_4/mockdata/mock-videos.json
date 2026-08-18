@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 9990,
+    "categoryId": 3,
+    "title": "Saving the Monarch Butterfly Migration",
+    "description": "An in\u2011depth look at conservation efforts protecting monarchs across North America, featuring scientists and volunteers.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 936,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 3627,
+    "likeCount": 48,
+    "commentCount": 6,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

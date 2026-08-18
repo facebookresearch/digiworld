@@ -1,0 +1,19 @@
+[
+  {
+    "flight_id": "EK9669_2026-08-15",
+    "airline_id": "airline_ek",
+    "airline_code": "EK",
+    "flight_number": "EK9669",
+    "origin": "CDG",
+    "destination": "DXB",
+    "departure_time": "2026-08-15T05:00:00Z",
+    "arrival_time": "2026-08-15T09:08:00Z",
+    "duration_minutes": 248,
+    "fare": 1199.18,
+    "currency": "USD",
+    "seats_available": 97,
+    "aircraft_type": "Airbus A320neo",
+    "date": "2026-08-15",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

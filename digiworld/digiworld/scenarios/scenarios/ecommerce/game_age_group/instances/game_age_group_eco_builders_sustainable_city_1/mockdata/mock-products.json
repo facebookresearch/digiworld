@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Eco Builders: Sustainable City",
+    "description": "Eco Builders: Sustainable City challenges families to construct a thriving metropolis using eco\u2011friendly resources and renewable energy cards. With clear instructions and over 200 wooden pieces, the game teaches environmental stewardship while delivering fun gameplay for 3\u20116 players.",
+    "shortDescription": "Build an eco\u2011friendly city while learning sustainability concepts.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Greenleaf Games",
+    "price": 1773.88,
+    "discountedPrice": 886.94,
+    "discountPercent": 50,
+    "categoryId": 7,
+    "categoryName": "Toys & Games",
+    "subcategoryId": 49,
+    "subcategoryName": "Board Games",
+    "inStock": true,
+    "stockCount": 9,
+    "imageUrl": "/194_1",
+    "specs": "{\"ageRange\": \"8-12 years\", \"material\": \"Recycled cardboard, soy-based inks\", \"dimensions\": \"14 x 10 x 2.5 inches\", \"batteryRequired\": \"No\", \"warranty\": \"1 year limited\", \"safetyRating\": \"ASTM F963\"}",
+    "tags": "[\"board\", \"games\", \"toys\", \"popular\", \"premium\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

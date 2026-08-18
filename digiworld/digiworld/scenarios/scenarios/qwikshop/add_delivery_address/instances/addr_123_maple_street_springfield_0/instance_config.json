@@ -1,0 +1,31 @@
+{
+  "parameters": {
+    "street": "123 Maple Street",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62704",
+    "country": "United States",
+    "firstName": "John",
+    "lastName": "Doe",
+    "phone": "2175550198"
+  },
+  "compatible_profiles": [
+    "bulk_quantity",
+    "default",
+    "heavy_discounts",
+    "high_order_volume",
+    "large_orders",
+    "new_user",
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-03-31T23:45:05.276314+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

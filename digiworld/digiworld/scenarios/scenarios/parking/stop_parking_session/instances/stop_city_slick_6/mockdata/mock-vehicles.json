@@ -1,0 +1,17 @@
+[
+  {
+    "id": 99907,
+    "userId": "{{current_user_id}}",
+    "nickname": "City Slick",
+    "make": "Mini",
+    "model": "Cooper",
+    "color": "Yellow",
+    "year": 2021,
+    "plateNumber": "SMALL1",
+    "vehicleTypeId": 7,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

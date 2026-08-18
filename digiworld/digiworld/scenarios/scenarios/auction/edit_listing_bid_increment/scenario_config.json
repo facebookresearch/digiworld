@@ -1,0 +1,12 @@
+{
+  "task_name": "Edit the listing for \"<title>\", change the Bid Increment to \"<BidIncrement>\"",
+  "app_name": "auction",
+  "scenario_class": "EditListingBidIncrementScenario",
+  "parameters": [
+    "title",
+    "BidIncrement"
+  ],
+  "context_fields": [],
+  "additional_mockdata": true,
+  "description": "Edit an auction listing to change its bid increment amount."
+}

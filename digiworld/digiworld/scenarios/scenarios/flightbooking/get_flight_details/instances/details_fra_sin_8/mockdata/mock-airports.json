@@ -1,0 +1,18 @@
+[
+  {
+    "code": "FRA",
+    "name": "FRA International Airport",
+    "city": "FRA",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "code": "SIN",
+    "name": "SIN International Airport",
+    "city": "SIN",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

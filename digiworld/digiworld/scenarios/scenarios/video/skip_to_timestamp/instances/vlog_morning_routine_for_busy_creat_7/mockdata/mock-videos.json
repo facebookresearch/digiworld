@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 1,
+    "categoryId": 7,
+    "title": "Morning Routine for Busy Creators",
+    "description": "I break down my sunrise routine, including quick workouts, meal prep, and mindset practices that keep my creative flow going all day.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 793,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 6165,
+    "likeCount": 50,
+    "commentCount": 13,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

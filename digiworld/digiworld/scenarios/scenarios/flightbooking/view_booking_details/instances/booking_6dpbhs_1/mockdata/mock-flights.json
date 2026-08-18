@@ -1,0 +1,19 @@
+[
+  {
+    "flight_id": "QF2584_2025-11-10",
+    "airline_id": "airline_qf",
+    "airline_code": "QF",
+    "flight_number": "QF2584",
+    "origin": "SYD",
+    "destination": "LAX",
+    "departure_time": "2025-11-10T16:30:00Z",
+    "arrival_time": "2025-11-10T21:33:00Z",
+    "duration_minutes": 303,
+    "fare": 1249.27,
+    "currency": "USD",
+    "seats_available": 196,
+    "aircraft_type": "Airbus A350-900",
+    "date": "2025-11-10",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

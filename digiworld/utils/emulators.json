@@ -1,0 +1,25 @@
+{
+  "genymotion": {
+    "username": "admin",
+    "password": "pwd",
+    "ips": [
+	"emulatoramaia001.someart.xyz",
+	"emulatoramaia002.someart.xyz",
+	"emulatoramaia003.someart.xyz",
+	"emulatoramaia004.someart.xyz",
+	"emulatoramaia005.someart.xyz",
+	"emulatoramaia006.someart.xyz",
+	"emulatoramaia007.someart.xyz",
+	"emulatoramaia008.someart.xyz",
+	"emulatoramaia009.someart.xyz",
+	"emulatoramaia010.someart.xyz",
+	"emulatoramaia011.someart.xyz",
+	"emulatoramaia012.someart.xyz"
+    ]
+  },
+  "adb": {
+    "serials": [
+    ]
+  }
+}
+

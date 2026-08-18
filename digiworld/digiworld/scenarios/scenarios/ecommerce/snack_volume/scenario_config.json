@@ -1,0 +1,8 @@
+{
+  "task_name": "What's the volume of the <item>?",
+  "app_name": "ecommerce",
+  "scenario_class": "SnackVolumeScenario",
+  "parameters": ["item"],
+  "context_fields": [],
+  "description": "Retrieve the volume of a beauty or personal care product"
+}

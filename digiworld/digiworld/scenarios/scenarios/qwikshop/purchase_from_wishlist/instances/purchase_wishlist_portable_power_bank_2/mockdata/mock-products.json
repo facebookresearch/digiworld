@@ -1,0 +1,24 @@
+[
+  {
+    "id": 9902,
+    "name": "Portable Power Bank",
+    "description": "This portable power bank is designed to charge your devices on-the-go, with a capacity of 10,000mAh and fast charging capabilities.",
+    "shortDescription": "Charge your devices anywhere with this compact power bank.",
+    "price": 306.98,
+    "discountedPrice": 306.98,
+    "discountPercent": 0,
+    "rating": 4.1,
+    "reviewCount": 376,
+    "seller": "TechPower Solutions",
+    "categoryId": 9665,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 9718,
+    "subcategoryName": "Small Appliances",
+    "inStock": 1,
+    "stockCount": 149,
+    "imageUrl": "/product_7873",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

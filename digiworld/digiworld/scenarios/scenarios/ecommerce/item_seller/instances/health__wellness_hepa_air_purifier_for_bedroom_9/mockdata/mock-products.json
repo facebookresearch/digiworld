@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "HEPA Air Purifier for Bedroom (150 sq ft)",
+    "description": "Compact HEPA air purifier designed for bedrooms up to 150\u202fsq\u202fft, capturing 99.97% of particles down to 0.3\u202f\u00b5m. Quiet operation and a night-light timer enhance sleep environments.",
+    "shortDescription": "HEPA bedroom air purifier for up to 150\u202fsq\u202fft, quiet operation.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "PureBreeze Home Air",
+    "price": 49.76,
+    "discountedPrice": 49.76,
+    "discountPercent": 0,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 69,
+    "subcategoryName": "Air Purifiers",
+    "inStock": true,
+    "stockCount": 95,
+    "imageUrl": "/273_1",
+    "specs": "{\"ingredients\": \"HEPA filter media, activated carbon, pre-filter\", \"dosage\": \"Run continuously; replace filter every 12 months\", \"weight\": \"5 kg\", \"expiryPeriod\": \"5 years from manufacture\", \"madeIn\": \"United States\", \"certifications\": \"Energy Star, CARB Certified, UL Listed\"}",
+    "tags": "[\"wellness\", \"health\", \"air\", \"purifiers\", \"top-rated\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

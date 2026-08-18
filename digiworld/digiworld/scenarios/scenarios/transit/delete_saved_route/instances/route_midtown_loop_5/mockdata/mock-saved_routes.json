@@ -1,0 +1,14 @@
+[
+  {
+    "id": "saved-midtown-loop",
+    "userId": 1,
+    "name": "Midtown Loop",
+    "originStopId": "stop-10",
+    "destinationStopId": "stop-5",
+    "preferredMode": "subway",
+    "remindersEnabled": true,
+    "departureReminderMinutes": 15,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

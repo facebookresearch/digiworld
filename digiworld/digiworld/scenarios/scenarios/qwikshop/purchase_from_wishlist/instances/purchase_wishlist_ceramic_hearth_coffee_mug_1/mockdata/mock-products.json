@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9901,
+    "name": "Ceramic Hearth Coffee Mug",
+    "description": "Hand\u2011crafted ceramic mug with a matte finish, holding 350\u202fml of your favorite brew and featuring a heat\u2011retaining double wall design.",
+    "shortDescription": "Stylish ceramic mug with heat\u2011retaining double walls.",
+    "price": 57.17,
+    "discountedPrice": 57.17,
+    "discountPercent": 0,
+    "rating": 3.8,
+    "reviewCount": 25,
+    "seller": "MugMasters",
+    "categoryName": "Home & Kitchen",
+    "subcategoryName": "Bathroom",
+    "inStock": 1,
+    "stockCount": 33,
+    "imageUrl": "/product_4582",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

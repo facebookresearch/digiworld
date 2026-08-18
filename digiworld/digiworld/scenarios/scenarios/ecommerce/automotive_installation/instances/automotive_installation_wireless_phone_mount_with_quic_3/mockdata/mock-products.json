@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Wireless Phone Mount with Quick Charge",
+    "description": "Product: Wireless Phone Mount with Quick Charge",
+    "shortDescription": "Wireless Phone Mount with Quick Charge",
+    "rating": 4.0,
+    "reviewCount": 0,
+    "seller": "Test Seller",
+    "price": 29.99,
+    "discountedPrice": 29.99,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Automotive",
+    "subcategoryId": 1,
+    "subcategoryName": "Accessories",
+    "inStock": true,
+    "stockCount": 50,
+    "imageUrl": "/test_1",
+    "specs": "{\"installation\": \"Adheres to windshield with automotive-grade adhesive; allow 24\\u202fh cure before use.\"}",
+    "tags": "[\"automotive\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

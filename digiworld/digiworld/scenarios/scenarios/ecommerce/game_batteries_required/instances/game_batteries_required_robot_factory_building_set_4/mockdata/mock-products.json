@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Robot Factory Building Set",
+    "description": "Assemble moving robots and conveyor belts with the Robot Factory set, which includes motorized parts, gears, and programmable modules. Kids can design functional machines and experiment with basic engineering concepts. All pieces are compatible with standard building blocks.",
+    "shortDescription": "A building set that lets kids create motorized robots and factories.",
+    "rating": 4.1,
+    "reviewCount": 0,
+    "seller": "RoboCraft Creations",
+    "price": 1061.3,
+    "discountedPrice": 732.3,
+    "discountPercent": 31,
+    "categoryId": 7,
+    "categoryName": "Toys & Games",
+    "subcategoryId": 52,
+    "subcategoryName": "Building Sets",
+    "inStock": true,
+    "stockCount": 132,
+    "imageUrl": "/207_1",
+    "specs": "{\"ageRange\": \"8-14 years\", \"material\": \"Plastic, metal gears\", \"dimensions\": \"20 x 16 x 10 inches\", \"batteryRequired\": \"No\", \"warranty\": \"2 years\", \"safetyRating\": \"EN71\"}",
+    "tags": "[\"sets\", \"building\", \"toys\", \"games\", \"premium\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "flight_id": "BA5315_{{tomorrow_date}}",
+    "airline_id": "airline_ba",
+    "airline_code": "BA",
+    "flight_number": "BA5315",
+    "origin": "ATL",
+    "destination": "LHR",
+    "departure_time": "{{tomorrow_date}}T10:00:00Z",
+    "arrival_time": "{{tomorrow_date}}T16:16:00Z",
+    "duration_minutes": 376,
+    "fare": 587.98,
+    "currency": "USD",
+    "seats_available": 173,
+    "aircraft_type": "Boeing 787-9 Dreamliner",
+    "date": "{{tomorrow_date}}",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

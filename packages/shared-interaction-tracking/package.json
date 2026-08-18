@@ -1,0 +1,21 @@
+{
+  "name": "@andojo/shared-interaction-tracking",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "private": true,
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "clean": "rm -rf dist",
+    "prepare": "yarn build",
+    "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,json,md}\"",
+    "lint": "eslint . --fix",
+    "test": "jest --passWithNoTests"
+  },
+  "devDependencies": {
+    "typescript": "~5.1.6"
+  }
+}

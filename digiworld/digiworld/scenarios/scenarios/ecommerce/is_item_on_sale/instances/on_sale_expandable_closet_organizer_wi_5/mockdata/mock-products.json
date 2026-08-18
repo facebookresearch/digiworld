@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Expandable Closet Organizer with Drawers",
+    "description": "Organize your closet with this expandable organizer featuring adjustable shelves, hanging rods, and built\u2011in drawers. The sturdy metal frame supports heavy garments, and the fabric bins keep accessories tidy. Easy to assemble with no tools required.",
+    "shortDescription": "Expandable closet organizer with shelves, rods, and drawers.",
+    "rating": 5.0,
+    "reviewCount": 1,
+    "seller": "ClosetPro Organizers",
+    "price": 180.72,
+    "discountedPrice": 153.61,
+    "discountPercent": 15,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 21,
+    "subcategoryName": "Storage",
+    "inStock": true,
+    "stockCount": 53,
+    "imageUrl": "/81_1",
+    "specs": "{\"material\": \"Engineered wood with metal rails\", \"dimensions\": \"72\\\" H x 24\\\" W x 12\\\" D\", \"weight\": \"15 lbs\", \"warranty\": \"2-year\", \"color\": \"White\", \"careInstructions\": \"Wipe with dry cloth; avoid overloading drawers\"}",
+    "tags": "[\"kitchen\", \"home\", \"storage\", \"best\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

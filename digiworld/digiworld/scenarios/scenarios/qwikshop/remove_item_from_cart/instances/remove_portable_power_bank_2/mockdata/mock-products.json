@@ -1,0 +1,24 @@
+[
+  {
+    "id": 9902,
+    "name": "Portable Power Bank",
+    "description": "Stay charged on-the-go with our compact and high-capacity portable power bank, perfect for travel or emergencies.",
+    "shortDescription": "Portable charger",
+    "price": 117.13,
+    "discountedPrice": 99.56,
+    "discountPercent": 15,
+    "rating": 4.4,
+    "reviewCount": 184,
+    "seller": "PowerUp Solutions",
+    "categoryId": 9284,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 9159,
+    "subcategoryName": "Small Appliances",
+    "inStock": 1,
+    "stockCount": 65,
+    "imageUrl": "/product_6514",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

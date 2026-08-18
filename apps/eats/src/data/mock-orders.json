@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "restaurantId": 1,
+    "addressId": 1,
+    "status": "pending",
+    "total": 32.97,
+    "deliveryAddress": "123 Main St, Apt 4B, Metropolis, NY 10001",
+    "paymentMethod": "credit_card",
+    "createdAt": "2024-06-01T12:20:00Z",
+    "updatedAt": "2024-06-01T12:20:00Z",
+    "specialInstructions": "Leave at the door",
+    "cutlery": true
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "restaurantId": 2,
+    "addressId": 2,
+    "status": "delivered",
+    "total": 18.98,
+    "deliveryAddress": "456 Market St, Gotham, NJ 07001",
+    "paymentMethod": "cash",
+    "createdAt": "2024-06-01T12:25:00Z",
+    "updatedAt": "2024-06-01T12:30:00Z",
+    "specialInstructions": "Leave at the door",
+    "cutlery": true
+  }
+] 

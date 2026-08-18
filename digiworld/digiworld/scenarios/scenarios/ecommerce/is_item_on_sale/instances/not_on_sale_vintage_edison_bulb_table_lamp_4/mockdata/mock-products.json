@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Vintage Edison Bulb Table Lamp with Brass Base",
+    "description": "Bring vintage charm to any room with this Edison bulb table lamp, featuring a brass base and a clear glass shade that showcases the warm amber glow. The lamp includes a sturdy cord and a convenient on/off switch. Perfect for bedrooms, studies, or cozy corners.",
+    "shortDescription": "Vintage Edison bulb table lamp with brass base.",
+    "rating": 3.0,
+    "reviewCount": 1,
+    "seller": "RetroGlow Lamps",
+    "price": 278.6,
+    "discountedPrice": 278.6,
+    "discountPercent": 0,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 24,
+    "subcategoryName": "Lighting",
+    "inStock": true,
+    "stockCount": 40,
+    "imageUrl": "/96_1",
+    "specs": "{\"material\": \"Brass base, glass shade\", \"dimensions\": \"Height 24\\\"\", \"weight\": \"4 lbs\", \"warranty\": \"1-year\", \"color\": \"Antique brass\", \"careInstructions\": \"Dust with soft cloth; use compatible bulb wattage\"}",
+    "tags": "[\"lighting\", \"kitchen\", \"home\", \"premium\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

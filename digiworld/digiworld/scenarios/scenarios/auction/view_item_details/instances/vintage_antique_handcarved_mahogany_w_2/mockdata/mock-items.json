@@ -1,0 +1,22 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "title": "Antique Hand\u2011Carved Mahogany Writing Desk, 1890s, Restored",
+    "description": "Expertly restored mahogany desk retains its intricate hand\u2011carved details, offering authentic Victorian charm while being fully functional for modern use.",
+    "categoryId": 9,
+    "sellerId": 1,
+    "price": 1275.75,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 13,
+    "imageUrl": "https://example.com/images/antique-hand\u2011carved-mahogany-writing-desk,-1890s,-restored.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 392.88,
+    "currentBid": 510.06,
+    "bidIncrement": 5.0,
+    "endTime": 1766138166,
+    "expired": 0
+  }
+]

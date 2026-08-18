@@ -1,0 +1,17 @@
+[
+  {
+    "id": 99903,
+    "userId": 1,
+    "nickname": "Truckster",
+    "make": "Fairmont",
+    "model": "T-150",
+    "color": "Black",
+    "year": 2026,
+    "plateNumber": "TRUCK1",
+    "vehicleTypeId": 3,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

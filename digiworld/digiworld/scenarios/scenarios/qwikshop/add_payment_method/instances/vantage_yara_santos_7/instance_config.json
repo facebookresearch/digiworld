@@ -1,0 +1,25 @@
+{
+  "parameters": {
+    "name": "Yara Santos",
+    "cardNumber": "4111111111111111",
+    "expirationMonth": "12",
+    "expirationYear": "31"
+  },
+  "compatible_profiles": [
+    "bulk_quantity",
+    "empty_cart",
+    "full_cart",
+    "low_stock",
+    "new_user"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:36.715470+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

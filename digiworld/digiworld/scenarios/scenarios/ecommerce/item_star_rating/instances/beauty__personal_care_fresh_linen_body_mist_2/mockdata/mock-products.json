@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Fresh Linen Body Mist",
+    "description": "Fresh Linen Body Mist captures the crisp aroma of sun\u2011dried linen with subtle notes of cotton and jasmine. It offers a light, non\u2011sticky mist that revitalizes the body after a shower. Ideal for layering with any perfume.",
+    "shortDescription": "Light body mist that captures the scent of fresh linen.",
+    "rating": 4.7,
+    "reviewCount": 0,
+    "seller": "LinenMist Creations",
+    "price": 76.01,
+    "discountedPrice": 76.01,
+    "discountPercent": 0,
+    "categoryId": 6,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 44,
+    "subcategoryName": "Fragrances",
+    "inStock": true,
+    "stockCount": 65,
+    "imageUrl": "/175_1",
+    "specs": "{\"ingredients\": \"Ethanol, Water, Linen Accord, Lavender, Lemon\", \"skinType\": \"N/A\", \"volume\": \"100ml\", \"fragrance\": \"Fresh linen\", \"madeIn\": \"USA\", \"expiryPeriod\": \"24 months\"}",
+    "tags": "[\"personal\", \"fragrances\", \"beauty\", \"care\", \"high-quality\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

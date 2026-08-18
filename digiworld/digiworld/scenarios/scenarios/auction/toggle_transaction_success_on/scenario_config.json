@@ -1,0 +1,8 @@
+{
+  "task_name": "Toggle Transaction success on",
+  "app_name": "auction",
+  "scenario_class": "ToggleTransactionSuccessOnScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Verify that the user toggles the transaction success system config to on."
+}

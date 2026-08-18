@@ -1,0 +1,22 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "LumiGlow LED Desk Lamp",
+    "description": "A sleek, dimmable LED desk lamp with touch controls and a built-in USB charging port for modern workspaces.",
+    "shortDescription": "Adjustable LED lamp",
+    "price": 341.58,
+    "discountedPrice": 290.34,
+    "discountPercent": 15,
+    "rating": 3.8,
+    "reviewCount": 239,
+    "seller": "BrightBeam Ltd.",
+    "categoryName": "Home & Kitchen",
+    "subcategoryName": "Lighting",
+    "inStock": 1,
+    "stockCount": 160,
+    "imageUrl": "/product_5557",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

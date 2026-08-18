@@ -1,0 +1,9 @@
+{
+  "task_name": "Log in with the phone number <phone_number> and the OTP code <otp_code>",
+  "app_name": "payment",
+  "scenario_class": "LoginWithPhoneOtpScenario",
+  "parameters": ["phone_number", "otp_code"],
+  "context_fields": [],
+  "description": "Verify the user completed the login flow with phone number and OTP, arriving at the home screen.",
+  "compatible_profiles": ["default"]
+}

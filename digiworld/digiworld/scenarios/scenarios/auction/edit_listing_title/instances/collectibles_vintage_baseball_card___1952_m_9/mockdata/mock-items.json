@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754280104,
+    "title": "Vintage Baseball Card - 1952 Mickey Mantle",
+    "description": "Gem mint condition Topps card, graded 8.5, sealed in protective sleeve.",
+    "categoryId": 8,
+    "sellerId": "{{current_user_id}}",
+    "price": 1938.34,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 3,
+    "imageUrl": "https://example.com/images/vintage-baseball-card---1952-mickey-mantle.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 1154.41,
+    "currentBid": 1944.32,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

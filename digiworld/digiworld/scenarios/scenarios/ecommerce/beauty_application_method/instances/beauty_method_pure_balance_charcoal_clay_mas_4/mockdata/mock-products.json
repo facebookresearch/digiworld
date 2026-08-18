@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Pure Balance Charcoal Clay Mask",
+    "description": "Product: Pure Balance Charcoal Clay Mask",
+    "shortDescription": "Pure Balance Charcoal Clay Mask",
+    "rating": 4.0,
+    "reviewCount": 0,
+    "seller": "Test Seller",
+    "price": 29.99,
+    "discountedPrice": 29.99,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 1,
+    "subcategoryName": "Skincare",
+    "inStock": true,
+    "stockCount": 50,
+    "imageUrl": "/test_1",
+    "specs": "{\"applicationMethod\": \"After cleansing, apply an even layer to the face, avoiding the eye area, and leave on for 10-15 minutes before rinsing with lukewarm water.\"}",
+    "tags": "[\"beauty & personal care\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

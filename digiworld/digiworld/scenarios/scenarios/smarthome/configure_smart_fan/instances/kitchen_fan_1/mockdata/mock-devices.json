@@ -1,0 +1,18 @@
+[
+  {
+    "userId": "{{current_user_id}}",
+    "name": "Kitchen Fan",
+    "deviceTypeId": "{{device_type_id_by_name:Smart Fan}}",
+    "roomId": "{{first_room_id}}",
+    "status": "online",
+    "isOn": false,
+    "properties": "{\"fan_speed\": 1, \"oscillation\": true, \"scheduling\": true}",
+    "battery": 100,
+    "signalStrength": 95,
+    "firmwareVersion": "1.0.0",
+    "lastSeen": "{{recent_timestamp}}",
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "code": "DCA",
+    "name": "Ronald Reagan Washington National Airport",
+    "city": "Washington",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "code": "TPA",
+    "name": "Tampa International Airport",
+    "city": "Tampa",
+    "country": "USA",
+    "timezone": "America/New_York"
+  },
+  {
+    "code": "LAS",
+    "name": "Harry Reid International Airport",
+    "city": "Las Vegas",
+    "country": "USA",
+    "timezone": "America/Los_Angeles",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "code": "EWR",
+    "name": "Newark Liberty International Airport",
+    "city": "Newark",
+    "country": "USA",
+    "timezone": "America/New_York",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "code": "YVR",
+    "name": "Vancouver International Airport",
+    "city": "Vancouver",
+    "country": "Canada",
+    "timezone": "America/Vancouver",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  }
+]

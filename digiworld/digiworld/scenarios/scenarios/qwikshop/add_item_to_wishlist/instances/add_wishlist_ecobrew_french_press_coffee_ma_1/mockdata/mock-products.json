@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9900,
+    "name": "EcoBrew French Press Coffee Maker",
+    "description": "Craft barista-quality coffee with the EcoBrew French Press, featuring a double-wall stainless steel body that keeps your brew hot longer.",
+    "shortDescription": "Stainless steel French press for rich coffee.",
+    "price": 57.17,
+    "discountedPrice": 57.17,
+    "discountPercent": 0,
+    "rating": 3.8,
+    "reviewCount": 25,
+    "seller": "GreenLiving Supplies",
+    "categoryName": "Home & Kitchen",
+    "subcategoryName": "Small Appliances",
+    "inStock": 1,
+    "stockCount": 33,
+    "imageUrl": "/product_4582",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

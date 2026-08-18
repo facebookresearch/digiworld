@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "{{current_user_email}}",
+    "receiver": [
+      "bob.johnson@business.net"
+    ],
+    "subject": "Request for Feedback on Proposal",
+    "preview": "Hi, we have prepared a proposal for the client's c...",
+    "body": "Hi, we have prepared a proposal for the client's consideration and would like to request your feedback. Your input is invaluable in helping us refine the proposal. Please review and let us know your thoughts.",
+    "timestamp": "{{recent_timestamp}}",
+    "unread": 0,
+    "read": 0,
+    "status": "draft",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 1,
+    "threadId": "draft_request_for_feedback_on_proposal",
+    "folder": "draft",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

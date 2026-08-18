@@ -1,0 +1,19 @@
+[
+  {
+    "flight_id": "JL1106_2026-08-15",
+    "airline_id": "airline_jl",
+    "airline_code": "JL",
+    "flight_number": "JL1106",
+    "origin": "NRT",
+    "destination": "SYD",
+    "departure_time": "2026-08-15T10:45:00Z",
+    "arrival_time": "2026-08-15T19:13:00Z",
+    "duration_minutes": 508,
+    "fare": 561.23,
+    "currency": "USD",
+    "seats_available": 65,
+    "aircraft_type": "Airbus A350-900",
+    "date": "2026-08-15",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

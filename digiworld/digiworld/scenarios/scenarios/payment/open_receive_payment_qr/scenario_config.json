@@ -1,0 +1,21 @@
+{
+  "task_name": "Open the QR code to receive a payment",
+  "app_name": "payment",
+  "scenario_class": "OpenReceivePaymentQRScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Open the QR code modal on the home screen to receive a payment.",
+  "compatible_profiles": [
+    "big_spender",
+    "default",
+    "frozen_wallets",
+    "high_deposit",
+    "high_failure_rate",
+    "low_transfer",
+    "micro_payments",
+    "mostly_pending",
+    "recent_activity",
+    "savings_mode",
+    "sparse_contacts"
+  ]
+}

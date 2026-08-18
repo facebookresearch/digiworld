@@ -1,0 +1,22 @@
+[
+  {
+    "id": 182240029,
+    "title": "Rare First Edition 'To Kill a Mockingbird' by Harper Lee",
+    "description": "A rare first edition of Harper Lee's Pulitzer Prize-winning novel, 'To Kill a Mockingbird', in excellent condition with original dust jacket.",
+    "categoryId": 4,
+    "sellerId": "{{current_user_id}}",
+    "price": 98.75,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/rare-first-edition-'to-kill-a-mockingbird'-by-harper-lee.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 36.1,
+    "currentBid": 50.69,
+    "bidIncrement": 5.0,
+    "endTime": 1773367624,
+    "expired": 0
+  }
+]

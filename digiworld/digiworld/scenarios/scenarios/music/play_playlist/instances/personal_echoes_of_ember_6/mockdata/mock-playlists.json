@@ -1,0 +1,19 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Echoes of Ember",
+    "description": "A playlist called Echoes of Ember",
+    "userId": "{{current_user_id}}",
+    "categories": [],
+    "coverArt": "playlists/playlist_default.jpg",
+    "songIds": [
+      1,
+      5,
+      10,
+      15,
+      20
+    ],
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

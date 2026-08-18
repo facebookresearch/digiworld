@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "hannah.brooks@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Book club meeting",
+    "preview": "Hi are you able to attend the book club meeting ne...",
+    "body": "Hi are you able to attend the book club meeting next Wednesday?",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_hannah_brooks_book_club_meeting",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "hannah.brooks@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Photo from the beach",
+    "preview": "Hi here's the photo I took at the beach last weeke...",
+    "body": "Hi here's the photo I took at the beach last weekend thought you'd like it.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_hannah_brooks_photo_from_the_beach",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

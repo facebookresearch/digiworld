@@ -1,0 +1,8 @@
+{
+  "task_name": "Add a <color> <make> <model> <vehicle_type> with license plate <license_plate> as <nickname>, then go to My Vehicles",
+  "app_name": "parking",
+  "scenario_class": "AddVehicleAndViewVehiclesScenario",
+  "parameters": ["color", "make", "model", "vehicle_type", "license_plate", "nickname"],
+  "context_fields": [],
+  "description": "Add a new vehicle with the specified details, then navigate to the My Vehicles screen."
+}

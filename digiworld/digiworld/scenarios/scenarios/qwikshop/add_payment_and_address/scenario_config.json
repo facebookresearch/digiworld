@@ -1,0 +1,8 @@
+{
+  "task_name": "Add a payment method with \"<cardName>\", \"<cardNumber>\", \"<expirationMonth>\", \"<expirationYear>\", then add a delivery address of \"<street>\" \"<city>\" \"<state>\" \"<zip>\" \"<country>\" belonging to \"<firstName>\" \"<lastName>\" with phone number: \"<phone>\"",
+  "app_name": "qwikshop",
+  "scenario_class": "AddPaymentAndAddressScenario",
+  "parameters": ["cardName", "cardNumber", "expirationMonth", "expirationYear", "street", "city", "state", "zip", "country", "firstName", "lastName", "phone"],
+  "context_fields": [],
+  "description": "Add a new payment method with card details, then add a new delivery address."
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 7777,
+    "videoId": 9999,
+    "userId": "{{current_user_id}}",
+    "parentId": null,
+    "content": "Never knew foxes could live in the city like that.",
+    "status": "visible",
+    "isEdited": 0,
+    "replyCount": 0,
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{past_timestamp}}",
+    "deletedAt": null
+  },
+  {
+    "id": 7776,
+    "videoId": 9999,
+    "userId": "{{current_user_id}}",
+    "parentId": null,
+    "content": "Hope city planners consider protecting their habitats more.",
+    "status": "visible",
+    "isEdited": 0,
+    "replyCount": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

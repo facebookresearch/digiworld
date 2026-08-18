@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "nickname": "BlueComet",
+    "make": "Electra",
+    "model": "E3",
+    "color": "Midnight Blue",
+    "year": 2026,
+    "plateNumber": "ECO202",
+    "vehicleTypeId": 5,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

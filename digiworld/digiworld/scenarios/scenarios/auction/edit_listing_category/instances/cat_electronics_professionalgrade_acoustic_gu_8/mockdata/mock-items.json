@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754780141,
+    "title": "Professional\u2011Grade Acoustic Guitar \u2013 Solid Spruce Top, Mahogany Back & Sides",
+    "description": "Concert\u2011ready acoustic guitar with solid spruce top, mahogany back, and premium hardware.",
+    "categoryId": 10,
+    "sellerId": "{{current_user_id}}",
+    "price": 1938.34,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 3,
+    "imageUrl": "https://example.com/images/professional\u2011grade-acoustic-guitar-\u2013-solid-spruce-top,-mahogany-back-&-sides.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 1154.41,
+    "currentBid": 1944.32,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "task_name": "Apply for a credit card and tell me the <info_field>",
+  "app_name": "banking",
+  "scenario_class": "ApplyCreditCardScenario",
+  "parameters": [
+    "info_field"
+  ],
+  "context_fields": [],
+  "description": "Apply for a new credit card and report the requested information field."
+}

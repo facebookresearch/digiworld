@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754160076,
+    "title": "Vintage 1952 Camdon Bel Air Hood Ornament \u2013 Chrome",
+    "description": "Original chrome hood ornament from a 1952 Camdon Bel Air, polished and ready for display or restoration.",
+    "categoryId": 4,
+    "sellerId": "{{current_user_id}}",
+    "price": 1453.95,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 7,
+    "imageUrl": "https://example.com/images/vintage-1952-chevrolet-bel-air-hood-ornament-\u2013-chrome.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 743.51,
+    "currentBid": 770.77,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

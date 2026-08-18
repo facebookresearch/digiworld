@@ -1,0 +1,8 @@
+{
+  "task_name": "Take me to the <page_name> page",
+  "app_name": "ryde",
+  "scenario_class": "NavigateToPageScenario",
+  "parameters": ["page_name"],
+  "context_fields": [],
+  "description": "Navigate to a specific page in the Ryde app"
+}

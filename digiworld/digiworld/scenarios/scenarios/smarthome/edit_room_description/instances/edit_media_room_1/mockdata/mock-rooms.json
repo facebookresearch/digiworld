@@ -1,0 +1,12 @@
+[
+  {
+    "userId": "{{current_user_id}}",
+    "name": "Media Room",
+    "description": "Multi-use space",
+    "type": "other",
+    "floor": 1,
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

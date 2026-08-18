@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9902,
+    "name": "Portable Power Bank",
+    "description": "Never run out of power on the go with our compact and high-capacity power bank, designed to charge your devices quickly and efficiently.",
+    "shortDescription": "Compact power bank for quick and efficient charging.",
+    "price": 287.2,
+    "discountedPrice": 221.14,
+    "discountPercent": 23,
+    "rating": 4.4,
+    "reviewCount": 369,
+    "seller": "PowerUp Store",
+    "categoryName": "Electronics",
+    "subcategoryName": "Smartphones",
+    "inStock": 1,
+    "stockCount": 149,
+    "imageUrl": "/product_7873",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

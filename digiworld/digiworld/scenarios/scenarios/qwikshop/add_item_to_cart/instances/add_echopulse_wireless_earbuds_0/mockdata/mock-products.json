@@ -1,0 +1,22 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "EchoPulse Wireless Earbuds",
+    "description": "Compact true\u2011wireless earbuds with active noise cancellation and 24\u2011hour battery life.",
+    "shortDescription": "Noise\u2011cancelling earbuds",
+    "price": 119.37,
+    "discountedPrice": 95.5,
+    "discountPercent": 20,
+    "rating": 3.4,
+    "reviewCount": 342,
+    "seller": "SoundWave Store",
+    "categoryName": "Electronics",
+    "subcategoryName": "Headphones",
+    "inStock": 1,
+    "stockCount": 189,
+    "imageUrl": "/product_9928",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

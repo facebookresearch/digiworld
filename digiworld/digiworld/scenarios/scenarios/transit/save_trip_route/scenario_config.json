@@ -1,0 +1,14 @@
+{
+  "task_name": "Plan a trip from <stop_1> to <stop_2> departing <time>, find the <optimization>, and save the route with the title \"<route_title>\"",
+  "app_name": "transit",
+  "scenario_class": "SaveTripRouteScenario",
+  "parameters": [
+    "stop_1",
+    "stop_2",
+    "time",
+    "optimization",
+    "route_title"
+  ],
+  "context_fields": [],
+  "description": "Plan a trip between two stops, find the optimal route by a criterion, and save it with a given title."
+}

@@ -1,0 +1,37 @@
+{
+  "parameters": {
+    "street": "147 Elm Dr",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97201",
+    "country": "United States",
+    "street2": "3325 Quartz Canyon St",
+    "city2": "Redstone",
+    "state2": "CO",
+    "zip2": "80926",
+    "country2": "United States"
+  },
+  "compatible_profiles": [
+    "bulk_quantity",
+    "default",
+    "empty_cart",
+    "full_cart",
+    "heavy_discounts",
+    "high_order_volume",
+    "large_orders",
+    "low_stock",
+    "new_user",
+    "power_shopper",
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:27.246535+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

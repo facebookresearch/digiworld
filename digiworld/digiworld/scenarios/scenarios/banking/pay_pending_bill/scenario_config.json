@@ -1,0 +1,11 @@
+{
+  "task_name": "If I have any pending bills, pay the <selection_criteria> one",
+  "app_name": "banking",
+  "scenario_class": "PayPendingBillScenario",
+  "parameters": [
+    "selection_criteria"
+  ],
+  "additional_mockdata": true,
+  "context_fields": [],
+  "description": "Pay the most or least expensive pending bill."
+}

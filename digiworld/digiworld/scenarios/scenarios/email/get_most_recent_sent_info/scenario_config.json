@@ -1,0 +1,18 @@
+{
+  "task_name": "What is the email subject and recipient of my most recently sent email",
+  "app_name": "email",
+  "scenario_class": "GetMostRecentSentInfo",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Report the subject and recipient of the most recently sent email",
+  "compatible_profiles": [
+    "50_inbox_emails",
+    "5_inbox_emails",
+    "default",
+    "mixed",
+    "personal",
+    "spam_heavy",
+    "starred_important",
+    "work_related"
+  ]
+}

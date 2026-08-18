@@ -1,0 +1,19 @@
+[
+  {
+    "flight_id": "AA9669_{{tomorrow_date}}",
+    "airline_id": "airline_aa",
+    "airline_code": "AA",
+    "flight_number": "AA9669",
+    "origin": "DFW",
+    "destination": "BOS",
+    "departure_time": "{{tomorrow_date}}T05:00:00Z",
+    "arrival_time": "{{tomorrow_date}}T09:08:00Z",
+    "duration_minutes": 248,
+    "fare": 1199.18,
+    "currency": "USD",
+    "seats_available": 97,
+    "aircraft_type": "Airbus A320neo",
+    "date": "{{tomorrow_date}}",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

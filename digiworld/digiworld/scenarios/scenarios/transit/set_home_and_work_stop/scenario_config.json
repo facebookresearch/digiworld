@@ -1,0 +1,11 @@
+{
+  "task_name": "Set Home Stop to <home_stop>, then set Work Stop to <work_stop>",
+  "app_name": "transit",
+  "scenario_class": "SetHomeAndWorkStopScenario",
+  "parameters": [
+    "home_stop",
+    "work_stop"
+  ],
+  "context_fields": [],
+  "description": "Set the user's home stop and work stop to the specified transit stops."
+}

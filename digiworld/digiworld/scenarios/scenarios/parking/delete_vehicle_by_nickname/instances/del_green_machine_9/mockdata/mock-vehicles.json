@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "nickname": "Green Machine",
+    "make": "Nimbus",
+    "model": "Leaf e+",
+    "color": "Lime Green",
+    "year": 2024,
+    "plateNumber": "GRNMCN",
+    "vehicleTypeId": 5,
+    "isDefault": 0,
+    "createdAt": "{{end_timestamp}}",
+    "updatedAt": "{{end_timestamp}}",
+    "metadata": null
+  }
+]

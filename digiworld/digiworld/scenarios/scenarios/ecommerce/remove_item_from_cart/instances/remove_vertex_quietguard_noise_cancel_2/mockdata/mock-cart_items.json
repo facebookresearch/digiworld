@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "cart_id": "{{current_user_cart_id}}",
+    "user_id": "{{current_user_id}}",
+    "product_id": 16,
+    "product_name": "Vertex QuietGuard Noise-Cancelling Headphones",
+    "product_image": "https://picsum.photos/seed/mock/600/400",
+    "short_description": "Mock product",
+    "seller": "ElectroMart",
+    "quantity": 1,
+    "price": 574.46,
+    "discounted_price": 517.01,
+    "total": 517.01,
+    "saved_amount": 57.45,
+    "in_stock": 1,
+    "category_name": "Electronics",
+    "subcategory_name": "Headphones",
+    "sku": "",
+    "added_at": "2025-06-15 12:00:00.000",
+    "created_at": "2025-06-15 12:00:00.000",
+    "updated_at": "2025-06-15 12:00:00.000"
+  }
+]

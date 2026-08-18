@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Slim Fit Linen Casual Shirt",
+    "description": "Made with lightweight linen, this slim fit shirt provides a breezy feel for warm weather occasions. The tailored cut flatters the silhouette, and the subtle chest pocket adds a functional touch.",
+    "shortDescription": "Lightweight linen shirt with a slim, tailored fit for warm days.",
+    "rating": 2.5,
+    "reviewCount": 2,
+    "seller": "Riverdale Outfitters",
+    "price": 1075.52,
+    "discountedPrice": 720.6,
+    "discountPercent": 33,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 9,
+    "subcategoryName": "Men's Shirts",
+    "inStock": true,
+    "stockCount": 78,
+    "imageUrl": "/34_1",
+    "specs": "{\"material\": \"55% Linen, 45% Cotton\", \"careInstructions\": \"Machine wash gentle cold, line dry, low iron if needed\", \"fit\": \"Slim fit\", \"size\": \"S, M, L, XL\", \"color\": \"Natural Beige\", \"pattern\": \"Solid\"}",
+    "tags": "[\"clothing\", \"mens\", \"shirts\", \"best\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

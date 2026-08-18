@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Compact Rowing Machine with LCD Display",
+    "description": "A space-saving rowing machine featuring magnetic resistance and a backlit LCD that tracks time, strokes, and calories burned. The seat glides smoothly on a padded rail, and the foot straps ensure secure footing during intense sessions. Ideal for cardio conditioning in apartments or small home gyms.",
+    "shortDescription": "Space-efficient rowing machine with performance tracking.",
+    "rating": 5.0,
+    "reviewCount": 1,
+    "seller": "CardioCraft Co.",
+    "price": 201.36,
+    "discountedPrice": 201.36,
+    "discountPercent": 0,
+    "categoryId": 4,
+    "categoryName": "Sports & Outdoors",
+    "subcategoryId": 25,
+    "subcategoryName": "Fitness Equipment",
+    "inStock": true,
+    "stockCount": 119,
+    "imageUrl": "/100_1",
+    "specs": "{\"material\": \"Steel frame with ABS console\", \"weight\": \"45 lbs\", \"dimensions\": \"48 x 22 x 44 inches (assembled)\", \"warranty\": \"2-year warranty\", \"color\": \"Black with red LCD\", \"suitableFor\": \"Cardio, full-body workout, low-impact training\"}",
+    "tags": "[\"outdoors\", \"sports\", \"fitness\", \"equipment\", \"premium\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

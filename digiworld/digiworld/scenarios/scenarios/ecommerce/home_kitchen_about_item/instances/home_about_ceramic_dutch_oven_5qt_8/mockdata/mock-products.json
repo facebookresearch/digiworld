@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Ceramic Dutch Oven, 5\u2011qt",
+    "description": "This 5\u2011quart ceramic Dutch oven offers excellent heat retention and a glossy, enamel interior that won\u2019t react with acidic foods. The tight\u2011fitting lid locks in moisture for slow\u2011cooked stews and braises. Oven\u2011safe up to 500\u00b0F and compatible with all cooktops.",
+    "shortDescription": "5\u2011quart ceramic Dutch oven with tight\u2011fitting lid for slow cooking.",
+    "rating": 2.5,
+    "reviewCount": 2,
+    "seller": "Heritage Cast Iron Co.",
+    "price": 1447.3,
+    "discountedPrice": 767.07,
+    "discountPercent": 47,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 17,
+    "subcategoryName": "Cookware",
+    "inStock": true,
+    "stockCount": 123,
+    "imageUrl": "/68_1",
+    "specs": "{\"material\": \"Ceramic enamel-coated cast iron\", \"dimensions\": \"8.5\\u2011inch diameter x 6\\u2011inch height\", \"weight\": \"12 lbs\", \"warranty\": \"2\\u2011year limited warranty\", \"color\": \"Matte ivory\", \"careInstructions\": \"Hand wash; avoid sudden temperature changes; use low to medium heat\"}",
+    "tags": "[\"kitchen\", \"home\", \"cookware\", \"high-quality\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

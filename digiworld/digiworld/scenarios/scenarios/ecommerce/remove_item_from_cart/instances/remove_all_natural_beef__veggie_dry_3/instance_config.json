@@ -1,0 +1,18 @@
+{
+  "parameters": {
+    "item": "All-Natural Beef & Veggie Dry Dog Kibble"
+  },
+  "compatible_profiles": [
+    "full_cart"
+  ],
+  "metadata": {
+    "created_at": "2026-03-31T04:13:37.547004+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "name": "Neon Skyline Grooves",
+    "description": "",
+    "isPublic": 0,
+    "shuffle": 0,
+    "shareUrl": null,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

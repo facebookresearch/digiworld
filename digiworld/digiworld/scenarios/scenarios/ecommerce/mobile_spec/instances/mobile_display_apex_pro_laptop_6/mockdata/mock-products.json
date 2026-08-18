@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Apex Pro Laptop",
+    "description": "Apex Pro Laptop is built for professionals with a 15.6\u2011inch 4K IPS display and an Vertex Micro i7 processor. It includes 16\u202fGB DDR4 RAM and a 512\u202fGB SSD for rapid data handling. The dedicated Vireo GTZ 1650 graphics card enables smooth graphics work and light gaming. A backlit keyboard and fingerprint sensor enhance security and usability.",
+    "shortDescription": "Professional laptop with a 15.6\u2011inch 4K display and Vireo graphics.",
+    "rating": 1.5,
+    "reviewCount": 2,
+    "seller": "Prime Computing",
+    "price": 749.46,
+    "discountedPrice": 479.65,
+    "discountPercent": 36,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 2,
+    "subcategoryName": "Laptops",
+    "inStock": true,
+    "stockCount": 176,
+    "imageUrl": "/5_1",
+    "specs": "{\"display\": \"15.6-inch IPS, 1920x1080, 144Hz\", \"processor\": \"Vertex Micro Core i7-13700H\", \"ram\": \"16 GB DDR5\", \"storage\": \"1 TB NVMe SSD\", \"battery\": \"71 Wh\", \"os\": \"Skylight 11 Pro\", \"connectivity\": \"Wi-Fi 6E, Bluetooth 5.2, Thunderbolt 4, HDMI 2.1\"}",
+    "tags": "[\"electronics\", \"laptops\", \"top-rated\", \"best\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

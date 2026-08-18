@@ -1,0 +1,19 @@
+[
+  {
+    "id": 99801,
+    "name": "Main Lobby",
+    "description": "Parking zone A1B2C",
+    "latitude": 40.720636,
+    "longitude": -73.991126,
+    "zoneCode": "A1B2C",
+    "operator": "City Parking Authority",
+    "zoneType": "lot",
+    "capacity": 179,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.6,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

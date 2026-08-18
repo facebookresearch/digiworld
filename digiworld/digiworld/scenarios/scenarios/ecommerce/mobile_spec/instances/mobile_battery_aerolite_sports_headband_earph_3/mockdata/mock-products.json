@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "AeroLite Sports Headband Earphones",
+    "description": "AeroLite sports earphones integrate a lightweight headband design that stays secure during intense workouts. They feature sweat-proof silicone tips, Bluetooth 5.2, and ambient sound mode for safety. Up to 12 hours of playback and a magnetic charging dock complete the package.",
+    "shortDescription": "Headband-style sport earphones with sweat resistance and ambient mode.",
+    "rating": 3.0,
+    "reviewCount": 1,
+    "seller": "FitAudio Essentials",
+    "price": 1441.55,
+    "discountedPrice": 821.68,
+    "discountPercent": 43,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 4,
+    "subcategoryName": "Headphones",
+    "inStock": true,
+    "stockCount": 176,
+    "imageUrl": "/16_1",
+    "specs": "{\"display\": \"N/A\", \"processor\": \"Cellwave QCC3026\", \"ram\": \"N/A\", \"storage\": \"N/A\", \"battery\": \"150mAh, 8h playback, USB-C\", \"os\": \"N/A\", \"connectivity\": \"Bluetooth 5.1, IPX5 water resistance\"}",
+    "tags": "[\"electronics\", \"headphones\", \"high-quality\", \"top-rated\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

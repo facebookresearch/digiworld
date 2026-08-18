@@ -1,0 +1,22 @@
+[
+  {
+    "id": 751830008,
+    "title": "1930s Art Deco Pocket Watch with Open Face and Roman Numerals",
+    "description": "A pristine 1930s pocket watch featuring an open face, brass case, and elegant Roman numerals, complete with original leather strap.",
+    "categoryId": 1,
+    "sellerId": "{{current_user_id}}",
+    "price": 1373.73,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/1930s-art-deco-pocket-watch-with-open-face-and-roman-numerals.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 502.97,
+    "currentBid": 740.08,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "ArcadeX Mini Console",
+    "description": "ArcadeX Mini Console packs retro gaming into a handheld device with a 5\u2011inch 1080p screen. Runs on a custom ARC processor and includes 2\u202fTB of pre\u2011loaded classic titles. Features dual analog sticks, Wi\u2011Fi for multiplayer, and a rechargeable battery lasting 8 hours.",
+    "shortDescription": "Handheld retro console with 5\u2011inch screen and 2\u202fTB of classic games.",
+    "rating": 3.0,
+    "reviewCount": 4,
+    "seller": "RetroPlay Store",
+    "price": 938.73,
+    "discountedPrice": 628.95,
+    "discountPercent": 33,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 8,
+    "subcategoryName": "Gaming Consoles",
+    "inStock": true,
+    "stockCount": 173,
+    "imageUrl": "/29_1",
+    "specs": "{\"display\": \"HDMI 2.1 output up to 4K\", \"processor\": \"Quad-core ARC Cortix-A78\", \"ram\": \"4 GB LPDDR4\", \"storage\": \"64 GB eMMC\", \"battery\": \"N/A (AC power)\", \"os\": \"Custom Linux\", \"connectivity\": \"Wi-Fi 6, Bluetooth 5.2, Ethernet\"}",
+    "tags": "[\"gaming\", \"electronics\", \"consoles\", \"top-rated\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000",
+    "reviews": [
+      {
+        "userName": "Reviewer",
+        "rating": 5,
+        "title": "Perfect Pocket Arcade Experience",
+        "comment": "The ArcadeX Mini Console fits perfectly on my TV shelf thanks to its compact design and HDMI output. The built\u2011in controllers feel solid and the pre\u2011loaded retro game library provides hours of fun. I love the USB\u2011C charging that makes it easy to power up.",
+        "reviewDate": "2025-06-15T10:00:00.000Z"
+      },
+      {
+        "userName": "Reviewer",
+        "rating": 1,
+        "title": "Disappointed by Constant Lag",
+        "comment": "I was excited to try the ArcadeX Mini Console, but the constant input lag ruined every game. The Bluetooth connection drops frequently and the build feels flimsy. Even the HDMI output was glitchy, making it unusable.",
+        "reviewDate": "2025-06-15T10:00:00.000Z"
+      },
+      {
+        "userName": "Reviewer",
+        "rating": 4,
+        "title": "Great Retro Library, Minor Flaws",
+        "comment": "The ArcadeX Mini Console offers a surprisingly extensive retro game library in a sleek, portable package. The HDMI output delivers crisp visuals and the built\u2011in controller is comfortable for long sessions. The only downside is the lack of wireless controller support, which would have been a nice addition.",
+        "reviewDate": "2025-06-15T10:00:00.000Z"
+      },
+      {
+        "userName": "Reviewer",
+        "rating": 2,
+        "title": "Unreliable Controls and Build Quality",
+        "comment": "After a week of use, the ArcadeX Mini Console's controls started sticking and the plastic case cracked. The Wi\u2011Fi connectivity is spotty, causing frequent disconnections. Overall, the console feels cheap and disappointing for the price.",
+        "reviewDate": "2025-06-15T10:00:00.000Z"
+      }
+    ]
+  }
+]

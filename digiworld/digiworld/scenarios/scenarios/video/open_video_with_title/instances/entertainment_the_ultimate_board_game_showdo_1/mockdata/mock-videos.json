@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 1,
+    "categoryId": 4,
+    "title": "The Ultimate Board Game Showdown!",
+    "description": "Watch us pit classic board games against each other in a hilarious, high\u2011stakes tournament with surprise twists.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 2533,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 1524,
+    "likeCount": 80,
+    "commentCount": 27,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

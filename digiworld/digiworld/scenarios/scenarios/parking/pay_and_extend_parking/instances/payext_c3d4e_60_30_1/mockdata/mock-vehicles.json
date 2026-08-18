@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "nickname": "Family Wagon",
+    "make": "Harmony",
+    "model": "Pilot",
+    "color": "Black",
+    "year": 2026,
+    "plateNumber": "D4E5F6",
+    "vehicleTypeId": 2,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

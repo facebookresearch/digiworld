@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "nickname": "Thunderbolt",
+    "make": "Fairmont",
+    "model": "Stallion",
+    "color": "Red",
+    "year": 2024,
+    "plateNumber": "RDR123",
+    "vehicleTypeId": 1,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

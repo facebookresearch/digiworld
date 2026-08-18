@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Ava Lee",
+    "street": "789 Oak Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "pincode": "60601",
+    "phone": "5551234567",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "SilkTouch Micellar Cleansing Water",
+    "description": "Product: SilkTouch Micellar Cleansing Water",
+    "shortDescription": "SilkTouch Micellar Cleansing Water",
+    "rating": 4.0,
+    "reviewCount": 0,
+    "seller": "Test Seller",
+    "price": 29.99,
+    "discountedPrice": 29.99,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 1,
+    "subcategoryName": "Skincare",
+    "inStock": true,
+    "stockCount": 50,
+    "imageUrl": "/test_1",
+    "specs": "{\"applicationMethod\": \"Dispense onto a cotton pad and sweep across the entire face, avoiding the eye area; no rinsing required.\"}",
+    "tags": "[\"beauty & personal care\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

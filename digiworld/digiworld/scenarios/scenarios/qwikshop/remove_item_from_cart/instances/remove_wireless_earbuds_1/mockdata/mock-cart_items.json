@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "cartId": 1,
+    "userId": 1,
+    "productId": 9901,
+    "productName": "Wireless Earbuds",
+    "productImage": "/product_9901",
+    "shortDescription": "Wireless audio",
+    "seller": "SoundWave Electronics",
+    "quantity": 3,
+    "price": 299.34,
+    "discountedPrice": 299.34,
+    "total": 898.02,
+    "inStock": 1
+  }
+]

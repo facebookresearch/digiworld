@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "cartId": 1,
+    "userId": 1,
+    "productId": 9909,
+    "productName": "AdventurePro 15\u2011L Backpack",
+    "productImage": "/product_9909",
+    "shortDescription": "Travel backpack",
+    "seller": "TrailBlaze",
+    "quantity": 2,
+    "price": 48.61,
+    "discountedPrice": 48.61,
+    "total": 97.22,
+    "inStock": 1
+  }
+]

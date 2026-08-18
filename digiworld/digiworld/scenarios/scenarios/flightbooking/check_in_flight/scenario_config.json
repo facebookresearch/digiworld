@@ -1,0 +1,9 @@
+{
+  "task_name": "Check into my flight to \"<destination>\"",
+  "app_name": "flightbooking",
+  "scenario_class": "CheckInFlightScenario",
+  "parameters": ["destination"],
+  "context_fields": [],
+  "description": "Check into the user's upcoming flight to a specific destination.",
+  "additional_mockdata": true
+}

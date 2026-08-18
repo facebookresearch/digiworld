@@ -1,0 +1,10 @@
+{
+  "task_name": "Create a new playlist called <name>",
+  "app_name": "music",
+  "scenario_class": "CreatePlaylistScenario",
+  "parameters": [
+    "name"
+  ],
+  "context_fields": [],
+  "description": "Create a new playlist with the specified name"
+}

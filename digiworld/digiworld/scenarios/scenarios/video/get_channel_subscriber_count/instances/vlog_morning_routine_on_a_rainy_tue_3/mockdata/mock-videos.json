@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 9990,
+    "categoryId": 7,
+    "title": "Morning Routine on a Rainy Tuesday",
+    "description": "I share my cozy morning habits, from coffee brewing to journaling, while the rain taps on my window.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 3427,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 5614,
+    "likeCount": 18,
+    "commentCount": 5,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

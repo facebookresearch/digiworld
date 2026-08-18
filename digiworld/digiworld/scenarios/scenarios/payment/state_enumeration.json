@@ -1,0 +1,70 @@
+{
+  "app_name": "payment",
+  "apk_name": "com.andojopay.sbx",
+  "database_name": "default.db",
+  "home_route": "/(tabs)/home",
+  "routes": [
+    {
+      "id": "home",
+      "route": "/(tabs)/home",
+      "screen_name": "home",
+      "description": "Home screen with wallet and quick actions",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "contacts",
+      "route": "/(tabs)/contacts",
+      "screen_name": "contacts",
+      "description": "Contacts list view",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "transactions",
+      "route": "/(tabs)/transactions",
+      "screen_name": "transactions",
+      "description": "Transaction history list",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "profile",
+      "route": "/(tabs)/profile",
+      "screen_name": "profile",
+      "description": "User profile view",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "contact_detail",
+      "route": "/screens/contact/[id]",
+      "screen_name": "contactDetail",
+      "description": "Contact detail view (dynamic ID)",
+      "back_route": "/(tabs)/contacts",
+      "dynamic": true,
+      "dynamic_config": {
+        "table": "contacts",
+        "id_column": "id",
+        "timestamp_column": "created_at",
+        "positions": ["beginning", "middle", "end"]
+      },
+      "context_variations": []
+    },
+    {
+      "id": "transaction_detail",
+      "route": "/screens/transaction/[id]",
+      "screen_name": "transactionDetail",
+      "description": "Transaction detail view (dynamic ID)",
+      "back_route": "/(tabs)/transactions",
+      "dynamic": true,
+      "dynamic_config": {
+        "table": "transactions",
+        "id_column": "id",
+        "timestamp_column": "created_at",
+        "positions": ["beginning", "middle", "end"]
+      },
+      "context_variations": []
+    }
+  ]
+}

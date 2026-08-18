@@ -1,0 +1,1364 @@
+[
+  {
+    "entityType": "artist",
+    "entityId": 1,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 2,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 3,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 4,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 5,
+    "shuffle": true,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 6,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 7,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 8,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 9,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 10,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 11,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 12,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 13,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 14,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 15,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 16,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 17,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 18,
+    "shuffle": true,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 19,
+    "shuffle": true,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 20,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 21,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 22,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 23,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 24,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 25,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 26,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 27,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 28,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 29,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 30,
+    "shuffle": true,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 31,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 32,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 33,
+    "shuffle": true,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 34,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 35,
+    "shuffle": true,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 36,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 37,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 38,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 39,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 40,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 41,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 42,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 43,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 44,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 45,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 46,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 47,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 48,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 49,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "artist",
+    "entityId": 50,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "album",
+    "entityId": 1,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 2,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 3,
+    "shuffle": true,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 4,
+    "shuffle": true,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 5,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "album",
+    "entityId": 6,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "album",
+    "entityId": 7,
+    "shuffle": true,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 8,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 9,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "album",
+    "entityId": 10,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "album",
+    "entityId": 11,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 12,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "album",
+    "entityId": 13,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 14,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "album",
+    "entityId": 15,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 16,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "album",
+    "entityId": 17,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 18,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "album",
+    "entityId": 19,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "album",
+    "entityId": 20,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 21,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "album",
+    "entityId": 22,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "album",
+    "entityId": 23,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 24,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 25,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 26,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 27,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 28,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 29,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 30,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 31,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 32,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "album",
+    "entityId": 33,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 34,
+    "shuffle": true,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 35,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 36,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 37,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 38,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 39,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "album",
+    "entityId": 40,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "album",
+    "entityId": 41,
+    "shuffle": true,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 42,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 43,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 44,
+    "shuffle": true,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 45,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 46,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "album",
+    "entityId": 47,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 48,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "album",
+    "entityId": 49,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "album",
+    "entityId": 50,
+    "shuffle": true,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 51,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 52,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 53,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 54,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 55,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "album",
+    "entityId": 56,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 57,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 58,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "album",
+    "entityId": 59,
+    "shuffle": true,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 60,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "album",
+    "entityId": 61,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 62,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 63,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 64,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 65,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 66,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 67,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "album",
+    "entityId": 68,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 69,
+    "shuffle": true,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 70,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 71,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 72,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 73,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "album",
+    "entityId": 74,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 75,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 76,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 77,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 78,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "album",
+    "entityId": 79,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "album",
+    "entityId": 80,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 1,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 2,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 3,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 4,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 5,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 6,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 7,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 8,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 9,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 10,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 11,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 12,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 13,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 14,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 15,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 16,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 17,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 18,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 19,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 20,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 21,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 22,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 23,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 24,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 25,
+    "shuffle": true,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 26,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 27,
+    "shuffle": true,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 28,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 29,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 30,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 31,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 32,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 33,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 34,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 35,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 36,
+    "shuffle": true,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 37,
+    "shuffle": true,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 38,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 39,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 40,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 41,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 42,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 43,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 44,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 45,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 46,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 47,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 48,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 49,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 50,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 51,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 52,
+    "shuffle": true,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 53,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 54,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 55,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 56,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 57,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 58,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 59,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 60,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 61,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 62,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 63,
+    "shuffle": true,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 64,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 65,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 66,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 67,
+    "shuffle": true,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 68,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 69,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 70,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 71,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 72,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 73,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 74,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 75,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 76,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 77,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 78,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 79,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 80,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 81,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 82,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 83,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 84,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 85,
+    "shuffle": false,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 86,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 87,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 88,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 89,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 90,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 91,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 92,
+    "shuffle": false,
+    "repeatMode": "repeat-one"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 93,
+    "shuffle": true,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 94,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 95,
+    "shuffle": true,
+    "repeatMode": "none"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 96,
+    "shuffle": false,
+    "repeatMode": "repeat-all"
+  },
+  {
+    "entityType": "playlist",
+    "entityId": 97,
+    "shuffle": true,
+    "repeatMode": "repeat-one"
+  }
+]

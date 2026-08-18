@@ -1,0 +1,32 @@
+{
+  "parameters": {
+    "color": "Red",
+    "make": "Tolimar",
+    "model": "Camdyn",
+    "vehicle_type": "Sedan",
+    "license_plate": "RDRCK1",
+    "nickname": "Red Rocket"
+  },
+  "compatible_profiles": [
+    "active_sessions",
+    "budget_zones",
+    "default",
+    "electric_vehicles",
+    "expired_sessions",
+    "high_parking_volume",
+    "many_vehicles",
+    "new_user",
+    "premium_zones",
+    "zone_full"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T03:59:49.999424+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

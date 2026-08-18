@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "All-Purpose Antiseptic Wound Care Kit",
+    "description": "A comprehensive wound care kit that includes antiseptic wipes, sterile gauze pads, adhesive tape, and antibiotic ointment. Packaged in a durable, resealable pouch for easy transport. Suitable for home use, travel, or outdoor activities.",
+    "shortDescription": "All-purpose wound care kit with antiseptic wipes, gauze, and antibiotic ointment.",
+    "rating": 4.6,
+    "reviewCount": 0,
+    "seller": "FirstAid Ready Pack",
+    "price": 1789.43,
+    "discountedPrice": 1037.87,
+    "discountPercent": 42,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 65,
+    "subcategoryName": "First Aid",
+    "inStock": true,
+    "stockCount": 165,
+    "imageUrl": "/257_1",
+    "specs": "{\"ingredients\": \"Isopropyl Alcohol 70%, Chlorhexidine Gluconate 0.5%, Aloe Vera Extract, Sterile Gauze, Adhesive Bandage\", \"dosage\": \"Clean wound then apply antiseptic solution; cover with gauze\", \"weight\": \"150g total kit\", \"expiryPeriod\": \"36 months\", \"madeIn\": \"UK\", \"certifications\": \"CE Marked, ISO 13485, FDA Registered\"}",
+    "tags": "[\"wellness\", \"first\", \"health\", \"aid\", \"best\", \"popular\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 181890010,
+    "title": "Vintage 1980s Baseball Card Collection Lot",
+    "description": "Rare collection of baseball cards from the 1980s, mostly in good condition with some minor creasing. A great find for collectors!",
+    "categoryId": 8,
+    "sellerId": "{{current_user_id}}",
+    "price": 370.36,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 2,
+    "imageUrl": "https://example.com/images/vintage-1980s-baseball-card-collection-lot.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 122.5,
+    "currentBid": 195.09,
+    "bidIncrement": 5.0,
+    "endTime": 1773453989,
+    "expired": 0
+  }
+]

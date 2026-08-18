@@ -1,0 +1,152 @@
+{
+  "name": "Email Dark",
+  "mode": "dark",
+  "colors": {
+    "palette": {
+      "neutral100": "#1C1C1E",
+      "neutral200": "#2C2C2E",
+      "neutral300": "#3A3A3C",
+      "neutral400": "#48484A",
+      "neutral500": "#8E8E93",
+      "neutral600": "#AEAEB2",
+      "neutral700": "#C7C7CC",
+      "neutral800": "#D1D1D6",
+      "neutral900": "#F2F2F7",
+      "primary100": "#0A2540",
+      "primary200": "#1E4976",
+      "primary300": "#2E6BA8",
+      "primary400": "#3D8DD9",
+      "primary500": "#5BA3FF",
+      "primary600": "#7BB8FF",
+      "secondary100": "#0D2E29",
+      "secondary200": "#1A4A41",
+      "secondary300": "#296659",
+      "secondary400": "#388271",
+      "secondary500": "#4CAF89",
+      "accent100": "#3D2E1A",
+      "accent200": "#5D4E2A",
+      "accent300": "#7D6E3A",
+      "accent400": "#9D8E4A",
+      "accent500": "#FFB84D",
+      "angry100": "#3D1A1A",
+      "angry200": "#5D2A2A",
+      "angry300": "#7D3A3A",
+      "angry400": "#9D4A4A",
+      "angry500": "#FF6B6B",
+      "success100": "#1A3D1A",
+      "success200": "#2A5D2A",
+      "success300": "#3A7D3A",
+      "success400": "#4A9D4A",
+      "success500": "#5ABD5A",
+      "overlay20": "rgba(0, 0, 0, 0.4)",
+      "overlay50": "rgba(0, 0, 0, 0.7)"
+    },
+    "semantic": {
+      "transparent": "rgba(0, 0, 0, 0)",
+      "text": "#F2F2F7",
+      "textDim": "#AEAEB2",
+      "background": "#000000",
+      "border": "#3A3A3C",
+      "tint": "#5BA3FF",
+      "tintInactive": "#8E8E93",
+      "separator": "#2C2C2E",
+      "error": "#FF6B6B",
+      "errorBackground": "#3D1A1A"
+    }
+  },
+  "typography": {
+    "primary": {
+      "light": "spaceGroteskLight",
+      "normal": "spaceGroteskRegular",
+      "medium": "spaceGroteskMedium",
+      "semiBold": "spaceGroteskSemiBold",
+      "bold": "spaceGroteskBold"
+    },
+    "secondary": {
+      "thin": "HelveticaNeue-Thin",
+      "light": "HelveticaNeue-Light",
+      "normal": "Helvetica Neue",
+      "medium": "HelveticaNeue-Medium"
+    }
+  },
+  "spacing": {
+    "xs": 4,
+    "sm": 8,
+    "md": 16,
+    "lg": 24,
+    "xl": 32,
+    "2xl": 48,
+    "3xl": 64
+  },
+  "borderRadius": {
+    "sm": 4,
+    "md": 8,
+    "lg": 12,
+    "xl": 16,
+    "full": 9999
+  },
+  "shadows": {
+    "sm": {
+      "shadowColor": "#000000",
+      "shadowOffset": { "width": 0, "height": 1 },
+      "shadowOpacity": 0.3,
+      "shadowRadius": 2,
+      "elevation": 1
+    },
+    "md": {
+      "shadowColor": "#000000",
+      "shadowOffset": { "width": 0, "height": 2 },
+      "shadowOpacity": 0.4,
+      "shadowRadius": 4,
+      "elevation": 3
+    },
+    "lg": {
+      "shadowColor": "#000000",
+      "shadowOffset": { "width": 0, "height": 4 },
+      "shadowOpacity": 0.5,
+      "shadowRadius": 8,
+      "elevation": 5
+    }
+  },
+  "components": {
+    "button": {
+      "defaultHeight": 48,
+      "defaultBorderRadius": 8,
+      "defaultPaddingHorizontal": 24,
+      "defaultPaddingVertical": 12,
+      "fontSize": 16,
+      "fontWeight": "600",
+      "primaryBackground": "#5BA3FF",
+      "primaryText": "#000000",
+      "secondaryBackground": "#4CAF89",
+      "secondaryText": "#000000"
+    },
+    "input": {
+      "defaultHeight": 48,
+      "defaultBorderRadius": 8,
+      "defaultPaddingHorizontal": 16,
+      "defaultPaddingVertical": 12,
+      "fontSize": 16,
+      "fontWeight": "400",
+      "backgroundColor": "#1C1C1E",
+      "borderColor": "#3A3A3C",
+      "borderWidth": 1,
+      "placeholderColor": "#8E8E93",
+      "textColor": "#F2F2F7",
+      "focusBorderColor": "#5BA3FF"
+    },
+    "text": {
+      "defaultFontSize": 16,
+      "defaultLineHeight": 24,
+      "headingFontSize": 24,
+      "headingLineHeight": 32,
+      "subheadingFontSize": 18,
+      "subheadingLineHeight": 26
+    },
+    "screen": {
+      "backgroundColor": "#000000",
+      "paddingHorizontal": 16,
+      "paddingVertical": 16
+    }
+  }
+}

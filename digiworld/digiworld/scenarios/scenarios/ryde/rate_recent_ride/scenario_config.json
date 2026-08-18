@@ -1,0 +1,12 @@
+{
+  "task_name": "Give the driver of my most recent completed ride a <rating> star rating with the comment \"<comment>\"",
+  "app_name": "ryde",
+  "scenario_class": "RateRecentRideScenario",
+  "parameters": [
+    "rating",
+    "comment"
+  ],
+  "context_fields": [],
+  "description": "Rate the driver of the most recent completed ride with a star rating and comment",
+  "additional_mockdata": true
+}

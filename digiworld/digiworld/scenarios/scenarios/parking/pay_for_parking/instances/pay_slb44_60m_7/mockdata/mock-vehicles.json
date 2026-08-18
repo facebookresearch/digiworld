@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "nickname": "FamilyVan",
+    "make": "Tolimar",
+    "model": "Sienna",
+    "color": "Beige",
+    "year": 2022,
+    "plateNumber": "VAN202",
+    "vehicleTypeId": 4,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

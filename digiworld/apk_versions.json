@@ -1,0 +1,21 @@
+{
+  "description": "Minimum compatible APK versions. Update min_version when breaking app changes land.",
+  "updated": "2026-07-23",
+  "apps": {
+    "auction": "1.0.0",
+    "banking": "1.0.0",
+    "eats": "1.0.0",
+    "email": "1.0.0",
+    "fly": "1.0.3",
+    "message": "1.0.0",
+    "music": "1.0.0",
+    "parking": "1.0.0",
+    "pay": "1.0.2",
+    "qwikshop": "1.1.0",
+    "ryde": "1.0.1",
+    "shop": "1.1.3",
+    "smarthome": "1.0.0",
+    "transit": "1.0.0",
+    "video": "1.0.0"
+  }
+}

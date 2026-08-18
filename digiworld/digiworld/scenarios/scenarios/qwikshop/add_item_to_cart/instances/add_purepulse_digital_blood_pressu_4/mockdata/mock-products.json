@@ -1,0 +1,22 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "PurePulse Digital Blood Pressure Monitor",
+    "description": "Clinically validated cuff provides instant readings and syncs data to a mobile app.",
+    "shortDescription": "Blood pressure monitor",
+    "price": 146.31,
+    "discountedPrice": 146.31,
+    "discountPercent": 0,
+    "rating": 4.7,
+    "reviewCount": 453,
+    "seller": "WellnessTech",
+    "categoryName": "Health & Wellness",
+    "subcategoryName": "Medical Devices",
+    "inStock": 1,
+    "stockCount": 35,
+    "imageUrl": "/product_7227",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

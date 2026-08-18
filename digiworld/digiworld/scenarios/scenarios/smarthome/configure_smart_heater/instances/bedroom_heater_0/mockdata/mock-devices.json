@@ -1,0 +1,18 @@
+[
+  {
+    "userId": "{{current_user_id}}",
+    "name": "Bedroom Heater",
+    "deviceTypeId": "{{device_type_id_by_name:Smart Heater}}",
+    "roomId": "{{first_room_id}}",
+    "status": "online",
+    "isOn": false,
+    "properties": "{\"temperature\": 80, \"target_temperature\": 80, \"humidity\": 50, \"fan_speed\": 5, \"mode\": \"heat\", \"scheduling\": true}",
+    "battery": 100,
+    "signalStrength": 95,
+    "firmwareVersion": "1.0.0",
+    "lastSeen": "{{recent_timestamp}}",
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

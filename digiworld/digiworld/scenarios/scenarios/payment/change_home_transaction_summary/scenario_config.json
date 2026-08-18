@@ -1,0 +1,8 @@
+{
+  "task_name": "Change the home page transaction summary to <period>",
+  "app_name": "payment",
+  "scenario_class": "ChangeHomeTransactionSummaryScenario",
+  "parameters": ["period"],
+  "context_fields": [],
+  "description": "Verify the user changed the transaction summary period on the home screen."
+}

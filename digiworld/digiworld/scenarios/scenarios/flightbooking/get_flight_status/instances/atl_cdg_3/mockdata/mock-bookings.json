@@ -1,0 +1,53 @@
+[
+  {
+    "booking_id": "BK-TEST-FSDNMMJB",
+    "booking_reference": "FSDNMMJB",
+    "user_id": "{{current_user_id}}",
+    "trip_type": "one_way",
+    "booking_date": "{{end_timestamp}}",
+    "status": "confirmed",
+    "payment_status": "paid",
+    "total_price": 1199.18,
+    "refund_amount": 0,
+    "amount_paid": 1199.18,
+    "currency": "USD",
+    "flights": [
+      {
+        "flight_id": "DL9669_2026-08-15",
+        "airline_code": "DL",
+        "flight_number": "DL9669",
+        "origin": "ATL",
+        "destination": "CDG",
+        "departure_time": "2026-08-15T05:00:00Z",
+        "arrival_time": "2026-08-15T09:08:00Z",
+        "duration_minutes": 248,
+        "fare": 1199.18,
+        "segment": "outbound",
+        "status": "confirmed"
+      }
+    ],
+    "passengers": [
+      {
+        "passenger_id": "P-FSDNMMJB-216970",
+        "first_name": "Test",
+        "last_name": "Traveler",
+        "email": "test.traveler@example.com",
+        "phone": "+1-555-5808",
+        "date_of_birth": "1988-03-15",
+        "passport_number": "X10435578",
+        "seat_assignments": [
+          {
+            "flight_id": "DL9669_2026-08-15",
+            "seat_number": "24F",
+            "check_in_status": "not_checked_in",
+            "check_in_time": null
+          }
+        ],
+        "ticket_number": "TK-FSDNMMJB-216970",
+        "created_at": "2026-01-01T00:00:00Z"
+      }
+    ],
+    "created_at": "{{end_timestamp}}",
+    "updated_at": "{{end_timestamp}}"
+  }
+]

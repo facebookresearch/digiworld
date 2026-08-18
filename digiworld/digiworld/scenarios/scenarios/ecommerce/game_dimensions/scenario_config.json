@@ -1,0 +1,8 @@
+{
+  "task_name": "What are the dimensions of the <item> game?",
+  "app_name": "ecommerce",
+  "scenario_class": "GameDimensionsScenario",
+  "parameters": ["item"],
+  "context_fields": [],
+  "description": "Retrieve the dimensions of a game product"
+}

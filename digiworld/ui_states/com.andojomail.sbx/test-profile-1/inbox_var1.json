@@ -1,0 +1,59 @@
+{
+  "timestamp": 1759571210038,
+  "sessionStore": {
+    "session": {
+      "id": "state-inbox-1",
+      "data": {
+        "screenName": "inbox",
+        "route": "/(tabs)/inbox",
+        "startTime": 1759571210038,
+        "endTime": 0,
+        "sessionData": {
+          "interactionType": "SCREEN_MOUNTED",
+          "currentFocusedElement": "",
+          "formData": {
+            "screen": "inbox",
+            "route": "/(tabs)/inbox",
+            "currentFolder": "inbox",
+            "drawerOpen": true
+          }
+        },
+        "action": "",
+        "timestamp": 1759571210038
+      }
+    }
+  },
+  "userStore": {
+    "currentUser": {
+      "id": 1,
+      "email": "brian.miller@example.com",
+      "password": "password123",
+      "firstName": "Brian",
+      "lastName": "Miller",
+      "displayName": "Brian Miller",
+      "avatar": "https://i.pravatar.cc/150?u=brian",
+      "phoneNumber": "",
+      "dateOfBirth": "",
+      "role": "admin",
+      "createdAt": "2024-08-03T10:20:29.153614Z",
+      "settings": {
+        "theme": "light",
+        "language": "en",
+        "notifications": true,
+        "twoFactorEnabled": false
+      },
+      "emailSettings": {
+        "emailsPerPage": 40,
+        "autoReadReceipts": true,
+        "vacationAutoReplyEnabled": true,
+        "defaultReplyTo": "brian.miller@example.com",
+        "vacationAutoReplyMessage": "I am currently on vacation until next week."
+      }
+    },
+    "authToken": "dummy-jwt-token-1"
+  },
+  "uiStore": {
+    "isDeeplinkLoading": false,
+    "storagePermissionUri": null
+  }
+}

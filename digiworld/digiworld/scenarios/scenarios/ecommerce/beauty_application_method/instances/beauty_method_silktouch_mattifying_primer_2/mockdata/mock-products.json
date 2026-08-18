@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "SilkTouch Mattifying Primer",
+    "description": "Product: SilkTouch Mattifying Primer",
+    "shortDescription": "SilkTouch Mattifying Primer",
+    "rating": 4.0,
+    "reviewCount": 0,
+    "seller": "Test Seller",
+    "price": 29.99,
+    "discountedPrice": 29.99,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 1,
+    "subcategoryName": "Skincare",
+    "inStock": true,
+    "stockCount": 50,
+    "imageUrl": "/test_1",
+    "specs": "{\"applicationMethod\": \"Dispense a small amount onto fingertips and spread evenly over moisturized skin, focusing on T-zone for a matte finish.\"}",
+    "tags": "[\"beauty & personal care\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

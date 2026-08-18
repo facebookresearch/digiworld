@@ -1,0 +1,9 @@
+{
+    "task_name": "Clear all messages and remove everyone from the group chat \"<group_name>\", then delete the group chat",
+    "app_name": "message",
+    "scenario_class": "DeleteGroupScenario",
+    "parameters": ["group_name"],
+    "context_fields": [],
+    "description": "Clear messages, remove members, and delete a group chat",
+    "additional_mockdata": true
+}

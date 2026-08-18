@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 1,
+    "categoryId": 4,
+    "title": "Top 10 Plot Twists of 2023",
+    "description": "Count down the most jaw\u2011dropping plot twists from this year's biggest releases, with spoiler alerts and analysis.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 2765,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 534,
+    "likeCount": 76,
+    "commentCount": 12,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "family-001",
+    "phoneNumber": "{{random_phone}}",
+    "name": "Elena Sharma",
+    "avatarUrl": null,
+    "lastLoggedIn": 0
+  },
+  {
+    "id": "family-002",
+    "phoneNumber": "{{random_phone}}",
+    "name": "Marcus Johnson",
+    "avatarUrl": null,
+    "lastLoggedIn": 0
+  }
+]

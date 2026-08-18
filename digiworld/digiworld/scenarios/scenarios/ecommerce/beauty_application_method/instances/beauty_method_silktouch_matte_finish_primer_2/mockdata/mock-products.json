@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "SilkTouch Matte Finish Primer",
+    "description": "Product: SilkTouch Matte Finish Primer",
+    "shortDescription": "SilkTouch Matte Finish Primer",
+    "rating": 4.0,
+    "reviewCount": 0,
+    "seller": "Test Seller",
+    "price": 29.99,
+    "discountedPrice": 29.99,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 1,
+    "subcategoryName": "Skincare",
+    "inStock": true,
+    "stockCount": 50,
+    "imageUrl": "/test_1",
+    "specs": "{\"applicationMethod\": \"Apply a thin layer to a primed face using fingertips, spreading evenly to create a smooth, oil\\u2011free base before makeup.\"}",
+    "tags": "[\"beauty & personal care\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Aisha Patel",
+    "street": "2600 Cedar Road",
+    "city": "Atlanta",
+    "state": "GA",
+    "pincode": "30308",
+    "phone": "4045550678",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

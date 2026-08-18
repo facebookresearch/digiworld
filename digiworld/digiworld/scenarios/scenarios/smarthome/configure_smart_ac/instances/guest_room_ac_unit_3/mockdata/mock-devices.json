@@ -1,0 +1,18 @@
+[
+  {
+    "userId": "{{current_user_id}}",
+    "name": "Guest Room AC Unit",
+    "deviceTypeId": "{{device_type_id_by_name:Smart AC}}",
+    "roomId": "{{first_room_id}}",
+    "status": "online",
+    "isOn": false,
+    "properties": "{\"temperature\": 80, \"target_temperature\": 80, \"humidity\": 50, \"fan_speed\": 1, \"mode\": \"heat\", \"scheduling\": false}",
+    "battery": 100,
+    "signalStrength": 95,
+    "firmwareVersion": "1.0.0",
+    "lastSeen": "{{recent_timestamp}}",
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

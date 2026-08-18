@@ -1,0 +1,11 @@
+{
+  "task_name": "Delete the most recent comment on the video \"<title>\", then tell me who made the oldest comment on the video \"<title>\"",
+  "app_name": "video",
+  "scenario_class": "DeleteCommentAndGetAuthorScenario",
+  "parameters": [
+    "title"
+  ],
+  "context_fields": [],
+  "description": "Delete the most recent comment on a video, then report the author of the oldest comment",
+  "additional_mockdata": true
+}

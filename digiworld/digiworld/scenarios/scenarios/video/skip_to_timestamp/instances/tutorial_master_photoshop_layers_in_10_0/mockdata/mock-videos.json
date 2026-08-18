@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 1,
+    "categoryId": 3,
+    "title": "Master Photoshop Layers in 10 Minutes",
+    "description": "In this fast\u2011paced tutorial, I walk you through the core tools for managing layers, masks, and blending modes in Photoshop, all within ten minutes.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 640,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 5614,
+    "likeCount": 18,
+    "commentCount": 5,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "parameters": {
+    "origin": "97, Attorney Street, Manhattan, USA",
+    "destination": "Cellar Dog, 75, Christopher Street, West Village, Manhattan, USA"
+  },
+  "compatible_profiles": [
+    "budget_rides",
+    "cancelled_rides",
+    "default",
+    "excellent_feedback",
+    "high_rated_drivers",
+    "high_ride_volume",
+    "inactive_users",
+    "low_rated_drivers",
+    "new_user",
+    "poor_feedback",
+    "premium_fares"
+  ],
+  "metadata": {
+    "created_at": "2026-04-11T00:00:00.000000+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

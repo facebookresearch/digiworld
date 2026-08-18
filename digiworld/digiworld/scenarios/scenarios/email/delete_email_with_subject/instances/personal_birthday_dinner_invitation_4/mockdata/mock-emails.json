@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "aisha.khan@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Birthday Dinner Invitation",
+    "preview": "Hi there, I'm planning a small dinner to celebrate...",
+    "body": "Hi there, I'm planning a small dinner to celebrate my birthday next Thursday at 7pm. It would be great if you could join us for some good food and conversation.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_aisha_khan_birthday_dinner_invitation",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

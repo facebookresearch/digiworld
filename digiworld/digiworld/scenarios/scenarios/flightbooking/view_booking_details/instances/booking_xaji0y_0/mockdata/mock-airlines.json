@@ -1,0 +1,9 @@
+[
+  {
+    "id": "airline_ba",
+    "name": "British Airways",
+    "iataCode": "BA",
+    "country": "United Kingdom",
+    "createdAt": "2026-01-01T00:00:00Z"
+  }
+]

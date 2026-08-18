@@ -1,0 +1,16 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "driverId": 2,
+    "pickupLocation": "{\"lat\": 40.712648, \"lng\": -73.963475, \"placename\": \"Chinese Hispanic Grocery, 130, Eldridge Street, Manhattan, USA\"}",
+    "dropLocation": "{\"lat\": 40.732687, \"lng\": -73.971283, \"placename\": \"Newman Library and Technology Center, East 25th Street, Kips Bay, Manhattan, USA\"}",
+    "status": "completed",
+    "startTime": "{{middle_ride_time}}",
+    "endTime": "{{recent_ride_time}}",
+    "distanceKm": 3.53,
+    "fareAmount": 6.35,
+    "feedbackSubmitted": 0,
+    "paymentMode": "cash"
+  }
+]

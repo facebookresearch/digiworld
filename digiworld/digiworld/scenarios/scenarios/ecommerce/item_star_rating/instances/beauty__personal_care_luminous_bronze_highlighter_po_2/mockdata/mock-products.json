@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Luminous Bronze Highlighter Powder",
+    "description": "A finely milled, buildable highlighter that imparts a champagne-gold glow. Formulated with mica and light-diffusing pigments for a radiant complexion. Suitable for all skin tones.",
+    "shortDescription": "Champagne-gold highlighter for a luminous look.",
+    "rating": 5.0,
+    "reviewCount": 0,
+    "seller": "GlowCraft Essentials",
+    "price": 37.92,
+    "discountedPrice": 34.13,
+    "discountPercent": 10,
+    "categoryId": 6,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 42,
+    "subcategoryName": "Makeup",
+    "inStock": true,
+    "stockCount": 77,
+    "imageUrl": "/167_1",
+    "specs": "{\"ingredients\": \"Mica, Talc, Iron Oxides, Vitamin E, Fragrance (Golden Amber), Silica, Phenoxyethanol\", \"skinType\": \"N/A\", \"volume\": \"8g\", \"fragrance\": \"Golden amber\", \"madeIn\": \"USA\", \"expiryPeriod\": \"24 months from manufacture\"}",
+    "tags": "[\"makeup\", \"personal\", \"care\", \"beauty\", \"popular\", \"premium\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

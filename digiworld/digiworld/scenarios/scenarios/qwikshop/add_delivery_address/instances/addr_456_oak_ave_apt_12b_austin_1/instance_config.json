@@ -1,0 +1,31 @@
+{
+  "parameters": {
+    "street": "456 Oak Ave Apt 12B",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78701",
+    "country": "United States",
+    "firstName": "Maria",
+    "lastName": "Hernandez",
+    "phone": "5125558423"
+  },
+  "compatible_profiles": [
+    "bulk_quantity",
+    "default",
+    "heavy_discounts",
+    "high_order_volume",
+    "large_orders",
+    "new_user",
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-03-31T23:45:52.743171+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

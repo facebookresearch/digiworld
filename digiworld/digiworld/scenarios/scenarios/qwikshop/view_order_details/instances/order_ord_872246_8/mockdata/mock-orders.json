@@ -1,0 +1,74 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "orderNumber": "ORD-872246",
+    "userId": "{{current_user_id}}",
+    "items": [
+      {
+        "id": 9373,
+        "productId": 9166,
+        "productName": "GlowGuard Night Light with Motion Sensor",
+        "productImage": "https://picsum.photos/seed/7065/600/400",
+        "shortDescription": "Battery\u2011operated night light that activates on movement, ideal for hallways.",
+        "sku": "SKU-6820",
+        "categoryName": "Home Improvement",
+        "subcategoryName": "Night Lights",
+        "seller": "Test Seller",
+        "quantity": 1,
+        "price": 149.82,
+        "discountedPrice": 149.82,
+        "total": 149.82,
+        "savedAmount": 0,
+        "addedAt": "{{middle_timestamp}}",
+        "inStock": true
+      }
+    ],
+    "subtotal": 149.82,
+    "totalSavings": 0,
+    "shipping": 17.71,
+    "tax": 12.36,
+    "couponDiscount": 0,
+    "couponCode": null,
+    "totalAmount": 179.89,
+    "status": "Delivered",
+    "statusHistory": [
+      {
+        "status": "Order Placed",
+        "timestamp": "{{middle_timestamp}}",
+        "description": "Your order has been received and is being processed."
+      },
+      {
+        "status": "Payment Confirmed",
+        "timestamp": "{{middle_timestamp}}",
+        "description": "Payment has been successfully processed."
+      },
+      {
+        "status": "Shipped",
+        "timestamp": "{{middle_timestamp}}",
+        "description": "Your order has been shipped and is on its way to you."
+      },
+      {
+        "status": "Delivered",
+        "timestamp": "{{end_timestamp}}",
+        "description": "Your order has been delivered successfully."
+      }
+    ],
+    "deliveryAddress": {
+      "fullName": "{{current_user_address_full_name}}",
+      "street": "{{current_user_address_street}}",
+      "city": "{{current_user_address_city}}",
+      "state": "{{current_user_address_state}}",
+      "pincode": "{{current_user_address_pincode}}"
+    },
+    "paymentMethod": "Credit Card",
+    "paymentStatus": "Completed",
+    "orderDate": "{{middle_timestamp}}",
+    "shippedDate": "{{middle_timestamp}}",
+    "deliveryDate": "{{end_timestamp}}",
+    "estimatedDeliveryDate": "{{end_timestamp}}",
+    "trackingNumber": "TRK-319684",
+    "courierPartner": "Express Shipping",
+    "isGift": false,
+    "giftMessage": null
+  }
+]

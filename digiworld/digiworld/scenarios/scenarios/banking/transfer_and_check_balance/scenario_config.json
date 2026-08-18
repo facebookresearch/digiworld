@@ -1,0 +1,9 @@
+{
+  "task_name": "Transfer <amount> from <account_1> to <account_2>, then tell me the resulting available balance of <account_2>",
+  "app_name": "banking",
+  "scenario_class": "TransferAndCheckBalanceScenario",
+  "parameters": ["amount", "account_1", "account_2"],
+  "additional_mockdata": true,
+  "context_fields": [],
+  "description": "Composed scenario: transfer between accounts then report the destination account's post-transfer available balance."
+}

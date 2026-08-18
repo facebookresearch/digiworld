@@ -1,0 +1,16 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "driverId": 2,
+    "pickupLocation": "{\"lat\": 40.711192, \"lng\": -73.991254, \"placename\": \"Chinese Hispanic Grocery, 130, Eldridge Street, Manhattan, USA\"}",
+    "dropLocation": "{\"lat\": 40.730214, \"lng\": -73.998939, \"placename\": \"Cellar Dog, 75, Christopher Street, West Village, Manhattan, USA\"}",
+    "status": "completed",
+    "startTime": "{{middle_ride_time}}",
+    "endTime": "{{recent_ride_time}}",
+    "distanceKm": 2.93,
+    "fareAmount": 3.52,
+    "feedbackSubmitted": 0,
+    "paymentMode": "cash"
+  }
+]

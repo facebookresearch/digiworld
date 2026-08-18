@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 1,
+    "categoryId": 4,
+    "title": "Live Improv Comedy Show: Audience Picks the Plot",
+    "description": "Watch our improv troupe take random suggestions from the crowd and spin them into a hilarious, unscripted performance.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 3427,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 5614,
+    "likeCount": 18,
+    "commentCount": 2,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

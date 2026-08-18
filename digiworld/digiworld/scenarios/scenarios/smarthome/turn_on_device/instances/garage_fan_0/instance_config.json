@@ -1,0 +1,27 @@
+{
+  "parameters": {
+    "device_name": "Garage Fan"
+  },
+  "compatible_profiles": [
+    "default",
+    "large_home",
+    "low_battery_devices",
+    "many_automations",
+    "many_devices",
+    "new_user",
+    "offline_devices",
+    "security_focused",
+    "unread_notifications",
+    "weak_signal"
+  ],
+  "metadata": {
+    "created_at": "2026-03-02T02:14:05.950232+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

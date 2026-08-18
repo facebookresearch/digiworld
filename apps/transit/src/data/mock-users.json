@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "email": "john.doe@example.com",
+    "username": "johndoe",
+    "password": "$2a$10$hashed123",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=John",
+    "bio": "Daily commuter and transit enthusiast. Love exploring the city via public transport.",
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "email": "sarah.smith@example.com",
+    "username": "sarahsmith",
+    "password": "$2a$10$hashed123",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+    "bio": "Urban planner passionate about sustainable transportation.",
+    "createdAt": "2024-01-20T14:45:00.000Z",
+    "updatedAt": "2024-01-20T14:45:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 3,
+    "email": "mike.wilson@example.com",
+    "username": "mikewilson",
+    "password": "$2a$10$hashed123",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+    "bio": "Tech worker who relies on public transit for daily commute.",
+    "createdAt": "2024-02-01T09:15:00.000Z",
+    "updatedAt": "2024-02-01T09:15:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 4,
+    "email": "emma.davis@example.com",
+    "username": "emmadavis",
+    "password": "$2a$10$hashed123",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+    "bio": "Student navigating the city with buses and trains.",
+    "createdAt": "2024-02-10T16:20:00.000Z",
+    "updatedAt": "2024-02-10T16:20:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 5,
+    "email": "alex.chen@example.com",
+    "username": "alexchen",
+    "password": "$2a$10$hashed123",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+    "bio": "Eco-conscious commuter who prefers trains over cars.",
+    "createdAt": "2024-02-15T11:30:00.000Z",
+    "updatedAt": "2024-02-15T11:30:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "email": "nora.patel@example.com",
+    "username": "norapatel",
+    "password": "$2a$10$hashed123",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Nora",
+    "bio": "Transit power user who knows every line and shortcut in the city.",
+    "createdAt": "2024-03-01T08:05:00.000Z",
+    "updatedAt": "2024-03-01T08:05:00.000Z",
+    "deletedAt": null
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "cartId": 1,
+    "userId": 1,
+    "productId": 9904,
+    "productName": "Chef's Choice 8\u2011inch Cast Iron Skillet",
+    "productImage": "/product_9904",
+    "shortDescription": "Pre\u2011seasoned cast iron skillet",
+    "seller": "Culinary Classics",
+    "quantity": 3,
+    "price": 360.85,
+    "discountedPrice": 288.68,
+    "total": 866.04,
+    "inStock": 1
+  }
+]

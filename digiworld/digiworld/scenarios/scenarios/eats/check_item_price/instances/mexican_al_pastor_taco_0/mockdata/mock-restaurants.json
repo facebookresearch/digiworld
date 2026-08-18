@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Cactus Cantina",
+    "description": "Street-style tacos with house-made corn tortillas and smoky chipotle salsa.",
+    "address": "101 Cedar Lane, Miami, FL 33101",
+    "latitude": 25.7617,
+    "longitude": -80.1918,
+    "logo": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 3.9,
+    "deliveryFee": 5.4,
+    "minOrder": 8.0,
+    "deliveryRadius": 12,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

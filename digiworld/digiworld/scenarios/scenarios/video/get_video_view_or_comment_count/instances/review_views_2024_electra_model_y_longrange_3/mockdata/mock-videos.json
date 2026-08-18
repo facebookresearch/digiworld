@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 1,
+    "categoryId": 6,
+    "title": "2024 Electra Model Y Long\u2011Range Review",
+    "description": "I take the new Model Y for a road test, covering performance, range, and interior tech features.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 3232,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 9028,
+    "likeCount": 58,
+    "commentCount": 14,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

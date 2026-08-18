@@ -1,0 +1,10 @@
+{
+  "task_name": "How many of the <item> item are in stock?",
+  "app_name": "ecommerce",
+  "scenario_class": "ItemStockCountScenario",
+  "parameters": [
+    "item"
+  ],
+  "context_fields": [],
+  "description": "Retrieve the stock count of a given product"
+}

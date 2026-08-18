@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Curry Junction",
+    "description": "South Indian dosa batters fermented overnight for extra crispness.",
+    "address": "555 Pine Road, Chicago, IL 60601",
+    "latitude": 41.8781,
+    "longitude": -87.6298,
+    "logo": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 3.9,
+    "deliveryFee": 4.35,
+    "minOrder": 10.0,
+    "deliveryRadius": 6,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

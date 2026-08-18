@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "nickname": "Cruiser",
+    "make": "Harley-Davidson",
+    "model": "Electra Glide",
+    "color": "Blue",
+    "year": 2022,
+    "plateNumber": "GLIDE3",
+    "vehicleTypeId": 6,
+    "isDefault": 0,
+    "createdAt": "{{end_timestamp}}",
+    "updatedAt": "{{end_timestamp}}",
+    "metadata": null
+  }
+]

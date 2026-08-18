@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Straight Leg Dark Wash Denim Jeans",
+    "description": "These straight leg jeans feature a deep indigo wash with subtle fading for a vintage vibe. The sturdy denim resists wear, and the classic five-pocket design offers practicality.",
+    "shortDescription": "Straight leg dark wash jeans with vintage fading and classic five\u2011pocket design.",
+    "rating": 3.2,
+    "reviewCount": 5,
+    "seller": "Denim Roots Co.",
+    "price": 1700.85,
+    "discountedPrice": 901.45,
+    "discountPercent": 47,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 11,
+    "subcategoryName": "Jeans",
+    "inStock": true,
+    "stockCount": 63,
+    "imageUrl": "/41_1",
+    "specs": "{\"material\": \"98% Cotton, 2% Elastane\", \"careInstructions\": \"Machine wash cold inside out, tumble dry low\", \"fit\": \"Straight leg\", \"size\": \"28, 30, 32, 34, 36 waist\", \"color\": \"Dark indigo\", \"pattern\": \"Solid denim\"}",
+    "tags": "[\"jeans\", \"clothing\", \"top-rated\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

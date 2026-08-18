@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754720125,
+    "title": "Autographed 2022 Global Cup Match Ball \u2013 Signed by Team Captain",
+    "description": "A genuine match ball from the 2022 Global Cup, freshly signed by the team captain, preserved in a climate\u2011controlled case with a certificate of authenticity.",
+    "categoryId": 6,
+    "sellerId": 2,
+    "price": 2433.46,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 11,
+    "imageUrl": "https://example.com/images/autographed-2022-world-cup-match-ball-\u2013-signed-by-team-captain.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 18.05,
+    "currentBid": 32.18,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 90001,
+    "restaurantId": 90001,
+    "categoryId": 90001,
+    "name": "Paneer Tikka Thali",
+    "description": "Assorted paneer tikka, spiced lentils, and soft garlic naan in a single plate.",
+    "price": 13.0,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80",
+    "calories": 620,
+    "isPopular": 0,
+    "isActive": 1,
+    "position": 1
+  }
+]

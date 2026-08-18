@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Sarah Patel",
+    "street": "321 Birch Ln",
+    "city": "Miami",
+    "state": "FL",
+    "pincode": "33130",
+    "phone": "3055558804",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

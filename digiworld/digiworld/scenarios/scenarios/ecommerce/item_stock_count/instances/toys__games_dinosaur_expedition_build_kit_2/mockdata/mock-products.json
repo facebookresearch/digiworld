@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Dinosaur Expedition Build Kit",
+    "description": "Construct lifelike dinosaur models, including a T\u2011rex, Triceratops, and Pterodactyl, using sturdy interlocking parts. The kit also provides a volcanic landscape base and a magnifying explorer's guide. Perfect for ages 8\u201114.",
+    "shortDescription": "Dinosaur model building kit with a volcanic base.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Prehistoric Playworks",
+    "price": 122.24,
+    "discountedPrice": 116.13,
+    "discountPercent": 5,
+    "categoryId": 7,
+    "categoryName": "Toys & Games",
+    "subcategoryId": 52,
+    "subcategoryName": "Building Sets",
+    "inStock": true,
+    "stockCount": 20,
+    "imageUrl": "/206_1",
+    "specs": "{\"ageRange\": \"8+\", \"material\": \"Polycarbonate and metal rods\", \"dimensions\": \"16 x 12 x 6 inches (box)\", \"batteryRequired\": \"No\", \"warranty\": \"2 years\", \"safetyRating\": \"EN71\"}",
+    "tags": "[\"building\", \"toys\", \"games\", \"sets\", \"high-quality\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

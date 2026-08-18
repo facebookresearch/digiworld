@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Rustic Route",
+    "description": "Gourmet burgers cooked on a cast iron grill with house-made bun.",
+    "address": "630 Harbor Drive, San Diego, CA 92101",
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "logo": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.0,
+    "deliveryFee": 2.2,
+    "minOrder": 10.0,
+    "deliveryRadius": 5,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

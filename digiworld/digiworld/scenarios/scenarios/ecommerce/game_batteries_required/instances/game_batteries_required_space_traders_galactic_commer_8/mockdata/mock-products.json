@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Space Traders: Galactic Commerce",
+    "description": "Space Traders: Galactic Commerce lets you negotiate interstellar trade routes, manage cargo, and outmaneuver rival merchants. The modular board and variable market cards ensure a dynamic experience for 2\u20115 players, perfect for fans of strategy and sci\u2011fi.",
+    "shortDescription": "Trade across the galaxy, manage cargo, and outwit rival merchants.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Starlight Hobby Co.",
+    "price": 1346.24,
+    "discountedPrice": 996.22,
+    "discountPercent": 26,
+    "categoryId": 7,
+    "categoryName": "Toys & Games",
+    "subcategoryId": 49,
+    "subcategoryName": "Board Games",
+    "inStock": true,
+    "stockCount": 178,
+    "imageUrl": "/196_1",
+    "specs": "{\"ageRange\": \"12+ years\", \"material\": \"Cardboard, wooden tokens\", \"dimensions\": \"16 x 12 x 3 inches\", \"batteryRequired\": \"No\", \"warranty\": \"1 year limited\", \"safetyRating\": \"ASTM F963\"}",
+    "tags": "[\"board\", \"games\", \"toys\", \"high-quality\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "app_name": "message",
+  "apk_name": "com.andojomessage.sbx",
+  "database_name": "default.db",
+  "home_route": "/(tabs)/home",
+  "routes": [
+    {
+      "id": "home",
+      "route": "/(tabs)/home",
+      "screen_name": "home",
+      "description": "Home screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "calls",
+      "route": "/(tabs)/calls",
+      "screen_name": "calls",
+      "description": "Calls screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "groups",
+      "route": "/(tabs)/groups",
+      "screen_name": "groups",
+      "description": "Groups screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "profile",
+      "route": "/(tabs)/profile",
+      "screen_name": "profile",
+      "description": "Profile screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "contact_list",
+      "route": "/screens/contacts/contact-list",
+      "screen_name": "contactList",
+      "description": "Contact list screen",
+      "back_route": "/(tabs)/home",
+      "context_variations": []
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "task_name": "Turn on the Security Camera named \"<device_name>\", <motion_detection> Motion Detection, <night_vision> Night Vision, <two_way_audio> Two-Way Audio, <recording> Recording, and <cloud_storage> Cloud Storage",
+  "app_name": "smarthome",
+  "scenario_class": "ConfigureSecurityCameraScenario",
+  "parameters": ["device_name", "motion_detection", "night_vision", "two_way_audio", "recording", "cloud_storage"],
+  "context_fields": [],
+  "description": "Configure a Security Camera with motion detection, night vision, two-way audio, recording, and cloud storage settings",
+  "additional_mockdata": true
+}

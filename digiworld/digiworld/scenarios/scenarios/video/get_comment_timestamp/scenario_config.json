@@ -1,0 +1,9 @@
+{
+  "task_name": "When was the <order> comment made on the video \"<title>\"?",
+  "app_name": "video",
+  "scenario_class": "GetCommentTimestampScenario",
+  "parameters": ["order", "title"],
+  "context_fields": [],
+  "description": "Report when the latest or oldest comment was made on a video",
+  "additional_mockdata": true
+}

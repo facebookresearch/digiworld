@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Satin Midi Wrap Dress",
+    "description": "This midi dress showcases a silky satin finish that drapes elegantly over the body. The wrap style accentuates the waist, while the subtle side slit adds effortless movement.",
+    "shortDescription": "Silky satin wrap dress that drapes elegantly and accentuates the waist.",
+    "rating": 2.7,
+    "reviewCount": 3,
+    "seller": "Luna Boutique",
+    "price": 981.53,
+    "discountedPrice": 618.36,
+    "discountPercent": 37,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 10,
+    "subcategoryName": "Women's Dresses",
+    "inStock": true,
+    "stockCount": 172,
+    "imageUrl": "/37_1",
+    "specs": "{\"material\": \"100% Polyester satin\", \"careInstructions\": \"Hand wash cold or dry clean, line dry\", \"fit\": \"Body-hugging wrap\", \"size\": \"2, 4, 6, 8, 10, 12\", \"color\": \"Emerald Green\", \"pattern\": \"Solid\"}",
+    "tags": "[\"clothing\", \"womens\", \"dresses\", \"premium\", \"top-rated\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

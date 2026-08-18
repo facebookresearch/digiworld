@@ -1,0 +1,15 @@
+[
+  {
+    "id": 90001,
+    "restaurantId": 90001,
+    "categoryId": 90001,
+    "name": "Toro & Uni Nigiri",
+    "description": "Slices of toro and uni placed atop vinegared rice, served with soy and wasabi.",
+    "price": 15.95,
+    "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?auto=format&fit=crop&w=600&q=80",
+    "calories": 300,
+    "isPopular": 0,
+    "isActive": 1,
+    "position": 1
+  }
+]

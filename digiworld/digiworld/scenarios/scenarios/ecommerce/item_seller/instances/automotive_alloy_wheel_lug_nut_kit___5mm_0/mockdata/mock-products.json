@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Alloy Wheel Lug Nut Kit - 5mm",
+    "description": "A complete set of 20 high-strength lug nuts designed for 5 mm bolt patterns on alloy wheels. Made from heat-treated steel with a polished finish to resist corrosion. Includes a torque wrench for precise tightening.",
+    "shortDescription": "Complete 5 mm lug nut kit for alloy wheels.",
+    "rating": 3.8,
+    "reviewCount": 0,
+    "seller": "Fasteners & More",
+    "price": 259.74,
+    "discountedPrice": 259.74,
+    "discountPercent": 0,
+    "categoryId": 8,
+    "categoryName": "Automotive",
+    "subcategoryId": 58,
+    "subcategoryName": "Tires & Wheels",
+    "inStock": true,
+    "stockCount": 51,
+    "imageUrl": "/232_1",
+    "specs": "{\"material\": \"Hardened steel with zinc plating\", \"compatibility\": \"M12x1.5 thread, 5mm hex socket, fits most alloy wheels\", \"dimensions\": \"5mm hex head, 22mm length\", \"weight\": \"150 g per set (4 nuts)\", \"warranty\": \"2-year warranty\", \"madeIn\": \"Japan\"}",
+    "tags": "[\"tires\", \"wheels\", \"automotive\", \"premium\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

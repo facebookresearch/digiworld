@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "emily.patel@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Planning our summer vacation plans",
+    "preview": "Hi, let's discuss our summer vacation plans. We sh...",
+    "body": "Hi, let's discuss our summer vacation plans. We should finalize the itinerary soon. I'll send over some options.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_emily_patel_planning_our_summer_vacation",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "ryan.brooks@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Discussing summer vacation plans",
+    "preview": "Hi team, we need to start making decisions on our ...",
+    "body": "Hi team, we need to start making decisions on our summer vacation plans. Please let me know your availability.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_ryan_brooks_discussing_summer_vacation_p",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

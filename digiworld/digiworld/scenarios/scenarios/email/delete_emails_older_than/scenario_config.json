@@ -1,0 +1,9 @@
+{
+    "task_name": "Delete emails older than <date>",
+    "app_name": "email",
+    "scenario_class": "DeleteEmailsOlderThan",
+    "parameters": ["date"],
+    "context_fields": [],
+    "description": "Delete all emails that are older than the specified date",
+    "additional_mockdata": true
+}

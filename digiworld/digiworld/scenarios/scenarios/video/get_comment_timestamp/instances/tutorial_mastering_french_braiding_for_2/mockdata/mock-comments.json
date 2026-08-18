@@ -1,0 +1,28 @@
+[
+  {
+    "id": 7777,
+    "videoId": 9999,
+    "userId": "{{current_user_id}}",
+    "parentId": null,
+    "content": "I finally nailed a French braid thanks to this video!",
+    "status": "visible",
+    "isEdited": 0,
+    "replyCount": 0,
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{past_timestamp}}",
+    "deletedAt": null
+  },
+  {
+    "id": 7776,
+    "videoId": 9999,
+    "userId": "{{current_user_id}}",
+    "parentId": null,
+    "content": "Can you do a tutorial on Dutch braids next?",
+    "status": "visible",
+    "isEdited": 0,
+    "replyCount": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

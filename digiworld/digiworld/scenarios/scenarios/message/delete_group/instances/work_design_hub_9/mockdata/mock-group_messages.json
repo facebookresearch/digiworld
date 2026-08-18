@@ -1,0 +1,35 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "groupId": "injected-group-001",
+    "senderId": "coworker-001",
+    "messageType": "text",
+    "content": "{{casual_message}}",
+    "timestamp": "{{old_message_time}}",
+    "isReadBy": null,
+    "isDeliveredTo": null,
+    "deletedBy": null
+  },
+  {
+    "id": "{{auto_id}}",
+    "groupId": "injected-group-001",
+    "senderId": "coworker-002",
+    "messageType": "text",
+    "content": "{{casual_message}}",
+    "timestamp": "{{middle_message_time}}",
+    "isReadBy": null,
+    "isDeliveredTo": null,
+    "deletedBy": null
+  },
+  {
+    "id": "{{auto_id}}",
+    "groupId": "injected-group-001",
+    "senderId": "{{current_user_id}}",
+    "messageType": "text",
+    "content": "{{casual_message}}",
+    "timestamp": "{{recent_message_time}}",
+    "isReadBy": null,
+    "isDeliveredTo": null,
+    "deletedBy": null
+  }
+]

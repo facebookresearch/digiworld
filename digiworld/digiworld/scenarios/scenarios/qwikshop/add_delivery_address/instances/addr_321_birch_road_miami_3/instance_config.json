@@ -1,0 +1,31 @@
+{
+  "parameters": {
+    "street": "321 Birch Road",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33130",
+    "country": "United States",
+    "firstName": "Aisha",
+    "lastName": "Thompson",
+    "phone": "3055552741"
+  },
+  "compatible_profiles": [
+    "bulk_quantity",
+    "default",
+    "heavy_discounts",
+    "high_order_volume",
+    "large_orders",
+    "new_user",
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-03-31T23:47:29.052503+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

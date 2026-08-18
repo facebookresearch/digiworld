@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Warm Amber Body Mist",
+    "description": "This body mist combines amber, vanilla, and a touch of spice to create a comforting, warm aroma. Its lightweight mist can be spritzed throughout the day for a subtle scent boost. Enriched with glycerin for a soft feel.",
+    "shortDescription": "A warm amber body mist that offers a subtle, lasting fragrance.",
+    "rating": 2.8,
+    "reviewCount": 0,
+    "seller": "Amber & Co.",
+    "price": 1601.96,
+    "discountedPrice": 849.04,
+    "discountPercent": 47,
+    "categoryId": 6,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 44,
+    "subcategoryName": "Fragrances",
+    "inStock": true,
+    "stockCount": 58,
+    "imageUrl": "/175_1",
+    "specs": "{\"ingredients\": \"Water, amber oil, sandalwood, vanilla, glycerin, fragrance oils\", \"skinType\": \"N/A\", \"volume\": \"200ml\", \"fragrance\": \"Warm amber\", \"madeIn\": \"Australia\", \"expiryPeriod\": \"24 months\"}",
+    "tags": "[\"personal\", \"care\", \"beauty\", \"fragrances\", \"top-rated\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

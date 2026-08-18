@@ -1,0 +1,24 @@
+[
+  {
+    "id": 9901,
+    "name": "Smart Water Bottle",
+    "description": "Stay hydrated with our smart water bottle that tracks your daily water intake and temperature.",
+    "shortDescription": "Hydration Tracker",
+    "price": 52.6,
+    "discountedPrice": 47.34,
+    "discountPercent": 10,
+    "rating": 3.8,
+    "reviewCount": 239,
+    "seller": "HealthyLife",
+    "categoryId": 9603,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 9284,
+    "subcategoryName": "Fitness Trackers",
+    "inStock": 1,
+    "stockCount": 11,
+    "imageUrl": "/product_3615",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

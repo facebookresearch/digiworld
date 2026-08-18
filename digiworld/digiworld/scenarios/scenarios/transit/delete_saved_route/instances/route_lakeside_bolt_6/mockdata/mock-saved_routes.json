@@ -1,0 +1,14 @@
+[
+  {
+    "id": "saved-lakeside-bolt",
+    "userId": 1,
+    "name": "Lakeside Bolt",
+    "originStopId": "stop-7",
+    "destinationStopId": "stop-6",
+    "preferredMode": "train",
+    "remindersEnabled": false,
+    "departureReminderMinutes": 15,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

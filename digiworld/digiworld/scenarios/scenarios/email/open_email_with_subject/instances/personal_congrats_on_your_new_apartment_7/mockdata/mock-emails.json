@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "david.kim@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Congrats on Your New Apartment!",
+    "preview": "Hello, congratulations on moving into your new apa...",
+    "body": "Hello, congratulations on moving into your new apartment! Wishing you a smooth settling in and hoping we can visit soon.",
+    "timestamp": "{{middle_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_david_kim_congrats_on_your_new_apartment",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

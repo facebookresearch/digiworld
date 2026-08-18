@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Vertex EliteArc Gaming Console",
+    "description": "Vertex EliteArc Gaming Console boasts a sleek vertical form factor and a powerful GPU capable of ray tracing. It offers 8K output, 32GB DDR5 RAM, and a rapid 2TB NVMe drive. The console\u2019s AI\u2011enhanced controller provides personalized haptic responses.",
+    "shortDescription": "A high\u2011performance console featuring ray tracing, 8K output, and AI\u2011enhanced controls.",
+    "rating": 4.0,
+    "reviewCount": 1,
+    "seller": "ElectroMart",
+    "price": 138.46,
+    "discountedPrice": 124.61,
+    "discountPercent": 10,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 8,
+    "subcategoryName": "Gaming Consoles",
+    "inStock": true,
+    "stockCount": 193,
+    "imageUrl": "/32_1",
+    "specs": "{\"display\": \"N/A\", \"processor\": \"Vireo Custom Tegra X2\", \"ram\": \"12 GB LPDDR5\", \"storage\": \"1 TB SSD\", \"battery\": \"External 300W PSU\", \"os\": \"VertexArc OS\", \"connectivity\": \"Wi\u2011Fi 6E, Bluetooth 5.2, Ethernet, HDMI 2.1, USB\u2011C\"}",
+    "tags": "[\"gaming\", \"electronics\", \"consoles\", \"high-quality\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

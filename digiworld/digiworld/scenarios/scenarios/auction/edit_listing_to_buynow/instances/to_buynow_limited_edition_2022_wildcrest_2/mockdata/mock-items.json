@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754030033,
+    "title": "Limited-Edition 2022 Wildcrest Retro Down Jacket \u2013 Size L",
+    "description": "Wildcrest\u2019s 2022 Retro Down Jacket, size Large, with original tags, pristine condition, and a rare colorway.",
+    "categoryId": 12,
+    "sellerId": "{{current_user_id}}",
+    "price": 409.81,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 2,
+    "imageUrl": "https://example.com/images/limited-edition-2022-patagonia-retro-down-jacket-\u2013-size-l.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 240.63,
+    "currentBid": 305.43,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

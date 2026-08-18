@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Smart Fitness Band with Sleep Tracking",
+    "description": "Smart Fitness Band features continuous heart\u2011rate monitoring, stress level detection, and a 7\u2011day battery life. The band vibrates for call, message, and inactivity alerts, and includes a companion app for personalized goals. Lightweight and hypoallergenic silicone strap.",
+    "shortDescription": "Fitness band with heart\u2011rate, stress, and notification alerts.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "FitPulse Technologies",
+    "price": 916.01,
+    "discountedPrice": 586.25,
+    "discountPercent": 36,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 67,
+    "subcategoryName": "Fitness Trackers",
+    "inStock": true,
+    "stockCount": 189,
+    "imageUrl": "/266_1",
+    "specs": "{\"ingredients\": \"Thermoplastic polyurethane strap, AMOLED screen, Accelerometer, BLE chip\", \"dosage\": \"Wear 24/7, charge weekly\", \"weight\": \"30g\", \"expiryPeriod\": \"2 years\", \"madeIn\": \"China\", \"certifications\": \"IP67, FCC, CE\"}",
+    "tags": "[\"wellness\", \"health\", \"trackers\", \"fitness\", \"best\", \"top-rated\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

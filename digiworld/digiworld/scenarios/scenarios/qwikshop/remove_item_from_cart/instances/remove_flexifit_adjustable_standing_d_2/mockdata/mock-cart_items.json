@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "cartId": 1,
+    "userId": 1,
+    "productId": 9902,
+    "productName": "FlexiFit Adjustable Standing Desk",
+    "productImage": "/product_9902",
+    "shortDescription": "Electric standing desk",
+    "seller": "WorkSpace Solutions",
+    "quantity": 4,
+    "price": 25.57,
+    "discountedPrice": 25.57,
+    "total": 102.28,
+    "inStock": 1
+  }
+]

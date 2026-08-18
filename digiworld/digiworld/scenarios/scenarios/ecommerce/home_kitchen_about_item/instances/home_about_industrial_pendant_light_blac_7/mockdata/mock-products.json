@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Industrial Pendant Light, Black Finish",
+    "description": "Industrial pendant light featuring a black metal cage and exposed Edison\u2011style bulb. The 18\u2011inch diameter provides ample illumination over kitchen islands or dining tables. Simple hook\u2011up to standard ceiling mounts.",
+    "shortDescription": "Industrial black pendant light with exposed Edison bulb.",
+    "rating": 3.0,
+    "reviewCount": 1,
+    "seller": "Industrial Glow Designs",
+    "price": 941.16,
+    "discountedPrice": 555.28,
+    "discountPercent": 41,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 24,
+    "subcategoryName": "Lighting",
+    "inStock": true,
+    "stockCount": 59,
+    "imageUrl": "/94_1",
+    "specs": "{\"material\": \"Cold\\u2011rolled steel with matte black powder coat\", \"dimensions\": \"12 in diameter, 16 in hanging length\", \"weight\": \"3 lbs\", \"warranty\": \"2\\u2011year limited warranty\", \"color\": \"Matte black\", \"careInstructions\": \"Turn off power before cleaning; wipe with dry cloth; do not use abrasive cleaners\"}",
+    "tags": "[\"lighting\", \"kitchen\", \"home\", \"high-quality\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

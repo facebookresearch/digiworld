@@ -1,0 +1,15 @@
+{
+  "task_name": "Add a new payment method, with the name on the card being \"<name_on_card>\", the card number being <card_number>, the expiry month <expiry_month> and the expiry year <expiry_year>, then <action> <setting>",
+  "app_name": "ecommerce",
+  "scenario_class": "AddPaymentAndToggleSettingScenario",
+  "parameters": [
+    "name_on_card",
+    "card_number",
+    "expiry_month",
+    "expiry_year",
+    "action",
+    "setting"
+  ],
+  "context_fields": [],
+  "description": "Composed scenario: add a new payment method with card details, then toggle a user setting (Dark Mode or Notifications)."
+}

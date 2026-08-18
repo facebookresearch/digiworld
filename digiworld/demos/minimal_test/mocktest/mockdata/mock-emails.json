@@ -1,0 +1,22 @@
+[
+  {
+    "id": "9999",
+    "sender": "manager@example.com",
+    "receiver": ["brian.miller@example.com"],
+    "subject": "Weekly Team Meeting",
+    "preview": "Hi Brian, this is a reminder about our weekly team meeting...",
+    "body": "Hi Brian,\n\nThis is a reminder about our weekly team meeting scheduled for tomorrow at 2 PM. Please prepare your status updates.\n\nBest regards,\nYour Manager",
+    "timestamp": "2025-07-31T10:00:00Z",
+    "unread": true,
+    "read": false,
+    "status": "received",
+    "attachments": [],
+    "labels": ["work"],
+    "is_draft": false,
+    "thread_id": "thread_112",
+    "folder": "inbox",
+    "priority": "low",
+    "cc": [],
+    "bcc": []
+  }
+]

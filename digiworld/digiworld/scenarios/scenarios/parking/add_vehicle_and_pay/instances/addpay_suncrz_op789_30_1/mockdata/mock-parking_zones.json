@@ -1,0 +1,19 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Outback Pavilion",
+    "description": "Parking zone OP789",
+    "latitude": 40.72718,
+    "longitude": -73.986121,
+    "zoneCode": "OP789",
+    "operator": "City Parking Authority",
+    "zoneType": "garage",
+    "capacity": 256,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.04,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

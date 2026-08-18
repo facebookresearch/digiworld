@@ -1,0 +1,29 @@
+{
+  "parameters": {
+    "recipient_email": "emily.carter@example.com",
+    "email_subject": "Family reunion photos",
+    "email_body": "Hi, I attached the photos from last weekend's family reunion. Let me know if you need any higher resolution copies."
+  },
+  "compatible_profiles": [
+    "50_inbox_emails",
+    "5_inbox_emails",
+    "all_drafts",
+    "default",
+    "empty_inbox",
+    "mixed",
+    "personal",
+    "spam_heavy",
+    "starred_important",
+    "work_related"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:01:12.588540+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

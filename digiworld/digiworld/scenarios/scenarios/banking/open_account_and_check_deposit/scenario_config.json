@@ -1,0 +1,11 @@
+{
+  "task_name": "Open a new account with the account name \"<account_name>\", account type <account_type>, then tell me the initial deposit needed for a(n) <account_type> account",
+  "app_name": "banking",
+  "scenario_class": "OpenAccountAndCheckDepositScenario",
+  "parameters": [
+    "account_name",
+    "account_type"
+  ],
+  "context_fields": [],
+  "description": "Composed scenario: open a new bank account, then report the minimum initial deposit required for that account type."
+}

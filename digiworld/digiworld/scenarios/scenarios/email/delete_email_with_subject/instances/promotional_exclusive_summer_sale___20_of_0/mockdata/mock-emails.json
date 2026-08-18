@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "evelyn.wallace@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Exclusive Summer Sale - 20% Off!",
+    "preview": "Hi there, we've got a limited time offer for you t...",
+    "body": "Hi there, we've got a limited time offer for you to enjoy 20% off all products this summer. Use code SUMMER20 at checkout. Hurry, sale ends soon!",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_evelyn_wallace_exclusive_summer_sale_2",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

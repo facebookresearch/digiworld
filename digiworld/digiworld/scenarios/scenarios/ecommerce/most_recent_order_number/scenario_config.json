@@ -1,0 +1,21 @@
+{
+  "task_name": "What is the order number of my most recent order?",
+  "app_name": "ecommerce",
+  "scenario_class": "MostRecentOrderNumberScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Retrieve the order number of the user's most recent order",
+  "compatible_profiles": [
+    "bulk_quantity",
+    "default",
+    "empty_cart",
+    "full_cart",
+    "heavy_discounts",
+    "high_order_volume",
+    "large_orders",
+    "low_stock",
+    "new_user",
+    "power_shopper",
+    "premium_products"
+  ]
+}

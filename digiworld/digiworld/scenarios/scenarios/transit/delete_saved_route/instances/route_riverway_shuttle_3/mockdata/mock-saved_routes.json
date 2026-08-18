@@ -1,0 +1,14 @@
+[
+  {
+    "id": "saved-riverway-shuttle",
+    "userId": 1,
+    "name": "Riverway Shuttle",
+    "originStopId": "stop-4",
+    "destinationStopId": "stop-9",
+    "preferredMode": "bus",
+    "remindersEnabled": true,
+    "departureReminderMinutes": 15,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

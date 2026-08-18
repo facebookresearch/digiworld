@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Pulse Edge 5G Phone",
+    "description": "Pulse Edge is a 5G-ready smartphone built for speed and reliability. Featuring a 6.2-inch high-refresh-rate display and a Stormcore 7 series chipset, it handles streaming and gaming without lag. The dual-camera setup includes a 50 MP main sensor and a dedicated night-mode lens for low-light photography.",
+    "shortDescription": "A 5G-ready phone with a high-refresh-rate display and dual 50 MP cameras.",
+    "rating": 1.5,
+    "reviewCount": 2,
+    "seller": "UrbanElectro",
+    "price": 715.27,
+    "discountedPrice": 536.45,
+    "discountPercent": 25,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 1,
+    "subcategoryName": "Smartphones",
+    "inStock": true,
+    "stockCount": 174,
+    "imageUrl": "/2_1",
+    "specs": "{\"display\": \"6.7\\\" AMOLED, 1440x3216, 120 Hz\", \"processor\": \"Cellwave Stormcore 8+ Gen 1\", \"ram\": \"12 GB LPDDR5X\", \"storage\": \"512 GB UFS 3.1\", \"battery\": \"4700 mAh\", \"os\": \"Nimbus OS 13\", \"connectivity\": \"5G, Wi-Fi 6E, Bluetooth 5.3, NFC\"}",
+    "tags": "[\"smartphones\", \"electronics\", \"popular\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

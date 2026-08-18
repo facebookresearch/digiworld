@@ -1,0 +1,10 @@
+{
+  "task_name": "Book a \"<travel_class>\" flight for <adults> adults and <children> children from \"<origin>\" to \"<destination>\" on \"<date>\"",
+  "app_name": "flightbooking",
+  "scenario_class": "BookOneWayScenario",
+  "parameters": ["travel_class", "adults", "children", "origin", "destination", "date"],
+  "context_fields": [],
+  "description": "Book a one-way flight with specified class, passengers, route, and date.",
+  "additional_mockdata": true,
+  "time": "2026-08-10T10:00:00Z"
+}

@@ -1,0 +1,10 @@
+{
+  "task_name": "Cancel my flight to \"<destination>\"",
+  "app_name": "flightbooking",
+  "scenario_class": "CancelFlightScenario",
+  "parameters": ["destination"],
+  "context_fields": [],
+  "description": "Cancel the user's flight booking to a specific destination.",
+  "additional_mockdata": true,
+  "time": "2026-08-10T10:00:00Z"
+}

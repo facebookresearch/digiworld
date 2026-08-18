@@ -1,0 +1,10 @@
+{
+  "task_name": "Set preferred transit mode as <mode>",
+  "app_name": "transit",
+  "scenario_class": "SetPreferredModeScenario",
+  "parameters": [
+    "mode"
+  ],
+  "context_fields": [],
+  "description": "Set the user's preferred transit mode(s) to the specified value."
+}

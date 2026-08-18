@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "address": "{\"lat\": 37.2153, \"lng\": -93.2982, \"placename\": \"123 Main St, Springfield, USA\"}",
+    "isDefault": 1,
+    "createdAt": "2024-06-01T12:00:00Z",
+    "updatedAt": "2024-06-01T12:00:00Z"
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "address": "{\"lat\": 40.7128, \"lng\": -74.0060, \"placename\": \"456 Oak Ave, Metropolis, USA\"}",
+    "isDefault": 1,
+    "createdAt": "2024-06-01T12:05:00Z",
+    "updatedAt": "2024-06-01T12:05:00Z"
+  },
+  {
+    "id": 3,
+    "userId": 3,
+    "address": "{\"lat\": 40.4406, \"lng\": -79.9959, \"placename\": \"789 Pine Rd, Gotham, USA\"}",
+    "isDefault": 0,
+    "createdAt": "2024-06-01T12:10:00Z",
+    "updatedAt": "2024-06-01T12:10:00Z"
+  },
+  {
+    "id": 4,
+    "userId": 4,
+    "address": "{\"lat\": 34.0522, \"lng\": -118.2437, \"placename\": \"321 Maple St, Star City, USA\"}",
+    "isDefault": 1,
+    "createdAt": "2024-06-01T12:15:00Z",
+    "updatedAt": "2024-06-01T12:15:00Z"
+  },
+  {
+    "id": 5,
+    "userId": 5,
+    "address": "{\"lat\": 39.9612, \"lng\": -82.9988, \"placename\": \"654 Cedar Ave, Central City, USA\"}",
+    "isDefault": 0,
+    "createdAt": "2024-06-01T12:20:00Z",
+    "updatedAt": "2024-06-01T12:20:00Z"
+  }
+] 

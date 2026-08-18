@@ -1,0 +1,8 @@
+{
+  "task_name": "How should I care for the <item> clothing item?",
+  "app_name": "ecommerce",
+  "scenario_class": "ClothingCareInstructionsScenario",
+  "parameters": ["item"],
+  "context_fields": [],
+  "description": "Retrieve care instructions for a clothing item"
+}

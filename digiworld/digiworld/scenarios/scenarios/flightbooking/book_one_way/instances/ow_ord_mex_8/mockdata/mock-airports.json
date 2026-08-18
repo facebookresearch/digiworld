@@ -1,0 +1,18 @@
+[
+  {
+    "code": "ORD",
+    "name": "ORD International Airport",
+    "city": "ORD",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "code": "MEX",
+    "name": "MEX International Airport",
+    "city": "MEX",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

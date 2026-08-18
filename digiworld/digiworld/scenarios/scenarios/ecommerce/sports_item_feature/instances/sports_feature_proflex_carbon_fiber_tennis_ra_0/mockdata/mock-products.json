@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "ProFlex Carbon Fiber Tennis Racket",
+    "description": "Product: ProFlex Carbon Fiber Tennis Racket",
+    "shortDescription": "ProFlex Carbon Fiber Tennis Racket",
+    "rating": 4.0,
+    "reviewCount": 0,
+    "seller": "Test Seller",
+    "price": 29.99,
+    "discountedPrice": 29.99,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Sports & Outdoors",
+    "subcategoryId": 1,
+    "subcategoryName": "Equipment",
+    "inStock": true,
+    "stockCount": 50,
+    "imageUrl": "/test_1",
+    "specs": "{\"features\": \"Lightweight carbon fiber construction with a 16x19 string pattern for enhanced spin control\"}",
+    "tags": "[\"sports & outdoors\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

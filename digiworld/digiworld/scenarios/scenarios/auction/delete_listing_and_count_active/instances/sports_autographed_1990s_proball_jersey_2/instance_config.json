@@ -1,0 +1,22 @@
+{
+  "parameters": {
+    "title": "Autographed 1990s ProBall Jersey"
+  },
+  "compatible_profiles": [
+    "auction_heavy",
+    "default",
+    "ending_soon",
+    "high_bid_volume",
+    "power_seller"
+  ],
+  "metadata": {
+    "created_at": "2026-04-11T12:00:00.000000+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

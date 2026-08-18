@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 1,
+    "categoryId": 3,
+    "title": "The Rise of Urban Beekeeping",
+    "description": "This documentary explores how urban beekeeping is thriving in cities worldwide and its impact on local ecosystems.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 2139,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 9754,
+    "likeCount": 40,
+    "commentCount": 0,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

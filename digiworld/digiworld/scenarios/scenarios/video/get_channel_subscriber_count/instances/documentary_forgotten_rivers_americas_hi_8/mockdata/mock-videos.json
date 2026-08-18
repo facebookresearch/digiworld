@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 9990,
+    "categoryId": 3,
+    "title": "Forgotten Rivers: America's Hidden Waterways",
+    "description": "Travel across the U.S. to uncover lesser\u2011known rivers that shaped local histories and ecosystems.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 1755,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 3532,
+    "likeCount": 90,
+    "commentCount": 17,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

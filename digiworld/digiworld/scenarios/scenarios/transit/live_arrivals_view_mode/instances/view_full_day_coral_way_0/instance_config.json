@@ -1,0 +1,19 @@
+{
+  "parameters": {
+    "stop_name": "Sunset Park",
+    "view_mode": "Full Day"
+  },
+  "compatible_profiles": [
+    "default"
+  ],
+  "metadata": {
+    "created_at": "2026-03-02T02:14:10.636615+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

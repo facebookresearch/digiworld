@@ -1,0 +1,6 @@
+{
+  "app_name": "payment",
+  "apk_name": "com.andojopay.sbx",
+  "database_doc_path": "../../../../../apps/payment/src/docs/database.md",
+  "feature_scope_path": "../../../../../apps/payment/src/docs/feature-scope.md"
+}

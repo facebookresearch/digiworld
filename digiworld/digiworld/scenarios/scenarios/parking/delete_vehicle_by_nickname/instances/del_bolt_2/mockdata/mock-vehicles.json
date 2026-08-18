@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "nickname": "Bolt",
+    "make": "Fairmont",
+    "model": "T-150",
+    "color": "Racing Red",
+    "year": 2022,
+    "plateNumber": "BOLT88",
+    "vehicleTypeId": 3,
+    "isDefault": 0,
+    "createdAt": "{{end_timestamp}}",
+    "updatedAt": "{{end_timestamp}}",
+    "metadata": null
+  }
+]

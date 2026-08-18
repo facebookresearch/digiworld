@@ -1,0 +1,8 @@
+{
+  "task_name": "Scroll to the FAQ answer about <faq_topic>",
+  "app_name": "transit",
+  "scenario_class": "ScrollToFaqScenario",
+  "parameters": ["faq_topic"],
+  "context_fields": [],
+  "description": "Navigate to the Help page and scroll to a specific FAQ topic."
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Michael O'Neill",
+    "street": "321 Birch Road",
+    "city": "Denver",
+    "state": "CO",
+    "pincode": "80202",
+    "phone": "3035553456",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

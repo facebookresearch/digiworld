@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "nickname": "DesertStorm",
+    "make": "Wayfarer",
+    "model": "Wanderer",
+    "color": "Sand",
+    "year": 2022,
+    "plateNumber": "DSRT09",
+    "vehicleTypeId": 2,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Denim Shirt Dress with Belt",
+    "description": "Blend comfort and style with this denim shirt dress, complete with a matching belt. The mid-length cut offers versatility, while the button front and chest pockets add practicality. Pair with sneakers for a relaxed look.",
+    "shortDescription": "Denim shirt dress with matching belt for versatile styling.",
+    "rating": 3.0,
+    "reviewCount": 2,
+    "seller": "Denim & Thread Co.",
+    "price": 1130.51,
+    "discountedPrice": 700.92,
+    "discountPercent": 38,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 10,
+    "subcategoryName": "Women's Dresses",
+    "inStock": true,
+    "stockCount": 17,
+    "imageUrl": "/40_1",
+    "specs": "{\"material\": \"100% denim\", \"careInstructions\": \"Machine wash cold, tumble dry low, wash with like colors\", \"fit\": \"Semi-fitted\", \"size\": \"XS, S, M, L, XL\", \"color\": \"Indigo\", \"pattern\": \"Solid\"}",
+    "tags": "[\"clothing\", \"dresses\", \"womens\", \"high-quality\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

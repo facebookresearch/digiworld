@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 1,
+    "categoryId": 6,
+    "title": "Apple LumaBuds Pro 2: Honest First\u2011Impression Review",
+    "description": "I test the latest LumaBuds Pro 2 for sound quality, fit, and battery life, sharing what impressed me and what fell short.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 1693,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 4652,
+    "likeCount": 24,
+    "commentCount": 13,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

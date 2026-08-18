@@ -1,0 +1,32 @@
+[
+  {
+    "id": "airline_15",
+    "name": "Aeromexico",
+    "iataCode": "AM",
+    "country": "Mexico"
+  },
+  {
+    "id": "airline_9",
+    "name": "Hawaiian Airlines",
+    "iataCode": "HA",
+    "country": "USA"
+  },
+  {
+    "id": "airline_4",
+    "name": "Southwest Airlines",
+    "iataCode": "WN",
+    "country": "USA"
+  },
+  {
+    "id": "airline_3",
+    "name": "United Airlines",
+    "iataCode": "UA",
+    "country": "USA"
+  },
+  {
+    "id": "airline_8",
+    "name": "Frontier Airlines",
+    "iataCode": "F9",
+    "country": "USA"
+  }
+]

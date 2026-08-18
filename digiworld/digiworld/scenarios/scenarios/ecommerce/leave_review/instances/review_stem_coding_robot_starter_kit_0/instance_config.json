@@ -1,0 +1,21 @@
+{
+  "parameters": {
+    "item": "STEM Coding Robot Starter Kit",
+    "star_rating": "3",
+    "review_title": "Great value for the price!",
+    "review_content": "I bought this gadget on a whim and was pleasantly surprised. It does everything advertised and the price was a steal compared to similar products. I would definitely recommend it to anyone looking for a solid, affordable option."
+  },
+  "compatible_profiles": [
+    "power_shopper"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T03:59:53.970697+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

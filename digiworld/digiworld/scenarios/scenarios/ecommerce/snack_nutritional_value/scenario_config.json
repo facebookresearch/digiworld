@@ -1,0 +1,8 @@
+{
+  "task_name": "What's the nutritional value of the <item> snack?",
+  "app_name": "ecommerce",
+  "scenario_class": "SnackNutritionalValueScenario",
+  "parameters": ["item"],
+  "context_fields": [],
+  "description": "Retrieve the nutritional value of a snack product"
+}

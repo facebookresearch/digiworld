@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754120067,
+    "title": "Handcrafted Damascus Steel Chef\u2019s Knife \u2013 10\u2033, Limited Edition",
+    "description": "Precision\u2011forged blade with 67 layers, ergonomic pakkawood handle, comes with a protective sheath.",
+    "categoryId": 2,
+    "sellerId": "{{current_user_id}}",
+    "price": 1453.95,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 7,
+    "imageUrl": "https://example.com/images/handcrafted-damascus-steel-chef\u2019s-knife-\u2013-10\u2033,-limited-edition.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 743.51,
+    "currentBid": 770.77,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

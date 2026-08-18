@@ -1,0 +1,14 @@
+[
+  {
+    "id": "saved-summit-cruiser",
+    "userId": 1,
+    "name": "Summit Cruiser",
+    "originStopId": "stop-6",
+    "destinationStopId": "stop-10",
+    "preferredMode": "bus",
+    "remindersEnabled": false,
+    "departureReminderMinutes": 10,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

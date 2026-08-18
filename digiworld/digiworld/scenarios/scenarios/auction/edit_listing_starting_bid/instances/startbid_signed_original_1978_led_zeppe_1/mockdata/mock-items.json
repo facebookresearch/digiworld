@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754000028,
+    "title": "Signed Original 1978 Led Zeppelin 'Physical Graffiti' Vinyl LP",
+    "description": "A mint-condition Led Zeppelin 'Physical Graffiti' LP, signed by all four members on the inner sleeve, with original gatefold artwork.",
+    "categoryId": 4,
+    "sellerId": "{{current_user_id}}",
+    "price": 1903.05,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 8,
+    "imageUrl": "https://example.com/images/signed-original-1978-led-zeppelin-'physical-graffiti'-vinyl-lp.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 662.07,
+    "currentBid": 885.91,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

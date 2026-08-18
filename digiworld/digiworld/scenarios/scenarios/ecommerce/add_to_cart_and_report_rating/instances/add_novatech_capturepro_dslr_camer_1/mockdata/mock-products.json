@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "NovaTech CapturePro DSLR Camera",
+    "description": "NovaTech CapturePro DSLR Camera features a 24.1MP APS\u2011C sensor and a versatile 18\u201155mm kit lens. It offers 5\u2011axis in\u2011body image stabilization for sharp handheld shots and 4K video recording at 30fps. The optical viewfinder and customizable controls cater to both beginners and enthusiasts.",
+    "shortDescription": "A DSLR camera with a 24MP sensor, 4K video, and in\u2011body stabilization.",
+    "rating": 2.8,
+    "reviewCount": 4,
+    "seller": "TechDepot",
+    "price": 122.77,
+    "discountedPrice": 98.22,
+    "discountPercent": 20,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 5,
+    "subcategoryName": "Cameras",
+    "inStock": true,
+    "stockCount": 9,
+    "imageUrl": "/17_1",
+    "specs": "{\"display\": \"3.2\\\" LCD, 1620k dots, vari-angle\", \"processor\": \"EXPANSE 7 image processor\", \"ram\": \"8 GB DDR4\", \"storage\": \"Dual SD card slots (UHS\u2011II)\", \"battery\": \"LP\u2011E6N, 2100 mAh, approx. 1200 shots\", \"os\": \"Proprietary NovaOS\", \"connectivity\": \"Wi\u2011Fi 6, Bluetooth 5.2, USB\u2011C, HDMI\"}",
+    "tags": "[\"electronics\", \"cameras\", \"top-rated\", \"best\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

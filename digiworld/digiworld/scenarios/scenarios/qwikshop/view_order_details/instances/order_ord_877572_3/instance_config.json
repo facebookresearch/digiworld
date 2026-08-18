@@ -1,0 +1,25 @@
+{
+  "parameters": {
+    "order_number": "ORD-877572"
+  },
+  "compatible_profiles": [
+    "bulk_quantity",
+    "default",
+    "empty_cart",
+    "full_cart",
+    "heavy_discounts",
+    "high_order_volume",
+    "low_stock",
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-04-01T21:21:32.641753+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

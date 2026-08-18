@@ -1,0 +1,8 @@
+{
+  "task_name": "Book a ride from <origin> to <destination>, then tell me the distance between <origin> and <destination>",
+  "app_name": "ryde",
+  "scenario_class": "BookRideAndCheckDistanceScenario",
+  "parameters": ["origin", "destination"],
+  "context_fields": [],
+  "description": "Book a ride between two locations and then report the distance between them"
+}

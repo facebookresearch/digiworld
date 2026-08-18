@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9904,
+    "name": "PetPal Interactive Treat Dispenser",
+    "description": "Keep your dog entertained with this programmable treat dispenser that launches snacks on command via a smartphone app.",
+    "shortDescription": "Smart treat dispenser that launches snacks for dogs.",
+    "price": 59.98,
+    "discountedPrice": 50.98,
+    "discountPercent": 15,
+    "rating": 3.2,
+    "reviewCount": 443,
+    "seller": "Pawsome Innovations",
+    "categoryName": "Pet Supplies",
+    "subcategoryName": "Dog Food",
+    "inStock": 1,
+    "stockCount": 98,
+    "imageUrl": "/product_5333",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

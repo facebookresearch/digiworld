@@ -1,0 +1,9 @@
+{
+    "task_name": "Open and read most recent email from \"<sender_name>\"",
+    "app_name": "email",
+    "scenario_class": "OpenMostRecentEmailFrom",
+    "parameters": ["sender_name"],
+    "context_fields": [],
+    "description": "Open the most recent email from a specific sender",
+    "additional_mockdata": true
+}

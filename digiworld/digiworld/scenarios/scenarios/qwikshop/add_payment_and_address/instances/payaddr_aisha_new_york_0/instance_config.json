@@ -1,0 +1,35 @@
+{
+  "parameters": {
+    "cardName": "Aisha Patel",
+    "cardNumber": "5555555555554444",
+    "expirationMonth": "04",
+    "expirationYear": "28",
+    "street": "123 Main St",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10001",
+    "country": "United States",
+    "firstName": "Aisha",
+    "lastName": "Patel",
+    "phone": "2121234567"
+  },
+  "compatible_profiles": [
+    "bulk_quantity",
+    "empty_cart",
+    "heavy_discounts",
+    "high_order_volume",
+    "low_stock",
+    "new_user",
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-04-11T00:00:00.000000+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Manual instance for composed scenario",
+    "validated_by": null
+  }
+}

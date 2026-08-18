@@ -1,0 +1,9 @@
+{
+  "task_name": "How many of my listings have expired",
+  "app_name": "auction",
+  "scenario_class": "CountExpiredListingsScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Count the number of the current user's listings that have expired.",
+  "additional_mockdata": true
+}

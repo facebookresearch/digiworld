@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Turmeric Curcumin Softgels",
+    "description": "Product: Turmeric Curcumin Softgels",
+    "shortDescription": "Turmeric Curcumin Softgels",
+    "rating": 4.0,
+    "reviewCount": 0,
+    "seller": "Test Seller",
+    "price": 29.99,
+    "discountedPrice": 29.99,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 1,
+    "subcategoryName": "Food",
+    "inStock": true,
+    "stockCount": 50,
+    "imageUrl": "/test_1",
+    "specs": "{\"nutritionalValue\": \"Calories: 25, Protein: 0g, Curcumin: 500mg, Vitamin C: 30mg per serving\"}",
+    "tags": "[\"health & wellness\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

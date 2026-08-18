@@ -1,0 +1,9 @@
+{
+  "task_name": "Reorder my most recent order from <restaurant>",
+  "app_name": "eats",
+  "scenario_class": "ReorderFromRestaurantScenario",
+  "parameters": ["restaurant"],
+  "context_fields": [],
+  "description": "Reorder the most recent order from a specific restaurant.",
+  "additional_mockdata": true
+}

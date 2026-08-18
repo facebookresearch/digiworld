@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "All-Purpose Tire & Wheel Cleaner \u2013 1 L",
+    "description": "Break down brake dust, road grime, and oil residue on tires and wheels with this powerful all\u2011purpose cleaner. The foaming action clings to surfaces for thorough cleaning, and the pH\u2011balanced formula protects metal finishes. Rinse off with water for a sparkling result.",
+    "shortDescription": "Foaming cleaner for tires and wheels that removes tough grime.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "CleanEdge Automotive",
+    "price": 1677.27,
+    "discountedPrice": 1073.45,
+    "discountPercent": 36,
+    "categoryId": 8,
+    "categoryName": "Automotive",
+    "subcategoryId": 62,
+    "subcategoryName": "Car Care",
+    "inStock": true,
+    "stockCount": 39,
+    "imageUrl": "/248_1",
+    "specs": "{\"material\": \"pH\\u2011balanced acidic cleaner with biodegradable agents\", \"compatibility\": \"All alloy and steel wheels, tires, and rims\", \"dimensions\": \"1\\u202fL bottle, 8\\u202fin \\u00d7 3\\u202fin \\u00d7 10\\u202fin\", \"weight\": \"2.50 lbs\", \"warranty\": \"60\\u2011day warranty\", \"madeIn\": \"Germany\"}",
+    "tags": "[\"automotive\", \"car\", \"care\", \"best\", \"top-rated\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Utility Field Jacket with Hood",
+    "description": "Utility field jacket with a detachable hood, constructed from water-resistant canvas and reinforced stitching. Multiple exterior pockets provide practical storage.",
+    "shortDescription": "Utility field jacket with detachable hood and multiple pockets.",
+    "rating": 3.0,
+    "reviewCount": 3,
+    "seller": "Frontier Gear Co.",
+    "price": 274.02,
+    "discountedPrice": 274.02,
+    "discountPercent": 0,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 12,
+    "subcategoryName": "Jackets",
+    "inStock": true,
+    "stockCount": 52,
+    "imageUrl": "/45_1",
+    "specs": "{\"material\": \"65% cotton, 35% polyester, water-repellent finish\", \"careInstructions\": \"Machine wash cold, tumble dry low\", \"fit\": \"Utility cut with adjustable hood\", \"size\": \"S, M, L, XL\", \"color\": \"Olive drab\", \"pattern\": \"Solid\"}",
+    "tags": "[\"jackets\", \"clothing\", \"best\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

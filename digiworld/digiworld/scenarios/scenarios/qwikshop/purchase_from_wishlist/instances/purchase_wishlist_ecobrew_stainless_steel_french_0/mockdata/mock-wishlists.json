@@ -1,0 +1,7 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "productId": 9900
+  }
+]

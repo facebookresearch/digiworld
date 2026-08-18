@@ -1,0 +1,22 @@
+[
+  {
+    "id": 182570035,
+    "title": "Apex Athletics Air Max 270 React Men's Running Shoes - Black/White - Size 10",
+    "description": "Brand new, never worn Apex Athletics Air Max 270 React shoes in black and white colorway. Size 10 men's.",
+    "categoryId": 7,
+    "sellerId": "{{current_user_id}}",
+    "price": 1483.43,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/nike-air-max-270-react-men's-running-shoes---black/white---size-10.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

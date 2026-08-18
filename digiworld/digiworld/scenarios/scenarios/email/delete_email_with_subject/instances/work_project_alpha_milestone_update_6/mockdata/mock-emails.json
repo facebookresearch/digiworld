@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "nora.svensson@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Project Alpha Milestone Update",
+    "preview": "Hi team, we have reached the first milestone for P...",
+    "body": "Hi team, we have reached the first milestone for Project Alpha ahead of schedule. Please review the attached summary and prepare for the next phase meeting.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_nora_svensson_project_alpha_milestone_up",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

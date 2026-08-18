@@ -1,0 +1,20 @@
+{
+  "task_name": "Show me the Terms & Conditions",
+  "app_name": "parking",
+  "scenario_class": "ShowTermsScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Navigate to the Terms & Conditions screen.",
+  "compatible_profiles": [
+    "active_sessions",
+    "budget_zones",
+    "default",
+    "electric_vehicles",
+    "expired_sessions",
+    "high_parking_volume",
+    "many_vehicles",
+    "new_user",
+    "premium_zones",
+    "zone_full"
+  ]
+}

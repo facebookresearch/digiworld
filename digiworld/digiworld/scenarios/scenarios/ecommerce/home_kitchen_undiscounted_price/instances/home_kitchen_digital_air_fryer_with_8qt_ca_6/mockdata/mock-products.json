@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Digital Air Fryer with 8\u2011qt Capacity",
+    "description": "The digital air fryer uses rapid air circulation to crisp foods with up to 80% less oil. An 8\u2011quart basket fits a family\u2011size portion of fries, chicken wings, or vegetables. Touchscreen controls include presets for fries, poultry, and baked goods.",
+    "shortDescription": "Digital air fryer that crisps with up to 80% less oil.",
+    "rating": 3.2,
+    "reviewCount": 5,
+    "seller": "CrispTech Appliances",
+    "price": 500.15,
+    "discountedPrice": 355.11,
+    "discountPercent": 29,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 18,
+    "subcategoryName": "Small Appliances",
+    "inStock": true,
+    "stockCount": 15,
+    "imageUrl": "/69_1",
+    "specs": "{\"material\": \"BPA\\u2011free plastic housing with stainless steel cooking basket\", \"dimensions\": \"13 x 12 x 14 in\", \"weight\": \"11 lbs\", \"warranty\": \"2\\u2011year limited warranty\", \"color\": \"Matte black\", \"careInstructions\": \"Wipe exterior with damp cloth; clean basket after each use; do not submerge motor base\"}",
+    "tags": "[\"kitchen\", \"small\", \"home\", \"appliances\", \"top-rated\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

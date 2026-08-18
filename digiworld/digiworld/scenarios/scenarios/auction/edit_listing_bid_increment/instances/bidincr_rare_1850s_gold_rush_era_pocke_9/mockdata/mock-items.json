@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754210093,
+    "title": "Rare 1850s Gold Rush Era Pocket Watch \u2013 Open Face, Jewel\u2011Set",
+    "description": "Solid gold case with intricate engravings, working Swiss movement, comes with original velvet pouch.",
+    "categoryId": 12,
+    "sellerId": "{{current_user_id}}",
+    "price": 941.2,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 2,
+    "imageUrl": "https://example.com/images/rare-1850s-gold-rush-era-pocket-watch-\u2013-open-face,-jewel\u2011set.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 341.52,
+    "currentBid": 414.46,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Michael Rodriguez",
+    "street": "789 Pine Blvd",
+    "city": "Austin",
+    "state": "TX",
+    "pincode": "78703",
+    "phone": "5125554621",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

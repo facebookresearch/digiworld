@@ -1,0 +1,19 @@
+[
+  {
+    "id": 99807,
+    "name": "Urban Deck",
+    "description": "Parking zone UD123",
+    "latitude": 40.735461,
+    "longitude": -73.973296,
+    "zoneCode": "UD123",
+    "operator": "City Parking Authority",
+    "zoneType": "lot",
+    "capacity": 271,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.1,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

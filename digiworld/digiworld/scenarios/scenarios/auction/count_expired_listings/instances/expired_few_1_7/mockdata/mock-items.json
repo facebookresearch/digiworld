@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754610117,
+    "title": "Professional Corvid EOS R5 Mirrorless Camera \u2013 Body Only",
+    "description": "Corvid EOS R5 mirrorless camera body, lightly used, includes battery, charger, and a 64GB memory card.",
+    "categoryId": 10,
+    "sellerId": "{{current_user_id}}",
+    "price": 920.94,
+    "auctionFlag": 1,
+    "status": "expired",
+    "quantity": 1,
+    "bidCount": 15,
+    "imageUrl": "https://example.com/images/professional-canon-eos-r5-mirrorless-camera-\u2013-body-only.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 551.83,
+    "currentBid": 612.9,
+    "bidIncrement": 5.0,
+    "endTime": 1770609661,
+    "expired": 1
+  }
+]

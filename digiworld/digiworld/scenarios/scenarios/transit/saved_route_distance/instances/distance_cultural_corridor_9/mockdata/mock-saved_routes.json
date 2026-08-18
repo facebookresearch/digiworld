@@ -1,0 +1,14 @@
+[
+  {
+    "id": "saved-cultural-corridor",
+    "userId": 1,
+    "name": "Cultural Corridor",
+    "originStopId": "stop-5",
+    "destinationStopId": "stop-8",
+    "preferredMode": "bus",
+    "remindersEnabled": true,
+    "departureReminderMinutes": 20,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

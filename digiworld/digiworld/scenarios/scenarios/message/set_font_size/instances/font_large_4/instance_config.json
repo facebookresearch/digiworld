@@ -1,0 +1,22 @@
+{
+  "parameters": {
+    "font_size": "large"
+  },
+  "compatible_profiles": [
+    "high_message_volume",
+    "long_calls",
+    "missed_calls",
+    "new_user",
+    "recent_activity"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:14.995908+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 181890008,
+    "title": "Vintage Auralis PocketPlayer WM-FX290 Cassette Player - Tested & Working",
+    "description": "Fully functional vintage Auralis PocketPlayer with great sound quality. Includes original packaging and manual.",
+    "categoryId": 2,
+    "sellerId": "{{current_user_id}}",
+    "price": 103.66,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/vintage-sony-walkman-wm-fx290-cassette-player---tested-&-working.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

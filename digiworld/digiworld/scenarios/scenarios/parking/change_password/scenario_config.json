@@ -1,0 +1,8 @@
+{
+  "task_name": "Change my password to <new_password>",
+  "app_name": "parking",
+  "scenario_class": "ChangePasswordScenario",
+  "parameters": ["new_password"],
+  "context_fields": ["current_user_password"],
+  "description": "Change the current user's account password. The current password is provided as context."
+}

@@ -1,0 +1,19 @@
+[
+  {
+    "flight_id": "AA6168_{{tomorrow_date}}",
+    "airline_id": "airline_aa",
+    "airline_code": "AA",
+    "flight_number": "AA6168",
+    "origin": "LAX",
+    "destination": "JFK",
+    "departure_time": "{{tomorrow_date}}T13:00:00Z",
+    "arrival_time": "{{tomorrow_date}}T18:25:00Z",
+    "duration_minutes": 325,
+    "fare": 1387.08,
+    "currency": "USD",
+    "seats_available": 155,
+    "aircraft_type": "Boeing 777-300ER",
+    "date": "{{tomorrow_date}}",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "task_name": "What's the star rating for the <item> item?",
+  "app_name": "ecommerce",
+  "scenario_class": "ItemStarRatingScenario",
+  "parameters": [
+    "item"
+  ],
+  "context_fields": [],
+  "description": "Retrieve the star rating of a given product"
+}

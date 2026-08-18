@@ -1,0 +1,22 @@
+[
+  {
+    "id": 751820005,
+    "title": "Abstract Ocean Oil Painting",
+    "description": "A vibrant 24x30 inch oil painting depicting swirling ocean tones, framed and ready for display.",
+    "categoryId": 9,
+    "sellerId": "{{current_user_id}}",
+    "price": 1486.47,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 7,
+    "imageUrl": "https://example.com/images/abstract-ocean-oil-painting.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 460.11,
+    "currentBid": 494.6,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

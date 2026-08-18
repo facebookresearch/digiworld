@@ -1,0 +1,8 @@
+{
+  "task_name": "What's the distance between <origin> and <destination>?",
+  "app_name": "ryde",
+  "scenario_class": "DistanceBetweenLocationsScenario",
+  "parameters": ["origin", "destination"],
+  "context_fields": [],
+  "description": "Look up the distance between two locations using route data"
+}

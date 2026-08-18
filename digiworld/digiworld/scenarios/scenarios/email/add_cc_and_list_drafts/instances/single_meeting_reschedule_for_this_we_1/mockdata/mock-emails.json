@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "{{current_user_email}}",
+    "receiver": [
+      "jane.smith@company.org"
+    ],
+    "subject": "Meeting Reschedule for This Week",
+    "preview": "Hello, due to unforeseen circumstances, we need to...",
+    "body": "Hello, due to unforeseen circumstances, we need to reschedule our meeting for this week. We will send out a new invite with the updated time. Thank you for your understanding.",
+    "timestamp": "{{recent_timestamp}}",
+    "unread": 0,
+    "read": 0,
+    "status": "draft",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 1,
+    "threadId": "draft_meeting_reschedule_for_this_week",
+    "folder": "draft",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

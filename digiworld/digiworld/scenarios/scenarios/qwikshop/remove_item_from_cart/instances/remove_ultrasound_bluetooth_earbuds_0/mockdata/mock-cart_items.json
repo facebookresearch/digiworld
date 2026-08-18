@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "cartId": 1,
+    "userId": 1,
+    "productId": 9900,
+    "productName": "UltraSound Bluetooth Earbuds",
+    "productImage": "/product_9900",
+    "shortDescription": "Wireless earbuds",
+    "seller": "SoundWave Store",
+    "quantity": 4,
+    "price": 25.57,
+    "discountedPrice": 25.57,
+    "total": 102.28,
+    "inStock": 1
+  }
+]

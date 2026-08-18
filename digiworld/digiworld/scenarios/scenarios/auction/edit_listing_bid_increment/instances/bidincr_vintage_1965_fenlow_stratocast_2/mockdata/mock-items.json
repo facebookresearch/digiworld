@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754000031,
+    "title": "Vintage 1965 Fenlow Stratoline \u2013 Sunburst Finish, Original Pickups",
+    "description": "Classic electric guitar in excellent condition, includes original case and a set of Gladstone \u00bc\u2011inch strings.",
+    "categoryId": 3,
+    "sellerId": "{{current_user_id}}",
+    "price": 867.12,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 10,
+    "imageUrl": "https://example.com/images/vintage-1965-fender-stratocaster-\u2013-sunburst-finish,-original-pickups.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 300.58,
+    "currentBid": 530.76,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 9900,
+    "name": "UltraFit Pro Smartwatch",
+    "description": "The UltraFit Pro Smartwatch tracks heart rate, sleep patterns, and offers built-in GPS for accurate outdoor workouts.",
+    "shortDescription": "A versatile smartwatch with health tracking and GPS.",
+    "price": 133.77,
+    "discountedPrice": 133.77,
+    "discountPercent": 0,
+    "rating": 3.3,
+    "reviewCount": 62,
+    "seller": "TechGear Hub",
+    "categoryName": "Electronics",
+    "subcategoryName": "Smartwatches",
+    "inStock": 1,
+    "stockCount": 183,
+    "imageUrl": "/product_9935",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0,
+    "categoryId": 1,
+    "subcategoryId": 0
+  }
+]

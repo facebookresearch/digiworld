@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "cart_id": "{{current_user_cart_id}}",
+    "user_id": "{{current_user_id}}",
+    "product_id": 141,
+    "product_name": "The Confidence Blueprint",
+    "product_image": "https://picsum.photos/seed/mock/600/400",
+    "short_description": "Mock product",
+    "seller": "Elm Tree Press",
+    "quantity": 1,
+    "price": 10.57,
+    "discounted_price": 7.93,
+    "total": 7.93,
+    "saved_amount": 2.64,
+    "in_stock": 1,
+    "category_name": "Books",
+    "subcategory_name": "Self-Help",
+    "sku": "",
+    "added_at": "2025-06-15 12:00:00.000",
+    "created_at": "2025-06-15 12:00:00.000",
+    "updated_at": "2025-06-15 12:00:00.000"
+  }
+]

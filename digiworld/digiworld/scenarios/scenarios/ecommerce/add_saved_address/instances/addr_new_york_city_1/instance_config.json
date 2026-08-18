@@ -1,0 +1,35 @@
+{
+  "parameters": {
+    "first_name": "Elijah",
+    "last_name": "Patel",
+    "address_line_1": "1234 Broadway",
+    "city": "New York City",
+    "state": "NY",
+    "postal_code": "10021",
+    "country": "US",
+    "phone_number": "(555) 100-5678"
+  },
+  "compatible_profiles": [
+    "bulk_quantity",
+    "default",
+    "empty_cart",
+    "full_cart",
+    "heavy_discounts",
+    "high_order_volume",
+    "large_orders",
+    "low_stock",
+    "new_user",
+    "power_shopper",
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-03-02T02:09:16.111304+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

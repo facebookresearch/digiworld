@@ -1,0 +1,34 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "itemId": 751850013,
+    "listPrice": 1275.75,
+    "listDate": "{{recent_timestamp}}",
+    "status": "expired"
+  },
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "itemId": 751850014,
+    "listPrice": 1483.43,
+    "listDate": "{{recent_timestamp}}",
+    "status": "expired"
+  },
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "itemId": 751850015,
+    "listPrice": 867.12,
+    "listDate": "{{recent_timestamp}}",
+    "status": "expired"
+  },
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "itemId": 751850016,
+    "listPrice": 965.32,
+    "listDate": "{{recent_timestamp}}",
+    "status": "expired"
+  }
+]

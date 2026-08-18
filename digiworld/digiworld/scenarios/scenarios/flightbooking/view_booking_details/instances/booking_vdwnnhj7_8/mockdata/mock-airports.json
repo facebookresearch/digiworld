@@ -1,0 +1,18 @@
+[
+  {
+    "code": "JFK",
+    "name": "JFK International Airport",
+    "city": "JFK",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "code": "SCL",
+    "name": "SCL International Airport",
+    "city": "SCL",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

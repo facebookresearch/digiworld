@@ -1,0 +1,12 @@
+{
+  "task_name": "Add \"<recipient_emails>\" as CC to the email draft with subject \"<email_subject>\", then tell me the subjects of all my current email drafts",
+  "app_name": "email",
+  "scenario_class": "AddCcAndListDraftsScenario",
+  "parameters": [
+    "recipient_emails",
+    "email_subject"
+  ],
+  "additional_mockdata": true,
+  "context_fields": [],
+  "description": "Composed scenario: add CC recipients to a draft email, then report the subjects of all current email drafts."
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 181890003,
+    "title": "Vintage 1960s Eames Lounge Chair by Herman Miller",
+    "description": "A highly sought-after mid-century modern icon, this Eames Lounge Chair is in excellent condition, retaining its original finish and upholstery.",
+    "categoryId": 1,
+    "sellerId": "{{current_user_id}}",
+    "price": 278.68,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 13,
+    "imageUrl": "https://example.com/images/vintage-1960s-eames-lounge-chair-by-herman-miller.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 145.53,
+    "currentBid": 209.02,
+    "bidIncrement": 5.0,
+    "endTime": 1772676389,
+    "expired": 0
+  }
+]

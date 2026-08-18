@@ -1,0 +1,29 @@
+{
+  "parameters": {
+    "name": "Lo\u2011Fi Beatscape",
+    "genre": "Jazz"
+  },
+  "compatible_profiles": [
+    "default",
+    "genre_focused",
+    "high_rated_content",
+    "large_playlists",
+    "low_engagement",
+    "minimal_playlists",
+    "new_user",
+    "playlist_heavy",
+    "power_listener",
+    "recent_activity",
+    "viral_songs"
+  ],
+  "metadata": {
+    "created_at": "2026-04-11T15:51:15.508650+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

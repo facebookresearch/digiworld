@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Compact Countertop Air Fryer, 2-qt",
+    "description": "The 2-quart air fryer circulates hot air to fry, bake, and roast with up to 80% less oil. Its digital touchscreen lets you set temperature and time precisely, while the non-stick basket is dishwasher safe. Perfect for quick, healthy meals.",
+    "shortDescription": "A compact air fryer for low-oil cooking.",
+    "rating": 3.0,
+    "reviewCount": 2,
+    "seller": "BrewMaster Appliances",
+    "price": 894.75,
+    "discountedPrice": 474.22,
+    "discountPercent": 47,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 18,
+    "subcategoryName": "Small Appliances",
+    "inStock": true,
+    "stockCount": 98,
+    "imageUrl": "/72_1",
+    "specs": "{\"material\": \"BPA-free plastic, stainless steel basket\", \"dimensions\": \"11\\\" H x 10\\\" W x 10\\\" D\", \"weight\": \"5 lbs\", \"warranty\": \"2-year limited\", \"color\": \"Matte black\", \"careInstructions\": \"Clean basket after each use; wipe interior with damp cloth; do not use abrasive cleaners\"}",
+    "tags": "[\"home\", \"appliances\", \"small\", \"kitchen\", \"popular\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

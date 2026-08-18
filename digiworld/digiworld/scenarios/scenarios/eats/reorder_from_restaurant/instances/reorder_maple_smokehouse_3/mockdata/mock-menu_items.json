@@ -1,0 +1,15 @@
+[
+  {
+    "id": 90001,
+    "restaurantId": 90001,
+    "categoryId": 90001,
+    "name": "Maple Glazed Smoked Ribs",
+    "description": "Tender pork ribs brushed with maple glaze, slow smoked and paired with crisp sweet potato slaw.",
+    "price": 22.0,
+    "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?auto=format&fit=crop&w=600&q=80",
+    "calories": 850,
+    "isPopular": 1,
+    "isActive": 1,
+    "position": 1
+  }
+]

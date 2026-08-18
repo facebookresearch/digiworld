@@ -1,0 +1,12 @@
+[
+  {
+    "id": "injected-group-001",
+    "name": "Grandma's Recipe Club",
+    "description": "Family news, photos, and event planning.",
+    "avatarUrl": null,
+    "createdBy": "{{current_user_id}}",
+    "createdAt": "{{recent_message_time}}",
+    "isActive": 1,
+    "deletedBy": null
+  }
+]

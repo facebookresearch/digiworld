@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "user_id": "{{current_user_id}}",
+    "full_name": "Natalie M. Chen",
+    "street": "3692 Cedar View Dr",
+    "city": "Cedar Grove",
+    "state": "IL",
+    "pincode": "60614",
+    "phone": "+1-555-7890",
+    "country": "United States",
+    "delivery_instructions": "",
+    "is_default": 0,
+    "created_at": "2025-06-15 12:00:00.000",
+    "updated_at": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Emily Thompson",
+    "street": "7422 Oakwood Ave",
+    "city": "Portland",
+    "state": "OR",
+    "pincode": "97201",
+    "phone": "5035550123",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

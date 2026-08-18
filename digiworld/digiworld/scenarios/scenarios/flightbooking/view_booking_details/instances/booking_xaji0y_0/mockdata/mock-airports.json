@@ -1,0 +1,18 @@
+[
+  {
+    "code": "LHR",
+    "name": "LHR International Airport",
+    "city": "LHR",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "createdAt": "2026-01-01T00:00:00Z"
+  },
+  {
+    "code": "JFK",
+    "name": "JFK International Airport",
+    "city": "JFK",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "createdAt": "2026-01-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "parameters": {
+    "item": "NovaTech CapturePro DSLR Camera",
+    "star_rating": "1",
+    "review_title": "Disappointed by the battery life",
+    "review_content": "I was excited to try this device, but the battery barely lasts a few hours on a full charge. Even with minimal use, I need to recharge it multiple times a day. Not ideal for anyone who needs long\u2011lasting power."
+  },
+  "compatible_profiles": [
+    "power_shopper"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T03:59:55.317151+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

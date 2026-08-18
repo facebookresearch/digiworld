@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Classic Oxford Button-Down Shirt",
+    "description": "Crafted from 100% cotton, this classic Oxford button-down offers a timeless look for both office and casual settings. Its crisp collar and sturdy button closure ensure a polished appearance, while the breathable fabric keeps you comfortable throughout the day.",
+    "shortDescription": "A timeless cotton Oxford shirt perfect for both office and casual wear.",
+    "rating": 4.0,
+    "reviewCount": 2,
+    "seller": "Riverdale Outfitters",
+    "price": 674.72,
+    "discountedPrice": 499.29,
+    "discountPercent": 26,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 9,
+    "subcategoryName": "Men's Shirts",
+    "inStock": true,
+    "stockCount": 138,
+    "imageUrl": "/33_1",
+    "specs": "{\"material\": \"100% Cotton Oxford\", \"careInstructions\": \"Machine wash cold, tumble dry low, iron on medium heat\", \"fit\": \"Regular fit\", \"size\": \"S, M, L, XL, XXL\", \"color\": \"Classic White\", \"pattern\": \"Oxford stripe\"}",
+    "tags": "[\"clothing\", \"mens\", \"shirts\", \"best\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "{{current_user_email}}",
+    "receiver": [
+      "client.relations@example.com"
+    ],
+    "subject": "Schedule Change for Upcoming Client Presentation",
+    "preview": "Hi, the schedule for the upcoming client presentat...",
+    "body": "Hi, the schedule for the upcoming client presentation has been changed to Thursday at 10 AM. Please adjust your calendars and confirm your attendance.",
+    "timestamp": "{{recent_timestamp}}",
+    "unread": 0,
+    "read": 0,
+    "status": "draft",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 1,
+    "threadId": "draft_schedule_change_for_upcoming_client_pres",
+    "folder": "draft",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

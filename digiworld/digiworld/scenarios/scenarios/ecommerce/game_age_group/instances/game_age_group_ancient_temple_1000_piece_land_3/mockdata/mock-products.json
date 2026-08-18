@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Ancient Temple 1000-piece Landscape",
+    "description": "Ancient Temple 1000\u2011piece Landscape puzzle reveals a breathtaking view of a hidden temple surrounded by jungle foliage. The pieces are made from premium matte cardboard for a smooth fit, and the finished image measures 24\u00d718 inches.",
+    "shortDescription": "1000\u2011piece puzzle depicting an ancient temple hidden in jungle foliage.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Puzzle Heritage",
+    "price": 1083.87,
+    "discountedPrice": 682.84,
+    "discountPercent": 37,
+    "categoryId": 7,
+    "categoryName": "Toys & Games",
+    "subcategoryId": 51,
+    "subcategoryName": "Puzzles",
+    "inStock": true,
+    "stockCount": 175,
+    "imageUrl": "/201_1",
+    "specs": "{\"ageRange\": \"12+ years\", \"material\": \"Cardboard\", \"dimensions\": \"18 x 14 x 2 inches (box)\", \"batteryRequired\": \"No\", \"warranty\": \"No warranty\", \"safetyRating\": \"ASTM F963\"}",
+    "tags": "[\"puzzles\", \"games\", \"toys\", \"premium\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

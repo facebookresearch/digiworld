@@ -1,0 +1,28 @@
+{
+  "parameters": {
+    "title": "Limited Edition Golf Club Set - 2021",
+    "title2": "2021 Limited-Run Golf Club Collection"
+  },
+  "compatible_profiles": [
+    "auction_heavy",
+    "budget_items",
+    "buy_now_focus",
+    "default",
+    "ending_soon",
+    "failed_payments",
+    "high_bid_volume",
+    "new_seller",
+    "power_seller",
+    "premium_items"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:13.181284+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

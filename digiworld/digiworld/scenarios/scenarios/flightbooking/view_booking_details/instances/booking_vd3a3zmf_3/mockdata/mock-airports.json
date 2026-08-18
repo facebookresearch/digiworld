@@ -1,0 +1,18 @@
+[
+  {
+    "code": "GRU",
+    "name": "GRU International Airport",
+    "city": "GRU",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "code": "MAD",
+    "name": "MAD International Airport",
+    "city": "MAD",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

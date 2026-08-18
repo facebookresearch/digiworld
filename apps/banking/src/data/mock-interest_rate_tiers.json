@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "accountTypeId": 2,
+    "minBalance": 0,
+    "maxBalance": 1000,
+    "annualPercentageYield": 0.01,
+    "effectiveDate": "2025-10-26T20:36:12.220716",
+    "endDate": null,
+    "createdAt": "2025-10-26T20:36:12.220717"
+  },
+  {
+    "id": 2,
+    "accountTypeId": 2,
+    "minBalance": 1000,
+    "maxBalance": 10000,
+    "annualPercentageYield": 0.1,
+    "effectiveDate": "2025-10-26T20:36:12.220718",
+    "endDate": null,
+    "createdAt": "2025-10-26T20:36:12.220719"
+  },
+  {
+    "id": 3,
+    "accountTypeId": 2,
+    "minBalance": 10000,
+    "maxBalance": null,
+    "annualPercentageYield": 0.15,
+    "effectiveDate": "2025-10-26T20:36:12.220720",
+    "endDate": null,
+    "createdAt": "2025-10-26T20:36:12.220721"
+  }
+]

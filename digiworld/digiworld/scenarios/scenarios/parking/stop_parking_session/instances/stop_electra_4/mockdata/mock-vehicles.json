@@ -1,0 +1,17 @@
+[
+  {
+    "id": 99905,
+    "userId": "{{current_user_id}}",
+    "nickname": "Electra",
+    "make": "Electra",
+    "model": "E3",
+    "color": "Red",
+    "year": 2023,
+    "plateNumber": "EVCAR1",
+    "vehicleTypeId": 5,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

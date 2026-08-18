@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "GreenGrove Organic Almond Milk",
+    "description": "GreenGrove Organic Almond Milk is made from USDA Certified Organic almonds with no artificial flavors or preservatives. Lightly sweetened with organic cane sugar. Fortified with Calcium, Vitamin D2, and Riboflavin. Creamy and smooth texture perfect for coffee, cereal, and smoothies. Packaged in an eco-friendly Tetra Pak carton.",
+    "shortDescription": "USDA Certified Organic almond milk, lightly sweetened and fortified with Calcium and Vitamin D.",
+    "rating": 4.4,
+    "reviewCount": 61,
+    "seller": "GreenGrove Organics",
+    "price": 299.00,
+    "discountedPrice": 239.20,
+    "discountPercent": 20,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 64,
+    "subcategoryName": "Supplements",
+    "inStock": true,
+    "stockCount": 100,
+    "imageUrl": "/64_4",
+    "specs": "{\"volume\": \"1 Liter\", \"calories\": \"60 per cup\", \"sugar\": \"7g organic cane sugar\", \"certification\": \"USDA Organic\", \"fortified\": \"Calcium, Vitamin D2, Riboflavin\", \"allergens\": \"Contains Tree Nuts (Almonds)\"}",
+    "tags": "[\"organic\", \"almond milk\", \"dairy free\", \"vegan\", \"health\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

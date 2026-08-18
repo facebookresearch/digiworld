@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "{{current_user_email}}",
+    "receiver": [
+      "hr.coordinator@example.com"
+    ],
+    "subject": "Team Building Activity: Outdoor Challenge Day",
+    "preview": "Hi team, we are planning an outdoor challenge day ...",
+    "body": "Hi team, we are planning an outdoor challenge day as a team building activity next month. Please let us know any accessibility requirements you may have.",
+    "timestamp": "{{recent_timestamp}}",
+    "unread": 0,
+    "read": 0,
+    "status": "draft",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 1,
+    "threadId": "draft_team_building_activity_outdoor_challeng",
+    "folder": "draft",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Maharaja Spice",
+    "description": "Tandoori lamb kebabs marinated in yogurt and fenugreek, grilled to smoky perfection.",
+    "address": "900 Magnolia Blvd, Nashville, TN 37203",
+    "latitude": 36.1627,
+    "longitude": -86.7816,
+    "logo": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.6,
+    "deliveryFee": 5.92,
+    "minOrder": 8.0,
+    "deliveryRadius": 5,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

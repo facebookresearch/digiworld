@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Premium Car Wax Paste with UV Protection",
+    "description": "Protect your paintwork with this premium car wax paste, enriched with UV blockers to prevent fading. The easy-apply formula yields a deep, mirror-like shine that lasts for weeks. Works well over existing waxes and can be buffed by hand or machine.",
+    "shortDescription": "Premium car wax paste with UV blockers for a deep, lasting shine.",
+    "rating": 2.2,
+    "reviewCount": 0,
+    "seller": "WaxMaster Premium",
+    "price": 1493.23,
+    "discountedPrice": 955.67,
+    "discountPercent": 36,
+    "categoryId": 8,
+    "categoryName": "Automotive",
+    "subcategoryId": 62,
+    "subcategoryName": "Car Care",
+    "inStock": true,
+    "stockCount": 179,
+    "imageUrl": "/248_1",
+    "specs": "{\"material\": \"Carnauba wax blend with UV inhibitors\", \"compatibility\": \"Suitable for all painted surfaces, including clear coat\", \"dimensions\": \"8 oz jar (3 x 3 x 4 inches)\", \"weight\": \"0.6 lbs (272 g)\", \"warranty\": \"1-year limited\", \"madeIn\": \"Brazil\"}",
+    "tags": "[\"car\", \"care\", \"automotive\", \"popular\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

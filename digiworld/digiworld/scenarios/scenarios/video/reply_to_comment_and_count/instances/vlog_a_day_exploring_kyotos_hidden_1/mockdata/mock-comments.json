@@ -1,0 +1,15 @@
+[
+  {
+    "id": 7777,
+    "videoId": 9999,
+    "userId": 9998,
+    "parentId": null,
+    "content": "Loved the quiet alleys in Kyoto, felt like I was actually there.",
+    "status": "visible",
+    "isEdited": 0,
+    "replyCount": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

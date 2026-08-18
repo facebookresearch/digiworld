@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "{{current_user_email}}",
+    "receiver": [
+      "marketing.director@example.com"
+    ],
+    "subject": "Feedback Needed on Draft Marketing Plan",
+    "preview": "Hello, we would appreciate your feedback on the dr...",
+    "body": "Hello, we would appreciate your feedback on the draft marketing plan attached to this email. Comments should be sent back by the end of the week.",
+    "timestamp": "{{recent_timestamp}}",
+    "unread": 0,
+    "read": 0,
+    "status": "draft",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 1,
+    "threadId": "draft_feedback_needed_on_draft_marketing_plan",
+    "folder": "draft",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

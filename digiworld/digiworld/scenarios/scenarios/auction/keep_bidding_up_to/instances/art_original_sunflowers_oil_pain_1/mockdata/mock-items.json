@@ -1,0 +1,22 @@
+[
+  {
+    "id": 182220027,
+    "title": "Original 'Sunflowers' Oil Painting by Claude Monet",
+    "description": "This stunning oil painting is a reproduction of Monet's famous work, created with rich, vibrant colors and bold brushstrokes, adding a touch of elegance to any room.",
+    "categoryId": 9,
+    "sellerId": 2,
+    "price": 713.52,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 5,
+    "imageUrl": "https://example.com/images/original-'sunflowers'-oil-painting-by-claude-monet.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 62.19,
+    "currentBid": 116.29,
+    "bidIncrement": 5.0,
+    "endTime": 1773626822,
+    "expired": 0
+  }
+]

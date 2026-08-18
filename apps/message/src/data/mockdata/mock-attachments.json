@@ -1,0 +1,233 @@
+[
+  {
+    "id": "att1",
+    "messageId": "msg2",
+    "fileType": "audio",
+    "filePath": "/uploads/audio/voice_note.mp3",
+    "preview": null
+  },
+  {
+    "id": "att2",
+    "messageId": "msg5",
+    "fileType": "video",
+    "filePath": "/uploads/videos/party_clip.mp4",
+    "preview": "data:image/jpeg;base64,cGFydHlfY2xpcC5tcDQ="
+  },
+  {
+    "id": "att3",
+    "messageId": "msg8",
+    "fileType": "video",
+    "filePath": "/uploads/videos/party_clip.mp4",
+    "preview": "data:image/jpeg;base64,cGFydHlfY2xpcC5tcDQ="
+  },
+  {
+    "id": "att4",
+    "messageId": "msg9",
+    "fileType": "document",
+    "filePath": "/uploads/documents/invoice_march2025.pdf",
+    "preview": null
+  },
+  {
+    "id": "att5",
+    "messageId": "msg11",
+    "fileType": "video",
+    "filePath": "/uploads/videos/party_clip.mp4",
+    "preview": "data:image/jpeg;base64,cGFydHlfY2xpcC5tcDQ="
+  },
+  {
+    "id": "att6",
+    "messageId": "msg13",
+    "fileType": "video",
+    "filePath": "/uploads/videos/party_clip.mp4",
+    "preview": "data:image/jpeg;base64,cGFydHlfY2xpcC5tcDQ="
+  },
+  {
+    "id": "att7",
+    "messageId": "msg14",
+    "fileType": "video",
+    "filePath": "/uploads/videos/party_clip.mp4",
+    "preview": "data:image/jpeg;base64,cGFydHlfY2xpcC5tcDQ="
+  },
+  {
+    "id": "att8",
+    "messageId": "msg21",
+    "fileType": "document",
+    "filePath": "/uploads/documents/invoice_march2025.pdf",
+    "preview": null
+  },
+  {
+    "id": "att9",
+    "messageId": "msg22",
+    "fileType": "image",
+    "filePath": "/uploads/images/beach_sunset.jpg",
+    "preview": "data:image/jpeg;base64,YmVhY2hfc3Vuc2V0LmpwZw=="
+  },
+  {
+    "id": "att10",
+    "messageId": "msg24",
+    "fileType": "video",
+    "filePath": "/uploads/videos/party_clip.mp4",
+    "preview": "data:image/jpeg;base64,cGFydHlfY2xpcC5tcDQ="
+  },
+  {
+    "id": "att11",
+    "messageId": "msg30",
+    "fileType": "video",
+    "filePath": "/uploads/videos/party_clip.mp4",
+    "preview": "data:image/jpeg;base64,cGFydHlfY2xpcC5tcDQ="
+  },
+  {
+    "id": "att12",
+    "messageId": "msg32",
+    "fileType": "document",
+    "filePath": "/uploads/documents/invoice_march2025.pdf",
+    "preview": null
+  },
+  {
+    "id": "att13",
+    "messageId": "msg33",
+    "fileType": "image",
+    "filePath": "/uploads/images/beach_sunset.jpg",
+    "preview": "data:image/jpeg;base64,YmVhY2hfc3Vuc2V0LmpwZw=="
+  },
+  {
+    "id": "att14",
+    "messageId": "msg37",
+    "fileType": "audio",
+    "filePath": "/uploads/audio/voice_note.mp3",
+    "preview": null
+  },
+  {
+    "id": "att15",
+    "messageId": "msg38",
+    "fileType": "image",
+    "filePath": "/uploads/images/beach_sunset.jpg",
+    "preview": "data:image/jpeg;base64,YmVhY2hfc3Vuc2V0LmpwZw=="
+  },
+  {
+    "id": "att16",
+    "messageId": "msg44",
+    "fileType": "video",
+    "filePath": "/uploads/videos/party_clip.mp4",
+    "preview": "data:image/jpeg;base64,cGFydHlfY2xpcC5tcDQ="
+  },
+  {
+    "id": "att17",
+    "messageId": "msg45",
+    "fileType": "document",
+    "filePath": "/uploads/documents/invoice_march2025.pdf",
+    "preview": null
+  },
+  {
+    "id": "att18",
+    "messageId": "msg54",
+    "fileType": "document",
+    "filePath": "/uploads/documents/invoice_march2025.pdf",
+    "preview": null
+  },
+  {
+    "id": "att19",
+    "messageId": "msg55",
+    "fileType": "document",
+    "filePath": "/uploads/documents/invoice_march2025.pdf",
+    "preview": null
+  },
+  {
+    "id": "att20",
+    "messageId": "msg56",
+    "fileType": "document",
+    "filePath": "/uploads/documents/invoice_march2025.pdf",
+    "preview": null
+  },
+  {
+    "id": "att21",
+    "messageId": "msg61",
+    "fileType": "image",
+    "filePath": "/uploads/images/beach_sunset.jpg",
+    "preview": "data:image/jpeg;base64,YmVhY2hfc3Vuc2V0LmpwZw=="
+  },
+  {
+    "id": "att22",
+    "messageId": "msg63",
+    "fileType": "document",
+    "filePath": "/uploads/documents/invoice_march2025.pdf",
+    "preview": null
+  },
+  {
+    "id": "att23",
+    "messageId": "msg64",
+    "fileType": "image",
+    "filePath": "/uploads/images/beach_sunset.jpg",
+    "preview": "data:image/jpeg;base64,YmVhY2hfc3Vuc2V0LmpwZw=="
+  },
+  {
+    "id": "att24",
+    "messageId": "msg72",
+    "fileType": "video",
+    "filePath": "/uploads/videos/party_clip.mp4",
+    "preview": "data:image/jpeg;base64,cGFydHlfY2xpcC5tcDQ="
+  },
+  {
+    "id": "att25",
+    "messageId": "msg78",
+    "fileType": "document",
+    "filePath": "/uploads/documents/invoice_march2025.pdf",
+    "preview": null
+  },
+  {
+    "id": "att26",
+    "messageId": "msg80",
+    "fileType": "image",
+    "filePath": "/uploads/images/beach_sunset.jpg",
+    "preview": "data:image/jpeg;base64,YmVhY2hfc3Vuc2V0LmpwZw=="
+  },
+  {
+    "id": "att27",
+    "messageId": "msg81",
+    "fileType": "audio",
+    "filePath": "/uploads/audio/voice_note.mp3",
+    "preview": null
+  },
+  {
+    "id": "att28",
+    "messageId": "msg87",
+    "fileType": "document",
+    "filePath": "/uploads/documents/invoice_march2025.pdf",
+    "preview": null
+  },
+  {
+    "id": "att29",
+    "messageId": "msg88",
+    "fileType": "audio",
+    "filePath": "/uploads/audio/voice_note.mp3",
+    "preview": null
+  },
+  {
+    "id": "att30",
+    "messageId": "msg89",
+    "fileType": "document",
+    "filePath": "/uploads/documents/invoice_march2025.pdf",
+    "preview": null
+  },
+  {
+    "id": "att31",
+    "messageId": "msg90",
+    "fileType": "image",
+    "filePath": "/uploads/images/beach_sunset.jpg",
+    "preview": "data:image/jpeg;base64,YmVhY2hfc3Vuc2V0LmpwZw=="
+  },
+  {
+    "id": "att32",
+    "messageId": "msg92",
+    "fileType": "audio",
+    "filePath": "/uploads/audio/voice_note.mp3",
+    "preview": null
+  },
+  {
+    "id": "att33",
+    "messageId": "msg98",
+    "fileType": "audio",
+    "filePath": "/uploads/audio/voice_note.mp3",
+    "preview": null
+  }
+]

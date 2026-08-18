@@ -1,0 +1,19 @@
+{
+  "parameters": {
+    "attribute": "size",
+    "item": "Canvas Tote Bag with Interior Pocket"
+  },
+  "compatible_profiles": [
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T03:59:51.293898+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

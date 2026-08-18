@@ -1,0 +1,19 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Oakwood Parking",
+    "description": "Parking zone OP789",
+    "latitude": 40.7250,
+    "longitude": -73.9855,
+    "zoneCode": "OP789",
+    "operator": "City Parking Authority",
+    "zoneType": "street",
+    "capacity": 40,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.10,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

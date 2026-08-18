@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 9990,
+    "categoryId": 3,
+    "title": "DIY Home Office Ergonomics Setup",
+    "description": "Step\u2011by\u2011step guide to creating an ergonomic home office on a budget, from chair selection to monitor height.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 1000,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 8851,
+    "likeCount": 98,
+    "commentCount": 15,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

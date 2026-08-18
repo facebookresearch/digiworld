@@ -1,0 +1,24 @@
+[
+  {
+    "id": 9900,
+    "name": "Portable Power Bank 5000mAh",
+    "description": "Stay charged on-the-go with our compact 5000mAh power bank, compatible with most smartphones and devices.",
+    "shortDescription": "Compact power bank for smartphones.",
+    "price": 362.27,
+    "discountedPrice": 362.27,
+    "discountPercent": 0,
+    "rating": 4.4,
+    "reviewCount": 224,
+    "seller": "PowerUp Electronics",
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 0,
+    "subcategoryName": "Smartphones",
+    "inStock": 1,
+    "stockCount": 160,
+    "imageUrl": "/product_5557",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

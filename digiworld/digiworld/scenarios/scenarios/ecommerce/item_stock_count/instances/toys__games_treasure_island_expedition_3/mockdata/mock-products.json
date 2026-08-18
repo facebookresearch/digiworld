@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Treasure Island Expedition",
+    "description": "Set sail on a high\u2011seas adventure to uncover hidden treasure on a mysterious island. Players draw event cards, manage crew morale, and navigate treacherous terrain in a race against rivals. The game includes a treasure map board and vivid artwork.",
+    "shortDescription": "A swash\u2011buckling board game of treasure hunting and exploration.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Seafarer Game Co.",
+    "price": 77.85,
+    "discountedPrice": 77.85,
+    "discountPercent": 0,
+    "categoryId": 7,
+    "categoryName": "Toys & Games",
+    "subcategoryId": 49,
+    "subcategoryName": "Board Games",
+    "inStock": true,
+    "stockCount": 43,
+    "imageUrl": "/194_1",
+    "specs": "{\"ageRange\": \"8-12\", \"material\": \"Cardboard and plastic miniatures\", \"dimensions\": \"11 x 11 x 2.5 inches\", \"batteryRequired\": \"No\", \"warranty\": \"1 year\", \"safetyRating\": \"EN71\"}",
+    "tags": "[\"board\", \"games\", \"toys\", \"best\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

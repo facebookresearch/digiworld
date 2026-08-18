@@ -1,0 +1,15 @@
+[
+  {
+    "id": 90001,
+    "restaurantId": 90001,
+    "categoryId": 90001,
+    "name": "Basil Buffalo Margherita",
+    "description": "Thin crust pizza topped with buffalo mozzarella, fresh basil, and olive oil.",
+    "price": 16.2,
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=600&q=80",
+    "calories": 720,
+    "isPopular": 0,
+    "isActive": 1,
+    "position": 1
+  }
+]

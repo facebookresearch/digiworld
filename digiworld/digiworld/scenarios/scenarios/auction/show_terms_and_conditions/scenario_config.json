@@ -1,0 +1,20 @@
+{
+  "task_name": "Show me the terms and conditions",
+  "app_name": "auction",
+  "scenario_class": "ShowTermsAndConditionsScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Navigate to the terms and conditions page.",
+  "compatible_profiles": [
+    "auction_heavy",
+    "budget_items",
+    "buy_now_focus",
+    "default",
+    "ending_soon",
+    "failed_payments",
+    "high_bid_volume",
+    "new_seller",
+    "power_seller",
+    "premium_items"
+  ]
+}

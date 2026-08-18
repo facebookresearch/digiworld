@@ -1,0 +1,36 @@
+[
+  {
+    "flight_id": "KE5040_2026-08-15",
+    "airline_id": "airline_ke",
+    "airline_code": "KE",
+    "flight_number": "KE5040",
+    "origin": "BOS",
+    "destination": "ICN",
+    "departure_time": "2026-08-15T13:45:00Z",
+    "arrival_time": "2026-08-15T22:06:00Z",
+    "duration_minutes": 501,
+    "fare": 719.22,
+    "currency": "USD",
+    "seats_available": 66,
+    "aircraft_type": "Boeing 787-9 Dreamliner",
+    "date": "2026-08-15",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "flight_id": "KE3266_2026-08-22",
+    "airline_id": "airline_ke",
+    "airline_code": "KE",
+    "flight_number": "KE3266",
+    "origin": "ICN",
+    "destination": "BOS",
+    "departure_time": "2026-08-22T20:00:00Z",
+    "arrival_time": "2026-08-23T02:20:00Z",
+    "duration_minutes": 380,
+    "fare": 1319.43,
+    "currency": "USD",
+    "seats_available": 49,
+    "aircraft_type": "Boeing 777-300ER",
+    "date": "2026-08-22",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

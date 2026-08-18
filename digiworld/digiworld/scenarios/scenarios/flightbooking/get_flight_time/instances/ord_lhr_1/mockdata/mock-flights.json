@@ -1,0 +1,19 @@
+[
+  {
+    "flight_id": "BA8517_2026-08-15",
+    "airline_id": "airline_ba",
+    "airline_code": "BA",
+    "flight_number": "BA8517",
+    "origin": "ORD",
+    "destination": "LHR",
+    "departure_time": "2026-08-15T13:15:00Z",
+    "arrival_time": "2026-08-15T16:28:00Z",
+    "duration_minutes": 193,
+    "fare": 1168.49,
+    "currency": "USD",
+    "seats_available": 147,
+    "aircraft_type": "Boeing 737-800",
+    "date": "2026-08-15",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

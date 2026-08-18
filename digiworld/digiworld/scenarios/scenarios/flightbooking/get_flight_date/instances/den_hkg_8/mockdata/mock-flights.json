@@ -1,0 +1,19 @@
+[
+  {
+    "flight_id": "CX4770_2026-08-15",
+    "airline_id": "airline_cx",
+    "airline_code": "CX",
+    "flight_number": "CX4770",
+    "origin": "DEN",
+    "destination": "HKG",
+    "departure_time": "2026-08-15T12:00:00Z",
+    "arrival_time": "2026-08-15T19:01:00Z",
+    "duration_minutes": 421,
+    "fare": 1120.19,
+    "currency": "USD",
+    "seats_available": 25,
+    "aircraft_type": "Boeing 777-300ER",
+    "date": "2026-08-15",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

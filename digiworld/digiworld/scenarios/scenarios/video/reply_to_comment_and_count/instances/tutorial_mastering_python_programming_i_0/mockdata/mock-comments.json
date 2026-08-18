@@ -1,0 +1,15 @@
+[
+  {
+    "id": 7777,
+    "videoId": 9999,
+    "userId": 9998,
+    "parentId": null,
+    "content": "I've been trying to learn Python for months, thanks for the tutorial!",
+    "status": "visible",
+    "isEdited": 0,
+    "replyCount": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

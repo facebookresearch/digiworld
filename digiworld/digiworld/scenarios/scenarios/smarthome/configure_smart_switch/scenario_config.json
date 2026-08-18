@@ -1,0 +1,9 @@
+{
+  "task_name": "Turn on the Smart Switch named \"<device_name>\", <energy_monitoring> energy monitoring, <scheduling> scheduling",
+  "app_name": "smarthome",
+  "scenario_class": "ConfigureSmartSwitchScenario",
+  "parameters": ["device_name", "energy_monitoring", "scheduling"],
+  "context_fields": [],
+  "description": "Turn on a smart switch and configure its energy monitoring and scheduling settings",
+  "additional_mockdata": true
+}

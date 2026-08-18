@@ -1,0 +1,11 @@
+{
+  "task_name": "What is the status of my flight to \"<destination>\"",
+  "app_name": "flightbooking",
+  "scenario_class": "GetFlightStatusScenario",
+  "parameters": [
+    "destination"
+  ],
+  "context_fields": [],
+  "additional_mockdata": true,
+  "description": "Retrieve the status of the user's flight to a given destination."
+}

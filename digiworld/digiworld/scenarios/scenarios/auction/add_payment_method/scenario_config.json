@@ -1,0 +1,13 @@
+{
+  "task_name": "Add a payment method using my credit card with card number \"<cardNumber>\", CVV of \"<cvv>\", expiration date of \"<expirationDate>\", and cardholder name \"<name>\"",
+  "app_name": "auction",
+  "scenario_class": "AddPaymentMethodScenario",
+  "parameters": [
+    "cardNumber",
+    "cvv",
+    "expirationDate",
+    "name"
+  ],
+  "context_fields": [],
+  "description": "Verify that the user adds a new payment method with the specified credit card details."
+}

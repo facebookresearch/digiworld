@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "user_id": "{{current_user_id}}",
+    "full_name": "Marcus L. Ortiz",
+    "street": "1589 Oakridge Blvd",
+    "city": "Eagleton",
+    "state": "TX",
+    "pincode": "75231",
+    "phone": "+1-555-5678",
+    "country": "United States",
+    "delivery_instructions": "",
+    "is_default": 0,
+    "created_at": "2025-06-15 12:00:00.000",
+    "updated_at": "2025-06-15 12:00:00.000"
+  }
+]

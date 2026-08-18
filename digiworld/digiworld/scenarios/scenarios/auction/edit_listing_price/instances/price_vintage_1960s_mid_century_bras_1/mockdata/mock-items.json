@@ -1,0 +1,22 @@
+[
+  {
+    "id": 753940019,
+    "title": "Vintage 1960s Mid-Century Brass Table Lamp",
+    "description": "Original brass finish with retro shade; adds a warm glow to any living\u2011room or study.",
+    "categoryId": 4,
+    "sellerId": "{{current_user_id}}",
+    "price": 254.55,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/vintage-1960s-mid-century-brass-table-lamp.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

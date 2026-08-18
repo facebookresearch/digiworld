@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 1,
+    "categoryId": 4,
+    "title": "Live-Action vs Animation: Epic Showdown",
+    "description": "In this video we compare live\u2011action adaptations with their original animations, highlighting strengths and surprising differences.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 2765,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 534,
+    "likeCount": 76,
+    "commentCount": 12,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

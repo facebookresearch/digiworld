@@ -1,0 +1,35 @@
+{
+  "parameters": {
+    "cardName": "Sarah Kim",
+    "cardNumber": "4242424242424242",
+    "expirationMonth": "12",
+    "expirationYear": "29",
+    "street": "789 Pine Blvd",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98101",
+    "country": "United States",
+    "firstName": "Sarah",
+    "lastName": "Kim",
+    "phone": "2065559876"
+  },
+  "compatible_profiles": [
+    "bulk_quantity",
+    "empty_cart",
+    "heavy_discounts",
+    "high_order_volume",
+    "low_stock",
+    "new_user",
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-04-11T00:00:00.000000+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Manual instance for composed scenario",
+    "validated_by": null
+  }
+}

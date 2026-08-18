@@ -1,0 +1,90 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "emily.carter@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Project Alpha milestone update",
+    "preview": "Hi team. The Project Alpha milestone has been reac...",
+    "body": "Hi team. The Project Alpha milestone has been reached and the deliverables are ready for review. Please provide your comments by end of day.",
+    "timestamp": "2025-12-11T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_emily_carter_project_alpha_milestone_upd",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "noah.patel@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Quarterly budget review request",
+    "preview": "Hello. The finance department needs the latest exp...",
+    "body": "Hello. The finance department needs the latest expense reports to complete the quarterly budget review. Submit the documents to the shared folder by Friday.",
+    "timestamp": "2026-01-03T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_noah_patel_quarterly_budget_review_reque",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "ava.mitchell@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Team building activity schedule",
+    "preview": "Hi there. The schedule for the upcoming team build...",
+    "body": "Hi there. The schedule for the upcoming team building activities is attached. Confirm your availability by replying to this email.",
+    "timestamp": "2026-01-17T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_ava_mitchell_team_building_activity_sche",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "ethan.brooks@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Client feedback on recent delivery",
+    "preview": "Hi. The client has sent feedback regarding the rec...",
+    "body": "Hi. The client has sent feedback regarding the recent delivery and highlighted a few improvement areas. Review the comments and suggest adjustments.",
+    "timestamp": "2026-02-09T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_ethan_brooks_client_feedback_on_recent_d",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

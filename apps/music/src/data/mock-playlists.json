@@ -1,0 +1,2505 @@
+[
+  {
+    "id": 1,
+    "name": "Mandatory coherent policy",
+    "description": "Because air alone southern bar specific.",
+    "userId": 1,
+    "categories": [
+      "rock",
+      "experimental",
+      "workout"
+    ],
+    "coverArt": "playlists/playlist_1.jpg",
+    "songIds": [
+      302,
+      250,
+      241,
+      173,
+      48,
+      136
+    ],
+    "createdAt": "2022-09-13T00:00:00Z",
+    "updatedAt": "2022-09-13T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Adaptive secondary database",
+    "description": "Thank energy middle manage anyone hold technology.",
+    "userId": 1,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_2.jpg",
+    "songIds": [
+      174,
+      378,
+      85,
+      90,
+      385,
+      169,
+      353,
+      281,
+      253,
+      272,
+      291,
+      127
+    ],
+    "createdAt": "2021-06-24T00:00:00Z",
+    "updatedAt": "2021-06-24T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Vision-oriented empowering moratorium",
+    "description": "Available son size now reality debate car.",
+    "userId": 1,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_3.jpg",
+    "songIds": [
+      94,
+      234,
+      127,
+      157,
+      115,
+      106
+    ],
+    "createdAt": "2020-02-27T00:00:00Z",
+    "updatedAt": "2020-02-27T00:00:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Mandatory tangible solution",
+    "description": "What most more your court.",
+    "userId": 1,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_4.jpg",
+    "songIds": [
+      35,
+      37,
+      325,
+      24,
+      373,
+      159,
+      140,
+      269,
+      367,
+      248
+    ],
+    "createdAt": "2021-08-26T00:00:00Z",
+    "updatedAt": "2021-08-26T00:00:00Z"
+  },
+  {
+    "id": 5,
+    "name": "Quality-focused actuating function",
+    "description": "Admit idea inside in run this camera.",
+    "userId": 2,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_5.jpg",
+    "songIds": [
+      269,
+      312,
+      365,
+      336,
+      274,
+      103,
+      30,
+      46,
+      40,
+      238,
+      339,
+      33
+    ],
+    "createdAt": "2025-01-15T00:00:00Z",
+    "updatedAt": "2025-01-15T00:00:00Z"
+  },
+  {
+    "id": 6,
+    "name": "Expanded background encoding",
+    "description": "North civil American policy effect body daughter.",
+    "userId": 2,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_6.jpg",
+    "songIds": [
+      143,
+      290,
+      192,
+      187,
+      89,
+      349,
+      363,
+      110,
+      26,
+      74
+    ],
+    "createdAt": "2022-12-12T00:00:00Z",
+    "updatedAt": "2022-12-12T00:00:00Z"
+  },
+  {
+    "id": 7,
+    "name": "Innovative foreground collaboration",
+    "description": "Not require you.",
+    "userId": 3,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_7.jpg",
+    "songIds": [
+      380,
+      88,
+      62,
+      296,
+      77,
+      18,
+      189,
+      2,
+      34,
+      320,
+      106,
+      381,
+      126,
+      155,
+      269
+    ],
+    "createdAt": "2023-11-16T00:00:00Z",
+    "updatedAt": "2023-11-16T00:00:00Z"
+  },
+  {
+    "id": 8,
+    "name": "Seamless client-driven array",
+    "description": "Kind effort information power.",
+    "userId": 3,
+    "categories": [
+      "rock",
+      "experimental",
+      "workout"
+    ],
+    "coverArt": "playlists/playlist_8.jpg",
+    "songIds": [
+      346,
+      50,
+      348,
+      119,
+      302
+    ],
+    "createdAt": "2022-06-17T00:00:00Z",
+    "updatedAt": "2022-06-17T00:00:00Z"
+  },
+  {
+    "id": 9,
+    "name": "Devolved human-resource focus group",
+    "description": "Own friend stand we deep still.",
+    "userId": 4,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_9.jpg",
+    "songIds": [
+      71,
+      267,
+      225,
+      80,
+      125,
+      342,
+      169,
+      262,
+      42,
+      369,
+      251,
+      171
+    ],
+    "createdAt": "2022-03-13T00:00:00Z",
+    "updatedAt": "2022-03-13T00:00:00Z"
+  },
+  {
+    "id": 10,
+    "name": "Adaptive hybrid project",
+    "description": "Shoulder oil challenge arrive.",
+    "userId": 4,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_10.jpg",
+    "songIds": [
+      110,
+      155,
+      43,
+      132,
+      76,
+      319,
+      188,
+      127,
+      117,
+      52
+    ],
+    "createdAt": "2023-02-23T00:00:00Z",
+    "updatedAt": "2023-02-23T00:00:00Z"
+  },
+  {
+    "id": 11,
+    "name": "Synergistic 24/7 structure",
+    "description": "Future fish fact.",
+    "userId": 4,
+    "categories": [
+      "rock",
+      "experimental",
+      "workout"
+    ],
+    "coverArt": "playlists/playlist_11.jpg",
+    "songIds": [
+      376,
+      55,
+      319,
+      15,
+      209
+    ],
+    "createdAt": "2022-04-24T00:00:00Z",
+    "updatedAt": "2022-04-24T00:00:00Z"
+  },
+  {
+    "id": 12,
+    "name": "Upgradable exuding budgetary management",
+    "description": "Need discover civil allow attention culture.",
+    "userId": 4,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_12.jpg",
+    "songIds": [
+      360,
+      102,
+      187,
+      83,
+      144,
+      15
+    ],
+    "createdAt": "2025-03-03T00:00:00Z",
+    "updatedAt": "2025-03-03T00:00:00Z"
+  },
+  {
+    "id": 13,
+    "name": "Face-to-face empowering framework",
+    "description": "Color each cover collection difference threat artist.",
+    "userId": 4,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_13.jpg",
+    "songIds": [
+      215,
+      287,
+      111,
+      336,
+      170,
+      378,
+      371,
+      323
+    ],
+    "createdAt": "2021-05-10T00:00:00Z",
+    "updatedAt": "2021-05-10T00:00:00Z"
+  },
+  {
+    "id": 14,
+    "name": "Re-engineered methodical Graphic Interface",
+    "description": "Past simply attorney of.",
+    "userId": 5,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_14.jpg",
+    "songIds": [
+      269,
+      115,
+      343,
+      128,
+      191,
+      33
+    ],
+    "createdAt": "2023-12-02T00:00:00Z",
+    "updatedAt": "2023-12-02T00:00:00Z"
+  },
+  {
+    "id": 15,
+    "name": "Object-based 4thgeneration software",
+    "description": "Local establish reality rate.",
+    "userId": 5,
+    "categories": [
+      "melancholic",
+      "meditation",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_15.jpg",
+    "songIds": [
+      137,
+      207,
+      73,
+      369,
+      298,
+      5,
+      202,
+      83,
+      257,
+      75
+    ],
+    "createdAt": "2022-05-26T00:00:00Z",
+    "updatedAt": "2022-05-26T00:00:00Z"
+  },
+  {
+    "id": 16,
+    "name": "Optional optimizing artificial intelligence",
+    "description": "Majority small computer summer born material against.",
+    "userId": 5,
+    "categories": [
+      "rock",
+      "experimental",
+      "workout"
+    ],
+    "coverArt": "playlists/playlist_16.jpg",
+    "songIds": [
+      101,
+      153,
+      256,
+      316,
+      196,
+      304,
+      169,
+      12,
+      382,
+      44
+    ],
+    "createdAt": "2024-04-05T00:00:00Z",
+    "updatedAt": "2024-04-05T00:00:00Z"
+  },
+  {
+    "id": 17,
+    "name": "Networked bi-directional intranet",
+    "description": "Want available around military fight door yes.",
+    "userId": 6,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_17.jpg",
+    "songIds": [
+      15,
+      225,
+      209,
+      104,
+      89,
+      20,
+      17,
+      84,
+      74,
+      76,
+      35,
+      359
+    ],
+    "createdAt": "2024-07-14T00:00:00Z",
+    "updatedAt": "2024-07-14T00:00:00Z"
+  },
+  {
+    "id": 18,
+    "name": "Ameliorated homogeneous migration",
+    "description": "Base born still public difficult new keep.",
+    "userId": 6,
+    "categories": [
+      "rock",
+      "meditation",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_18.jpg",
+    "songIds": [
+      1,
+      327,
+      156,
+      350,
+      330,
+      249,
+      108
+    ],
+    "createdAt": "2021-02-28T00:00:00Z",
+    "updatedAt": "2021-02-28T00:00:00Z"
+  },
+  {
+    "id": 19,
+    "name": "Exclusive bottom-line implementation",
+    "description": "Him technology pattern enough article.",
+    "userId": 6,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_19.jpg",
+    "songIds": [
+      393,
+      121,
+      180,
+      116,
+      357,
+      284,
+      263,
+      363,
+      129,
+      212,
+      166,
+      378
+    ],
+    "createdAt": "2022-11-23T00:00:00Z",
+    "updatedAt": "2022-11-23T00:00:00Z"
+  },
+  {
+    "id": 20,
+    "name": "Total tangible standardization",
+    "description": "Poor state though poor then.",
+    "userId": 6,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_20.jpg",
+    "songIds": [
+      186,
+      283,
+      169,
+      203,
+      384,
+      89,
+      257,
+      293
+    ],
+    "createdAt": "2020-01-24T00:00:00Z",
+    "updatedAt": "2020-01-24T00:00:00Z"
+  },
+  {
+    "id": 21,
+    "name": "Multi-layered foreground service-desk",
+    "description": "Suffer stock section write world party recent.",
+    "userId": 6,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_21.jpg",
+    "songIds": [
+      129,
+      137,
+      119,
+      73,
+      282,
+      2,
+      191
+    ],
+    "createdAt": "2020-12-19T00:00:00Z",
+    "updatedAt": "2020-12-19T00:00:00Z"
+  },
+  {
+    "id": 22,
+    "name": "Stand-alone 24/7 Graphic Interface",
+    "description": "Involve situation begin air remember million.",
+    "userId": 7,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_22.jpg",
+    "songIds": [
+      149,
+      210,
+      191,
+      184,
+      274,
+      86,
+      17,
+      60,
+      253,
+      145,
+      313,
+      129
+    ],
+    "createdAt": "2023-08-01T00:00:00Z",
+    "updatedAt": "2023-08-01T00:00:00Z"
+  },
+  {
+    "id": 23,
+    "name": "Enterprise-wide web-enabled hardware",
+    "description": "Benefit attack argue break.",
+    "userId": 7,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_23.jpg",
+    "songIds": [
+      182,
+      89,
+      248,
+      289,
+      268,
+      263,
+      129,
+      64,
+      49,
+      298,
+      235,
+      165
+    ],
+    "createdAt": "2023-11-14T00:00:00Z",
+    "updatedAt": "2023-11-14T00:00:00Z"
+  },
+  {
+    "id": 24,
+    "name": "Upgradable executive functionalities",
+    "description": "Phone whole statement experience.",
+    "userId": 7,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_24.jpg",
+    "songIds": [
+      93,
+      190,
+      327,
+      225,
+      194,
+      358,
+      334,
+      98,
+      304
+    ],
+    "createdAt": "2021-06-01T00:00:00Z",
+    "updatedAt": "2021-06-01T00:00:00Z"
+  },
+  {
+    "id": 25,
+    "name": "Stand-alone tertiary algorithm",
+    "description": "Stage upon marriage everybody attention finish chair window.",
+    "userId": 7,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_25.jpg",
+    "songIds": [
+      270,
+      375,
+      283,
+      168,
+      276,
+      98,
+      159,
+      391,
+      313,
+      198,
+      336,
+      292
+    ],
+    "createdAt": "2024-05-05T00:00:00Z",
+    "updatedAt": "2024-05-05T00:00:00Z"
+  },
+  {
+    "id": 26,
+    "name": "Extended full-range implementation",
+    "description": "From expert artist language security operation.",
+    "userId": 7,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_26.jpg",
+    "songIds": [
+      228,
+      73,
+      249,
+      220,
+      182,
+      244,
+      343,
+      381,
+      66,
+      261
+    ],
+    "createdAt": "2021-02-03T00:00:00Z",
+    "updatedAt": "2021-02-03T00:00:00Z"
+  },
+  {
+    "id": 27,
+    "name": "Seamless bi-directional toolset",
+    "description": "Article grow season garden us lawyer.",
+    "userId": 8,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_27.jpg",
+    "songIds": [
+      245,
+      249,
+      13,
+      351,
+      47,
+      61,
+      359,
+      233,
+      332,
+      391,
+      329,
+      212
+    ],
+    "createdAt": "2021-04-01T00:00:00Z",
+    "updatedAt": "2021-04-01T00:00:00Z"
+  },
+  {
+    "id": 28,
+    "name": "Re-engineered value-added process improvement",
+    "description": "Ago give list exist night usually our.",
+    "userId": 8,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_28.jpg",
+    "songIds": [
+      237,
+      210,
+      256,
+      199,
+      52,
+      294,
+      207,
+      320,
+      46,
+      68,
+      85
+    ],
+    "createdAt": "2020-05-21T00:00:00Z",
+    "updatedAt": "2020-05-21T00:00:00Z"
+  },
+  {
+    "id": 29,
+    "name": "Reactive explicit function",
+    "description": "Affect either card war reason.",
+    "userId": 9,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_29.jpg",
+    "songIds": [
+      32,
+      37,
+      325,
+      276,
+      359,
+      227,
+      5
+    ],
+    "createdAt": "2021-06-16T00:00:00Z",
+    "updatedAt": "2021-06-16T00:00:00Z"
+  },
+  {
+    "id": 30,
+    "name": "Optimized scalable service-desk",
+    "description": "Teacher bed same western himself board PM.",
+    "userId": 9,
+    "categories": [
+      "rock",
+      "experimental",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_30.jpg",
+    "songIds": [
+      202,
+      259,
+      384,
+      36,
+      116,
+      107,
+      353,
+      143,
+      208,
+      198,
+      166
+    ],
+    "createdAt": "2025-02-05T00:00:00Z",
+    "updatedAt": "2025-02-05T00:00:00Z"
+  },
+  {
+    "id": 31,
+    "name": "Networked actuating firmware",
+    "description": "Finally forget company me.",
+    "userId": 9,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_31.jpg",
+    "songIds": [
+      152,
+      313,
+      191,
+      79,
+      45,
+      347,
+      67,
+      23,
+      249,
+      192,
+      372
+    ],
+    "createdAt": "2024-09-02T00:00:00Z",
+    "updatedAt": "2024-09-02T00:00:00Z"
+  },
+  {
+    "id": 32,
+    "name": "Ameliorated composite projection",
+    "description": "Quite air job itself tell.",
+    "userId": 9,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_32.jpg",
+    "songIds": [
+      268,
+      64,
+      49,
+      197,
+      47,
+      201,
+      372,
+      162,
+      232,
+      139
+    ],
+    "createdAt": "2020-05-27T00:00:00Z",
+    "updatedAt": "2020-05-27T00:00:00Z"
+  },
+  {
+    "id": 33,
+    "name": "Pre-emptive object-oriented matrix",
+    "description": "Thought growth color on.",
+    "userId": 10,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_33.jpg",
+    "songIds": [
+      320,
+      90,
+      325,
+      13,
+      112,
+      219
+    ],
+    "createdAt": "2021-11-10T00:00:00Z",
+    "updatedAt": "2021-11-10T00:00:00Z"
+  },
+  {
+    "id": 34,
+    "name": "Vision-oriented solution-oriented emulation",
+    "description": "Care create hotel commercial pass rather national.",
+    "userId": 10,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_34.jpg",
+    "songIds": [
+      123,
+      318,
+      54,
+      85,
+      286,
+      322,
+      330
+    ],
+    "createdAt": "2025-04-10T00:00:00Z",
+    "updatedAt": "2025-04-10T00:00:00Z"
+  },
+  {
+    "id": 35,
+    "name": "Up-sized client-server secured line",
+    "description": "Study can into.",
+    "userId": 10,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_35.jpg",
+    "songIds": [
+      89,
+      15,
+      147,
+      256,
+      165,
+      40,
+      334,
+      277,
+      146,
+      202,
+      263,
+      178,
+      336
+    ],
+    "createdAt": "2021-01-07T00:00:00Z",
+    "updatedAt": "2021-01-07T00:00:00Z"
+  },
+  {
+    "id": 36,
+    "name": "Profit-focused dynamic conglomeration",
+    "description": "Rise point program piece.",
+    "userId": 10,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_36.jpg",
+    "songIds": [
+      84,
+      356,
+      329,
+      224,
+      311,
+      361,
+      306
+    ],
+    "createdAt": "2024-11-04T00:00:00Z",
+    "updatedAt": "2024-11-04T00:00:00Z"
+  },
+  {
+    "id": 37,
+    "name": "Secured solution-oriented hub",
+    "description": "Dream sport else understand.",
+    "userId": 11,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_37.jpg",
+    "songIds": [
+      350,
+      9,
+      373,
+      173,
+      295,
+      393,
+      43,
+      107
+    ],
+    "createdAt": "2025-01-18T00:00:00Z",
+    "updatedAt": "2025-01-18T00:00:00Z"
+  },
+  {
+    "id": 38,
+    "name": "User-friendly fault-tolerant implementation",
+    "description": "Theory require sing relate control line member.",
+    "userId": 11,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_38.jpg",
+    "songIds": [
+      158,
+      142,
+      282,
+      106,
+      269,
+      148,
+      303,
+      336,
+      378,
+      243,
+      188,
+      45,
+      87,
+      321,
+      215
+    ],
+    "createdAt": "2021-03-22T00:00:00Z",
+    "updatedAt": "2021-03-22T00:00:00Z"
+  },
+  {
+    "id": 39,
+    "name": "Right-sized hybrid installation",
+    "description": "Simply peace trip.",
+    "userId": 11,
+    "categories": [
+      "rock",
+      "experimental",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_39.jpg",
+    "songIds": [
+      102,
+      14,
+      305,
+      236,
+      261
+    ],
+    "createdAt": "2023-12-11T00:00:00Z",
+    "updatedAt": "2023-12-11T00:00:00Z"
+  },
+  {
+    "id": 40,
+    "name": "Optimized grid-enabled core",
+    "description": "Cold soldier economic always city produce.",
+    "userId": 11,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_40.jpg",
+    "songIds": [
+      204,
+      213,
+      53,
+      238,
+      385,
+      278,
+      42
+    ],
+    "createdAt": "2025-03-17T00:00:00Z",
+    "updatedAt": "2025-03-17T00:00:00Z"
+  },
+  {
+    "id": 41,
+    "name": "Open-source 24/7 support",
+    "description": "Region expert value education he.",
+    "userId": 11,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_41.jpg",
+    "songIds": [
+      264,
+      162,
+      332,
+      91,
+      217,
+      357,
+      129,
+      336,
+      226,
+      114
+    ],
+    "createdAt": "2022-08-22T00:00:00Z",
+    "updatedAt": "2022-08-22T00:00:00Z"
+  },
+  {
+    "id": 42,
+    "name": "Mandatory heuristic help-desk",
+    "description": "Hear those language forget foreign.",
+    "userId": 12,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_42.jpg",
+    "songIds": [
+      342,
+      140,
+      171,
+      84,
+      341,
+      61,
+      291,
+      161,
+      335,
+      230,
+      6,
+      163,
+      305,
+      314,
+      53
+    ],
+    "createdAt": "2021-01-01T00:00:00Z",
+    "updatedAt": "2021-01-01T00:00:00Z"
+  },
+  {
+    "id": 43,
+    "name": "Enterprise-wide uniform productivity",
+    "description": "Could lay loss.",
+    "userId": 12,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_43.jpg",
+    "songIds": [
+      56,
+      107,
+      357,
+      17,
+      298,
+      74,
+      279,
+      203,
+      337,
+      5,
+      332
+    ],
+    "createdAt": "2022-06-05T00:00:00Z",
+    "updatedAt": "2022-06-05T00:00:00Z"
+  },
+  {
+    "id": 44,
+    "name": "Inverse static hardware",
+    "description": "Ball attorney although near show someone.",
+    "userId": 12,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_44.jpg",
+    "songIds": [
+      50,
+      94,
+      202,
+      28,
+      248,
+      304,
+      333,
+      43,
+      95
+    ],
+    "createdAt": "2022-03-24T00:00:00Z",
+    "updatedAt": "2022-03-24T00:00:00Z"
+  },
+  {
+    "id": 45,
+    "name": "Implemented didactic access",
+    "description": "Another real movie indicate religious will.",
+    "userId": 12,
+    "categories": [
+      "rock",
+      "experimental",
+      "workout"
+    ],
+    "coverArt": "playlists/playlist_45.jpg",
+    "songIds": [
+      37,
+      301,
+      72,
+      235,
+      18,
+      343,
+      257,
+      288,
+      165,
+      35
+    ],
+    "createdAt": "2024-07-31T00:00:00Z",
+    "updatedAt": "2024-07-31T00:00:00Z"
+  },
+  {
+    "id": 46,
+    "name": "Customer-focused 24hour portal",
+    "description": "Local father anyone.",
+    "userId": 12,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_46.jpg",
+    "songIds": [
+      202,
+      150,
+      156,
+      314,
+      89
+    ],
+    "createdAt": "2020-04-25T00:00:00Z",
+    "updatedAt": "2020-04-25T00:00:00Z"
+  },
+  {
+    "id": 47,
+    "name": "Monitored motivating pricing structure",
+    "description": "Citizen key though must their.",
+    "userId": 13,
+    "categories": [
+      "rock",
+      "melancholic",
+      "workout"
+    ],
+    "coverArt": "playlists/playlist_47.jpg",
+    "songIds": [
+      350,
+      45,
+      123,
+      203,
+      371
+    ],
+    "createdAt": "2024-12-03T00:00:00Z",
+    "updatedAt": "2024-12-03T00:00:00Z"
+  },
+  {
+    "id": 48,
+    "name": "Progressive fault-tolerant website",
+    "description": "Prepare though allow arrive myself like.",
+    "userId": 13,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_48.jpg",
+    "songIds": [
+      356,
+      314,
+      256,
+      368,
+      309,
+      42,
+      54
+    ],
+    "createdAt": "2024-02-07T00:00:00Z",
+    "updatedAt": "2024-02-07T00:00:00Z"
+  },
+  {
+    "id": 49,
+    "name": "Balanced object-oriented budgetary management",
+    "description": "Today young accept sometimes fill.",
+    "userId": 13,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_49.jpg",
+    "songIds": [
+      100,
+      202,
+      131,
+      7,
+      153,
+      259,
+      143,
+      11,
+      340,
+      72,
+      227,
+      365,
+      207
+    ],
+    "createdAt": "2023-04-15T00:00:00Z",
+    "updatedAt": "2023-04-15T00:00:00Z"
+  },
+  {
+    "id": 50,
+    "name": "De-engineered client-driven task-force",
+    "description": "Fund PM whom involve rise some toward make.",
+    "userId": 13,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_50.jpg",
+    "songIds": [
+      136,
+      274,
+      372,
+      27,
+      359,
+      394,
+      305,
+      156,
+      8,
+      120,
+      49,
+      252,
+      116
+    ],
+    "createdAt": "2024-01-08T00:00:00Z",
+    "updatedAt": "2024-01-08T00:00:00Z"
+  },
+  {
+    "id": 51,
+    "name": "Operative solution-oriented challenge",
+    "description": "Culture investment top color.",
+    "userId": 13,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_51.jpg",
+    "songIds": [
+      160,
+      361,
+      246,
+      94,
+      365
+    ],
+    "createdAt": "2023-12-22T00:00:00Z",
+    "updatedAt": "2023-12-22T00:00:00Z"
+  },
+  {
+    "id": 52,
+    "name": "Proactive cohesive customer loyalty",
+    "description": "Blue inside expert culture.",
+    "userId": 14,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_52.jpg",
+    "songIds": [
+      7,
+      258,
+      83,
+      130,
+      287,
+      368,
+      32,
+      60,
+      192,
+      28,
+      214,
+      360,
+      143
+    ],
+    "createdAt": "2020-03-07T00:00:00Z",
+    "updatedAt": "2020-03-07T00:00:00Z"
+  },
+  {
+    "id": 53,
+    "name": "Digitized needs-based architecture",
+    "description": "Pass attention lay central.",
+    "userId": 14,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_53.jpg",
+    "songIds": [
+      126,
+      354,
+      123,
+      15,
+      351,
+      26,
+      108,
+      37,
+      80,
+      43,
+      377,
+      372,
+      119,
+      308,
+      147
+    ],
+    "createdAt": "2023-01-05T00:00:00Z",
+    "updatedAt": "2023-01-05T00:00:00Z"
+  },
+  {
+    "id": 54,
+    "name": "Function-based intermediate secured line",
+    "description": "Price draw game note defense let.",
+    "userId": 14,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_54.jpg",
+    "songIds": [
+      164,
+      324,
+      246,
+      160,
+      347,
+      367,
+      380,
+      149
+    ],
+    "createdAt": "2020-05-06T00:00:00Z",
+    "updatedAt": "2020-05-06T00:00:00Z"
+  },
+  {
+    "id": 55,
+    "name": "Multi-channeled analyzing contingency",
+    "description": "Month thing always reach generation east successful.",
+    "userId": 14,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_55.jpg",
+    "songIds": [
+      216,
+      303,
+      136,
+      142,
+      157,
+      349,
+      312,
+      16,
+      100,
+      211,
+      360,
+      345,
+      61,
+      2,
+      154
+    ],
+    "createdAt": "2024-09-16T00:00:00Z",
+    "updatedAt": "2024-09-16T00:00:00Z"
+  },
+  {
+    "id": 56,
+    "name": "Enhanced next generation portal",
+    "description": "Your mention know close next huge natural admit.",
+    "userId": 14,
+    "categories": [
+      "rock",
+      "meditation",
+      "workout"
+    ],
+    "coverArt": "playlists/playlist_56.jpg",
+    "songIds": [
+      199,
+      248,
+      170,
+      309,
+      14,
+      228,
+      155
+    ],
+    "createdAt": "2023-10-06T00:00:00Z",
+    "updatedAt": "2023-10-06T00:00:00Z"
+  },
+  {
+    "id": 57,
+    "name": "Monitored upward-trending workforce",
+    "description": "Democrat would yourself situation cause.",
+    "userId": 15,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_57.jpg",
+    "songIds": [
+      5,
+      121,
+      129,
+      385,
+      369,
+      333,
+      125,
+      14,
+      118,
+      233,
+      139,
+      260,
+      75
+    ],
+    "createdAt": "2024-08-06T00:00:00Z",
+    "updatedAt": "2024-08-06T00:00:00Z"
+  },
+  {
+    "id": 58,
+    "name": "Progressive executive groupware",
+    "description": "Recognize offer report address how perform not material.",
+    "userId": 15,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_58.jpg",
+    "songIds": [
+      49,
+      8,
+      393,
+      106,
+      300,
+      379,
+      223,
+      245
+    ],
+    "createdAt": "2023-12-08T00:00:00Z",
+    "updatedAt": "2023-12-08T00:00:00Z"
+  },
+  {
+    "id": 59,
+    "name": "Front-line zero tolerance leverage",
+    "description": "Skill partner writer raise.",
+    "userId": 15,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_59.jpg",
+    "songIds": [
+      351,
+      86,
+      117,
+      253,
+      375,
+      124,
+      380,
+      357,
+      394,
+      143,
+      307,
+      219
+    ],
+    "createdAt": "2020-06-28T00:00:00Z",
+    "updatedAt": "2020-06-28T00:00:00Z"
+  },
+  {
+    "id": 60,
+    "name": "Intuitive high-level customer loyalty",
+    "description": "Then read black but beat side yard.",
+    "userId": 16,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_60.jpg",
+    "songIds": [
+      200,
+      4,
+      292,
+      207,
+      347,
+      306,
+      142,
+      148,
+      218,
+      206,
+      228,
+      143,
+      315
+    ],
+    "createdAt": "2021-05-30T00:00:00Z",
+    "updatedAt": "2021-05-30T00:00:00Z"
+  },
+  {
+    "id": 61,
+    "name": "Profound radical application",
+    "description": "Tough prove federal.",
+    "userId": 16,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_61.jpg",
+    "songIds": [
+      174,
+      72,
+      114,
+      240,
+      278,
+      14,
+      247,
+      206,
+      283,
+      223,
+      222,
+      362,
+      390,
+      27
+    ],
+    "createdAt": "2024-03-17T00:00:00Z",
+    "updatedAt": "2024-03-17T00:00:00Z"
+  },
+  {
+    "id": 62,
+    "name": "Cloned context-sensitive process improvement",
+    "description": "Seek interest road claim.",
+    "userId": 17,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_62.jpg",
+    "songIds": [
+      85,
+      95,
+      116,
+      83,
+      16,
+      287,
+      89,
+      232,
+      262
+    ],
+    "createdAt": "2022-12-12T00:00:00Z",
+    "updatedAt": "2022-12-12T00:00:00Z"
+  },
+  {
+    "id": 63,
+    "name": "Upgradable multi-state database",
+    "description": "Thank chair prepare seven.",
+    "userId": 17,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_63.jpg",
+    "songIds": [
+      380,
+      175,
+      55,
+      146,
+      213,
+      173,
+      246,
+      271,
+      143,
+      80,
+      375
+    ],
+    "createdAt": "2022-10-09T00:00:00Z",
+    "updatedAt": "2022-10-09T00:00:00Z"
+  },
+  {
+    "id": 64,
+    "name": "Pre-emptive hybrid projection",
+    "description": "Main next simply hand glass church.",
+    "userId": 17,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_64.jpg",
+    "songIds": [
+      65,
+      225,
+      313,
+      280,
+      138,
+      369,
+      350,
+      252,
+      112,
+      355,
+      7,
+      378,
+      221
+    ],
+    "createdAt": "2020-04-17T00:00:00Z",
+    "updatedAt": "2020-04-17T00:00:00Z"
+  },
+  {
+    "id": 65,
+    "name": "Extended full-range task-force",
+    "description": "Common manager accept fly interesting.",
+    "userId": 17,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_65.jpg",
+    "songIds": [
+      30,
+      355,
+      73,
+      39,
+      279,
+      327,
+      377,
+      220
+    ],
+    "createdAt": "2024-06-22T00:00:00Z",
+    "updatedAt": "2024-06-22T00:00:00Z"
+  },
+  {
+    "id": 66,
+    "name": "Multi-lateral global methodology",
+    "description": "Visit those after career probably.",
+    "userId": 18,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_66.jpg",
+    "songIds": [
+      104,
+      153,
+      34,
+      317,
+      364,
+      64
+    ],
+    "createdAt": "2023-10-20T00:00:00Z",
+    "updatedAt": "2023-10-20T00:00:00Z"
+  },
+  {
+    "id": 67,
+    "name": "Exclusive intermediate capacity",
+    "description": "Want suddenly so cost commercial to research.",
+    "userId": 18,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_67.jpg",
+    "songIds": [
+      274,
+      2,
+      281,
+      117,
+      232,
+      344,
+      194,
+      262,
+      112,
+      182,
+      218
+    ],
+    "createdAt": "2021-08-08T00:00:00Z",
+    "updatedAt": "2021-08-08T00:00:00Z"
+  },
+  {
+    "id": 68,
+    "name": "Business-focused foreground paradigm",
+    "description": "Administration risk adult.",
+    "userId": 18,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_68.jpg",
+    "songIds": [
+      136,
+      182,
+      347,
+      99,
+      312,
+      123
+    ],
+    "createdAt": "2024-08-11T00:00:00Z",
+    "updatedAt": "2024-08-11T00:00:00Z"
+  },
+  {
+    "id": 69,
+    "name": "Distributed incremental array",
+    "description": "Daughter form eye.",
+    "userId": 18,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_69.jpg",
+    "songIds": [
+      251,
+      44,
+      342,
+      317,
+      151,
+      262,
+      89,
+      365,
+      28,
+      25,
+      146,
+      88,
+      254,
+      200
+    ],
+    "createdAt": "2022-01-16T00:00:00Z",
+    "updatedAt": "2022-01-16T00:00:00Z"
+  },
+  {
+    "id": 70,
+    "name": "Pre-emptive needs-based open architecture",
+    "description": "Blue test western most charge create.",
+    "userId": 19,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_70.jpg",
+    "songIds": [
+      115,
+      48,
+      112,
+      370,
+      114,
+      297,
+      176,
+      199,
+      292,
+      298,
+      323,
+      251,
+      351,
+      313,
+      110
+    ],
+    "createdAt": "2023-02-05T00:00:00Z",
+    "updatedAt": "2023-02-05T00:00:00Z"
+  },
+  {
+    "id": 71,
+    "name": "Intuitive discrete benchmark",
+    "description": "Group court environment final.",
+    "userId": 19,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_71.jpg",
+    "songIds": [
+      295,
+      308,
+      209,
+      189,
+      282,
+      105
+    ],
+    "createdAt": "2021-08-05T00:00:00Z",
+    "updatedAt": "2021-08-05T00:00:00Z"
+  },
+  {
+    "id": 72,
+    "name": "Upgradable tertiary access",
+    "description": "Whatever present part fly point.",
+    "userId": 19,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_72.jpg",
+    "songIds": [
+      126,
+      319,
+      124,
+      220,
+      118,
+      127,
+      377,
+      91,
+      272,
+      331,
+      67,
+      270,
+      158,
+      120,
+      246
+    ],
+    "createdAt": "2022-11-15T00:00:00Z",
+    "updatedAt": "2022-11-15T00:00:00Z"
+  },
+  {
+    "id": 73,
+    "name": "Reverse-engineered radical moderator",
+    "description": "Traditional produce to too.",
+    "userId": 20,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_73.jpg",
+    "songIds": [
+      143,
+      33,
+      343,
+      356,
+      73,
+      235,
+      98,
+      359,
+      301,
+      327,
+      146
+    ],
+    "createdAt": "2021-01-02T00:00:00Z",
+    "updatedAt": "2021-01-02T00:00:00Z"
+  },
+  {
+    "id": 74,
+    "name": "Persistent bi-directional data-warehouse",
+    "description": "Rise voice real little conference blue.",
+    "userId": 20,
+    "categories": [
+      "rock",
+      "experimental",
+      "workout"
+    ],
+    "coverArt": "playlists/playlist_74.jpg",
+    "songIds": [
+      229,
+      380,
+      158,
+      175,
+      76,
+      66
+    ],
+    "createdAt": "2025-03-23T00:00:00Z",
+    "updatedAt": "2025-03-23T00:00:00Z"
+  },
+  {
+    "id": 75,
+    "name": "Stand-alone dynamic groupware",
+    "description": "State truth about policy.",
+    "userId": 21,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_75.jpg",
+    "songIds": [
+      218,
+      96,
+      27,
+      364,
+      49,
+      76,
+      339,
+      316,
+      303
+    ],
+    "createdAt": "2024-10-11T00:00:00Z",
+    "updatedAt": "2024-10-11T00:00:00Z"
+  },
+  {
+    "id": 76,
+    "name": "Fundamental client-server model",
+    "description": "Work green cell likely little so song.",
+    "userId": 21,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_76.jpg",
+    "songIds": [
+      10,
+      338,
+      328,
+      180,
+      181,
+      38,
+      86,
+      117,
+      8,
+      120,
+      372
+    ],
+    "createdAt": "2021-01-23T00:00:00Z",
+    "updatedAt": "2021-01-23T00:00:00Z"
+  },
+  {
+    "id": 77,
+    "name": "Synergistic explicit extranet",
+    "description": "Set high whatever finally car.",
+    "userId": 21,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_77.jpg",
+    "songIds": [
+      341,
+      15,
+      10,
+      186,
+      368,
+      275,
+      215,
+      256,
+      152,
+      350,
+      145,
+      187,
+      193,
+      163
+    ],
+    "createdAt": "2024-11-12T00:00:00Z",
+    "updatedAt": "2024-11-12T00:00:00Z"
+  },
+  {
+    "id": 78,
+    "name": "Focused object-oriented help-desk",
+    "description": "Simple many career yourself test decade.",
+    "userId": 21,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_78.jpg",
+    "songIds": [
+      195,
+      349,
+      281,
+      228,
+      354
+    ],
+    "createdAt": "2022-09-02T00:00:00Z",
+    "updatedAt": "2022-09-02T00:00:00Z"
+  },
+  {
+    "id": 79,
+    "name": "Object-based human-resource circuit",
+    "description": "Program throughout control newspaper customer.",
+    "userId": 22,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_79.jpg",
+    "songIds": [
+      281,
+      219,
+      262,
+      176,
+      356,
+      185,
+      67,
+      393,
+      253
+    ],
+    "createdAt": "2024-01-04T00:00:00Z",
+    "updatedAt": "2024-01-04T00:00:00Z"
+  },
+  {
+    "id": 80,
+    "name": "Distributed solution-oriented middleware",
+    "description": "Challenge message state make various career use.",
+    "userId": 22,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_80.jpg",
+    "songIds": [
+      180,
+      290,
+      372,
+      278,
+      160,
+      327
+    ],
+    "createdAt": "2022-10-12T00:00:00Z",
+    "updatedAt": "2022-10-12T00:00:00Z"
+  },
+  {
+    "id": 81,
+    "name": "Realigned reciprocal groupware",
+    "description": "Well can employee tonight seek.",
+    "userId": 22,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_81.jpg",
+    "songIds": [
+      247,
+      150,
+      14,
+      122,
+      329,
+      125,
+      378,
+      169,
+      154,
+      146,
+      131,
+      255,
+      117
+    ],
+    "createdAt": "2021-05-29T00:00:00Z",
+    "updatedAt": "2021-05-29T00:00:00Z"
+  },
+  {
+    "id": 82,
+    "name": "Mandatory dynamic monitoring",
+    "description": "Bar others every see yard.",
+    "userId": 22,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_82.jpg",
+    "songIds": [
+      143,
+      363,
+      319,
+      332,
+      96
+    ],
+    "createdAt": "2022-04-25T00:00:00Z",
+    "updatedAt": "2022-04-25T00:00:00Z"
+  },
+  {
+    "id": 83,
+    "name": "Fully-configurable tertiary architecture",
+    "description": "Find into off artist certainly without pull.",
+    "userId": 22,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_83.jpg",
+    "songIds": [
+      345,
+      91,
+      296,
+      328,
+      317,
+      81,
+      297,
+      340
+    ],
+    "createdAt": "2024-03-01T00:00:00Z",
+    "updatedAt": "2024-03-01T00:00:00Z"
+  },
+  {
+    "id": 84,
+    "name": "Self-enabling optimizing collaboration",
+    "description": "Suffer wall argue officer executive local believe.",
+    "userId": 23,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_84.jpg",
+    "songIds": [
+      69,
+      394,
+      60,
+      148,
+      43,
+      42,
+      315,
+      55,
+      83,
+      334
+    ],
+    "createdAt": "2021-05-26T00:00:00Z",
+    "updatedAt": "2021-05-26T00:00:00Z"
+  },
+  {
+    "id": 85,
+    "name": "Up-sized explicit info-mediaries",
+    "description": "Democrat church talk certainly practice political simple.",
+    "userId": 23,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_85.jpg",
+    "songIds": [
+      289,
+      85,
+      127,
+      13,
+      2,
+      324,
+      383,
+      6,
+      285,
+      173,
+      244,
+      17
+    ],
+    "createdAt": "2023-04-07T00:00:00Z",
+    "updatedAt": "2023-04-07T00:00:00Z"
+  },
+  {
+    "id": 86,
+    "name": "Configurable value-added architecture",
+    "description": "Husband total rest onto above.",
+    "userId": 23,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_86.jpg",
+    "songIds": [
+      104,
+      82,
+      121,
+      334,
+      107,
+      269,
+      376,
+      379,
+      134,
+      238,
+      372
+    ],
+    "createdAt": "2024-06-02T00:00:00Z",
+    "updatedAt": "2024-06-02T00:00:00Z"
+  },
+  {
+    "id": 87,
+    "name": "Synchronized hybrid productivity",
+    "description": "Treat scene safe.",
+    "userId": 23,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_87.jpg",
+    "songIds": [
+      56,
+      247,
+      363,
+      263,
+      125,
+      285,
+      266,
+      385,
+      26,
+      201,
+      8,
+      344,
+      79,
+      327,
+      364
+    ],
+    "createdAt": "2021-06-30T00:00:00Z",
+    "updatedAt": "2021-06-30T00:00:00Z"
+  },
+  {
+    "id": 88,
+    "name": "Horizontal encompassing conglomeration",
+    "description": "Set personal soldier him.",
+    "userId": 23,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_88.jpg",
+    "songIds": [
+      346,
+      128,
+      26,
+      2,
+      280,
+      43,
+      223,
+      92,
+      267,
+      184,
+      75
+    ],
+    "createdAt": "2022-07-18T00:00:00Z",
+    "updatedAt": "2022-07-18T00:00:00Z"
+  },
+  {
+    "id": 89,
+    "name": "Public-key actuating architecture",
+    "description": "Mention likely agency out reveal so management.",
+    "userId": 24,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_89.jpg",
+    "songIds": [
+      199,
+      12,
+      189,
+      55,
+      77,
+      293,
+      307,
+      129,
+      104,
+      382,
+      47,
+      205,
+      61,
+      285,
+      359
+    ],
+    "createdAt": "2024-04-10T00:00:00Z",
+    "updatedAt": "2024-04-10T00:00:00Z"
+  },
+  {
+    "id": 90,
+    "name": "Profit-focused client-driven frame",
+    "description": "Product certainly activity interview training sport determine.",
+    "userId": 24,
+    "categories": [
+      "rock",
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "playlists/playlist_90.jpg",
+    "songIds": [
+      330,
+      181,
+      3,
+      287,
+      198,
+      152
+    ],
+    "createdAt": "2020-03-14T00:00:00Z",
+    "updatedAt": "2020-03-14T00:00:00Z"
+  },
+  {
+    "id": 91,
+    "name": "Customer-focused bandwidth-monitored parallelism",
+    "description": "Present marriage should piece establish.",
+    "userId": 24,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_91.jpg",
+    "songIds": [
+      317,
+      358,
+      264,
+      315,
+      323,
+      215,
+      204,
+      291
+    ],
+    "createdAt": "2022-03-23T00:00:00Z",
+    "updatedAt": "2022-03-23T00:00:00Z"
+  },
+  {
+    "id": 92,
+    "name": "Assimilated intangible hardware",
+    "description": "Picture these man alone defense stock.",
+    "userId": 24,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_92.jpg",
+    "songIds": [
+      251,
+      227,
+      193,
+      317,
+      390,
+      392,
+      182,
+      302,
+      116,
+      247,
+      150,
+      240,
+      266,
+      36,
+      300
+    ],
+    "createdAt": "2020-10-19T00:00:00Z",
+    "updatedAt": "2020-10-19T00:00:00Z"
+  },
+  {
+    "id": 93,
+    "name": "Down-sized coherent info-mediaries",
+    "description": "Religious size few head.",
+    "userId": 24,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_93.jpg",
+    "songIds": [
+      288,
+      4,
+      119,
+      202,
+      250,
+      356
+    ],
+    "createdAt": "2023-03-17T00:00:00Z",
+    "updatedAt": "2023-03-17T00:00:00Z"
+  },
+  {
+    "id": 94,
+    "name": "Down-sized clear-thinking monitoring",
+    "description": "At throw stop specific explain news.",
+    "userId": 25,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_94.jpg",
+    "songIds": [
+      333,
+      169,
+      224,
+      172,
+      18,
+      110,
+      142,
+      158,
+      359,
+      63,
+      285,
+      109,
+      288
+    ],
+    "createdAt": "2022-07-20T00:00:00Z",
+    "updatedAt": "2022-07-20T00:00:00Z"
+  },
+  {
+    "id": 95,
+    "name": "De-engineered executive model",
+    "description": "Catch most kind eye.",
+    "userId": 25,
+    "categories": [
+      "rock",
+      "experimental",
+      "workout"
+    ],
+    "coverArt": "playlists/playlist_95.jpg",
+    "songIds": [
+      112,
+      66,
+      234,
+      169,
+      177,
+      230,
+      2,
+      29
+    ],
+    "createdAt": "2024-03-18T00:00:00Z",
+    "updatedAt": "2024-03-18T00:00:00Z"
+  },
+  {
+    "id": 96,
+    "name": "Triple-buffered fault-tolerant middleware",
+    "description": "Type require side weight.",
+    "userId": 25,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_96.jpg",
+    "songIds": [
+      150,
+      60,
+      29,
+      334,
+      119,
+      392,
+      28,
+      225,
+      36
+    ],
+    "createdAt": "2020-11-24T00:00:00Z",
+    "updatedAt": "2020-11-24T00:00:00Z"
+  },
+  {
+    "id": 97,
+    "name": "Secured dynamic toolset",
+    "description": "Alone director anyone leader.",
+    "userId": 25,
+    "categories": [
+      "rock",
+      "melancholic",
+      "meditation"
+    ],
+    "coverArt": "playlists/playlist_97.jpg",
+    "songIds": [
+      352,
+      254,
+      50,
+      37,
+      388,
+      4
+    ],
+    "createdAt": "2022-02-15T00:00:00Z",
+    "updatedAt": "2022-02-15T00:00:00Z"
+  }
+]

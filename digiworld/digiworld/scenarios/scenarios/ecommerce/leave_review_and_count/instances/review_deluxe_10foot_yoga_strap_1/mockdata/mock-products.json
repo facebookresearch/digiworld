@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Deluxe 10\u2011Foot Yoga Strap",
+    "description": "A deluxe 10\u2011foot yoga strap crafted from durable cotton with a reinforced metal buckle, aiding in deep stretching and alignment. The length allows assistance in advanced poses and flexibility training.",
+    "shortDescription": "10\u2011ft cotton yoga strap with metal buckle for deep stretching.",
+    "rating": 1.0,
+    "reviewCount": 1,
+    "seller": "Harmony Yoga Supplies",
+    "price": 324.74,
+    "discountedPrice": 276.03,
+    "discountPercent": 15,
+    "categoryId": 4,
+    "categoryName": "Sports & Outdoors",
+    "subcategoryId": 32,
+    "subcategoryName": "Yoga",
+    "inStock": true,
+    "stockCount": 38,
+    "imageUrl": "/126_1",
+    "specs": "{\"material\": \"High-density nylon with metal D-ring\", \"weight\": \"0.3 lbs\", \"dimensions\": \"120 inches length\", \"warranty\": \"1-year warranty\", \"color\": \"Purple\", \"suitableFor\": \"Yoga, flexibility training, physiotherapy\"}",
+    "tags": "[\"sports\", \"outdoors\", \"yoga\", \"top-rated\", \"premium\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Bison Grillhouse",
+    "description": "Famous for its grass-fed bison burgers with a house-made hickory aioli.",
+    "address": "900 Magnolia Blvd, Nashville, TN 37203",
+    "latitude": 36.1627,
+    "longitude": -86.7816,
+    "logo": "https://images.unsplash.com/photo-1537047902294-62a40c20a6ae?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 3.5,
+    "deliveryFee": 2.39,
+    "minOrder": 20.0,
+    "deliveryRadius": 12,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

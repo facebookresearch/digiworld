@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 9990,
+    "categoryId": 3,
+    "title": "Master Photoshop Layer Masks Quickly",
+    "description": "Step\u2011by\u2011step guide to using layer masks for seamless photo composites, perfect for beginners and pros.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 696,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 5981,
+    "likeCount": 49,
+    "commentCount": 38,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": 99809,
+    "name": "Staff",
+    "description": "Parking zone STF23",
+    "latitude": 40.736857,
+    "longitude": -73.97748,
+    "zoneCode": "STF23",
+    "operator": "City Parking Authority",
+    "zoneType": "lot",
+    "capacity": 260,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.03,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

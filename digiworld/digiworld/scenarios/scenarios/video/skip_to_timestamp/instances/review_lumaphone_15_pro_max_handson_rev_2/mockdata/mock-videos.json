@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 1,
+    "categoryId": 6,
+    "title": "LumaPhone 15 Pro Max Hands\u2011On Review",
+    "description": "I take the LumaPhone 15 Pro Max out for a day of photography, gaming, and battery testing, highlighting its strengths and any drawbacks I discovered.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 690,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 7627,
+    "likeCount": 73,
+    "commentCount": 7,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

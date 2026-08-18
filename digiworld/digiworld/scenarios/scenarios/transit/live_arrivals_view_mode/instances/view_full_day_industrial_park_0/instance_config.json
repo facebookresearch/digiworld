@@ -1,0 +1,19 @@
+{
+  "parameters": {
+    "stop_name": "Industrial Park",
+    "view_mode": "Full Day"
+  },
+  "compatible_profiles": [
+    "many_stops"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:35.134074+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

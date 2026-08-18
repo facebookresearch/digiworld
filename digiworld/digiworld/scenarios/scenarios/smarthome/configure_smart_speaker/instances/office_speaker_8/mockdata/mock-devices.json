@@ -1,0 +1,18 @@
+[
+  {
+    "userId": "{{current_user_id}}",
+    "name": "Office Speaker",
+    "deviceTypeId": "{{device_type_id_by_name:Smart Speaker}}",
+    "roomId": "{{first_room_id}}",
+    "status": "online",
+    "isOn": false,
+    "properties": "{\"volume\": 20, \"is_playing\": false, \"volume_control\": false, \"music_playback\": false, \"voice_assistant\": true, \"bluetooth\": true}",
+    "battery": 100,
+    "signalStrength": 95,
+    "firmwareVersion": "1.0.0",
+    "lastSeen": "{{recent_timestamp}}",
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

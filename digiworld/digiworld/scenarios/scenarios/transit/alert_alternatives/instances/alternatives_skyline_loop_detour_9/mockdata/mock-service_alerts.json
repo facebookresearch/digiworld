@@ -1,0 +1,13 @@
+[
+  {
+    "id": "alert-skyline-loop-detour",
+    "severity": "medium",
+    "title": "Skyline Loop Detour",
+    "description": "Due to road construction, the Skyline Loop bus route is temporarily detoured via Harbor Exchange. All scheduled stops remain served but travel time is increased by 5-10 minutes.",
+    "icon": "warning",
+    "recommendedAlternatives": "Consider the Regional Express or Metro Line for faster connections between affected stops.",
+    "createdAt": "{{past_timestamp}}",
+    "expiresAt": null,
+    "isActive": 1
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "sceneId": 1,
+    "deviceId": 1,
+    "targetState": "{\"brightness\": 20, \"color_temperature\": 2700, \"color\": \"#ffffff\", \"color_mode\": \"white\"}",
+    "order": 1
+  },
+  {
+    "id": 2,
+    "sceneId": 1,
+    "deviceId": 14,
+    "targetState": "{\"volume\": 40, \"is_playing\": 1}",
+    "order": 2
+  },
+  {
+    "id": 3,
+    "sceneId": 2,
+    "deviceId": 1,
+    "targetState": "{\"brightness\": 90, \"color_temperature\": 5000, \"color\": \"#ffffff\", \"color_mode\": \"white\"}",
+    "order": 1
+  },
+  {
+    "id": 4,
+    "sceneId": 2,
+    "deviceId": 2,
+    "targetState": "{\"brightness\": 80, \"color_temperature\": 4500, \"color\": \"#ffffff\", \"color_mode\": \"white\"}",
+    "order": 2
+  },
+  {
+    "id": 5,
+    "sceneId": 2,
+    "deviceId": 11,
+    "targetState": "{\"brightness\": 95, \"color_temperature\": 5500, \"color\": \"#ffffff\", \"color_mode\": \"white\"}",
+    "order": 3
+  },
+  {
+    "id": 6,
+    "sceneId": 3,
+    "deviceId": 1,
+    "targetState": "{\"brightness\": 10, \"color_temperature\": 2200, \"color\": \"#ffffff\", \"color_mode\": \"white\"}",
+    "order": 1
+  },
+  {
+    "id": 7,
+    "sceneId": 3,
+    "deviceId": 2,
+    "targetState": "{\"brightness\": 5, \"color_temperature\": 2200, \"color\": \"#ffffff\", \"color_mode\": \"white\"}",
+    "order": 2
+  },
+  {
+    "id": 8,
+    "sceneId": 3,
+    "deviceId": 3,
+    "targetState": "{\"brightness\": 15, \"color_temperature\": 2200, \"color\": \"#ffffff\", \"color_mode\": \"white\"}",
+    "order": 3
+  },
+  {
+    "id": 9,
+    "sceneId": 4,
+    "deviceId": 1,
+    "targetState": "{\"brightness\": 70, \"color\": \"#ff6b35\", \"color_mode\": \"color\"}",
+    "order": 1
+  },
+  {
+    "id": 10,
+    "sceneId": 4,
+    "deviceId": 16,
+    "targetState": "{\"brightness\": 80, \"color\": \"#4ecdc4\", \"color_mode\": \"color\", \"effects\": 1}",
+    "order": 2
+  },
+  {
+    "id": 11,
+    "sceneId": 4,
+    "deviceId": 14,
+    "targetState": "{\"volume\": 70, \"is_playing\": 1}",
+    "order": 3
+  },
+  {
+    "id": 12,
+    "sceneId": 5,
+    "deviceId": 11,
+    "targetState": "{\"brightness\": 95, \"color_temperature\": 5500, \"color\": \"#ffffff\", \"color_mode\": \"white\"}",
+    "order": 1
+  },
+  {
+    "id": 13,
+    "sceneId": 6,
+    "deviceId": 20,
+    "targetState": "{\"brightness\": 60, \"color_temperature\": 3500, \"color\": \"#ffffff\", \"color_mode\": \"white\"}",
+    "order": 1
+  },
+  {
+    "id": 14,
+    "sceneId": 7,
+    "deviceId": 6,
+    "targetState": "{\"sensitivity\": 90, \"recording_enabled\": 1}",
+    "order": 1
+  },
+  {
+    "id": 15,
+    "sceneId": 7,
+    "deviceId": 7,
+    "targetState": "{\"sensitivity\": 90, \"recording_enabled\": 1}",
+    "order": 2
+  },
+  {
+    "id": 16,
+    "sceneId": 8,
+    "deviceId": 3,
+    "targetState": "{\"brightness\": 50, \"color_temperature\": 3000, \"color\": \"#ffffff\", \"color_mode\": \"white\"}",
+    "order": 1
+  }
+]

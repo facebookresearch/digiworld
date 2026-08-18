@@ -1,0 +1,9 @@
+{
+    "task_name": "Log in with your Andojo Message phone number and OTP code",
+    "app_name": "message",
+    "scenario_class": "LoginWithPhoneScenario",
+    "parameters": [],
+    "context_fields": ["current_user_id", "current_user_phone", "current_user_otp"],
+    "description": "Log in to the messaging app using phone number and OTP verification code",
+    "additional_mockdata": false
+}

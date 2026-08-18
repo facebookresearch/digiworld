@@ -1,0 +1,13 @@
+{
+  "task_name": "Add a new payment method, with the name on the card being \"<name_on_card>\", the card number being <card_number>, the expiry month <expiry_month> and the expiry year <expiry_year>",
+  "app_name": "ecommerce",
+  "scenario_class": "AddPaymentMethodScenario",
+  "parameters": [
+    "name_on_card",
+    "card_number",
+    "expiry_month",
+    "expiry_year"
+  ],
+  "context_fields": [],
+  "description": "Add a new payment method with specified card details"
+}

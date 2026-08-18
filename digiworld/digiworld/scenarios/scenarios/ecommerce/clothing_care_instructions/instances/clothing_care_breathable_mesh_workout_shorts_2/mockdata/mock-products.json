@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Breathable Mesh Workout Shorts",
+    "description": "Breathable mesh workout shorts with an elastic waistband and built-in brief provide freedom of movement. The lightweight fabric promotes ventilation, and the side zip pockets offer storage for keys or cards.",
+    "shortDescription": "Breathable mesh workout shorts with built-in brief.",
+    "rating": 2.7,
+    "reviewCount": 3,
+    "seller": "FlexFit Sports",
+    "price": 1385.75,
+    "discountedPrice": 803.74,
+    "discountPercent": 42,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 13,
+    "subcategoryName": "Activewear",
+    "inStock": true,
+    "stockCount": 129,
+    "imageUrl": "/50_1",
+    "specs": "{\"material\": \"92% polyester, 8% spandex mesh\", \"careInstructions\": \"Machine wash cold, tumble dry low, do not iron\", \"fit\": \"Relaxed fit\", \"size\": \"XS, S, M, L, XL\", \"color\": \"Sport grey\", \"pattern\": \"Mesh\"}",
+    "tags": "[\"clothing\", \"activewear\", \"best\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

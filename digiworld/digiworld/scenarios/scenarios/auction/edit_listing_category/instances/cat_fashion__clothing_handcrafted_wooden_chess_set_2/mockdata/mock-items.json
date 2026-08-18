@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754720126,
+    "title": "Handcrafted Wooden Chess Set \u2013 Hand\u2011Carved Staunton Pieces in Walnut",
+    "description": "Elegant walnut chess set featuring hand\u2011carved pieces, includes a matching storage box.",
+    "categoryId": 1,
+    "sellerId": "{{current_user_id}}",
+    "price": 1903.05,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 8,
+    "imageUrl": "https://example.com/images/handcrafted-wooden-chess-set-\u2013-hand\u2011carved-staunton-pieces-in-walnut.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 662.07,
+    "currentBid": 885.91,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

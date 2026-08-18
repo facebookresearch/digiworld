@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Boardshorts with Tropical Pattern",
+    "description": "Boardshorts featuring a vibrant tropical pattern and a built-in mesh liner. The lightweight nylon dries fast, and the elastic waistband with a drawstring ensures a secure fit.",
+    "shortDescription": "Boardshorts with vibrant tropical pattern, mesh liner, and quick\u2011dry fabric.",
+    "rating": 3.2,
+    "reviewCount": 4,
+    "seller": "Coastal Wave Swimwear",
+    "price": 740.19,
+    "discountedPrice": 525.53,
+    "discountPercent": 29,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 16,
+    "subcategoryName": "Swimwear",
+    "inStock": true,
+    "stockCount": 106,
+    "imageUrl": "/64_1",
+    "specs": "{\"material\": \"100% Polyester quick-dry\", \"careInstructions\": \"Machine wash cold, hang to dry\", \"fit\": \"Relaxed fit\", \"size\": \"S, M, L, XL\", \"color\": \"Navy base\", \"pattern\": \"Tropical leaf print\"}",
+    "tags": "[\"swimwear\", \"clothing\", \"top-rated\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

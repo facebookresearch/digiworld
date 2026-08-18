@@ -1,0 +1,122 @@
+[
+  {
+    "userId": "1",
+    "lastScreen": "settings",
+    "lastOpenedTimestamp": 1752938070,
+    "scrollPositions": "{\"chat_list\": 0, \"messages\": 0}"
+  },
+  {
+    "userId": "2",
+    "lastScreen": "settings",
+    "lastOpenedTimestamp": 1752020922,
+    "scrollPositions": "{\"chat_list\": 0, \"messages\": 0}"
+  },
+  {
+    "userId": "3",
+    "lastScreen": "settings",
+    "lastOpenedTimestamp": 1752630895,
+    "scrollPositions": "{\"chat_list\": 0, \"messages\": 0}"
+  },
+  {
+    "userId": "4",
+    "lastScreen": "settings",
+    "lastOpenedTimestamp": 1752710393,
+    "scrollPositions": "{\"chat_list\": 0, \"messages\": 0}"
+  },
+  {
+    "userId": "5",
+    "lastScreen": "chat_list",
+    "lastOpenedTimestamp": 1753508257,
+    "scrollPositions": "{\"chat_list\": \"20\", \"messages\": 0}"
+  },
+  {
+    "userId": "6",
+    "lastScreen": "messages",
+    "lastOpenedTimestamp": 1751530062,
+    "scrollPositions": "{\"chat_list\": 0, \"messages\": \"msg2\"}"
+  },
+  {
+    "userId": "7",
+    "lastScreen": "messages",
+    "lastOpenedTimestamp": 1752368777,
+    "scrollPositions": "{\"chat_list\": 0, \"messages\": \"msg83\"}"
+  },
+  {
+    "userId": "8",
+    "lastScreen": "messages",
+    "lastOpenedTimestamp": 1751912543,
+    "scrollPositions": "{\"chat_list\": 0, \"messages\": \"msg82\"}"
+  },
+  {
+    "userId": "9",
+    "lastScreen": "settings",
+    "lastOpenedTimestamp": 1752940836,
+    "scrollPositions": "{\"chat_list\": 0, \"messages\": 0}"
+  },
+  {
+    "userId": "10",
+    "lastScreen": "messages",
+    "lastOpenedTimestamp": 1751430263,
+    "scrollPositions": "{\"chat_list\": 0, \"messages\": \"msg12\"}"
+  },
+  {
+    "userId": "11",
+    "lastScreen": "messages",
+    "lastOpenedTimestamp": 1751920552,
+    "scrollPositions": "{\"chat_list\": 0, \"messages\": \"msg24\"}"
+  },
+  {
+    "userId": "12",
+    "lastScreen": "messages",
+    "lastOpenedTimestamp": 1753321175,
+    "scrollPositions": "{\"chat_list\": 0, \"messages\": \"msg3\"}"
+  },
+  {
+    "userId": "13",
+    "lastScreen": "messages",
+    "lastOpenedTimestamp": 1752778332,
+    "scrollPositions": "{\"chat_list\": 0, \"messages\": \"msg16\"}"
+  },
+  {
+    "userId": "14",
+    "lastScreen": "messages",
+    "lastOpenedTimestamp": 1753079882,
+    "scrollPositions": "{\"chat_list\": 0, \"messages\": \"msg94\"}"
+  },
+  {
+    "userId": "15",
+    "lastScreen": "chat_list",
+    "lastOpenedTimestamp": 1751411346,
+    "scrollPositions": "{\"chat_list\": \"1\", \"messages\": 0}"
+  },
+  {
+    "userId": "16",
+    "lastScreen": "settings",
+    "lastOpenedTimestamp": 1751840162,
+    "scrollPositions": "{\"chat_list\": 0, \"messages\": 0}"
+  },
+  {
+    "userId": "17",
+    "lastScreen": "chat_list",
+    "lastOpenedTimestamp": 1751665049,
+    "scrollPositions": "{\"chat_list\": \"1\", \"messages\": 0}"
+  },
+  {
+    "userId": "18",
+    "lastScreen": "settings",
+    "lastOpenedTimestamp": 1753114521,
+    "scrollPositions": "{\"chat_list\": 0, \"messages\": 0}"
+  },
+  {
+    "userId": "19",
+    "lastScreen": "chat_list",
+    "lastOpenedTimestamp": 1753068649,
+    "scrollPositions": "{\"chat_list\": \"1\", \"messages\": 0}"
+  },
+  {
+    "userId": "20",
+    "lastScreen": "chat_list",
+    "lastOpenedTimestamp": 1751586395,
+    "scrollPositions": "{\"chat_list\": \"5\", \"messages\": 0}"
+  }
+]

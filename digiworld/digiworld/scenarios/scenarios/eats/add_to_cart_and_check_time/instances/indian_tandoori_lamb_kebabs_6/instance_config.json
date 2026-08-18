@@ -1,0 +1,29 @@
+{
+  "parameters": {
+    "restaurant_item": "Tandoori Lamb Kebabs",
+    "restaurant": "Maharaja Spice"
+  },
+  "compatible_profiles": [
+    "budget_menu",
+    "cancelled_orders",
+    "default",
+    "excellent_ratings",
+    "high_order_volume",
+    "large_orders",
+    "new_user",
+    "pending_orders",
+    "poor_ratings",
+    "premium_menu",
+    "small_orders"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:01:02.895994+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

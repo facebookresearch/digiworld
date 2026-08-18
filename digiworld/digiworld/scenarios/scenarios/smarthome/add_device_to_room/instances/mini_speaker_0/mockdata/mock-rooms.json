@@ -1,0 +1,13 @@
+[
+  {
+    "userId": "{{current_user_id}}",
+    "name": "Nursery",
+    "description": "A nursery in the house",
+    "type": "bedroom",
+    "floor": 1,
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null,
+    "id": 90001
+  }
+]

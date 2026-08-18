@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754160077,
+    "title": "Handcrafted 18k Gold Sapphire Pendant, Art Deco Style",
+    "description": "An 18k gold pendant set with a deep blue sapphire, handcrafted in an Art Deco design; the piece is polished to a high shine and comes with a matching chain.",
+    "categoryId": 10,
+    "sellerId": "{{current_user_id}}",
+    "price": 2022.64,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 12,
+    "imageUrl": "https://example.com/images/handcrafted-18k-gold-sapphire-pendant,-art-deco-style.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 1049.59,
+    "currentBid": 1499.85,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

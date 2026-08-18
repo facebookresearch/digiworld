@@ -1,0 +1,12 @@
+[
+  {
+    "userId": "{{current_user_id}}",
+    "name": "Sunroom",
+    "description": "Cozy corner",
+    "type": "other",
+    "floor": 1,
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

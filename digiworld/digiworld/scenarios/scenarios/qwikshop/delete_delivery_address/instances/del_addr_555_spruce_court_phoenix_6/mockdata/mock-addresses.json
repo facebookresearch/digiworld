@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Emma Davis",
+    "street": "555 Spruce Court",
+    "city": "Phoenix",
+    "state": "AZ",
+    "pincode": "85004",
+    "phone": "6025556789",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "EchoPulse Outdoor Speaker",
+    "description": "EchoPulse Outdoor Speaker is rugged with a rubberized exterior and IP67 rating. Provides 45\u202fW of output with a detachable battery pack for extended use. Includes a built\u2011in FM radio and USB charging port. Battery lasts up to 25 hours on a full charge.",
+    "shortDescription": "Rugged outdoor speaker offering 45\u202fW output and extended battery life.",
+    "rating": 3.7,
+    "reviewCount": 3,
+    "seller": "Outdoor Sound Systems",
+    "price": 634.96,
+    "discountedPrice": 393.68,
+    "discountPercent": 38,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 7,
+    "subcategoryName": "Speakers",
+    "inStock": true,
+    "stockCount": 32,
+    "imageUrl": "/28_1",
+    "specs": "{\"display\": \"LED status panel\", \"processor\": \"Class D Amplifier\", \"ram\": \"N/A\", \"storage\": \"N/A\", \"battery\": \"4000 mAh\", \"os\": \"Proprietary\", \"connectivity\": \"Bluetooth 5.2, Wi-Fi, NFC\"}",
+    "tags": "[\"speakers\", \"electronics\", \"top-rated\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

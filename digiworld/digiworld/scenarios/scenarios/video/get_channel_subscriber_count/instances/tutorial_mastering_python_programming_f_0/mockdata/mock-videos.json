@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 9990,
+    "categoryId": 3,
+    "title": "Mastering Python Programming for Beginners",
+    "description": "Learn the fundamentals of Python programming in this step-by-step tutorial. By the end, you'll be coding like a pro!",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 2533,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 1524,
+    "likeCount": 80,
+    "commentCount": 27,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

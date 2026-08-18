@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9903,
+    "name": "SolarGlow 12V Portable Camping Lantern",
+    "description": "Chargeable via solar panel or USB, this lantern delivers 800 lumens with adjustable brightness modes for any outdoor adventure.",
+    "shortDescription": "Solar-powered portable camping lantern.",
+    "price": 53.22,
+    "discountedPrice": 42.58,
+    "discountPercent": 20,
+    "rating": 3.6,
+    "reviewCount": 331,
+    "seller": "AdventureGear Co.",
+    "categoryName": "Sports & Outdoors",
+    "subcategoryName": "Fitness Equipment",
+    "inStock": 1,
+    "stockCount": 168,
+    "imageUrl": "/product_6925",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

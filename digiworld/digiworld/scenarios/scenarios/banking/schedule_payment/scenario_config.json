@@ -1,0 +1,16 @@
+{
+  "task_name": "Schedule a payment to <payee> for $<amount> on <date> at <time> using <account> with the note \"<note>\"",
+  "app_name": "banking",
+  "scenario_class": "SchedulePaymentScenario",
+  "parameters": [
+    "payee",
+    "amount",
+    "date",
+    "time",
+    "account",
+    "note"
+  ],
+  "context_fields": [],
+  "description": "Schedule a future payment to a payee with a specific amount, date, time, account, and note.",
+  "additional_mockdata": true
+}

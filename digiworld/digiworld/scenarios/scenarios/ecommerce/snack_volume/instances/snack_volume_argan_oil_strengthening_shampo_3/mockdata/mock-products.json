@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Argan Oil Strengthening Shampoo",
+    "description": "Shampoo formulated with argan oil and biotin to strengthen hair from root to tip. Gently cleanses while reducing breakage and adding a subtle shine. Suitable for normal to oily scalps.",
+    "shortDescription": "Argan oil shampoo that strengthens and adds shine.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Nature's Mane Care",
+    "price": 997.78,
+    "discountedPrice": 628.6,
+    "discountPercent": 37,
+    "categoryId": 6,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 43,
+    "subcategoryName": "Hair Care",
+    "inStock": true,
+    "stockCount": 158,
+    "imageUrl": "/169_1",
+    "specs": "{\"ingredients\": \"Argan Oil, Coconut Oil, Vitamin E, Hydrolyzed Wheat Protein, Sodium Laureth Sulfate\", \"skinType\": \"All hair types\", \"volume\": \"250ml\", \"fragrance\": \"Light Argan\", \"madeIn\": \"Morocco\", \"expiryPeriod\": \"24 months\"}",
+    "tags": "[\"personal\", \"hair\", \"beauty\", \"care\", \"premium\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

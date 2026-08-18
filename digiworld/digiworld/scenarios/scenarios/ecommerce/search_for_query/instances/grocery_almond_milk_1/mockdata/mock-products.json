@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "NutriBliss Almond Milk Unsweetened",
+    "description": "NutriBliss Almond Milk Unsweetened is a creamy, dairy-free alternative made from premium whole almonds. Fortified with Calcium, Vitamin D, and Vitamin E for bone health. Only 30 calories per cup with no added sugar. Ideal for smoothies, cereals, coffee, and baking. Shelf-stable with no artificial preservatives.",
+    "shortDescription": "Unsweetened almond milk fortified with Calcium and Vitamin D, 30 calories per cup.",
+    "rating": 4.3,
+    "reviewCount": 95,
+    "seller": "NutriBliss Foods",
+    "price": 249.00,
+    "discountedPrice": 199.20,
+    "discountPercent": 20,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 64,
+    "subcategoryName": "Supplements",
+    "inStock": true,
+    "stockCount": 120,
+    "imageUrl": "/64_1",
+    "specs": "{\"volume\": \"1 Liter\", \"calories\": \"30 per cup\", \"sugar\": \"0g added sugar\", \"fortified\": \"Calcium, Vitamin D, Vitamin E\", \"shelf_life\": \"12 months unopened\", \"allergens\": \"Contains Tree Nuts (Almonds)\"}",
+    "tags": "[\"almond milk\", \"dairy free\", \"vegan\", \"health\", \"beverages\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

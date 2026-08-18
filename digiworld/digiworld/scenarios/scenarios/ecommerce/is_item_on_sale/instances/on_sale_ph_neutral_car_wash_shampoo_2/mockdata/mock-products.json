@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "pH-Neutral Car Wash Shampoo - 5L",
+    "description": "A concentrated, pH-balanced shampoo that safely cleans paint without stripping wax or sealants. Produces rich suds that lift dirt and grime while leaving a glossy finish. Suitable for hand washing or foam cannons.",
+    "shortDescription": "pH-neutral shampoo for safe, foamy car washing.",
+    "rating": 3.0,
+    "reviewCount": 0,
+    "seller": "CleanRide Products",
+    "price": 590.6,
+    "discountedPrice": 442.95,
+    "discountPercent": 25,
+    "categoryId": 8,
+    "categoryName": "Automotive",
+    "subcategoryId": 62,
+    "subcategoryName": "Car Care",
+    "inStock": true,
+    "stockCount": 110,
+    "imageUrl": "/245_1",
+    "specs": "{\"material\": \"Biodegradable surfactant formula (pH 7)\", \"compatibility\": \"Safe for all paint finishes, metals, plastics\", \"dimensions\": \"5 L bucket, 30 x 25 x 35 cm\", \"weight\": \"5.5 kg\", \"warranty\": \"90-day satisfaction guarantee\", \"madeIn\": \"United States\"}",
+    "tags": "[\"car\", \"care\", \"automotive\", \"high-quality\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

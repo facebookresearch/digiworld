@@ -1,0 +1,90 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "sophia.diaz@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Office supplies reorder approval",
+    "preview": "Hi. The request for office supplies reorder has be...",
+    "body": "Hi. The request for office supplies reorder has been approved. The procurement team will place the order by tomorrow.",
+    "timestamp": "2026-02-10T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_sophia_diaz_office_supplies_reorder_appr",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "benjamin.reed@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Security policy amendment draft",
+    "preview": "Hello. A draft of the security policy amendment is...",
+    "body": "Hello. A draft of the security policy amendment is attached for review. Provide feedback or approval by the end of the week.",
+    "timestamp": "2026-03-05T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_benjamin_reed_security_policy_amendment",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "charlotte.lee@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Travel expense report submission",
+    "preview": "Hi team. Please submit your travel expense reports...",
+    "body": "Hi team. Please submit your travel expense reports for the recent conference using the online form. The deadline is Thursday.",
+    "timestamp": "2026-03-19T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_charlotte_lee_travel_expense_report_subm",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "henry.walker@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Weekly sprint retrospective summary",
+    "preview": "Hi there. The summary of this week's sprint retros...",
+    "body": "Hi there. The summary of this week's sprint retrospective is now available. Review the action items and assign owners.",
+    "timestamp": "2026-04-11T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_henry_walker_weekly_sprint_retrospective",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

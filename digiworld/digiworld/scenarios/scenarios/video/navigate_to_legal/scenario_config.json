@@ -1,0 +1,8 @@
+{
+  "task_name": "Take me to the <page>",
+  "app_name": "video",
+  "scenario_class": "NavigateToLegalScenario",
+  "parameters": ["page"],
+  "context_fields": [],
+  "description": "Navigate to the Terms & Conditions or Privacy Policy page"
+}

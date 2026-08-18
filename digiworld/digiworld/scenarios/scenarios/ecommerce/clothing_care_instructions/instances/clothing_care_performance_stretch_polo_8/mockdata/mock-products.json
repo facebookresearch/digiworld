@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Performance Stretch Polo",
+    "description": "Designed for active days, this performance polo incorporates stretch fabric that moves with you. Moisture-wicking technology keeps you dry, and the classic polo collar maintains a refined look.",
+    "shortDescription": "Stretch polo that wicks moisture and maintains a refined look.",
+    "rating": 5.0,
+    "reviewCount": 1,
+    "seller": "Riverdale Outfitters",
+    "price": 1861.54,
+    "discountedPrice": 1135.54,
+    "discountPercent": 39,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 9,
+    "subcategoryName": "Men's Shirts",
+    "inStock": true,
+    "stockCount": 177,
+    "imageUrl": "/36_1",
+    "specs": "{\"material\": \"Polyester-Spandex blend (95% polyester, 5% spandex)\", \"careInstructions\": \"Machine wash cold, tumble dry low, do not iron\", \"fit\": \"Athletic fit\", \"size\": \"S, M, L, XL, XXL\", \"color\": \"Navy Blue\", \"pattern\": \"Solid\"}",
+    "tags": "[\"clothing\", \"mens\", \"shirts\", \"premium\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

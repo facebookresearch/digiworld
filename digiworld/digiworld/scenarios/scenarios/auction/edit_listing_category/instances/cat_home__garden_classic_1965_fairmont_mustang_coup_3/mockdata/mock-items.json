@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754730129,
+    "title": "Classic 1965 Fairmont Mustang Coupe \u2013 Restored Muscle Car with Original Engine",
+    "description": "Fully restored 1965 Mustang with original V8, low mileage, and factory\u2011spec interior.",
+    "categoryId": 1,
+    "sellerId": "{{current_user_id}}",
+    "price": 409.81,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 2,
+    "imageUrl": "https://example.com/images/classic-1965-ford-mustang-coupe-\u2013-restored-muscle-car-with-original-engine.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 240.63,
+    "currentBid": 305.43,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

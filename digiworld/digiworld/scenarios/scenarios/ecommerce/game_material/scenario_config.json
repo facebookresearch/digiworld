@@ -1,0 +1,8 @@
+{
+  "task_name": "What material is the <item> game made out of?",
+  "app_name": "ecommerce",
+  "scenario_class": "GameMaterialScenario",
+  "parameters": ["item"],
+  "context_fields": [],
+  "description": "Retrieve the material of a game product"
+}

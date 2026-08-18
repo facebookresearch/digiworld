@@ -1,0 +1,106 @@
+{
+  "app_name": "email",
+  "apk_name": "com.andojomail.sbx",
+  "database_name": "default.db",
+  "home_route": "/(tabs)/inbox",
+  "routes": [
+    {
+      "id": "inbox",
+      "route": "/(tabs)/inbox",
+      "screen_name": "inbox",
+      "description": "Main inbox view with folder variations",
+      "back_route": null,
+      "context_variations": [
+        {
+          "currentFolder": "inbox",
+          "drawerOpen": false
+        },
+        {
+          "currentFolder": "inbox",
+          "drawerOpen": true
+        },
+        {
+          "currentFolder": "sent",
+          "drawerOpen": false
+        },
+        {
+          "currentFolder": "sent",
+          "drawerOpen": true
+        },
+        {
+          "currentFolder": "draft",
+          "drawerOpen": false
+        },
+        {
+          "currentFolder": "draft",
+          "drawerOpen": true
+        },
+        {
+          "currentFolder": "trash",
+          "drawerOpen": false
+        },
+        {
+          "currentFolder": "trash",
+          "drawerOpen": true
+        },
+        {
+          "currentFolder": "all",
+          "drawerOpen": false
+        }
+      ]
+    },
+    {
+      "id": "contacts",
+      "route": "/(tabs)/contacts",
+      "screen_name": "contacts",
+      "description": "Contacts view",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "profile",
+      "route": "/(tabs)/profile",
+      "screen_name": "profile",
+      "description": "Profile view",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "compose",
+      "route": "/screens/compose/mailcompose",
+      "screen_name": "compose",
+      "description": "Compose new email (modal)",
+      "back_route": "/(tabs)/inbox",
+      "context_variations": []
+    },
+    {
+      "id": "edit_profile",
+      "route": "/screens/settings/EditProfile",
+      "screen_name": "EditProfile",
+      "description": "Edit profile screen",
+      "back_route": "/(tabs)/inbox",
+      "context_variations": []
+    },
+    {
+      "id": "email_detail",
+      "route": "/screens/mail/[id]",
+      "screen_name": "details",
+      "description": "Email detail view (dynamic ID based on positioning)",
+      "back_route": "/(tabs)/inbox",
+      "dynamic": true,
+      "dynamic_config": {
+        "table": "emails",
+        "id_column": "id",
+        "timestamp_column": "timestamp",
+        "filter_column": "receiver",
+        "filter_pattern": "%{user_email}%",
+        "positions": ["beginning", "middle", "end"]
+      },
+      "context_variations": [
+        {
+          "showDeleteAlert": false
+        }
+      ]
+    }
+  ]
+}

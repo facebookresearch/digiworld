@@ -1,0 +1,13 @@
+[
+  {
+    "id": 9998,
+    "email": "oliver.jensen.reply@example.com",
+    "username": "Oliver Jensen",
+    "password": "password123",
+    "avatar": "",
+    "bio": "",
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{past_timestamp}}",
+    "deletedAt": null
+  }
+]

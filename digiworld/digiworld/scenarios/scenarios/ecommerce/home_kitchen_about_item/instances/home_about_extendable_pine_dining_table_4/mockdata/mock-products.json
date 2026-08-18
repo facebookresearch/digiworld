@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Extendable Pine Dining Table, Seats 6",
+    "description": "Made from solid pine, this extendable dining table features a leaf that expands the surface from four to six seats. The natural finish highlights the wood grain, and the sturdy legs provide stability. Perfect for family meals and gatherings.",
+    "shortDescription": "A solid pine dining table that extends to seat six.",
+    "rating": 4.0,
+    "reviewCount": 1,
+    "seller": "TimberCraft Furniture",
+    "price": 1625.02,
+    "discountedPrice": 861.26,
+    "discountPercent": 47,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 20,
+    "subcategoryName": "Furniture",
+    "inStock": true,
+    "stockCount": 127,
+    "imageUrl": "/79_1",
+    "specs": "{\"material\": \"Solid pine wood\", \"dimensions\": \"30\\\" H x 48\\\"-78\\\" W x 36\\\" D (extendable)\", \"weight\": \"80 lbs\", \"warranty\": \"3-year limited\", \"color\": \"Natural pine\", \"careInstructions\": \"Wipe with damp cloth; avoid excessive moisture; tighten extension mechanisms annually\"}",
+    "tags": "[\"kitchen\", \"furniture\", \"home\", \"premium\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

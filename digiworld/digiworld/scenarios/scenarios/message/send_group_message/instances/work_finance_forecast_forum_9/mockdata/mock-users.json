@@ -1,0 +1,16 @@
+[
+  {
+    "id": "coworker-001",
+    "phoneNumber": "{{random_phone}}",
+    "name": "David Park",
+    "avatarUrl": null,
+    "lastLoggedIn": 0
+  },
+  {
+    "id": "coworker-002",
+    "phoneNumber": "{{random_phone}}",
+    "name": "Sarah Mitchell",
+    "avatarUrl": null,
+    "lastLoggedIn": 0
+  }
+]

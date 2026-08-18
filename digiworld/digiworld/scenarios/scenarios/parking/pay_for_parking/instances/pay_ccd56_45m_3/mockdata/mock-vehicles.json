@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "nickname": "UrbanFlash",
+    "make": "Harmony",
+    "model": "Civix",
+    "color": "White",
+    "year": 2022,
+    "plateNumber": "CIVIC5",
+    "vehicleTypeId": 7,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

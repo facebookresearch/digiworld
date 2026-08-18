@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Patriot Fry",
+    "description": "Crispy Southern fried chicken paired with a tangy honey-mustard dip.",
+    "address": "715 Chestnut Street, Philadelphia, PA 19106",
+    "latitude": 39.9526,
+    "longitude": -75.1652,
+    "logo": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.6,
+    "deliveryFee": 4.78,
+    "minOrder": 15.0,
+    "deliveryRadius": 5,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

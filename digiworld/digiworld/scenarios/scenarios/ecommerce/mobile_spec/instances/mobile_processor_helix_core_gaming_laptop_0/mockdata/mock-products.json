@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Helix Core Gaming Laptop",
+    "description": "Helix Core Gaming Laptop is designed for high\u2011performance gaming with a 17.3\u2011inch 144\u202fHz display. It houses an Vertex Micro i9 CPU, 32\u202fGB RAM, and an Vireo RTZ 3080 GPU. The dual\u2011fan cooling system keeps temperatures low during marathon sessions. RGB backlit keyboard and programmable macro keys provide a competitive edge.",
+    "shortDescription": "Gaming laptop with a 17.3\u2011inch 144\u202fHz screen and RTZ 3080 GPU.",
+    "rating": 3.8,
+    "reviewCount": 4,
+    "seller": "GamingGear Pro",
+    "price": 1612.45,
+    "discountedPrice": 1031.97,
+    "discountPercent": 36,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 2,
+    "subcategoryName": "Laptops",
+    "inStock": true,
+    "stockCount": 113,
+    "imageUrl": "/8_1",
+    "specs": "{\"display\": \"17.3-inch QHD, 2560x1440, 240Hz\", \"processor\": \"Vertex Micro Core i9-13980HX\", \"ram\": \"32 GB DDR5\", \"storage\": \"2 TB NVMe SSD\", \"battery\": \"99 Wh\", \"os\": \"Skylight 11 Home\", \"connectivity\": \"Wi-Fi 6E, Bluetooth 5.3, Ethernet, HDMI 2.1, USB 3.2\"}",
+    "tags": "[\"electronics\", \"laptops\", \"premium\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

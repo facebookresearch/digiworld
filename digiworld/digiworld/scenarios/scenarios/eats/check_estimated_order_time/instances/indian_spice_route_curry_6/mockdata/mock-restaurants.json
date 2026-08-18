@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Spice Route Curry",
+    "description": "Butter chicken cooked in a cashew cream sauce with a hint of fenugreek.",
+    "address": "843 Bayshore Drive, Tampa, FL 33602",
+    "latitude": 27.9506,
+    "longitude": -82.4572,
+    "logo": "https://images.unsplash.com/photo-1552566626-52f8b828add9?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 3.6,
+    "deliveryFee": 5.31,
+    "minOrder": 15.0,
+    "deliveryRadius": 7,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

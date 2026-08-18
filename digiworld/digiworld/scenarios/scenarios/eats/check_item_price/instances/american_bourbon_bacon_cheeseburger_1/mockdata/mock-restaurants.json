@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Rustic Grillhouse",
+    "description": "Wood-fire burgers featuring a secret bourbon-infused beef blend.",
+    "address": "527 Summit Street, Kansas City, MO 64105",
+    "latitude": 39.0997,
+    "longitude": -94.5786,
+    "logo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.0,
+    "deliveryFee": 2.2,
+    "minOrder": 10.0,
+    "deliveryRadius": 5,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

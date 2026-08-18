@@ -1,0 +1,9 @@
+{
+  "task_name": "Pay for a parking spot at <zone_code> for <vehicle> for <pay_minutes> minutes, then extend the parking session for <vehicle> at <zone_code> by <extend_minutes> minutes",
+  "app_name": "parking",
+  "scenario_class": "PayAndExtendParkingScenario",
+  "parameters": ["zone_code", "vehicle", "pay_minutes", "extend_minutes"],
+  "context_fields": [],
+  "additional_mockdata": true,
+  "description": "Pay for a parking spot at a specific zone for a given duration, then extend the session by additional minutes."
+}

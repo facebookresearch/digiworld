@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9900,
+    "name": "Nimbus Pro Wireless Noise-Cancelling Headphones",
+    "description": "Experience immersive sound with the Nimbus Pro's advanced active noise cancellation and up to 30 hours of battery life, perfect for travel and work.",
+    "shortDescription": "Premium wireless headphones with active noise cancellation.",
+    "price": 149.77,
+    "discountedPrice": 77.88,
+    "discountPercent": 48,
+    "rating": 3.4,
+    "reviewCount": 400,
+    "seller": "SoundSphere Ltd.",
+    "categoryName": "Electronics",
+    "subcategoryName": "Smartphones",
+    "inStock": 1,
+    "stockCount": 96,
+    "imageUrl": "/product_2674",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

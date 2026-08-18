@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 1,
+    "categoryId": 3,
+    "title": "Quick Excel Pivot Tables for Beginners",
+    "description": "Discover how to create dynamic pivot tables in Excel, with step\u2011by\u2011step examples that turn raw data into clear insights in minutes.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 573,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 1269,
+    "likeCount": 82,
+    "commentCount": 40,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

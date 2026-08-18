@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Christopher Miller",
+    "street": "258 Walnut Court",
+    "city": "Atlanta",
+    "state": "GA",
+    "pincode": "30303",
+    "phone": "4045550555",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

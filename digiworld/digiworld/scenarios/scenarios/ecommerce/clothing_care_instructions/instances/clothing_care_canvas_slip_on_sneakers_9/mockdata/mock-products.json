@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Canvas Slip-On Sneakers",
+    "description": "Canvas slip\u2011on sneakers offering effortless style and comfort. The elastic side gusset allows easy on and off, while the cushioned footbed supports daily wear.",
+    "shortDescription": "Canvas slip\u2011on sneakers with elastic side gusset and cushioned footbed.",
+    "rating": 1.0,
+    "reviewCount": 1,
+    "seller": "Stride Footwear",
+    "price": 1211.27,
+    "discountedPrice": 799.44,
+    "discountPercent": 34,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 14,
+    "subcategoryName": "Shoes",
+    "inStock": true,
+    "stockCount": 105,
+    "imageUrl": "/54_1",
+    "specs": "{\"material\": \"100% Cotton canvas with rubber sole\", \"careInstructions\": \"Hand wash mild soap, air dry\", \"fit\": \"Standard fit\", \"size\": \"6, 7, 8, 9, 10, 11 US\", \"color\": \"White\", \"pattern\": \"Solid\"}",
+    "tags": "[\"clothing\", \"shoes\", \"top-rated\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 90001,
+    "restaurantId": 90001,
+    "categoryId": 90001,
+    "name": "Paneer Tikka Masala",
+    "description": "Grilled paneer cubes in a velvety cashew-tomato sauce, spiced with garam masala.",
+    "price": 13.0,
+    "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&w=600&q=80",
+    "calories": 540,
+    "isPopular": 0,
+    "isActive": 1,
+    "position": 1
+  }
+]

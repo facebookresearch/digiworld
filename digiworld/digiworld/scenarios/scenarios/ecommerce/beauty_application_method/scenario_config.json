@@ -1,0 +1,8 @@
+{
+  "task_name": "How should I apply the <item> item on my skin?",
+  "app_name": "ecommerce",
+  "scenario_class": "BeautyApplicationMethodScenario",
+  "parameters": ["item"],
+  "context_fields": [],
+  "description": "Retrieve the application method for a beauty product"
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "saved-university-connector",
+    "userId": 1,
+    "name": "University Connector",
+    "originStopId": "stop-5",
+    "destinationStopId": "stop-12",
+    "preferredMode": "bus",
+    "remindersEnabled": true,
+    "departureReminderMinutes": 30,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

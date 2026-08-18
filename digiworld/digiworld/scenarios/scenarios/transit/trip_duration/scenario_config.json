@@ -1,0 +1,12 @@
+{
+  "task_name": "How long would a trip between <stop_1> and <stop_2> departing <time> take?",
+  "app_name": "transit",
+  "scenario_class": "TripDurationScenario",
+  "parameters": [
+    "stop_1",
+    "stop_2",
+    "time"
+  ],
+  "context_fields": [],
+  "description": "Retrieve the duration of a trip between two stops."
+}

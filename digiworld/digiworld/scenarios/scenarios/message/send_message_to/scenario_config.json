@@ -1,0 +1,10 @@
+{
+    "task_name": "Send a message to <contact_name>",
+    "app_name": "message",
+    "scenario_class": "SendMessageToScenario",
+    "parameters": ["contact_name"],
+    "context_fields": [],
+    "description": "Send any message to a specified contact",
+    "additional_mockdata": true
+}
+

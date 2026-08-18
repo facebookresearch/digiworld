@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754150071,
+    "title": "Artisan Soy Candle \u2013 Lavender & Sage, 12\u2011oz",
+    "description": "Hand\u2011poured soy wax with natural lavender and sage fragrance; burns clean for up to 40 hours.",
+    "categoryId": 3,
+    "sellerId": "{{current_user_id}}",
+    "price": 1532.6,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/artisan-soy-candle-\u2013-lavender-&-sage,-12\u2011oz.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "task_name": "Edit the description of the room \"<room_name>\" to be \"<description>\"",
+  "app_name": "smarthome",
+  "scenario_class": "EditRoomDescriptionScenario",
+  "parameters": ["room_name", "description"],
+  "context_fields": [],
+  "description": "Edit the description of an existing room.",
+  "additional_mockdata": true
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754020032,
+    "title": "Vintage 1970s Road Bike \u2013 Fully Restored",
+    "description": "A classic 1970s road bike featuring a steel frame and original components, professionally restored to showroom condition; rides smoothly and ready for display.",
+    "categoryId": 6,
+    "sellerId": "{{current_user_id}}",
+    "price": 1903.05,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 8,
+    "imageUrl": "https://example.com/images/vintage-1970s-road-bike-\u2013-fully-restored.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 662.07,
+    "currentBid": 885.91,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "saved-midtown-glide",
+    "userId": 1,
+    "name": "Midtown Glide",
+    "originStopId": "stop-5",
+    "destinationStopId": "stop-4",
+    "preferredMode": "bus",
+    "remindersEnabled": true,
+    "departureReminderMinutes": 30,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

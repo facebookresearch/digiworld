@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Michael O'Connor",
+    "street": "2100 Maple Blvd",
+    "city": "Denver",
+    "state": "CO",
+    "pincode": "80203",
+    "phone": "7205550789",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

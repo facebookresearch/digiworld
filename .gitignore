@@ -1,0 +1,187 @@
+# OSX
+.DS_Store
+
+# Node
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Android and iOS native folders
+apps/*/android/
+apps/*/ios/
+
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env*.local
+.env
+
+# typescript
+*.tsbuildinfo
+
+# IDE
+.idea
+.vscode
+# Ignore all hidden folders
+.*
+
+# But do NOT ignore .git, .github, and .claude
+!.git/
+!.github/
+!.claude/
+
+
+#temp-test-db-folders
+apps/video/src/__tests__/temp
+
+
+#images
+python-agent-to-app-interaction-api/data/com.andojoshop.sbx/test-profile-1/mockdata/assets/*
+python-agent-to-app-interaction-api/data/com.andojoshop.sbx/test-profile-2/mockdata/assets/*
+python-agent-to-app-interaction-api/data/com.andojoshop.sbx/test-profile-3/mockdata/assets/*
+python-agent-to-app-interaction-api/category_image_metadata.csv
+python-agent-to-app-interaction-api/menu_image_metadata.csv
+python-agent-to-app-interaction-api/restaurant_image_metadata.csv
+python-agent-to-app-interaction-api/categories
+python-agent-to-app-interaction-api/menu
+python-agent-to-app-interaction-api/restaurants
+python-agent-to-app-interaction-api/backup
+python-agent-to-app-interaction-api/restaurant_image_metadata.csv
+apps/eats/coverage/
+apps/ryde/assets/images/drivers/female.svg
+apps/ryde/coverage/
+apps/message/coverage/
+*.gitkeep
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile
+Pipfile.lock
+
+# poetry
+poetry.lock
+.pdm.toml
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# Cython debug symbols
+cython_debug/
+
+current_apps/
+
+# Generated/temporary files (should not be committed)
+**/app_state.db
+**/db-forge*/
+
+# Test artifacts
+test_output*.log
+test_results*.xml
+
+# npm lockfile (project uses yarn)
+package-lock.json
+
+# Ignore non-default session artifacts from testing (keep only default sessions)
+**/state_data/**/sessions/*
+!**/state_data/**/sessions/default
+
+# LLM-generated intermediate artifacts (regeneratable via profile_cli generate)
+digiworld/digiworld/pipeline/apps/*/artifacts/openai_gpt-oss-120b/
+
+# Pipeline output artifacts
+digiworld/digiworld/pipeline/apps/*/output/
+
+# QA screenshots - ignore source trajectories but track curated issue screenshots
+quality_assurance/**/*_concat.png
+!quality_assurance/**/_issues/*.png
+
+# QA evaluation data - kept in separate infra/qa-evaluations branch
+quality_assurance/*/
+!quality_assurance/dashboard/
+.claude/
+
+.llama_key
+
+# digiworld_eval: the `env/` package is a real source dir, not a virtualenv —
+# override the venv rules above (env/ / ENV/) so it gets tracked.
+!digiworld_eval/env/
+!digiworld_eval/env/**
+# ...but the negation above re-exposed compiled artifacts; keep those out.
+digiworld_eval/env/**/__pycache__/
+digiworld_eval/env/**/*.pyc
+# Never commit eval run output.
+digiworld_eval/results/
+
+.dw_state_data/
+
+# DigiWorld container build scratch space
+docker/.cache/

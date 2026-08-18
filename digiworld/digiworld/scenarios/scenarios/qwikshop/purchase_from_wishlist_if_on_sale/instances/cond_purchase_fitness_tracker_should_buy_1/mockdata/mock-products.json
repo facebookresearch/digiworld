@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9901,
+    "name": "Fitness Tracker",
+    "description": "Stay on top of your fitness goals with our advanced tracker, featuring heart rate monitoring, GPS tracking, and customizable watch faces.",
+    "shortDescription": "Advanced fitness tracker with heart rate monitoring and GPS.",
+    "price": 30.41,
+    "discountedPrice": 22.2,
+    "discountPercent": 27,
+    "rating": 3.2,
+    "reviewCount": 129,
+    "seller": "FitLife",
+    "categoryName": "Electronics",
+    "subcategoryName": "Smartphones",
+    "inStock": 1,
+    "stockCount": 139,
+    "imageUrl": "/product_1434",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

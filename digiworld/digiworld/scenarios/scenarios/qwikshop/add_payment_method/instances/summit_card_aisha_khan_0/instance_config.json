@@ -1,0 +1,25 @@
+{
+  "parameters": {
+    "name": "Aisha Khan",
+    "cardNumber": "5555555555554444",
+    "expirationMonth": "10",
+    "expirationYear": "30"
+  },
+  "compatible_profiles": [
+    "bulk_quantity",
+    "empty_cart",
+    "full_cart",
+    "low_stock",
+    "new_user"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:02.319921+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

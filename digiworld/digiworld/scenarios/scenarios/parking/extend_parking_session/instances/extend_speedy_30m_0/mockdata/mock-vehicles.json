@@ -1,0 +1,17 @@
+[
+  {
+    "id": 99901,
+    "userId": 1,
+    "nickname": "Speedy",
+    "make": "Tolimar",
+    "model": "Corvale",
+    "color": "Silver",
+    "year": 2018,
+    "plateNumber": "4TURBO",
+    "vehicleTypeId": 1,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Sakura Sushi Loft",
+    "description": "Omakase style nigiri featuring seasonal fish and a dash of yuzu soy.",
+    "address": "444 Spruce Way, Portland, OR 97201",
+    "latitude": 45.5152,
+    "longitude": -122.6784,
+    "logo": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.8,
+    "deliveryFee": 3.01,
+    "minOrder": 7.0,
+    "deliveryRadius": 8,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

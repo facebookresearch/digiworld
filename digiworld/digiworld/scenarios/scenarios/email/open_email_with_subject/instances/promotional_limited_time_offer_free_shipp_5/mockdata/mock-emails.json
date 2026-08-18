@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "ethan.brooks@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Limited Time Offer: Free Shipping on Orders Over $75",
+    "preview": "Hi there, for a limited time we are offering free ...",
+    "body": "Hi there, for a limited time we are offering free shipping on all orders over $75. Use code FREESHIP at checkout to take advantage of this deal.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_ethan_brooks_limited_time_offer_free_sh",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

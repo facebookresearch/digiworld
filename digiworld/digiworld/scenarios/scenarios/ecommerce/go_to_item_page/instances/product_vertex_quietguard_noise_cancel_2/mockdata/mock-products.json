@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Vertex QuietGuard Noise-Cancelling Headphones",
+    "description": "Vertex QuietGuard headphones combine adaptive noise cancellation with a transparent hearing mode. The lightweight alloy frame and soft ear cushions ensure comfort during long listening sessions. Up to 35 hours of battery life and a fast\u2011charge 10\u2011minute boost keep the music playing.",
+    "shortDescription": "Noise\u2011cancelling headphones with adaptive ANC and 35\u2011hour battery.",
+    "rating": 2.4,
+    "reviewCount": 5,
+    "seller": "ElectroMart",
+    "price": 574.46,
+    "discountedPrice": 517.01,
+    "discountPercent": 10,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 4,
+    "subcategoryName": "Headphones",
+    "inStock": true,
+    "stockCount": 98,
+    "imageUrl": "/16_1",
+    "specs": "{\"display\": \"N/A\", \"processor\": \"Custom ANC processor\", \"ram\": \"N/A\", \"storage\": \"N/A\", \"battery\": \"35 h playback, 550 mAh, USB\\u2011C fast charge\", \"os\": \"N/A\", \"connectivity\": \"Bluetooth 5.3, LDAC, multipoint, 3.5mm aux\"}",
+    "tags": "[\"electronics\", \"headphones\", \"premium\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

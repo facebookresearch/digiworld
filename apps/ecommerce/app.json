@@ -1,0 +1,110 @@
+{
+  "name": "andoho-shop-sbx",
+  "displayName": "Andojo Shop",
+  "expo": {
+    "name": "Andojo Shop",
+    "slug": "andojo-shop-sbx",
+    "scheme": "andojoshop",
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "icon": "./assets/images/app-icon-all.png",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "jsEngine": "hermes",
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "icon": "./assets/images/app-icon-android-legacy.png",
+      "package": "com.andojoshop.sbx",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/app-icon-android-adaptive-foreground.png",
+        "backgroundImage": "./assets/images/app-icon-android-adaptive-background.png"
+      },
+      "buildProperties": {
+        "kotlinVersion": "1.9.25"
+      },
+      "intentFilters": [
+        {
+          "action": "VIEW",
+          "autoVerify": true,
+          "data": [
+            {
+              "scheme": "andojoshop",
+              "host": "sbx",
+              "pathPrefix": "/event"
+            }
+          ],
+          "category": ["BROWSABLE", "DEFAULT"]
+        }
+      ],
+      "permissions": [
+        "WRITE_EXTERNAL_STORAGE",
+        "READ_EXTERNAL_STORAGE",
+        "MANAGE_EXTERNAL_STORAGE"
+      ],
+      "splash": {
+        "backgroundColor": "#becbce",
+        "image": "./assets/images/splash-logo-android-universal.png",
+        "resizeMode": "contain"
+      },
+      "allowBackup": false
+    },
+    "ios": {
+      "icon": "./assets/images/app-icon-ios.png",
+      "supportsTablet": false,
+      "bundleIdentifier": "com.andojoshop.sbx",
+      "associatedDomains": ["applinks:sbx.andojoshop.com"],
+      "splash": {
+        "backgroundColor": "#becbce",
+        "image": "./assets/images/splash-logo-ios-mobile.png",
+        "resizeMode": "contain"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/app-icon-web-favicon.png",
+      "bundler": "metro",
+      "splash": {
+        "backgroundColor": "#becbce",
+        "image": "./assets/images/splash-logo-web.png",
+        "resizeMode": "contain"
+      }
+    },
+    "plugins": [
+      "expo-localization",
+      "expo-sqlite",
+      "expo-font",
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/app-icon-android-adaptive-foreground.png",
+          "imageWidth": 300,
+          "resizeMode": "contain",
+          "backgroundColor": "#becbce"
+        }
+      ]
+    ],
+    "experiments": {
+      "tsconfigPaths": true,
+      "typedRoutes": true
+    },
+    "splash": {
+      "backgroundColor": "#becbce",
+      "image": "./assets/images/splash-logo-all.png",
+      "resizeMode": "contain"
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "0374cd8e-fb73-47ed-b3ab-af9e57705684"
+      }
+    }
+  },
+  "ignite": {
+    "version": "10.1.0"
+  }
+}

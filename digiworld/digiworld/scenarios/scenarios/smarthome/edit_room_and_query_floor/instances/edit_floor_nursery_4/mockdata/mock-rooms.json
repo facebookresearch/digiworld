@@ -1,0 +1,12 @@
+[
+  {
+    "userId": "{{current_user_id}}",
+    "name": "Nursery",
+    "description": "Baby sleeping area",
+    "type": "bedroom",
+    "floor": 2,
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

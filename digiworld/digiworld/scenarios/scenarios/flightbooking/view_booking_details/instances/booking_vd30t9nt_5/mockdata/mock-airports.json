@@ -1,0 +1,18 @@
+[
+  {
+    "code": "HND",
+    "name": "HND International Airport",
+    "city": "HND",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "code": "SFO",
+    "name": "SFO International Airport",
+    "city": "SFO",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "parameters": {
+    "attribute": "pattern",
+    "item": "Canvas Slip-On Sneakers"
+  },
+  "compatible_profiles": [
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T03:59:55.995392+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

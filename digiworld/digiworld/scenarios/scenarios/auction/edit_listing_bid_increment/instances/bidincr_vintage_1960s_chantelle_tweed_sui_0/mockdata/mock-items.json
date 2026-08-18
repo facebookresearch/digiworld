@@ -1,0 +1,22 @@
+[
+  {
+    "id": 181880001,
+    "title": "Vintage 1960s Chantelle Tweed Suit",
+    "description": "A classic Chantelle tweed suit from the 1960s, featuring a fitted jacket and skirt in excellent condition.",
+    "categoryId": 1,
+    "sellerId": "{{current_user_id}}",
+    "price": 1847.77,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 2,
+    "imageUrl": "https://example.com/images/vintage-1960s-chanel-tweed-suit.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 929.45,
+    "currentBid": 1592.84,
+    "bidIncrement": 5.0,
+    "endTime": 1773453988,
+    "expired": 0
+  }
+]

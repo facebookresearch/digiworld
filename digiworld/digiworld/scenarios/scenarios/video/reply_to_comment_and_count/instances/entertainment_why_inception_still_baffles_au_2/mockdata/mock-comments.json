@@ -1,0 +1,15 @@
+[
+  {
+    "id": 7777,
+    "videoId": 9999,
+    "userId": 9998,
+    "parentId": null,
+    "content": "Inception still blows my mind after all these years.",
+    "status": "visible",
+    "isEdited": 0,
+    "replyCount": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

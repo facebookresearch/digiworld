@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "evelyn.wong@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Project Update",
+    "preview": "Hi team, the project is on track to meet the deadl...",
+    "body": "Hi team, the project is on track to meet the deadline. We will need to review the final report before submission.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_evelyn_wong_project_update",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "evelyn.wong@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Task Assignment",
+    "preview": "Hi, you have been assigned to lead the marketing t...",
+    "body": "Hi, you have been assigned to lead the marketing team for the new campaign.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_evelyn_wong_task_assignment",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

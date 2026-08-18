@@ -1,0 +1,17 @@
+[
+  {
+    "id": 99910,
+    "userId": "{{current_user_id}}",
+    "nickname": "Cruiser",
+    "make": "Harley-Davidson",
+    "model": "Street 750",
+    "color": "Black",
+    "year": 2019,
+    "plateNumber": "CRUIS",
+    "vehicleTypeId": 6,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

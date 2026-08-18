@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "sophie.turner@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Upcoming birthday party invitation",
+    "preview": "Hi, you are invited to the upcoming birthday party...",
+    "body": "Hi, you are invited to the upcoming birthday party next Saturday at 7 pm. RSVP if you can join the celebration.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_sophie_turner_upcoming_birthday_party_in",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "brian.kelly@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "You're invited to the upcoming birthday party",
+    "preview": "Hello, this is an invitation to the upcoming birth...",
+    "body": "Hello, this is an invitation to the upcoming birthday party with food, games, and music. Hope to see you there!",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_brian_kelly_you_re_invited_to_the_upcomi",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

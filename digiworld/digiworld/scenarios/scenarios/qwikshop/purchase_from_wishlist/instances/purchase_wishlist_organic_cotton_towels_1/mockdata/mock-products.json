@@ -1,0 +1,24 @@
+[
+  {
+    "id": 9901,
+    "name": "Organic Cotton Towels",
+    "description": "Made from 100% organic cotton, these towels are soft, absorbent, and gentle on your skin. They come in a set of four and are machine washable.",
+    "shortDescription": "Soft and absorbent towels made from organic cotton.",
+    "price": 57.17,
+    "discountedPrice": 57.17,
+    "discountPercent": 0,
+    "rating": 3.8,
+    "reviewCount": 25,
+    "seller": "GreenClean Supplies",
+    "categoryId": 9095,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 9223,
+    "subcategoryName": "Bathroom",
+    "inStock": 1,
+    "stockCount": 69,
+    "imageUrl": "/product_9279",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

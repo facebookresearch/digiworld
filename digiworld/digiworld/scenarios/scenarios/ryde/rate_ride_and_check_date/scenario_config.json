@@ -1,0 +1,9 @@
+{
+  "task_name": "Give the driver of my most recent completed ride a <rating> star rating with the comment \"<comment>\", then tell me when my most recent past ride was",
+  "app_name": "ryde",
+  "scenario_class": "RateRideAndCheckDateScenario",
+  "parameters": ["rating", "comment"],
+  "context_fields": [],
+  "description": "Rate the most recent completed ride and report the date of the most recent past ride",
+  "additional_mockdata": true
+}

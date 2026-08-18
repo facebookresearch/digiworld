@@ -1,0 +1,9 @@
+{
+  "task_name": "Skip to roughly <minutes> minutes into the video \"<title>\"",
+  "app_name": "video",
+  "scenario_class": "SkipToTimestampScenario",
+  "parameters": ["minutes", "title"],
+  "context_fields": [],
+  "description": "Skip to a specific timestamp in a video",
+  "additional_mockdata": true
+}

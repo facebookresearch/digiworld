@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 1,
+    "categoryId": 3,
+    "title": "DIY Home Office Setup Under $200",
+    "description": "Step\u2011by\u2011step guide to creating a functional, stylish workspace using budget-friendly furniture and tech accessories.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 2772,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 4433,
+    "likeCount": 10,
+    "commentCount": 1,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

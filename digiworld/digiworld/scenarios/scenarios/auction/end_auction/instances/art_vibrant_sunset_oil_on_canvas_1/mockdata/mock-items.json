@@ -1,0 +1,22 @@
+[
+  {
+    "id": 182210019,
+    "title": "Vibrant Sunset Oil on Canvas",
+    "description": "A stunning oil on canvas depicting a vibrant sunset, signed by the artist and dated 2010. Framed and in excellent condition.",
+    "categoryId": 9,
+    "sellerId": "{{current_user_id}}",
+    "price": 1069.26,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/vibrant-sunset-oil-on-canvas.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 330.34,
+    "currentBid": 388.12,
+    "bidIncrement": 5.0,
+    "endTime": 1773367621,
+    "expired": 0
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 1,
+    "categoryId": 4,
+    "title": "Live Reaction to the New Valor Trailer",
+    "description": "Watch my live reaction as I see the latest Valor trailer for the first time, with commentary on Easter eggs and theories about the storyline.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 475,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 4110,
+    "likeCount": 25,
+    "commentCount": 29,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

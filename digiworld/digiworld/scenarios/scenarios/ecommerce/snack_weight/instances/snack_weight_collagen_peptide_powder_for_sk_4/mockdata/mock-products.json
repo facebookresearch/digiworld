@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Collagen Peptide Powder for Skin & Joints",
+    "description": "Collagen peptide powder derived from grass-fed bovine sources, designed to improve skin elasticity, hair strength, and joint comfort. Dissolves quickly in hot or cold liquids without altering taste. Provides 10g of hydrolyzed collagen per serving.",
+    "shortDescription": "Collagen peptide powder for skin elasticity, hair strength, and joint comfort.",
+    "rating": 2.3,
+    "reviewCount": 0,
+    "seller": "Vitality Labs",
+    "price": 569.56,
+    "discountedPrice": 336.04,
+    "discountPercent": 41,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 64,
+    "subcategoryName": "Supplements",
+    "inStock": true,
+    "stockCount": 90,
+    "imageUrl": "/256_1",
+    "specs": "{\"ingredients\": \"Hydrolyzed Bovine Collagen Peptides, Vitamin C (Ascorbic Acid), Hyaluronic Acid, Natural Vanilla Flavor, Stevia\", \"dosage\": \"One scoop (10g) mixed with water or smoothie daily\", \"weight\": \"300g (30 servings)\", \"expiryPeriod\": \"24 months\", \"madeIn\": \"Australia\", \"certifications\": \"Grass-Fed, Non-GMO, GMP\"}",
+    "tags": "[\"wellness\", \"health\", \"supplements\", \"popular\", \"top-rated\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

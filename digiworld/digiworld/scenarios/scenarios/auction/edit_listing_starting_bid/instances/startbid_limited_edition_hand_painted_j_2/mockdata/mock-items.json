@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754030036,
+    "title": "Limited Edition Hand-Painted Japanese Kutani Porcelain Tea Set (Set of 6)",
+    "description": "A complete set of six hand-painted Kutani porcelain pieces, including teapot, cups, and saucers, showcasing traditional blue-and-gold motifs.",
+    "categoryId": 12,
+    "sellerId": "{{current_user_id}}",
+    "price": 409.81,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 2,
+    "imageUrl": "https://example.com/images/limited-edition-hand-painted-japanese-kutani-porcelain-tea-set-(set-of-6).jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 240.63,
+    "currentBid": 305.43,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

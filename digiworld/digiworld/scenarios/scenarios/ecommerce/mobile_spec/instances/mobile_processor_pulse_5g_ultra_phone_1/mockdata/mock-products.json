@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Pulse 5G Ultra Phone",
+    "description": "Pulse 5G Ultra Phone brings blazing 5G connectivity to a sleek glass\u2011back design. Its 6.7\u2011inch OLED screen supports HDR10+ for cinematic streaming. The triple\u2011camera system includes a 64\u202fMP main sensor, ultra\u2011wide, and macro lenses. Includes fast charging that reaches 80\u202f% in 30 minutes.",
+    "shortDescription": "5G\u2011ready phone with a large OLED screen and fast\u2011charging capabilities.",
+    "rating": 2.0,
+    "reviewCount": 2,
+    "seller": "ElectroHub",
+    "price": 735.77,
+    "discountedPrice": 478.25,
+    "discountPercent": 35,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 1,
+    "subcategoryName": "Smartphones",
+    "inStock": true,
+    "stockCount": 58,
+    "imageUrl": "/2_1",
+    "specs": "{\"display\": \"6.7-inch LTPO AMOLED, 1440x3216, 120Hz\", \"processor\": \"NovaSil Dimensia 9300\", \"ram\": \"12 GB LPDDR5X\", \"storage\": \"256 GB UFS 3.1\", \"battery\": \"5000 mAh\", \"os\": \"Nimbus OS 13\", \"connectivity\": \"5G, Wi-Fi 6E, Bluetooth 5.3, NFC, Dual SIM\"}",
+    "tags": "[\"electronics\", \"smartphones\", \"high-quality\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

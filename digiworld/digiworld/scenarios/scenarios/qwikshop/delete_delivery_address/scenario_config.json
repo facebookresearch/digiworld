@@ -1,0 +1,9 @@
+{
+  "task_name": "Delete delivery address of \"<street>\" \"<city>\" \"<state>\" \"<zip>\" \"<country>\"",
+  "app_name": "qwikshop",
+  "scenario_class": "DeleteDeliveryAddressScenario",
+  "parameters": ["street", "city", "state", "zip", "country"],
+  "context_fields": [],
+  "description": "Delete a specific delivery address identified by its location details.",
+  "additional_mockdata": true
+}

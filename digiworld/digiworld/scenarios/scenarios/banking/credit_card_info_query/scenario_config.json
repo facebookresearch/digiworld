@@ -1,0 +1,10 @@
+{
+  "task_name": "I want to apply for a credit card through Andojo Bank, what is the <info_type>?",
+  "app_name": "banking",
+  "scenario_class": "CreditCardInfoQueryScenario",
+  "parameters": [
+    "info_type"
+  ],
+  "context_fields": [],
+  "description": "Retrieve specific fee or APR information from the user's actual credit card data."
+}

@@ -1,0 +1,26 @@
+# Keep the Docker build context small.
+#
+# The RN app sources under apps/ are ~293 MB, but the image only needs each
+# app's app.json (for runtime deeplink resolution). Prune everything under each
+# app directory except app.json.
+apps/*/*
+!apps/*/app.json
+
+# Version control history and build artefacts are never needed in the image,
+# and .git alone is over 100 MB.
+.git/
+.github/
+node_modules/
+**/node_modules/
+**/__pycache__/
+**/*.pyc
+**/.pytest_cache/
+**/*.egg-info/
+
+# Docs and demos are not part of the runtime image.
+docs/
+digiworld/demos/
+digiworld/docs/
+
+# Container build scratch space.
+docker/.cache/

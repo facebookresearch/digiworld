@@ -1,0 +1,8 @@
+{
+  "task_name": "Take me to the Live Arrivals page for <stop_name> and filter by <direction_filter>",
+  "app_name": "transit",
+  "scenario_class": "LiveArrivalsDirectionFilterScenario",
+  "parameters": ["stop_name", "direction_filter"],
+  "context_fields": [],
+  "description": "Navigate to the Live Arrivals page for a specific stop and apply a direction filter (All, Outbound, or Inbound)."
+}

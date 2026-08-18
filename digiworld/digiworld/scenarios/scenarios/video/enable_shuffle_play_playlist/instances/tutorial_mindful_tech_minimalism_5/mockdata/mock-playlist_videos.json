@@ -1,0 +1,23 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "playlistId": 75820,
+    "videoId": 75821,
+    "position": 0,
+    "addedAt": "{{recent_timestamp}}"
+  },
+  {
+    "id": "{{auto_id}}",
+    "playlistId": 75820,
+    "videoId": 75822,
+    "position": 1,
+    "addedAt": "{{recent_timestamp}}"
+  },
+  {
+    "id": "{{auto_id}}",
+    "playlistId": 75820,
+    "videoId": 75823,
+    "position": 2,
+    "addedAt": "{{recent_timestamp}}"
+  }
+]

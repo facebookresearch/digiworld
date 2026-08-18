@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754200088,
+    "title": "Sterling Silver Heart Locket",
+    "description": "18mm polished sterling silver locket with hinged clasp, perfect for a photo keepsake.",
+    "categoryId": 10,
+    "sellerId": "{{current_user_id}}",
+    "price": 2022.64,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 12,
+    "imageUrl": "https://example.com/images/sterling-silver-heart-locket.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 1049.59,
+    "currentBid": 1499.85,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

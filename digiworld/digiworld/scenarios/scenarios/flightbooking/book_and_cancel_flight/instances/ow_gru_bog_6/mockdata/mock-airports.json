@@ -1,0 +1,18 @@
+[
+  {
+    "code": "GRU",
+    "name": "GRU International Airport",
+    "city": "GRU",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "code": "BOG",
+    "name": "BOG International Airport",
+    "city": "BOG",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

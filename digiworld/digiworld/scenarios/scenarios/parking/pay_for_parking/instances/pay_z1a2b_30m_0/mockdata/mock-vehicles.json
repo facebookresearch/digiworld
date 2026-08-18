@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "nickname": "Speedster",
+    "make": "Tolimar",
+    "model": "Corvale",
+    "color": "Silver",
+    "year": 2018,
+    "plateNumber": "A1B2C3",
+    "vehicleTypeId": 1,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

@@ -1,0 +1,9 @@
+{
+    "task_name": "Search for emails with \"<phrase>\" in the email subject",
+    "app_name": "email",
+    "scenario_class": "SearchEmailsBySubject",
+    "parameters": ["phrase"],
+    "context_fields": [],
+    "description": "Search for emails by a phrase in the subject line",
+    "additional_mockdata": true
+}

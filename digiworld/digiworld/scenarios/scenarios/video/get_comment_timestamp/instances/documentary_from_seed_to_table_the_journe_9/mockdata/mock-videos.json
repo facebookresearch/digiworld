@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 1,
+    "categoryId": 3,
+    "title": "From Seed to Table: The Journey of Coffee",
+    "description": "Explore the entire coffee supply chain, from planting beans in Ethiopia to brewing the perfect cup in a caf\u00e9.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 2772,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 4433,
+    "likeCount": 10,
+    "commentCount": 2,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

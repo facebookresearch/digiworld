@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Cast Iron Skillet with Helper Handle",
+    "description": "The cast iron skillet features a pre\u2011seasoned surface that develops a natural non\u2011stick patina over time. Its helper handle provides extra leverage for safe flipping and transferring heavy foods. Ideal for searing, baking, and stovetop cooking.",
+    "shortDescription": "Pre\u2011seasoned cast iron skillet with helper handle for easy flipping.",
+    "rating": 1.5,
+    "reviewCount": 4,
+    "seller": "Forge & Flame Cookware",
+    "price": 1462.37,
+    "discountedPrice": 921.29,
+    "discountPercent": 37,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 17,
+    "subcategoryName": "Cookware",
+    "inStock": true,
+    "stockCount": 165,
+    "imageUrl": "/66_1",
+    "specs": "{\"material\": \"Pre-seasoned cast iron\", \"dimensions\": \"12\\u2011inch diameter x 2.5\\u2011inch depth\", \"weight\": \"10 lbs\", \"warranty\": \"5\\u2011year limited warranty\", \"color\": \"Black\", \"careInstructions\": \"Season after each use; hand wash with mild soap; dry immediately; avoid soaking\"}",
+    "tags": "[\"kitchen\", \"home\", \"cookware\", \"best\", \"top-rated\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

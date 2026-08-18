@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754770139,
+    "title": "Vintage Bordeaux Wine Collection \u2013 Ten 1995 Bottles from Premier Cru Estates",
+    "description": "Curated selection of ten 1995 Bordeaux wines, stored in climate\u2011controlled cellar, unopened.",
+    "categoryId": 9,
+    "sellerId": "{{current_user_id}}",
+    "price": 1453.95,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 7,
+    "imageUrl": "https://example.com/images/vintage-bordeaux-wine-collection-\u2013-ten-1995-bottles-from-premier-cru-estates.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 743.51,
+    "currentBid": 770.77,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

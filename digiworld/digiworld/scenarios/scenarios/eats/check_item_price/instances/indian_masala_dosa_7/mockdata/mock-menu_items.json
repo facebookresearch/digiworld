@@ -1,0 +1,15 @@
+[
+  {
+    "id": 90001,
+    "restaurantId": 90001,
+    "categoryId": 90001,
+    "name": "Masala Dosa",
+    "description": "Crispy rice-lentil crepe filled with spiced potato mixture, served with coconut chutney.",
+    "price": 9.75,
+    "image": "https://images.unsplash.com/photo-1569058242567-93de6f36f8e6?auto=format&fit=crop&w=600&q=80",
+    "calories": 380,
+    "isPopular": 0,
+    "isActive": 1,
+    "position": 1
+  }
+]

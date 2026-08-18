@@ -1,0 +1,10 @@
+{
+  "task_name": "Set Home Stop to <stop_name>",
+  "app_name": "transit",
+  "scenario_class": "SetHomeStopScenario",
+  "parameters": [
+    "stop_name"
+  ],
+  "context_fields": [],
+  "description": "Set the user's home stop to a specified transit stop."
+}

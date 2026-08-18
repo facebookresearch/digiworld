@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 1,
+    "categoryId": 4,
+    "title": "Why Inception Still Baffles Audiences",
+    "description": "We break down the mind\u2011bending layers of Christopher Nolan's masterpiece and explore theories that still spark debate. Prepare for a deep dive!",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 2598,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 3357,
+    "likeCount": 96,
+    "commentCount": 1,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

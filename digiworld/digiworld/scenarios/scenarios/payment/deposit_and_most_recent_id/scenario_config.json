@@ -1,0 +1,14 @@
+{
+  "task_name": "Deposit $<amount> to my Andojo Pay account using <deposit_method>, then tell me the transaction ID of my most recent transaction",
+  "app_name": "payment",
+  "scenario_class": "DepositAndMostRecentIdScenario",
+  "parameters": [
+    "amount",
+    "deposit_method"
+  ],
+  "context_fields": [
+    "current_user_pin"
+  ],
+  "description": "Deposit a specified amount and then report the transaction ID of the most recent transaction",
+  "additional_mockdata": false
+}

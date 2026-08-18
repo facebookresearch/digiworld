@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Stainless Steel 3\u2011Piece Kitchen Shears Set",
+    "description": "Cut, trim, and portion with precision using this 3\u2011piece stainless steel kitchen shears set, which includes a standard pair, a poultry shears, and a herb snip. The ergonomic handles stay cool, and the built\u2011in bottle opener adds convenience. All blades are dishwasher safe.",
+    "shortDescription": "A 3\u2011piece stainless steel kitchen shears set with built\u2011in bottle opener.",
+    "rating": 2.0,
+    "reviewCount": 1,
+    "seller": "ShearSharp Tools",
+    "price": 504.36,
+    "discountedPrice": 479.14,
+    "discountPercent": 5,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 22,
+    "subcategoryName": "Kitchen Tools",
+    "inStock": true,
+    "stockCount": 59,
+    "imageUrl": "/85_1",
+    "specs": "{\"material\": \"Stainless steel blades and ergonomic plastic handles\", \"dimensions\": \"Each shear: 9\\\" length\", \"weight\": \"0.9 lbs\", \"warranty\": \"1 year warranty\", \"color\": \"Silver blades with black handles\", \"careInstructions\": \"Hand wash; dry blades after cleaning\"}",
+    "tags": "[\"tools\", \"kitchen\", \"home\", \"premium\", \"best\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

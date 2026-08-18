@@ -1,0 +1,9 @@
+{
+  "task_name": "Add \"<item>\" to my wishlist",
+  "app_name": "qwikshop",
+  "scenario_class": "AddItemToWishlistScenario",
+  "parameters": ["item"],
+  "context_fields": [],
+  "description": "Add a specific product to the user's wishlist.",
+  "additional_mockdata": true
+}

@@ -1,0 +1,12 @@
+{
+  "task_name": "Book a ride from <origin> to <destination> with a <car_type> with any payment method",
+  "app_name": "ryde",
+  "scenario_class": "BookRideWithCarTypeScenario",
+  "parameters": [
+    "origin",
+    "destination",
+    "car_type"
+  ],
+  "context_fields": [],
+  "description": "Book a ride from an origin location to a destination location with a specific car type"
+}

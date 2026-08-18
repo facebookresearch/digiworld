@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Organic Vitamin C 500mg Capsules",
+    "description": "These organic Vitamin C capsules provide 500mg of ascorbic acid per serving, supporting immune health and antioxidant protection. Sourced from non-GMO citrus fruits, they are free from artificial colors and preservatives. Ideal for daily supplementation during cold season.",
+    "shortDescription": "Organic Vitamin C capsules supporting immune health and antioxidant protection.",
+    "rating": 2.7,
+    "reviewCount": 0,
+    "seller": "Nature's Harvest Co.",
+    "price": 727.94,
+    "discountedPrice": 451.32,
+    "discountPercent": 38,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 63,
+    "subcategoryName": "Vitamins",
+    "inStock": true,
+    "stockCount": 108,
+    "imageUrl": "/249_1",
+    "specs": "{\"ingredients\": \"Organic Acerola Cherry Extract, Ascorbic Acid, Vegetable Cellulose (capsule)\", \"dosage\": \"One capsule daily with water\", \"weight\": \"60 capsules (30g total)\", \"expiryPeriod\": \"24 months from manufacture\", \"madeIn\": \"USA\", \"certifications\": \"USDA Organic, NSF Certified for Sport, GMP\"}",
+    "tags": "[\"wellness\", \"health\", \"vitamins\", \"popular\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

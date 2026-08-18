@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Adjustable Dashboard Phone Holder",
+    "description": "This holder clamps securely to any standard dashboard and features a 360-degree swivel joint for optimal viewing angles. Its adjustable arms accommodate phones of various sizes, and the silicone pads protect your vehicle's surface from scratches.",
+    "shortDescription": "Secure 360\u00b0 rotating phone holder for any dashboard.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Auto Essentials Co.",
+    "price": 251.63,
+    "discountedPrice": 239.05,
+    "discountPercent": 5,
+    "categoryId": 8,
+    "categoryName": "Automotive",
+    "subcategoryId": 57,
+    "subcategoryName": "Car Accessories",
+    "inStock": true,
+    "stockCount": 174,
+    "imageUrl": "/225_1",
+    "specs": "{\"material\": \"ABS plastic with silicone pads\", \"compatibility\": \"Fits smartphones 4.5\u20116.7 inches, compatible with LumaPhone and Nimbus OS devices\", \"dimensions\": \"115 mm L x 70 mm W x 85 mm H\", \"weight\": \"180 g\", \"warranty\": \"1 year limited warranty\", \"madeIn\": \"China\"}",
+    "tags": "[\"automotive\", \"accessories\", \"car\", \"best\", \"popular\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

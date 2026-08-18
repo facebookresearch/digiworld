@@ -1,0 +1,22 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Artisan Handcrafted Soy Candle",
+    "description": "A hand-poured soy candle infused with natural essential oils, offering a clean, long-lasting fragrance.",
+    "shortDescription": "Handcrafted soy candle",
+    "price": 304.99,
+    "discountedPrice": 259.24,
+    "discountPercent": 15,
+    "rating": 3.2,
+    "reviewCount": 204,
+    "seller": "CandleCraft Studios",
+    "categoryName": "Home & Kitchen",
+    "subcategoryName": "Lighting",
+    "inStock": 1,
+    "stockCount": 34,
+    "imageUrl": "/product_6881",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

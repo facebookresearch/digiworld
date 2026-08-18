@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "contactName": "Calypso Nymere",
+    "contactEmail": "calypso.nymere@nexuspay.io",
+    "contactPhone": "+19370248113",
+    "isEnrolled": 1,
+    "isFavorite": 0,
+    "lastSentAmount": null,
+    "lastSentDate": null,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

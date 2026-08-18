@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "aisha.ali@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Weekend Plans",
+    "preview": "Hi there, are you free to meet up on Saturday or S...",
+    "body": "Hi there, are you free to meet up on Saturday or Sunday?",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_aisha_ali_weekend_plans",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "aisha.ali@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Travel Plans",
+    "preview": "Hi team, I am finalizing the travel plans for the ...",
+    "body": "Hi team, I am finalizing the travel plans for the conference next month.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_aisha_ali_travel_plans",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

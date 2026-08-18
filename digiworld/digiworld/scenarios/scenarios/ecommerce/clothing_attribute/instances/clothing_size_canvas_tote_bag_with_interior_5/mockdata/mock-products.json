@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Canvas Tote Bag with Interior Pocket",
+    "description": "Durable canvas tote bag featuring an interior zip pocket and reinforced handles. The spacious main compartment holds groceries or work essentials, while the subtle logo adds a stylish touch.",
+    "shortDescription": "Canvas tote bag with interior zip pocket and reinforced handles.",
+    "rating": 2.7,
+    "reviewCount": 3,
+    "seller": "Urban Accents",
+    "price": 526.3,
+    "discountedPrice": 315.78,
+    "discountPercent": 40,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 15,
+    "subcategoryName": "Accessories",
+    "inStock": true,
+    "stockCount": 95,
+    "imageUrl": "/60_1",
+    "specs": "{\"material\": \"100% Cotton canvas\", \"careInstructions\": \"Machine wash gentle cold, line dry\", \"fit\": \"Spacious\", \"size\": \"15 x 12 x 4 inches\", \"color\": \"Natural\", \"pattern\": \"Solid\"}",
+    "tags": "[\"accessories\", \"clothing\", \"popular\", \"premium\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

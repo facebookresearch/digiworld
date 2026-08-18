@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Retro Print Bikini Top and Bottom",
+    "description": "Retro\u2011inspired bikini set with a tropical print and adjustable ties. The high\u2011waisted bottom offers coverage, while the bandeau top provides a flattering fit.",
+    "shortDescription": "Retro tropical bikini set with adjustable ties and high\u2011waisted bottom.",
+    "rating": 3.0,
+    "reviewCount": 1,
+    "seller": "Coastal Wave Swimwear",
+    "price": 1910.89,
+    "discountedPrice": 1070.1,
+    "discountPercent": 44,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 16,
+    "subcategoryName": "Swimwear",
+    "inStock": true,
+    "stockCount": 148,
+    "imageUrl": "/62_1",
+    "specs": "{\"material\": \"90% Polyester, 10% Spandex\", \"careInstructions\": \"Rinse with cold water, hand wash, line dry\", \"fit\": \"Bikini fit\", \"size\": \"XS, S, M, L\", \"color\": \"Turquoise\", \"pattern\": \"Retro geometric print\"}",
+    "tags": "[\"swimwear\", \"clothing\", \"best\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

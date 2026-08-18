@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "nickname": "SilverArrow",
+    "make": "Marbach",
+    "model": "E-Line",
+    "color": "Silver",
+    "year": 2025,
+    "plateNumber": "MBE123",
+    "vehicleTypeId": 1,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

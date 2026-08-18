@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Aisha Patel",
+    "street": "654 Spruce Dr",
+    "city": "Chicago",
+    "state": "IL",
+    "pincode": "60601",
+    "phone": "3125550222",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "olivia.martinez@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Family Dinner Invitation This Saturday",
+    "preview": "Hello, I'm hosting a family dinner this Saturday a...",
+    "body": "Hello, I'm hosting a family dinner this Saturday at 6 pm and would love for you to come. Please let me know if you can make it so I can plan the seating.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_olivia_martinez_family_dinner_invitation",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

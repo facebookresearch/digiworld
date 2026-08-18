@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754120065,
+    "title": "First Edition, Signed Copy of 'The Night Circus' by Erin Morgenstern",
+    "description": "First edition hardcover of 'The Night Circus' signed by author Erin Morgenstern, with a personalized inscription on the title page.",
+    "categoryId": 1,
+    "sellerId": "{{current_user_id}}",
+    "price": 220.03,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 11,
+    "imageUrl": "https://example.com/images/first-edition,-signed-copy-of-'the-night-circus'-by-erin-morgenstern.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 85.36,
+    "currentBid": 128.29,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "task_name": "When was the \"<alert_title>\" service alert posted?",
+  "app_name": "transit",
+  "scenario_class": "AlertPostedDateScenario",
+  "parameters": [
+    "alert_title"
+  ],
+  "context_fields": [],
+  "description": "Retrieve the date a specific service alert was posted."
+}

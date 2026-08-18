@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "{{current_user_email}}",
+    "receiver": [
+      "facilities.manager@example.com"
+    ],
+    "subject": "Approval Required: Office Relocation Budget",
+    "preview": "Hello, approval is needed for the proposed office ...",
+    "body": "Hello, approval is needed for the proposed office relocation budget before the end of the month. Review the attached breakdown and respond with your decision.",
+    "timestamp": "{{recent_timestamp}}",
+    "unread": 0,
+    "read": 0,
+    "status": "draft",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 1,
+    "threadId": "draft_approval_required_office_relocation_bud",
+    "folder": "draft",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "task_name": "Send $<amount> to <nickname>",
+  "app_name": "payment",
+  "scenario_class": "SendPaymentToNicknameScenario",
+  "parameters": [
+    "amount",
+    "nickname"
+  ],
+  "context_fields": [
+    "current_user_pin"
+  ],
+  "description": "Send a payment of the specified amount to a contact by their nickname. You'll need to enter your PIN to confirm the transaction.",
+  "additional_mockdata": true
+}

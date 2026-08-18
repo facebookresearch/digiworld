@@ -1,0 +1,15 @@
+[
+  {
+    "id": 90001,
+    "restaurantId": 90001,
+    "categoryId": 90001,
+    "name": "Pesto Ricotta Gnocchi",
+    "description": "Soft potato gnocchi tossed in basil pesto and creamy ricotta, finished with toasted pine nuts.",
+    "price": 12.95,
+    "image": "https://images.unsplash.com/photo-1482049016688-2d3e1b311543?auto=format&fit=crop&w=600&q=80",
+    "calories": 540,
+    "isPopular": 0,
+    "isActive": 1,
+    "position": 1
+  }
+]

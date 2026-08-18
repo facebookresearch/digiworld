@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "omar.hassan@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Neighborhood cleanup",
+    "preview": "Hi are you joining the community cleanup this Sund...",
+    "body": "Hi are you joining the community cleanup this Sunday?",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_omar_hassan_neighborhood_cleanup",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "omar.hassan@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Recipe exchange",
+    "preview": "Hi I tried the lasagna recipe you sent and it turn...",
+    "body": "Hi I tried the lasagna recipe you sent and it turned out great would you like to swap recipes?",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_omar_hassan_recipe_exchange",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

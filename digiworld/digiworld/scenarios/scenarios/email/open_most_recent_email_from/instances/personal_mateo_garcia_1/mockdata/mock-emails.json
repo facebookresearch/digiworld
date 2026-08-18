@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "mateo.garcia@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Weekend hiking trip plans",
+    "preview": "Hi, I'm thinking about a weekend hike in the mount...",
+    "body": "Hi, I'm thinking about a weekend hike in the mountains next month. Let me know if you're interested and which trails you prefer.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_mateo_garcia_weekend_hiking_trip_plans",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "mateo.garcia@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Photos from our recent beach day",
+    "preview": "Hi there, I uploaded the photos from our beach day...",
+    "body": "Hi there, I uploaded the photos from our beach day to the shared folder. Feel free to download and add any captions you like.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_mateo_garcia_photos_from_our_recent_beac",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Mia Taylor",
+    "street": "2500 Walnut St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "pincode": "19103",
+    "phone": "2155557710",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

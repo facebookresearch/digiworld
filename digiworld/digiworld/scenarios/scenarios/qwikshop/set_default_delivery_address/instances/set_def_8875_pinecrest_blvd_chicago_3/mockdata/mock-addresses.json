@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Michael Brown",
+    "street": "8875 Pinecrest Blvd",
+    "city": "Chicago",
+    "state": "IL",
+    "pincode": "60614",
+    "phone": "3125550321",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

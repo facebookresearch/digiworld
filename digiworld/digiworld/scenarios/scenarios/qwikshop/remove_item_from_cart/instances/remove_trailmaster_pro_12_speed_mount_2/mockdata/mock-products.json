@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9902,
+    "name": "TrailMaster Pro 12-Speed Mountain Bike",
+    "description": "A lightweight aluminum frame mountain bike equipped with a 12-speed drivetrain and hydraulic disc brakes.",
+    "shortDescription": "12-speed mountain bike",
+    "price": 25.57,
+    "discountedPrice": 25.57,
+    "discountPercent": 0,
+    "rating": 3.7,
+    "reviewCount": 89,
+    "seller": "AdventureGear Co.",
+    "categoryName": "Sports & Outdoors",
+    "subcategoryName": "Cycling",
+    "inStock": 1,
+    "stockCount": 65,
+    "imageUrl": "/product_6514",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]
