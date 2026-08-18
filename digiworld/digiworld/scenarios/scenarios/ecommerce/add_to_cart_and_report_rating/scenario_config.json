@@ -1,0 +1,10 @@
+{
+  "task_name": "Add <item> to my cart, then tell me the star rating for the <item> item",
+  "app_name": "ecommerce",
+  "scenario_class": "AddToCartAndReportRatingScenario",
+  "parameters": [
+    "item"
+  ],
+  "context_fields": [],
+  "description": "Composed scenario: add an item to the cart, then report its star rating."
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "lena.ortiz@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Flash Sale: 50% Off All Summer Apparel!",
+    "preview": "Flash Sale: 50% Off All Summer...",
+    "body": "Hi there, we\u2019re excited to announce a limited-time flash sale with 50% off all summer clothing items. Shop now and enjoy free shipping on orders over $75 before midnight on Friday.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_target",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

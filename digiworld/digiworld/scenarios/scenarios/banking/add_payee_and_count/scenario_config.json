@@ -1,0 +1,15 @@
+{
+  "task_name": "Add a new payee named <payee_name> with account <account_number> in the <category> category, then tell me how many payees I have in the <category> category",
+  "app_name": "banking",
+  "scenario_class": "AddPayeeAndCountScenario",
+  "parameters": [
+    "payee_name",
+    "account_number",
+    "phone",
+    "category",
+    "address",
+    "description"
+  ],
+  "context_fields": [],
+  "description": "Composed scenario: add a new payee, then report the total number of payees in the same category."
+}

@@ -1,0 +1,9 @@
+{
+  "task_name": "Check into my flight to \"<destination>\", then tell me my seat number(s) for my flight from \"<origin>\" to \"<destination>\"",
+  "app_name": "flightbooking",
+  "scenario_class": "CheckInAndGetSeatNumbersScenario",
+  "parameters": ["origin", "destination"],
+  "context_fields": [],
+  "description": "Check into a flight and then report the seat number(s).",
+  "additional_mockdata": true
+}

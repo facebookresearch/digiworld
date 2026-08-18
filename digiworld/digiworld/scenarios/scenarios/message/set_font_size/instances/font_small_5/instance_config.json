@@ -1,0 +1,25 @@
+{
+  "parameters": {
+    "font_size": "small"
+  },
+  "compatible_profiles": [
+    "default",
+    "inactive_groups",
+    "large_groups",
+    "many_groups",
+    "media_heavy",
+    "missed_calls",
+    "new_user",
+    "unread_messages"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:28.225696+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

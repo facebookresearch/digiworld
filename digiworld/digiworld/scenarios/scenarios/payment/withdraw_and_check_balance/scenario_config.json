@@ -1,0 +1,14 @@
+{
+  "task_name": "Withdraw $<amount> from my account to Bank Account <bank_account>, then tell me my current wallet balance",
+  "app_name": "payment",
+  "scenario_class": "WithdrawAndCheckBalanceScenario",
+  "parameters": [
+    "amount",
+    "bank_account"
+  ],
+  "context_fields": [
+    "current_user_pin"
+  ],
+  "description": "Withdraw a specified amount to a bank account, then report the resulting wallet balance",
+  "additional_mockdata": false
+}

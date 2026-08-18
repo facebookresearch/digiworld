@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza Palace",
+    "description": "Best pizza in town!",
+    "address": "789 Broadway Ave, Metropolis, NY 10001",
+    "latitude": 40.7130,
+    "longitude": -74.0070,
+    "logo": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.7,
+    "deliveryFee": 2.99,
+    "minOrder": 10.0,
+    "deliveryRadius": 8,
+    "createdAt": "2024-06-01T12:10:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Sushi Central",
+    "description": "Fresh sushi and rolls.",
+    "address": "321 Ocean Dr, Gotham, NJ 07001",
+    "latitude": 40.7360,
+    "longitude": -74.1730,
+    "logo": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.5,
+    "deliveryFee": 3.5,
+    "minOrder": 15.0,
+    "deliveryRadius": 10,
+    "createdAt": "2024-06-01T12:15:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Burger Barn",
+    "description": "Juicy burgers and crispy fries.",
+    "address": "555 Burger Ln, Star City, CA 90001",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "logo": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.3,
+    "deliveryFee": 2.5,
+    "minOrder": 8.0,
+    "deliveryRadius": 7,
+    "createdAt": "2024-06-01T12:20:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Taco Town",
+    "description": "Authentic Mexican tacos and more.",
+    "address": "888 Fiesta Rd, Central City, TX 73301",
+    "latitude": 30.2672,
+    "longitude": -97.7431,
+    "logo": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.6,
+    "deliveryFee": 2.0,
+    "minOrder": 7.0,
+    "deliveryRadius": 6,
+    "createdAt": "2024-06-01T12:25:00Z"
+  }
+] 

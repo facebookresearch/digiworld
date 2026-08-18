@@ -1,0 +1,9 @@
+{
+  "task_name": "Delete the playlist \"<playlist_name>\"",
+  "app_name": "video",
+  "scenario_class": "DeletePlaylistScenario",
+  "parameters": ["playlist_name"],
+  "context_fields": [],
+  "description": "Delete a specified playlist",
+  "additional_mockdata": true
+}

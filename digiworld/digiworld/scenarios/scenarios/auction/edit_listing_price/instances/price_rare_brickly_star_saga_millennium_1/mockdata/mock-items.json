@@ -1,0 +1,22 @@
+[
+  {
+    "id": 182210023,
+    "title": "Rare LEGO Star Saga Centurion Falcon UCS 75192 Collector's Edition",
+    "description": "Collector's edition Centurion Falcon with all original pieces and instructions. Box is in good condition.",
+    "categoryId": 9,
+    "sellerId": "{{current_user_id}}",
+    "price": 517.12,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/rare-lego-star-wars-millennium-falcon-ucs-75192-collector's-edition.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

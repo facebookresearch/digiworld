@@ -1,0 +1,27 @@
+{
+  "parameters": {
+    "severity_filter": "All"
+  },
+  "compatible_profiles": [
+    "default",
+    "few_stops",
+    "frequent_traveler",
+    "many_lines",
+    "many_stops",
+    "multi_modal",
+    "new_user",
+    "peak_hours",
+    "service_disruptions",
+    "weekend_schedule"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:01:04.246216+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

@@ -1,0 +1,53 @@
+<!-- Copyright (c) Meta Platforms, Inc. and affiliates. -->
+| Email                        | Password     |
+|-----------------------------|--------------|
+| demetris_mitchell@gmail.com  | monkey123    |
+| eli.hahn18@hotmail.com       | iloveyou123  |
+| wayne.kovacek@gmail.com      | football123  |
+| luz85@yahoo.com              | admin123     |
+| julio_stamm89@gmail.com      | sunshine123  |
+| keven_shields@yahoo.com      | welcome123   |
+| wyman_flatley82@yahoo.com    | monkey123    |
+| hadley_tillman33@hotmail.com | qwerty123    |
+| laurence28@yahoo.com         | sunshine123  |
+| dale.hodkiewicz@yahoo.com    | welcome123   |
+| golden.corkery@yahoo.com     | qwerty123    |
+| rusty22@gmail.com            | qwerty123    |
+| cassie_rutherford21@yahoo.com| football123  |
+| brad_schaefer@hotmail.com    | football123  |
+| adelbert_collins@yahoo.com   | sunshine123  |
+| katherine52@gmail.com        | 123456789    |
+| joelle9@hotmail.com          | password123  |
+| alf10@yahoo.com              | letmein123   |
+| frieda68@yahoo.com           | admin123     |
+| marcel_fisher38@yahoo.com    | welcome123   |
+| cecelia78@gmail.com          | 123456789    |
+| lou48@yahoo.com              | sunshine123  |
+| adeline72@hotmail.com        | football123  |
+| raphael.heaney90@gmail.com   | welcome123   |
+| torrey53@gmail.com           | admin123     |
+| kyle_beatty20@hotmail.com    | football123  |
+| sonia0@hotmail.com           | sunshine123  |
+| bret56@hotmail.com           | sunshine123  |
+| jarvis.bergstrom7@hotmail.com| qwerty123    |
+| zula.jaskolski70@gmail.com   | 123456789    |
+| doris_farrell@hotmail.com    | sunshine123  |
+| carson_ohara38@gmail.com     | monkey123    |
+| roger37@gmail.com            | welcome123   |
+| winnifred32@yahoo.com        | qwerty123    |
+| izabella70@gmail.com         | monkey123    |
+| rogelio69@gmail.com          | password123  |
+| olin70@hotmail.com           | admin123     |
+| lempi.nader11@gmail.com      | iloveyou123  |
+| payton.quitzon77@gmail.com   | monkey123    |
+| josiane_bashirian66@gmail.com| monkey123    |
+| retha.leuschke@hotmail.com   | qwerty123    |
+| ignacio50@gmail.com          | welcome123   |
+| candace.hyatt0@hotmail.com   | iloveyou123  |
+| abdiel.west@hotmail.com      | 123456789    |
+| steve.pollich9@hotmail.com   | welcome123   |
+| rozella50@gmail.com          | admin123     |
+| jackie_will97@hotmail.com    | welcome123   |
+| ayden75@hotmail.com          | welcome123   |
+| roslyn.torp77@hotmail.com    | letmein123   |
+| elvera_hudson@hotmail.com    | qwerty123    | 

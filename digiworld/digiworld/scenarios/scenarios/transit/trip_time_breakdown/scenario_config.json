@@ -1,0 +1,14 @@
+{
+  "task_name": "I want to plan a trip from <stop_1> to <stop_2> departing <time>, find the <optimization>, take me to the Trip Details, and tell me how much <time_type> there is",
+  "app_name": "transit",
+  "scenario_class": "TripTimeBreakdownScenario",
+  "parameters": [
+    "stop_1",
+    "stop_2",
+    "time",
+    "optimization",
+    "time_type"
+  ],
+  "context_fields": [],
+  "description": "Retrieve a specific time breakdown from the trip details of an optimized route."
+}

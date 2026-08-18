@@ -1,0 +1,22 @@
+[
+  {
+    "id": 182220025,
+    "title": "Rare LEGO Star Saga 2000 Centurion Falcon UCS",
+    "description": "A highly sought-after collector's item, this LEGO set is complete and in excellent condition. Original box and instructions included.",
+    "categoryId": 9,
+    "sellerId": "{{current_user_id}}",
+    "price": 517.12,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/rare-lego-star-wars-2000-millennium-falcon-ucs.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

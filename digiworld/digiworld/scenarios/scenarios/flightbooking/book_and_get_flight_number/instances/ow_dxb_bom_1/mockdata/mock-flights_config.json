@@ -1,0 +1,18 @@
+[
+  {
+    "flight_id": "FC_EK1434",
+    "airline_id": "airline_ek",
+    "airline_code": "EK",
+    "flight_number": "EK1434",
+    "origin": "DXB",
+    "destination": "BOM",
+    "departure_time": "11:45",
+    "arrival_time": "18:32",
+    "duration_minutes": 407,
+    "fare": 783.97,
+    "currency": "USD",
+    "seats_available": 81,
+    "aircraft_type": "Boeing 777-300ER",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

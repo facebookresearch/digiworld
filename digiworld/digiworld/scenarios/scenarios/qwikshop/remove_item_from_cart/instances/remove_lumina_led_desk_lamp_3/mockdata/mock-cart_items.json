@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "cartId": 1,
+    "userId": 1,
+    "productId": 9903,
+    "productName": "Lumina LED Desk Lamp",
+    "productImage": "/product_9903",
+    "shortDescription": "LED desk lamp",
+    "seller": "BrightLiving",
+    "quantity": 4,
+    "price": 118.02,
+    "discountedPrice": 100.32,
+    "total": 401.28,
+    "inStock": 1
+  }
+]

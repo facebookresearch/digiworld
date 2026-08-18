@@ -1,0 +1,20 @@
+{
+  "parameters": {
+    "video_1": "Travel Tides: Kayaking the Azure Coast of Loria",
+    "video_2": "Gadget Garage: Repairing a Vintage Turntable",
+    "playlist_name": "Sunrise Chillhop Sessions"
+  },
+  "compatible_profiles": [
+    "comments_disabled"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:56.881222+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

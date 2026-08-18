@@ -1,0 +1,18 @@
+{
+  "task_name": "Show information about the last completed ride",
+  "app_name": "ryde",
+  "scenario_class": "OpenLastCompletedRideInfoScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Navigate to and view the details of the most recently completed ride",
+  "compatible_profiles": [
+    "default",
+    "excellent_feedback",
+    "high_rated_drivers",
+    "inactive_users",
+    "low_rated_drivers",
+    "new_user",
+    "poor_feedback",
+    "premium_fares"
+  ]
+}

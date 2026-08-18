@@ -1,0 +1,9 @@
+{
+  "task_name": "Create a scene with the name \"<scene_name>\", description \"<scene_description>\", icon <icon>, and add the <device_type> device named \"<device_name>\"",
+  "app_name": "smarthome",
+  "scenario_class": "CreateDeviceSceneScenario",
+  "parameters": ["scene_name", "scene_description", "icon", "device_type", "device_name"],
+  "context_fields": [],
+  "description": "Create a new scene with a specific device linked to it.",
+  "additional_mockdata": true
+}

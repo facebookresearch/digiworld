@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "fatima.al-mansoor@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Client feedback on proposal XYZ",
+    "preview": "Hi team, The client has sent their feedback on pro...",
+    "body": "Hi team, The client has sent their feedback on proposal XYZ. We need to address the highlighted concerns before the next meeting.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_fatima_al_mansoor_client_feedback_on_pro",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "fatima.al-mansoor@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Revised proposal XYZ submitted",
+    "preview": "Hello, The revised version of proposal XYZ has bee...",
+    "body": "Hello, The revised version of proposal XYZ has been submitted to the client. Please review the changes and confirm receipt.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_fatima_al_mansoor_revised_proposal_xyz_s",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

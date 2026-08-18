@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Tuscan Hearth",
+    "description": "Hand-rolled pappardelle tossed in a slow-cooked San Marzano tomato rag\u00f9.",
+    "address": "900 Magnolia Blvd, Nashville, TN 37203",
+    "latitude": 36.1627,
+    "longitude": -86.7816,
+    "logo": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 3.6,
+    "deliveryFee": 2.82,
+    "minOrder": 20.0,
+    "deliveryRadius": 10,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

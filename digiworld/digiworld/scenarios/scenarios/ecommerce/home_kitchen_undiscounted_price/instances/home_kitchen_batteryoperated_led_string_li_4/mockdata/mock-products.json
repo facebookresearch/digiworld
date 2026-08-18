@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Battery\u2011Operated LED String Lights, 30\u2011ft",
+    "description": "Create cozy ambience with 30\u2011foot battery\u2011operated LED string lights that twinkle in multiple modes. The weather\u2011proof design makes them suitable for indoor or outdoor use. Each set includes a remote for easy color and speed adjustments.",
+    "shortDescription": "30\u2011foot battery\u2011operated LED string lights with multiple modes.",
+    "rating": 3.0,
+    "reviewCount": 1,
+    "seller": "TwinkleString Lights Co.",
+    "price": 606.78,
+    "discountedPrice": 382.27,
+    "discountPercent": 37,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 24,
+    "subcategoryName": "Lighting",
+    "inStock": true,
+    "stockCount": 135,
+    "imageUrl": "/96_1",
+    "specs": "{\"material\": \"PVC\\u2011coated LED strands with copper wiring\", \"dimensions\": \"30 ft length, 0.2 in diameter\", \"weight\": \"0.5 lbs\", \"warranty\": \"6\\u2011month warranty\", \"color\": \"Warm white\", \"careInstructions\": \"Insert 3 AA batteries; avoid water exposure; store indoors when not in use\"}",
+    "tags": "[\"lighting\", \"kitchen\", \"home\", \"best\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

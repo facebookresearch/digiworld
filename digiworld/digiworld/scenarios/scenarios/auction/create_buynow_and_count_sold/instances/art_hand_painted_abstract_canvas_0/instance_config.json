@@ -1,0 +1,29 @@
+{
+  "parameters": {
+    "category": "Art",
+    "title": "Hand-Painted Abstract Canvas - Vibrant Sunset",
+    "price": "1480.33"
+  },
+  "compatible_profiles": [
+    "auction_heavy",
+    "budget_items",
+    "buy_now_focus",
+    "default",
+    "ending_soon",
+    "failed_payments",
+    "high_bid_volume",
+    "new_seller",
+    "power_seller",
+    "premium_items"
+  ],
+  "metadata": {
+    "created_at": "2026-04-11T12:00:00.000000+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

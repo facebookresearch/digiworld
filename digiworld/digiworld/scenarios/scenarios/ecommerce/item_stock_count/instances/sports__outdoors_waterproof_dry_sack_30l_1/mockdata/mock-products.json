@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Waterproof Dry Sack 30L",
+    "description": "Made from 500-D ripstop nylon with a TPU coating, this 30-liter dry sack keeps gear dry in rain or while crossing streams. A roll-top seal and reinforced seams provide airtight protection. The bright orange color improves visibility in the backcountry.",
+    "shortDescription": "30-liter waterproof dry sack with roll-top seal for gear protection.",
+    "rating": 1.0,
+    "reviewCount": 1,
+    "seller": "DryGuard Gear",
+    "price": 229.15,
+    "discountedPrice": 229.15,
+    "discountPercent": 0,
+    "categoryId": 4,
+    "categoryName": "Sports & Outdoors",
+    "subcategoryId": 26,
+    "subcategoryName": "Camping Gear",
+    "inStock": true,
+    "stockCount": 10,
+    "imageUrl": "/103_1",
+    "specs": "{\"material\": \"PVC-coated polyester\", \"weight\": \"0.5 lbs\", \"dimensions\": \"30 x 20 x 15 cm\", \"warranty\": \"5-year limited\", \"color\": \"cobalt blue\", \"suitableFor\": \"waterproof storage, kayaking, hiking gear protection\"}",
+    "tags": "[\"camping\", \"outdoors\", \"sports\", \"gear\", \"high-quality\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

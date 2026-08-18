@@ -1,0 +1,313 @@
+[
+  {
+    "id": "route-1",
+    "originStopId": "stop-8",
+    "destinationStopId": "stop-2",
+    "summary": "Fastest route via T1 Peninsula Rail",
+    "departureTime": "08:05",
+    "arrivalTime": "08:42",
+    "totalDurationMinutes": 37,
+    "totalFare": 5.25,
+    "transfers": 0,
+    "walkingDistanceMeters": 275,
+    "tags": ["fastest", "fewest-transfers"],
+    "createdAt": "2024-11-24T08:00:00.000Z",
+    "steps": [
+      {
+        "id": "step-1-1",
+        "sequence": 1,
+        "type": "walk",
+        "description": "Walk to Seaside Terrace train platform",
+        "durationMinutes": 5,
+        "distanceMeters": 75,
+        "lineId": null,
+        "fromStopId": null,
+        "toStopId": null
+      },
+      {
+        "id": "step-1-2",
+        "sequence": 2,
+        "type": "ride",
+        "description": "Ride T1 Peninsula Rail to Civic Center Hub",
+        "durationMinutes": 30,
+        "distanceMeters": null,
+        "lineId": "line-t1",
+        "fromStopId": "stop-8",
+        "toStopId": "stop-2"
+      },
+      {
+        "id": "step-1-3",
+        "sequence": 3,
+        "type": "walk",
+        "description": "Walk to destination",
+        "durationMinutes": 2,
+        "distanceMeters": 200,
+        "lineId": null,
+        "fromStopId": null,
+        "toStopId": null
+      }
+    ]
+  },
+  {
+    "id": "route-2",
+    "originStopId": "stop-8",
+    "destinationStopId": "stop-2",
+    "summary": "Budget route via B1 bus",
+    "departureTime": "08:10",
+    "arrivalTime": "08:55",
+    "totalDurationMinutes": 45,
+    "totalFare": 3.5,
+    "transfers": 0,
+    "walkingDistanceMeters": 350,
+    "tags": ["lowest-cost", "fewest-transfers"],
+    "createdAt": "2024-11-24T08:00:00.000Z",
+    "steps": [
+      {
+        "id": "step-2-1",
+        "sequence": 1,
+        "type": "walk",
+        "description": "Walk to Seaside Terrace bus stop",
+        "durationMinutes": 3,
+        "distanceMeters": 200,
+        "lineId": null,
+        "fromStopId": null,
+        "toStopId": null
+      },
+      {
+        "id": "step-2-2",
+        "sequence": 2,
+        "type": "ride",
+        "description": "Ride B1 Coastal Connector to Civic Center Hub",
+        "durationMinutes": 40,
+        "distanceMeters": null,
+        "lineId": "line-b1",
+        "fromStopId": "stop-8",
+        "toStopId": "stop-2"
+      },
+      {
+        "id": "step-2-3",
+        "sequence": 3,
+        "type": "walk",
+        "description": "Walk to destination",
+        "durationMinutes": 2,
+        "distanceMeters": 150,
+        "lineId": null,
+        "fromStopId": null,
+        "toStopId": null
+      }
+    ]
+  },
+  {
+    "id": "route-3",
+    "originStopId": "stop-8",
+    "destinationStopId": "stop-2",
+    "summary": "Scenic coastal route via B3 + S1",
+    "departureTime": "08:15",
+    "arrivalTime": "09:05",
+    "totalDurationMinutes": 50,
+    "totalFare": 4.75,
+    "transfers": 1,
+    "walkingDistanceMeters": 450,
+    "tags": [],
+    "createdAt": "2024-11-24T08:00:00.000Z",
+    "steps": [
+      {
+        "id": "step-3-1",
+        "sequence": 1,
+        "type": "walk",
+        "description": "Walk to Seaside Terrace bus stop",
+        "durationMinutes": 3,
+        "distanceMeters": 200,
+        "lineId": null,
+        "fromStopId": null,
+        "toStopId": null
+      },
+      {
+        "id": "step-3-2",
+        "sequence": 2,
+        "type": "ride",
+        "description": "Ride B3 Harborfront Express to Harbor Exchange",
+        "durationMinutes": 15,
+        "distanceMeters": null,
+        "lineId": "line-b3",
+        "fromStopId": "stop-8",
+        "toStopId": "stop-1"
+      },
+      {
+        "id": "step-3-3",
+        "sequence": 3,
+        "type": "walk",
+        "description": "Transfer to subway",
+        "durationMinutes": 4,
+        "distanceMeters": 150,
+        "lineId": null,
+        "fromStopId": null,
+        "toStopId": null
+      },
+      {
+        "id": "step-3-4",
+        "sequence": 4,
+        "type": "wait",
+        "description": "Wait for S1 Market Subway",
+        "durationMinutes": 6,
+        "distanceMeters": null,
+        "lineId": null,
+        "fromStopId": "stop-1",
+        "toStopId": null
+      },
+      {
+        "id": "step-3-5",
+        "sequence": 5,
+        "type": "ride",
+        "description": "Ride S1 Market Subway to Civic Center Hub",
+        "durationMinutes": 20,
+        "distanceMeters": null,
+        "lineId": "line-s1",
+        "fromStopId": "stop-1",
+        "toStopId": "stop-2"
+      },
+      {
+        "id": "step-3-6",
+        "sequence": 6,
+        "type": "walk",
+        "description": "Walk to destination",
+        "durationMinutes": 2,
+        "distanceMeters": 100,
+        "lineId": null,
+        "fromStopId": null,
+        "toStopId": null
+      }
+    ]
+  },
+  {
+    "id": "route-4",
+    "originStopId": "stop-2",
+    "destinationStopId": "stop-5",
+    "summary": "Direct subway via S3 Tech Line",
+    "departureTime": "09:00",
+    "arrivalTime": "09:25",
+    "totalDurationMinutes": 25,
+    "totalFare": 4.0,
+    "transfers": 0,
+    "walkingDistanceMeters": 220,
+    "tags": ["fastest", "fewest-transfers"],
+    "createdAt": "2024-11-24T08:30:00.000Z",
+    "steps": [
+      {
+        "id": "step-4-1",
+        "sequence": 1,
+        "type": "walk",
+        "description": "Walk to Civic Center Hub subway platform",
+        "durationMinutes": 3,
+        "distanceMeters": 120,
+        "lineId": null,
+        "fromStopId": null,
+        "toStopId": null
+      },
+      {
+        "id": "step-4-2",
+        "sequence": 2,
+        "type": "ride",
+        "description": "Ride S3 Tech Line to Innovation Park",
+        "durationMinutes": 20,
+        "distanceMeters": null,
+        "lineId": "line-s3",
+        "fromStopId": "stop-2",
+        "toStopId": "stop-5"
+      },
+      {
+        "id": "step-4-3",
+        "sequence": 3,
+        "type": "walk",
+        "description": "Walk to campus entrance",
+        "durationMinutes": 2,
+        "distanceMeters": 100,
+        "lineId": null,
+        "fromStopId": null,
+        "toStopId": null
+      }
+    ]
+  },
+  {
+    "id": "route-5",
+    "originStopId": "stop-6",
+    "destinationStopId": "stop-11",
+    "summary": "Tech district connection via S2 + S3",
+    "departureTime": "10:30",
+    "arrivalTime": "11:10",
+    "totalDurationMinutes": 40,
+    "totalFare": 4.5,
+    "transfers": 1,
+    "walkingDistanceMeters": 380,
+    "tags": [],
+    "createdAt": "2024-11-24T09:00:00.000Z",
+    "steps": [
+      {
+        "id": "step-5-1",
+        "sequence": 1,
+        "type": "walk",
+        "description": "Walk to University Square subway entrance",
+        "durationMinutes": 4,
+        "distanceMeters": 180,
+        "lineId": null,
+        "fromStopId": null,
+        "toStopId": null
+      },
+      {
+        "id": "step-5-2",
+        "sequence": 2,
+        "type": "ride",
+        "description": "Ride S2 Northbound Express to Civic Center Hub",
+        "durationMinutes": 15,
+        "distanceMeters": null,
+        "lineId": "line-s2",
+        "fromStopId": "stop-6",
+        "toStopId": "stop-2"
+      },
+      {
+        "id": "step-5-3",
+        "sequence": 3,
+        "type": "walk",
+        "description": "Transfer to S3 platform",
+        "durationMinutes": 5,
+        "distanceMeters": 150,
+        "lineId": null,
+        "fromStopId": null,
+        "toStopId": null
+      },
+      {
+        "id": "step-5-4",
+        "sequence": 4,
+        "type": "wait",
+        "description": "Wait for S3 Tech Line",
+        "durationMinutes": 6,
+        "distanceMeters": null,
+        "lineId": null,
+        "fromStopId": "stop-2",
+        "toStopId": null
+      },
+      {
+        "id": "step-5-5",
+        "sequence": 5,
+        "type": "ride",
+        "description": "Ride S3 Tech Line to Tech Plaza",
+        "durationMinutes": 8,
+        "distanceMeters": null,
+        "lineId": "line-s3",
+        "fromStopId": "stop-2",
+        "toStopId": "stop-11"
+      },
+      {
+        "id": "step-5-6",
+        "sequence": 6,
+        "type": "walk",
+        "description": "Walk to office entrance",
+        "durationMinutes": 2,
+        "distanceMeters": 50,
+        "lineId": null,
+        "fromStopId": null,
+        "toStopId": null
+      }
+    ]
+  }
+]

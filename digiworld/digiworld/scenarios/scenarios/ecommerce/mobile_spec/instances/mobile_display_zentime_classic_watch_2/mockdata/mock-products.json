@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "ZenTime Classic Watch",
+    "description": "ZenTime Classic Watch provides a minimalist analog design with subtle smart notifications via a discreet LED ring. Tracks daily activity and syncs with major health apps. Water\u2011resistant to 30\u202fm and features a sapphire\u2011crystal glass. Battery lasts up to 6 months before recharging.",
+    "shortDescription": "Minimalist analog watch with subtle smart alerts and sapphire crystal.",
+    "rating": 2.7,
+    "reviewCount": 3,
+    "seller": "ClassicTime Co.",
+    "price": 1038.7,
+    "discountedPrice": 675.16,
+    "discountPercent": 35,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 6,
+    "subcategoryName": "Smartwatches",
+    "inStock": true,
+    "stockCount": 104,
+    "imageUrl": "/24_1",
+    "specs": "{\"display\": \"1.0-inch OLED, 240x240\", \"processor\": \"Cellwave QCC3026\", \"ram\": \"256 MB\", \"storage\": \"2 GB\", \"battery\": \"260 mAh\", \"os\": \"Proprietary\", \"connectivity\": \"Bluetooth 5.0, NFC\"}",
+    "tags": "[\"smartwatches\", \"electronics\", \"premium\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

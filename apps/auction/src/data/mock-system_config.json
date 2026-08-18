@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "key": "transactions_succeed",
+    "value": "true",
+    "dataType": "boolean",
+    "category": "features",
+    "description": "Control if transactions succeed or fail for all users in the system",
+    "updatedAt": "2025-12-05 09:55:295508"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Cast Iron Skillet 10\u2011Inch with Helper Handle",
+    "description": "Our 10\u2011inch cast iron skillet features a smooth pre\u2011seasoned surface that develops a natural non\u2011stick patina over time. The helper handle provides extra grip for safe flipping and transferring. Ideal for searing, baking, or stovetop cooking, it can move from the burner to the oven without warping.",
+    "shortDescription": "10\u2011inch cast iron skillet with helper handle for easy flipping.",
+    "rating": 3.2,
+    "reviewCount": 5,
+    "seller": "Rustic Kitchenware Ltd.",
+    "price": 496.82,
+    "discountedPrice": 372.62,
+    "discountPercent": 25,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 17,
+    "subcategoryName": "Cookware",
+    "inStock": true,
+    "stockCount": 160,
+    "imageUrl": "/66_1",
+    "specs": "{\"material\": \"Pre-seasoned cast iron\", \"dimensions\": \"10-inch diameter x 2.5-inch height\", \"weight\": \"5 lbs\", \"warranty\": \"Lifetime\", \"color\": \"Black\", \"careInstructions\": \"Season after each use; hand wash; dry thoroughly\"}",
+    "tags": "[\"kitchen\", \"home\", \"cookware\", \"popular\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

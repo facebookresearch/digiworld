@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Calcium Magnesium Zinc 500 mg Tablets",
+    "description": "Calcium Magnesium Zinc tablets combine three key minerals in a balanced 500 mg blend to promote strong bones, muscle function, and immune health. The tablet is chewable and contains no gluten or dairy.",
+    "shortDescription": "Calcium, magnesium, and zinc tablets for strong bones and muscles.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Nature's Core",
+    "price": 1765.76,
+    "discountedPrice": 1271.35,
+    "discountPercent": 28,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 63,
+    "subcategoryName": "Vitamins",
+    "inStock": true,
+    "stockCount": 67,
+    "imageUrl": "/252_1",
+    "specs": "{\"ingredients\": \"Calcium carbonate, magnesium oxide, zinc gluconate, vitamin D3 (cholecalciferol), microcrystalline cellulose, magnesium stearate\", \"dosage\": \"2 tablets daily\", \"weight\": \"120 tablets (60 g)\", \"expiryPeriod\": \"24 months\", \"madeIn\": \"Australia\", \"certifications\": \"GMP, FDA, ISO 22000, Non-GMO\"}",
+    "tags": "[\"vitamins\", \"wellness\", \"health\", \"premium\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

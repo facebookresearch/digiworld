@@ -1,0 +1,20 @@
+{
+  "parameters": {
+    "item_to_remove": "Clear Stackable Plastic Storage Bins, Set of 6",
+    "card_name": "Isabella G. Brown",
+    "promo_code": "WELCOME50"
+  },
+  "compatible_profiles": [
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:20.024668+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

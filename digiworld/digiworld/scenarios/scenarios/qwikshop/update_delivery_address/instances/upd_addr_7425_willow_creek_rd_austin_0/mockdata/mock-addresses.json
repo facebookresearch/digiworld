@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Emily Nguyen",
+    "street": "7425 Willow Creek Rd",
+    "city": "Austin",
+    "state": "TX",
+    "pincode": "78701",
+    "phone": "5125551234",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

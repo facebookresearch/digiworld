@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9901,
+    "name": "EcoBrew Reusable Coffee Cup",
+    "description": "A double\u2011wall insulated stainless steel cup that keeps drinks hot for 6 hours and cold for 12.",
+    "shortDescription": "Insulated coffee cup",
+    "price": 447.17,
+    "discountedPrice": 447.17,
+    "discountPercent": 0,
+    "rating": 4.6,
+    "reviewCount": 13,
+    "seller": "GreenLiving Co.",
+    "categoryName": "Home & Kitchen",
+    "subcategoryName": "Kitchen Tools",
+    "inStock": 1,
+    "stockCount": 50,
+    "imageUrl": "/product_7924",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

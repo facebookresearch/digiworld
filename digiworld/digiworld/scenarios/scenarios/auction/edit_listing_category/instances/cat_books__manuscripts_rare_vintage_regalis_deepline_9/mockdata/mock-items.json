@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754790143,
+    "title": "Rare Vintage Regalis Deepline \u2013 1968 Model with Original Bracelet",
+    "description": "Original 1968 Regalis Deepline in pristine condition, complete with original box and papers.",
+    "categoryId": 1,
+    "sellerId": "{{current_user_id}}",
+    "price": 965.81,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 5,
+    "imageUrl": "https://example.com/images/rare-vintage-rolex-submariner-\u2013-1968-model-with-original-bracelet.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 421.12,
+    "currentBid": 702.13,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

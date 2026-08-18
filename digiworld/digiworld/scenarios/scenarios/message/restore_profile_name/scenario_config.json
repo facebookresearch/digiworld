@@ -1,0 +1,9 @@
+{
+    "task_name": "Change your profile name back to your original name",
+    "app_name": "message",
+    "scenario_class": "RestoreProfileNameScenario",
+    "parameters": [],
+    "context_fields": ["current_user_id", "current_user_name"],
+    "description": "Restore the user's profile name to its original value",
+    "additional_mockdata": false
+}

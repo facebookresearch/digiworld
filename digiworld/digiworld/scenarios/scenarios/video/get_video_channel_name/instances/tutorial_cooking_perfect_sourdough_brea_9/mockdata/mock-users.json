@@ -1,0 +1,13 @@
+[
+  {
+    "id": 9998,
+    "email": "creator_4733@example.com",
+    "username": "Baker's Craft Studio",
+    "password": "password123",
+    "avatar": "",
+    "bio": "",
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{past_timestamp}}",
+    "deletedAt": null
+  }
+]

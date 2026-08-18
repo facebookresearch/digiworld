@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Soft Sherpa Fleece Lined Jacket",
+    "description": "This soft sherpa fleece-lined jacket combines coziness with casual flair. The plush interior provides warmth, and the relaxed fit allows easy layering. Stand-up collar and ribbed cuffs complete the look.",
+    "shortDescription": "Sherpa fleece-lined jacket for cozy casual wear.",
+    "rating": 3.7,
+    "reviewCount": 3,
+    "seller": "Cozy Ridge Fashions",
+    "price": 1062.81,
+    "discountedPrice": 627.06,
+    "discountPercent": 41,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 12,
+    "subcategoryName": "Jackets",
+    "inStock": true,
+    "stockCount": 200,
+    "imageUrl": "/48_1",
+    "specs": "{\"material\": \"100% polyester sherpa fleece\", \"careInstructions\": \"Machine wash cold, tumble dry low, do not iron\", \"fit\": \"Relaxed fit\", \"size\": \"XS, S, M, L, XL\", \"color\": \"Charcoal\", \"pattern\": \"Solid\"}",
+    "tags": "[\"clothing\", \"jackets\", \"top-rated\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

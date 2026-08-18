@@ -1,0 +1,18 @@
+[
+  {
+    "code": "SEA",
+    "name": "SEA International Airport",
+    "city": "SEA",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "code": "HKG",
+    "name": "HKG International Airport",
+    "city": "HKG",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

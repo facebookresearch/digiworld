@@ -1,0 +1,53 @@
+[
+  {
+    "booking_id": "BK-TEST-VDXAJI0Y",
+    "booking_reference": "VDXAJI0Y",
+    "user_id": "{{current_user_id}}",
+    "trip_type": "one_way",
+    "booking_date": "{{end_timestamp}}",
+    "status": "confirmed",
+    "payment_status": "paid",
+    "total_price": 1268.34,
+    "refund_amount": 0,
+    "amount_paid": 1268.34,
+    "currency": "USD",
+    "flights": [
+      {
+        "flight_id": "AA4598_2026-08-15",
+        "airline_code": "AA",
+        "flight_number": "AA4598",
+        "origin": "LAX",
+        "destination": "NRT",
+        "departure_time": "2026-08-15T15:00:00Z",
+        "arrival_time": "2026-08-15T22:50:00Z",
+        "duration_minutes": 470,
+        "fare": 1268.34,
+        "segment": "outbound",
+        "status": "confirmed"
+      }
+    ],
+    "passengers": [
+      {
+        "passenger_id": "P-VDXAJI0Y-520651",
+        "first_name": "Test",
+        "last_name": "Traveler",
+        "email": "test.traveler@example.com",
+        "phone": "+1-555-5386",
+        "date_of_birth": "1977-04-19",
+        "passport_number": "X52235350",
+        "seat_assignments": [
+          {
+            "flight_id": "AA4598_2026-08-15",
+            "seat_number": "7F",
+            "check_in_status": "not_checked_in",
+            "check_in_time": null
+          }
+        ],
+        "ticket_number": "TK-VDXAJI0Y-520651",
+        "created_at": "2026-01-01T00:00:00Z"
+      }
+    ],
+    "created_at": "{{end_timestamp}}",
+    "updated_at": "{{end_timestamp}}"
+  }
+]

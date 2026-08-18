@@ -1,0 +1,18 @@
+[
+  {
+    "flight_id": "FC_QF1106",
+    "airline_id": "airline_qf",
+    "airline_code": "QF",
+    "flight_number": "QF1106",
+    "origin": "SYD",
+    "destination": "AKL",
+    "departure_time": "10:45",
+    "arrival_time": "19:13",
+    "duration_minutes": 508,
+    "fare": 561.23,
+    "currency": "USD",
+    "seats_available": 65,
+    "aircraft_type": "Airbus A350-900",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

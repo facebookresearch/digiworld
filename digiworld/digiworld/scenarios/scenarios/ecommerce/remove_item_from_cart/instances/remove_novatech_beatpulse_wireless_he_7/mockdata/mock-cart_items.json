@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "cart_id": "{{current_user_cart_id}}",
+    "user_id": "{{current_user_id}}",
+    "product_id": 14,
+    "product_name": "NovaTech BeatPulse Wireless Headset",
+    "product_image": "https://picsum.photos/seed/mock/600/400",
+    "short_description": "Mock product",
+    "seller": "GadgetHub",
+    "quantity": 1,
+    "price": 586.56,
+    "discounted_price": 469.25,
+    "total": 469.25,
+    "saved_amount": 117.31,
+    "in_stock": 1,
+    "category_name": "Electronics",
+    "subcategory_name": "Headphones",
+    "sku": "",
+    "added_at": "2025-06-15 12:00:00.000",
+    "created_at": "2025-06-15 12:00:00.000",
+    "updated_at": "2025-06-15 12:00:00.000"
+  }
+]

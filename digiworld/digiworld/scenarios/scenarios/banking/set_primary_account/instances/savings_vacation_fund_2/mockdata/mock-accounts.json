@@ -1,0 +1,23 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "accountTypeId": 2,
+    "accountNumber": "****2424",
+    "accountName": "Vacation Fund",
+    "balance": 5968.66,
+    "availableBalance": 5968.66,
+    "isPrimary": 0,
+    "status": "active",
+    "openedDate": "{{past_timestamp}}",
+    "closedDate": null,
+    "lastStatementDate": null,
+    "nextStatementDate": null,
+    "overdraftProtectionEnabled": 0,
+    "overdraftProtectionSourceAccountId": null,
+    "linkedSavingsAccountId": null,
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{past_timestamp}}",
+    "deletedAt": null
+  }
+]

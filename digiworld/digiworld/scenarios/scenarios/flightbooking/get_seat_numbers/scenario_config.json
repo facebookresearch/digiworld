@@ -1,0 +1,12 @@
+{
+  "task_name": "What seat number(s) do I have for my flight from \"<origin>\" to \"<destination>\"",
+  "app_name": "flightbooking",
+  "scenario_class": "GetSeatNumbersScenario",
+  "parameters": [
+    "origin",
+    "destination"
+  ],
+  "context_fields": [],
+  "additional_mockdata": true,
+  "description": "Retrieve the seat number(s) assigned for the user's flight between two airports."
+}

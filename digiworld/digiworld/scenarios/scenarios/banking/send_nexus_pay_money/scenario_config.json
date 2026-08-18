@@ -1,0 +1,14 @@
+{
+  "task_name": "Send <contact_name> $<amount> with account <account> on Nexus Pay with the memo \"<memo>\"",
+  "app_name": "banking",
+  "scenario_class": "SendNexusPayMoneyScenario",
+  "parameters": [
+    "contact_name",
+    "amount",
+    "account",
+    "memo"
+  ],
+  "additional_mockdata": true,
+  "context_fields": [],
+  "description": "Send money to a Nexus Pay (QuickPay) contact with a specific account and memo."
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "jin.park@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Quarterly report draft",
+    "preview": "Hi team please review the attached draft of the Q2...",
+    "body": "Hi team please review the attached draft of the Q2 report.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_jin_park_quarterly_report_draft",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "jin.park@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Client meeting reschedule",
+    "preview": "Hi the client has requested to move our meeting to...",
+    "body": "Hi the client has requested to move our meeting to Thursday at 3pm.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_jin_park_client_meeting_reschedule",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

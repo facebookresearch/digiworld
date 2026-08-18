@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754250098,
+    "title": "Oil on Canvas Landscape Painting, 'Sunset Over the Loire', 2021",
+    "description": "A vibrant oil on canvas landscape titled 'Sunset Over the Loire,' created in 2021, signed by the artist and ready to hang.",
+    "categoryId": 12,
+    "sellerId": "{{current_user_id}}",
+    "price": 941.2,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 2,
+    "imageUrl": "https://example.com/images/oil-on-canvas-landscape-painting,-'sunset-over-the-loire',-2021.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 341.52,
+    "currentBid": 414.46,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

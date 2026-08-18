@@ -1,0 +1,8 @@
+{
+  "task_name": "Check <transaction_type> transactions",
+  "app_name": "payment",
+  "scenario_class": "CheckTransactionsByTypeScenario",
+  "parameters": ["transaction_type"],
+  "context_fields": [],
+  "description": "Verify the user navigated to the transactions screen with the correct type filter applied."
+}

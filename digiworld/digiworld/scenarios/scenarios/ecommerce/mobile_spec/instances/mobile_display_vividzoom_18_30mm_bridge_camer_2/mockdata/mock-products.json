@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "VividZoom 18-30mm Bridge Camera",
+    "description": "VividZoom bridge camera offers an 18-30mm equivalent zoom lens with 5x optical zoom and 12MP sensor. It includes a 3.5-inch LCD, 4K video, and a built-in ND filter for creative shooting. The camera's rugged body is dust- and splash-proof, suitable for outdoor adventures.",
+    "shortDescription": "Bridge camera with 5x optical zoom, 4K video, and rugged design.",
+    "rating": 4.0,
+    "reviewCount": 4,
+    "seller": "Outdoor Imaging Co.",
+    "price": 1719.43,
+    "discountedPrice": 1066.05,
+    "discountPercent": 38,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 5,
+    "subcategoryName": "Cameras",
+    "inStock": true,
+    "stockCount": 38,
+    "imageUrl": "/18_1",
+    "specs": "{\"display\": \"3\\\" LCD, 1280x720, 1000 nits\", \"processor\": \"Proprietary LUMINA X\", \"ram\": \"4GB DDR4\", \"storage\": \"64GB internal, SDHC/SDXC slot\", \"battery\": \"Li-ion 2000mAh, 300 shots\", \"os\": \"N/A\", \"connectivity\": \"Wi-Fi, Bluetooth 4.2, HDMI\"}",
+    "tags": "[\"cameras\", \"electronics\", \"best\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

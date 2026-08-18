@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754250099,
+    "title": "Bluetooth Speaker - Waterproof",
+    "description": "Compact 10W speaker with 12-hour battery life, IPX7 rating, includes USB-C charger.",
+    "categoryId": 1,
+    "sellerId": "{{current_user_id}}",
+    "price": 1453.95,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 7,
+    "imageUrl": "https://example.com/images/bluetooth-speaker---waterproof.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 743.51,
+    "currentBid": 770.77,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

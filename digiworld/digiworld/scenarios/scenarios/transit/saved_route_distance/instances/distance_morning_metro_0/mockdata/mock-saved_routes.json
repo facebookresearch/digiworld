@@ -1,0 +1,14 @@
+[
+  {
+    "id": "saved-morning-metro",
+    "userId": 1,
+    "name": "Morning Metro",
+    "originStopId": "stop-3",
+    "destinationStopId": "stop-4",
+    "preferredMode": "subway",
+    "remindersEnabled": true,
+    "departureReminderMinutes": 15,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

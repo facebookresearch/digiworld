@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Midwest Harvest",
+    "description": "Farm-to-table comfort food highlighting regional heirloom vegetables.",
+    "address": "333 Walnut Street, Denver, CO 80202",
+    "latitude": 39.7392,
+    "longitude": -104.9903,
+    "logo": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.6,
+    "deliveryFee": 4.78,
+    "minOrder": 15.0,
+    "deliveryRadius": 5,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "chen.liu@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Quarterly sales report draft",
+    "preview": "Hi, Attached is the draft of the Q2 sales report f...",
+    "body": "Hi, Attached is the draft of the Q2 sales report for your review. Please provide feedback by Friday.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_chen_liu_quarterly_sales_report_draft",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "chen.liu@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Final Q2 sales report approved",
+    "preview": "Hello, The final version of the Q2 sales report ha...",
+    "body": "Hello, The final version of the Q2 sales report has been approved and is now live on the dashboard. Thank you for your contributions.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_chen_liu_final_q2_sales_report_approved",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

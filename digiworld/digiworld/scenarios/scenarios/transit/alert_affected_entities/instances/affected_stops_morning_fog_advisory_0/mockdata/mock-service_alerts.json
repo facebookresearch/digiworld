@@ -1,0 +1,20 @@
+[
+  {
+    "id": "alert-morning-fog-advisory",
+    "severity": "low",
+    "title": "Morning Fog Advisory",
+    "description": "Dense fog conditions may cause minor delays on surface-level transit routes, particularly bus lines in the harbor area.",
+    "icon": "warning",
+    "recommendedAlternatives": "Subway and underground services are unaffected. Allow extra travel time for bus routes.",
+    "createdAt": "{{past_timestamp}}",
+    "expiresAt": null,
+    "isActive": 1,
+    "affectedStopIds": [
+      "stop-1",
+      "stop-10",
+      "stop-11",
+      "stop-12",
+      "stop-2"
+    ]
+  }
+]

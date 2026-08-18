@@ -1,0 +1,24 @@
+[
+  {
+    "id": 9900,
+    "name": "Wireless Noise-Cancelling Headphones",
+    "description": "Experience immersive sound with our wireless noise-cancelling headphones, perfect for travel or work. Long-lasting battery life ensures uninterrupted listening.",
+    "shortDescription": "Immersive sound with long battery life.",
+    "price": 82.68,
+    "discountedPrice": 82.68,
+    "discountPercent": 0,
+    "rating": 3.2,
+    "reviewCount": 389,
+    "seller": "TechZone",
+    "categoryId": 9913,
+    "categoryName": "Electronics",
+    "subcategoryId": 9558,
+    "subcategoryName": "Headphones",
+    "inStock": 1,
+    "stockCount": 32,
+    "imageUrl": "/product_7912",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

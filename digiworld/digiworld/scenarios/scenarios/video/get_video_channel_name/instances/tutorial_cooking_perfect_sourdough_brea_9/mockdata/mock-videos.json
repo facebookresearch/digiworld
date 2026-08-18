@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 9990,
+    "categoryId": 3,
+    "title": "Cooking Perfect Sourdough Bread at Home",
+    "description": "Learn the step\u2011by\u2011step process for creating a crusty, tangy sourdough loaf using simple ingredients.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 626,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 3914,
+    "likeCount": 17,
+    "commentCount": 24,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

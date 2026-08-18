@@ -1,0 +1,12 @@
+{
+  "task_name": "What's the price for <restaurant_item> from <restaurant>",
+  "app_name": "eats",
+  "scenario_class": "CheckItemPriceScenario",
+  "parameters": [
+    "restaurant_item",
+    "restaurant"
+  ],
+  "context_fields": [],
+  "description": "Check the price of a specific menu item at a restaurant",
+  "additional_mockdata": true
+}

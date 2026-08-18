@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754110059,
+    "title": "Limited Edition Golf Club Set - 2021",
+    "description": "Set of driver, irons, and putter with custom graphite shafts, lightly used.",
+    "categoryId": 6,
+    "sellerId": "{{current_user_id}}",
+    "price": 1903.05,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 8,
+    "imageUrl": "https://example.com/images/limited-edition-golf-club-set---2021.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 662.07,
+    "currentBid": 885.91,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

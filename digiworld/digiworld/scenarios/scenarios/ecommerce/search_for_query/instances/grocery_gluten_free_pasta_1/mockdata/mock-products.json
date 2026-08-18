@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "PuroPasta Gluten Free Penne Pasta",
+    "description": "PuroPasta Gluten Free Penne Pasta is made from a blend of brown rice and quinoa flour for a light, authentic texture. Certified gluten-free and non-GMO verified. Cooks in 9 minutes to a perfect al dente texture. High in protein (7g per serving) and a good source of iron. Ideal for people with celiac disease or gluten sensitivity.",
+    "shortDescription": "Certified gluten free penne pasta made from brown rice and quinoa, 7g protein per serving.",
+    "rating": 4.2,
+    "reviewCount": 58,
+    "seller": "PuroPasta Co.",
+    "price": 349.00,
+    "discountedPrice": 279.20,
+    "discountPercent": 20,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 64,
+    "subcategoryName": "Supplements",
+    "inStock": true,
+    "stockCount": 85,
+    "imageUrl": "/64_2",
+    "specs": "{\"weight\": \"500g\", \"ingredients\": \"Brown Rice Flour, Quinoa Flour\", \"certification\": \"Certified Gluten Free, Non-GMO\", \"protein\": \"7g per serving\", \"cook_time\": \"9 minutes\", \"servings\": \"4 per pack\"}",
+    "tags": "[\"gluten free\", \"pasta\", \"health\", \"vegan\", \"celiac\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

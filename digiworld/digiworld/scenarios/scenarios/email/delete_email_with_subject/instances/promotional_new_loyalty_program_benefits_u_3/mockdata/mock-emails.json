@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "carlos.mendes@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "New Loyalty Program Benefits Unveiled",
+    "preview": "Hi, we have launched a new loyalty program that gi...",
+    "body": "Hi, we have launched a new loyalty program that gives you extra points on every purchase. Log in to your account to start earning rewards today.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_carlos_mendes_new_loyalty_program_benefi",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "task_name": "What time is the soonest <direction> bus at the <stop_name> stop on the <line_name> line?",
+  "app_name": "transit",
+  "scenario_class": "SoonestBusAtStopScenario",
+  "parameters": [
+    "direction",
+    "stop_name",
+    "line_name"
+  ],
+  "context_fields": [],
+  "description": "Find the soonest bus arrival at a given stop in a specific direction on a transit line."
+}

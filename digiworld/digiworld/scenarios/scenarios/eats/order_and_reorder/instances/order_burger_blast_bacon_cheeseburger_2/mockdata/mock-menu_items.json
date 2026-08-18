@@ -1,0 +1,15 @@
+[
+  {
+    "id": 90001,
+    "restaurantId": 90001,
+    "categoryId": 90001,
+    "name": "Bacon Cheeseburger",
+    "description": "Dry-aged beef patty topped with crispy bacon, cheddar cheese, and caramelized onions",
+    "price": 16.99,
+    "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?auto=format&fit=crop&w=600&q=80",
+    "calories": 800,
+    "isPopular": 0,
+    "isActive": 1,
+    "position": 1
+  }
+]

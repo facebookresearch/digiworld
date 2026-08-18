@@ -1,0 +1,12 @@
+{
+  "task_name": "What is the <info_type> of the device <device_name>?",
+  "app_name": "smarthome",
+  "scenario_class": "DeviceInfoQueryScenario",
+  "parameters": [
+    "info_type",
+    "device_name"
+  ],
+  "context_fields": [],
+  "description": "Query a specific property (battery or signal strength) of a device",
+  "additional_mockdata": true
+}

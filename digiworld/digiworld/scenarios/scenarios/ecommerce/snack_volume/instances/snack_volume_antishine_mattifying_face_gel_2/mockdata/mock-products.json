@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Anti\u2011Shine Mattifying Face Gel",
+    "description": "Mattifying face gel that controls excess oil and provides a smooth, shine\u2011free finish. Formulated with niacinamide and green tea extract for a calm complexion. Suitable for oily and combination skin.",
+    "shortDescription": "Mattifying face gel that controls oil and shine.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Matte Matte Co.",
+    "price": 1072.21,
+    "discountedPrice": 718.38,
+    "discountPercent": 33,
+    "categoryId": 6,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 45,
+    "subcategoryName": "Men's Grooming",
+    "inStock": true,
+    "stockCount": 11,
+    "imageUrl": "/178_1",
+    "specs": "{\"ingredients\": \"Salicylic Acid, Bentonite Clay, Kaolin, Witch Hazel, Vitamin C\", \"skinType\": \"Oily, combination\", \"volume\": \"50ml\", \"fragrance\": \"None\", \"madeIn\": \"UK\", \"expiryPeriod\": \"12 months\"}",
+    "tags": "[\"personal\", \"mens\", \"beauty\", \"care\", \"grooming\", \"top-rated\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "parameters": {
+    "video_1": "Code Quest: Debugging a Rogue AI in Python",
+    "video_2": "Sports Spotlight: Mastering the Spin Serve in Table Tennis",
+    "playlist_name": "Lazy Sunday Loops"
+  },
+  "compatible_profiles": [
+    "comments_disabled"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:58.727214+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

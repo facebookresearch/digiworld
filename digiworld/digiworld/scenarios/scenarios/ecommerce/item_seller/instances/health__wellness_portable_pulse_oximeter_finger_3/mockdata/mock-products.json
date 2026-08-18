@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Portable Pulse Oximeter Finger Clip",
+    "description": "Compact pulse oximeter that clips onto the fingertip to measure blood oxygen saturation and pulse rate. Provides instant readings with a bright OLED screen and includes a rechargeable lithium-ion battery. Ideal for athletes and health monitoring.",
+    "shortDescription": "Compact pulse oximeter measuring oxygen saturation and pulse rate.",
+    "rating": 1.4,
+    "reviewCount": 0,
+    "seller": "VitalPulse Devices",
+    "price": 32.3,
+    "discountedPrice": 32.3,
+    "discountPercent": 0,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 66,
+    "subcategoryName": "Medical Devices",
+    "inStock": true,
+    "stockCount": 36,
+    "imageUrl": "/262_1",
+    "specs": "{\"ingredients\": \"OLED display, infrared and red LEDs, photodiode sensor, AAA battery, ABS clip housing\", \"dosage\": \"Clip onto fingertip for 30 seconds per reading\", \"weight\": \"30g\", \"expiryPeriod\": \"3 years\", \"madeIn\": \"South Korea\", \"certifications\": \"CE Marked, FDA cleared, ISO 13485\"}",
+    "tags": "[\"wellness\", \"devices\", \"medical\", \"health\", \"popular\", \"best\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

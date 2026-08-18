@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9902,
+    "name": "FitPulse AI Smartwatch",
+    "description": "The FitPulse AI tracks heart rate, sleep, and stress levels, providing personalized wellness insights on a vibrant AMOLED display.",
+    "shortDescription": "AI-powered smartwatch with health monitoring.",
+    "price": 406.46,
+    "discountedPrice": 321.1,
+    "discountPercent": 21,
+    "rating": 4.5,
+    "reviewCount": 284,
+    "seller": "PulseTech Innovations",
+    "categoryName": "Electronics",
+    "subcategoryName": "Smartphones",
+    "inStock": 1,
+    "stockCount": 41,
+    "imageUrl": "/product_7201",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

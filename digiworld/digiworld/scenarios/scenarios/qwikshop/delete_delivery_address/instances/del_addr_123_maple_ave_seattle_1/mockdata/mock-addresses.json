@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "James Brown",
+    "street": "123 Maple Ave",
+    "city": "Seattle",
+    "state": "WA",
+    "pincode": "98101",
+    "phone": "2065555678",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Soothing Rose Water Toner",
+    "description": "A refreshing rose water toner that balances pH and reduces redness. Infused with botanical rose petals and glycerin for a subtle, soothing finish. Use after cleansing and before moisturising.",
+    "shortDescription": "Rose water toner that balances pH and soothes redness.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Botanical Balance",
+    "price": 1284.24,
+    "discountedPrice": 821.91,
+    "discountPercent": 36,
+    "categoryId": 6,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 41,
+    "subcategoryName": "Skincare",
+    "inStock": true,
+    "stockCount": 156,
+    "imageUrl": "/164_1",
+    "specs": "{\"ingredients\": \"Rose Water, Witch Hazel, Glycerin, Chamomile Extract, Sodium Benzoate\", \"skinType\": \"Sensitive, combination\", \"volume\": \"200ml\", \"fragrance\": \"Rose\", \"madeIn\": \"Turkey\", \"expiryPeriod\": \"24 months\"}",
+    "tags": "[\"personal\", \"beauty\", \"skincare\", \"care\", \"best\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

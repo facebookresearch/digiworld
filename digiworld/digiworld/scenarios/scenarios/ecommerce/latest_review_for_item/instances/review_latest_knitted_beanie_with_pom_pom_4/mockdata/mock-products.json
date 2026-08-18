@@ -1,0 +1,41 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Knitted Beanie with Pom-Pom",
+    "description": "Cozy knitted beanie adorned with a fluffy pom\u2011pom on top. The stretchable yarn fits comfortably, and the ribbed cuff keeps the hat secure.",
+    "shortDescription": "Cozy knit beanie topped with a fluffy pom\u2011pom.",
+    "rating": 3.5,
+    "reviewCount": 2,
+    "seller": "Urban Accents",
+    "price": 1960.19,
+    "discountedPrice": 1450.54,
+    "discountPercent": 26,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 15,
+    "subcategoryName": "Accessories",
+    "inStock": true,
+    "stockCount": 57,
+    "imageUrl": "/58_1",
+    "specs": "{\"material\": \"100% Acrylic yarn\", \"careInstructions\": \"Hand wash cold, lay flat to dry\", \"fit\": \"One size fits all\", \"size\": \"One size\", \"color\": \"Gray\", \"pattern\": \"Solid\"}",
+    "tags": "[\"accessories\", \"clothing\", \"premium\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000",
+    "reviews": [
+      {
+        "userName": "Reviewer",
+        "rating": 2,
+        "title": "Disappointed with thin knit",
+        "comment": "The knitted beanie felt thinner than I expected, and the pom-pom felt loosely attached. It didn't keep my head warm on a chilly day, and the sizing was too tight around my ears. Overall, I feel it was overpriced for the quality.",
+        "reviewDate": "2025-06-15T10:00:00.000Z"
+      },
+      {
+        "userName": "Reviewer",
+        "rating": 5,
+        "title": "Cozy and stylish pom-pom beanie",
+        "comment": "This knitted beanie is incredibly soft and keeps my head warm even in frosty weather. The pom-pom adds a fun touch and stays securely in place. I love the stretchy fit and the color looks exactly like the photo.",
+        "reviewDate": "2025-06-15T10:00:00.000Z"
+      }
+    ]
+  }
+]

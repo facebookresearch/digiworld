@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Nimbus Tab 10.5\"",
+    "description": "Nimbus Tab 10.5\" delivers a crisp 2560\u202f\u00d7\u202f1600 resolution on an IPS panel, perfect for media consumption. Powered by a Stormcore 8\u2011series processor, it handles multitasking with ease. Includes a detachable keyboard and stylus for productivity. Battery life reaches up to 12 hours on a single charge.",
+    "shortDescription": "10.5\u2011inch tablet with a 2560\u202f\u00d7\u202f1600 display and detachable keyboard.",
+    "rating": 2.4,
+    "reviewCount": 5,
+    "seller": "TabletWorld",
+    "price": 1819.36,
+    "discountedPrice": 1055.23,
+    "discountPercent": 42,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 3,
+    "subcategoryName": "Tablets",
+    "inStock": true,
+    "stockCount": 150,
+    "imageUrl": "/9_1",
+    "specs": "{\"display\": \"10.5-inch IPS LCD, 2000x1200, 120Hz\", \"processor\": \"Cellwave Stormcore 8cx Gen 3\", \"ram\": \"8 GB LPDDR5\", \"storage\": \"128 GB UFS 3.1\", \"battery\": \"8000 mAh\", \"os\": \"Skylight 11\", \"connectivity\": \"Wi-Fi 6, Bluetooth 5.2, LTE optional\"}",
+    "tags": "[\"electronics\", \"tablets\", \"popular\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

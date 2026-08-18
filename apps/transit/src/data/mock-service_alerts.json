@@ -1,0 +1,73 @@
+[
+  {
+    "id": "alert-1",
+    "severity": "low",
+    "title": "Morning Fog Advisory",
+    "description": "Expect minor delays up to 5 minutes on the Coastal Connector due to reduced visibility.",
+    "affectedLines": ["line-b1"],
+    "affectedStops": ["stop-1", "stop-8"],
+    "icon": "info",
+    "recommendedAlternatives": [],
+    "createdAt": "2024-11-24T06:00:00.000Z",
+    "expiresAt": "2024-11-24T10:00:00.000Z",
+    "isActive": true
+  },
+  {
+    "id": "alert-2",
+    "severity": "high",
+    "title": "Nightly Maintenance on S1",
+    "description": "Maintenance work on Market Subway between 22:00 and 04:00. Expect reduced frequency.",
+    "affectedLines": ["line-s1"],
+    "affectedStops": ["stop-2", "stop-3"],
+    "icon": "warning",
+    "recommendedAlternatives": [
+      "Use S2 Northbound Express as alternative route."
+    ],
+    "createdAt": "2024-11-23T18:00:00.000Z",
+    "expiresAt": "2024-11-30T04:00:00.000Z",
+    "isActive": true
+  },
+  {
+    "id": "alert-3",
+    "severity": "medium",
+    "title": "Skyline Loop Detour",
+    "description": "Road construction near Skyline Commons. B2 buses are skipping Skyline Commons between 09:00 and 16:00.",
+    "affectedLines": ["line-b2"],
+    "affectedStops": ["stop-4"],
+    "icon": "warning",
+    "recommendedAlternatives": [
+      "Use B1 to Civic Center Hub and transfer to S1."
+    ],
+    "createdAt": "2024-11-22T08:00:00.000Z",
+    "expiresAt": "2024-11-27T16:00:00.000Z",
+    "isActive": true
+  },
+  {
+    "id": "alert-4",
+    "severity": "high",
+    "title": "Aurora Line Delays",
+    "description": "Signal issue near Innovation Park causing up to 20-minute delays on the Aurora Line.",
+    "affectedLines": ["line-t2"],
+    "affectedStops": ["stop-5", "stop-2"],
+    "icon": "critical",
+    "recommendedAlternatives": [
+      "Consider using S3 Tech Line for trips to Innovation Park."
+    ],
+    "createdAt": "2024-11-24T07:30:00.000Z",
+    "expiresAt": null,
+    "isActive": true
+  },
+  {
+    "id": "alert-5",
+    "severity": "low",
+    "title": "Weekend Schedule Change",
+    "description": "Innovation Shuttle (B4) running on reduced weekend schedule with 30-minute frequency.",
+    "affectedLines": ["line-b4"],
+    "affectedStops": ["stop-5", "stop-11", "stop-2"],
+    "icon": "info",
+    "recommendedAlternatives": [],
+    "createdAt": "2024-11-23T12:00:00.000Z",
+    "expiresAt": "2024-11-25T23:59:00.000Z",
+    "isActive": true
+  }
+]

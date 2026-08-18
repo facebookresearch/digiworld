@@ -1,0 +1,74 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "orderNumber": "ORD-388389",
+    "userId": "{{current_user_id}}",
+    "items": [
+      {
+        "id": 9781,
+        "productId": 9344,
+        "productName": "LuxeWood Minimalist Desk Lamp",
+        "productImage": "https://picsum.photos/seed/2674/600/400",
+        "shortDescription": "A modern LED desk lamp featuring adjustable color temperature, touch dimming, and a wooden finish.",
+        "sku": "SKU-2519",
+        "categoryName": "Home & Kitchen",
+        "subcategoryName": "Modern LED Desk Lamp",
+        "seller": "Test Seller",
+        "quantity": 1,
+        "price": 149.77,
+        "discountedPrice": 149.77,
+        "total": 149.77,
+        "savedAmount": 0,
+        "addedAt": "{{middle_timestamp}}",
+        "inStock": true
+      }
+    ],
+    "subtotal": 149.77,
+    "totalSavings": 0,
+    "shipping": 9.31,
+    "tax": 12.36,
+    "couponDiscount": 0,
+    "couponCode": null,
+    "totalAmount": 171.44,
+    "status": "Delivered",
+    "statusHistory": [
+      {
+        "status": "Order Placed",
+        "timestamp": "{{middle_timestamp}}",
+        "description": "Your order has been received and is being processed."
+      },
+      {
+        "status": "Payment Confirmed",
+        "timestamp": "{{middle_timestamp}}",
+        "description": "Payment has been successfully processed."
+      },
+      {
+        "status": "Shipped",
+        "timestamp": "{{middle_timestamp}}",
+        "description": "Your order has been shipped and is on its way to you."
+      },
+      {
+        "status": "Delivered",
+        "timestamp": "{{end_timestamp}}",
+        "description": "Your order has been delivered successfully."
+      }
+    ],
+    "deliveryAddress": {
+      "fullName": "{{current_user_address_full_name}}",
+      "street": "{{current_user_address_street}}",
+      "city": "{{current_user_address_city}}",
+      "state": "{{current_user_address_state}}",
+      "pincode": "{{current_user_address_pincode}}"
+    },
+    "paymentMethod": "Credit Card",
+    "paymentStatus": "Completed",
+    "orderDate": "{{middle_timestamp}}",
+    "shippedDate": "{{middle_timestamp}}",
+    "deliveryDate": "{{end_timestamp}}",
+    "estimatedDeliveryDate": "{{end_timestamp}}",
+    "trackingNumber": "TRK-498382",
+    "courierPartner": "Express Shipping",
+    "isGift": false,
+    "giftMessage": null
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "task_name": "Add my three latest messaged contacts to a group named \"<group_name>\", with the description \"<group_description>\", then remove the third latest added contact from the group chat \"<group_name>\"",
+  "app_name": "message",
+  "scenario_class": "CreateGroupAndRemoveMemberScenario",
+  "parameters": ["group_name", "group_description"],
+  "context_fields": [],
+  "description": "Create a group with the three latest messaged contacts, then remove the third latest added contact from the group.",
+  "additional_mockdata": false
+}

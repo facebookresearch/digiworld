@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Nova X1 Smartphone",
+    "description": "The Nova X1 Smartphone features a 6.4\u2011inch AMOLED display with vibrant colors and a 120\u202fHz refresh rate. Powered by a Stormcore\u2011compatible octa\u2011core processor, it delivers smooth multitasking and gaming performance. A 48\u202fMP rear camera with optical image stabilization captures sharp photos in low light. Comes with a 5000\u202fmAh battery that lasts all day.",
+    "shortDescription": "A high\u2011performance smartphone with a 6.4\u2011inch AMOLED display and 48\u202fMP camera.",
+    "rating": 2.0,
+    "reviewCount": 1,
+    "seller": "TechGear Direct",
+    "price": 1135.93,
+    "discountedPrice": 715.64,
+    "discountPercent": 37,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 1,
+    "subcategoryName": "Smartphones",
+    "inStock": true,
+    "stockCount": 127,
+    "imageUrl": "/1_1",
+    "specs": "{\"display\": \"6.2-inch OLED, 1080x2400 pixels\", \"processor\": \"Cellwave Stormcore 8 Gen 2\", \"ram\": \"8 GB LPDDR5\", \"storage\": \"128 GB UFS 3.1\", \"battery\": \"4500 mAh\", \"os\": \"Nimbus OS 13\", \"connectivity\": \"5G, Wi-Fi 6E, Bluetooth 5.3, NFC\"}",
+    "tags": "[\"electronics\", \"smartphones\", \"popular\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "olivia.cheng@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "IT Maintenance Downtime Notice",
+    "preview": "Hello, please be aware that scheduled IT maintenan...",
+    "body": "Hello, please be aware that scheduled IT maintenance will cause system downtime this Friday from 10pm to 2am. Save your work and plan accordingly.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_olivia_cheng_it_maintenance_downtime_not",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

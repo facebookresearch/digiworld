@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Olive Grove",
+    "description": "Wood-fired Margherita pizza with buffalo mozzarella and basil infused olive oil.",
+    "address": "456 Oak Avenue, Brooklyn, NY 11201",
+    "latitude": 40.6892,
+    "longitude": -73.9857,
+    "logo": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.0,
+    "deliveryFee": 4.51,
+    "minOrder": 20.0,
+    "deliveryRadius": 12,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

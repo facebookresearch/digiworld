@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Wrap Knit Midi Dress",
+    "description": "Wrap knit midi dress crafted from lightweight jersey. Adjustable waist tie, three-quarter sleeves, and a flowing hem create a flattering shape for everyday elegance.",
+    "shortDescription": "Wrap knit midi dress with a waist tie and flowing silhouette.",
+    "rating": 2.6,
+    "reviewCount": 5,
+    "seller": "Luna Meadow Atelier",
+    "price": 260.2,
+    "discountedPrice": 208.16,
+    "discountPercent": 20,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 10,
+    "subcategoryName": "Women's Dresses",
+    "inStock": true,
+    "stockCount": 160,
+    "imageUrl": "/39_1",
+    "specs": "{\"material\": \"Soft knit jersey (70% rayon, 30% spandex)\", \"careInstructions\": \"Machine wash cold, lay flat to dry\", \"fit\": \"Wrap fit\", \"size\": \"S, M, L, XL\", \"color\": \"Deep teal\", \"pattern\": \"Solid\"}",
+    "tags": "[\"clothing\", \"dresses\", \"womens\", \"top-rated\", \"best\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

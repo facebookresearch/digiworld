@@ -1,0 +1,11 @@
+{
+  "task_name": "Remove the payment method under the name \"<name_on_card>\" from my payment methods",
+  "app_name": "ecommerce",
+  "scenario_class": "RemovePaymentMethodScenario",
+  "parameters": [
+    "name_on_card"
+  ],
+  "context_fields": [],
+  "description": "Remove a specific payment method by cardholder name",
+  "additional_mockdata": true
+}

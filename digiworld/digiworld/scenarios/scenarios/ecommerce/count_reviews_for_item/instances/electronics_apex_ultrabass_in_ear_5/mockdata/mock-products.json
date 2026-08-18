@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Apex UltraBass In-Ear",
+    "description": "Apex UltraBass In\u2011Ear earbuds provide deep bass response and clear mids thanks to dual\u2011driver technology. They include an ergonomic fit with multiple ear tip sizes and a total of 6 hours of playback per charge, plus a portable case offering an additional 18 hours. IPX4 water resistance protects against sweat and light rain.",
+    "shortDescription": "In\u2011ear earbuds with deep bass, IPX4 resistance, and a charging case.",
+    "rating": 1.0,
+    "reviewCount": 1,
+    "seller": "DigitalSupply",
+    "price": 428.24,
+    "discountedPrice": 342.59,
+    "discountPercent": 20,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 4,
+    "subcategoryName": "Headphones",
+    "inStock": true,
+    "stockCount": 169,
+    "imageUrl": "/15_1",
+    "specs": "{\"display\": \"N/A\", \"processor\": \"N/A\", \"ram\": \"N/A\", \"storage\": \"N/A\", \"battery\": \"Battery-free, uses ear canal power via Bluetooth Low Energy\", \"os\": \"N/A\", \"connectivity\": \"Bluetooth 5.2, AAC, SBC\"}",
+    "tags": "[\"electronics\", \"headphones\", \"high-quality\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

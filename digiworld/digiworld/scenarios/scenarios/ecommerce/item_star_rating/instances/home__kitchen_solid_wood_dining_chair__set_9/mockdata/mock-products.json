@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Solid Wood Dining Chair \u2013 Set of 4",
+    "description": "Set of four solid wood dining chairs crafted from sustainably sourced oak, each with a curved seat and reinforced joinery for durability. The natural finish highlights the wood grain, making them easy to pair with any table style. Ideal for family meals or entertaining guests.",
+    "shortDescription": "Set of four solid wood dining chairs with natural finish.",
+    "rating": 4.0,
+    "reviewCount": 1,
+    "seller": "OakCraft Furniture",
+    "price": 582.68,
+    "discountedPrice": 524.41,
+    "discountPercent": 10,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 20,
+    "subcategoryName": "Furniture",
+    "inStock": true,
+    "stockCount": 158,
+    "imageUrl": "/79_1",
+    "specs": "{\"material\": \"Solid oak wood\", \"dimensions\": \"Each: 18\\\" W x 20\\\" D x 35\\\" H\", \"weight\": \"20 lbs per chair\", \"warranty\": \"2-year\", \"color\": \"Natural oak\", \"careInstructions\": \"Polish with wood conditioner; avoid harsh chemicals\"}",
+    "tags": "[\"furniture\", \"kitchen\", \"home\", \"best\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

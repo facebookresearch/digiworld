@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "PixelForge Gaming Station",
+    "description": "PixelForge Gaming Station is a compact desktop console with a detachable controller. Powered by an Radiant Ryze 5 CPU and Radiance graphics, it supports 4K gaming at 60\u202ffps. Includes 1\u202fTB SSD storage and HDMI 2.1 output. Comes with a sleek cooling system for silent operation.",
+    "shortDescription": "Mini desktop gaming station supporting 4K gaming and silent cooling.",
+    "rating": 4.0,
+    "reviewCount": 3,
+    "seller": "GameStation Direct",
+    "price": 1115.93,
+    "discountedPrice": 680.72,
+    "discountPercent": 39,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 8,
+    "subcategoryName": "Gaming Consoles",
+    "inStock": true,
+    "stockCount": 14,
+    "imageUrl": "/30_1",
+    "specs": "{\"display\": \"HDMI 2.1 up to 8K\", \"processor\": \"Radiant Ryze 7 7840HS\", \"ram\": \"16 GB DDR5\", \"storage\": \"1 TB NVMe SSD\", \"battery\": \"N/A (AC power)\", \"os\": \"Custom Skylight 11 Gaming\", \"connectivity\": \"Wi-Fi 6E, Bluetooth 5.3, Ethernet, USB 3.2\"}",
+    "tags": "[\"gaming\", \"electronics\", \"consoles\", \"premium\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

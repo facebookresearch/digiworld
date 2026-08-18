@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "cart_id": "{{current_user_cart_id}}",
+    "user_id": "{{current_user_id}}",
+    "product_id": 288,
+    "product_name": "Catnip-Infused Plush Mouse",
+    "product_image": "https://picsum.photos/seed/mock/600/400",
+    "short_description": "Mock product",
+    "seller": "Cozy Critter Toys",
+    "quantity": 1,
+    "price": 18.51,
+    "discounted_price": 18.51,
+    "total": 18.51,
+    "saved_amount": 0.0,
+    "in_stock": 1,
+    "category_name": "Pet Supplies",
+    "subcategory_name": "Pet Toys",
+    "sku": "",
+    "added_at": "2025-06-15 12:00:00.000",
+    "created_at": "2025-06-15 12:00:00.000",
+    "updated_at": "2025-06-15 12:00:00.000"
+  }
+]

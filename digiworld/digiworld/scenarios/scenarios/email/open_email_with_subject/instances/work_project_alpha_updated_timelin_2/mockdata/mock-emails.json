@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "nina.thompson@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Project Alpha: Updated Timeline Attached",
+    "preview": "Hello team, please find the updated timeline for P...",
+    "body": "Hello team, please find the updated timeline for Project Alpha attached to this email. Review the changes and let me know if you have any questions before the next milestone.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_nina_thompson_project_alpha_updated_tim",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "contactName": "Jorjael Valtieri",
+    "contactEmail": "jorjael.valtieri@nexuspay.io",
+    "contactPhone": "+18224305450",
+    "isEnrolled": 1,
+    "isFavorite": 0,
+    "lastSentAmount": null,
+    "lastSentDate": null,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

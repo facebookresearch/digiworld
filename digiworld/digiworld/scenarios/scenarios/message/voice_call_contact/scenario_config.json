@@ -1,0 +1,9 @@
+{
+    "task_name": "Call <contact_name> using the call function",
+    "app_name": "message",
+    "scenario_class": "VoiceCallContactScenario",
+    "parameters": ["contact_name"],
+    "context_fields": [],
+    "description": "Initiate a voice call to a specified contact",
+    "additional_mockdata": true
+}

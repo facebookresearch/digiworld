@@ -1,0 +1,9 @@
+{
+  "task_name": "What is my <direction> value for <period>?",
+  "app_name": "payment",
+  "scenario_class": "TotalInOutForPeriodScenario",
+  "parameters": ["direction", "period"],
+  "context_fields": [],
+  "description": "Verify the agent correctly reports the total incoming or outgoing transaction amount for the specified time period.",
+  "time": "2026-02-24T12:00:00Z"
+}

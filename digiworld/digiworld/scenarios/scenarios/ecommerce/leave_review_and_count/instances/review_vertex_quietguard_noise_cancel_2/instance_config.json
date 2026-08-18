@@ -1,0 +1,21 @@
+{
+  "parameters": {
+    "item": "Vertex QuietGuard Noise-Cancelling Headphones",
+    "star_rating": "5",
+    "review_title": "Fits perfectly and looks stylish",
+    "review_content": "The fit is spot\u2011on and the design is sleek. I get compliments every time I wear it, and it stays comfortable even after a full day of wear. Definitely worth the purchase."
+  },
+  "compatible_profiles": [
+    "power_shopper"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T03:59:56.523361+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "cartId": 1,
+    "userId": 1,
+    "productId": 9903,
+    "productName": "AromaPulse Smart Diffuser",
+    "productImage": "/product_9903",
+    "shortDescription": "Smart essential oil diffuser",
+    "seller": "ZenLiving",
+    "quantity": 1,
+    "price": 257.62,
+    "discountedPrice": 257.62,
+    "total": 257.62,
+    "inStock": 1
+  }
+]

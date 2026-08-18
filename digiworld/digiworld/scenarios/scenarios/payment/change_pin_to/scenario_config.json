@@ -1,0 +1,12 @@
+{
+  "task_name": "Change PIN to <pin>",
+  "app_name": "payment",
+  "scenario_class": "ChangePinToScenario",
+  "parameters": [
+    "pin"
+  ],
+  "context_fields": [
+    "current_user_pin"
+  ],
+  "description": "Verify that the user changes their transaction PIN to the specified new PIN. The current PIN is provided as context."
+}

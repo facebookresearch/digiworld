@@ -1,0 +1,11 @@
+{
+  "task_name": "Check for <category> near me",
+  "app_name": "eats",
+  "scenario_class": "CheckCategoryNearMeScenario",
+  "parameters": [
+    "category"
+  ],
+  "context_fields": [],
+  "description": "Navigate to a food category screen to browse nearby options",
+  "additional_mockdata": true
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 9990,
+    "userId": 9998,
+    "name": "Fatima Al-Mansour's Channel",
+    "description": "",
+    "banner": null,
+    "avatar": null,
+    "subscriberCount": 23800,
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{past_timestamp}}",
+    "deletedAt": null
+  }
+]

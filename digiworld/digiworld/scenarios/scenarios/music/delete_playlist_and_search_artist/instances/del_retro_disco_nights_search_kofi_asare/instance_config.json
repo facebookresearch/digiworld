@@ -1,0 +1,19 @@
+{
+  "parameters": {
+    "name": "Retro Disco Nights",
+    "artist_name": "Kofi Djembe Collective"
+  },
+  "compatible_profiles": [
+    "minimal_playlists"
+  ],
+  "metadata": {
+    "created_at": "2026-04-11T15:51:35.390040+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

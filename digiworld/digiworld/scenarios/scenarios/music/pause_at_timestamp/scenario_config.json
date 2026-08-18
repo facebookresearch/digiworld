@@ -1,0 +1,10 @@
+{
+  "task_name": "Open any song and pause it at timestamp <seconds> seconds",
+  "app_name": "music",
+  "scenario_class": "PauseAtTimestampScenario",
+  "parameters": [
+    "seconds"
+  ],
+  "context_fields": [],
+  "description": "Open any song and pause it at a specified timestamp"
+}

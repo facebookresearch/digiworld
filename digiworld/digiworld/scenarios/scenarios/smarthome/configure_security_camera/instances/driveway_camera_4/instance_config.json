@@ -1,0 +1,33 @@
+{
+  "parameters": {
+    "device_name": "Driveway Camera",
+    "motion_detection": "disable",
+    "night_vision": "disable",
+    "two_way_audio": "disable",
+    "recording": "disable",
+    "cloud_storage": "disable"
+  },
+  "compatible_profiles": [
+    "default",
+    "high_priority_alerts",
+    "large_home",
+    "low_battery_devices",
+    "many_automations",
+    "many_devices",
+    "new_user",
+    "offline_devices",
+    "security_focused",
+    "unread_notifications",
+    "weak_signal"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:26.550418+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

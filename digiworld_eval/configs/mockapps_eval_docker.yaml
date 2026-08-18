@@ -1,0 +1,74 @@
+# Copyright (c) Meta Platforms, Inc. and affiliates.
+# Evaluation config that runs against the DigiWorld container image.
+#
+# Identical to mockapps_eval_openai.yaml except that the harness starts and
+# stops the container itself instead of talking to a bridge server you launched
+# by hand.
+#
+# Usage:
+#   ./docker/build.sh                       # once, see docker/README.md
+#   export OPENAI_API_KEY=sk-...
+#   python -m digiworld_eval.eval config=digiworld_eval/configs/mockapps_eval_docker.yaml
+#
+# Prerequisites:
+#   - Linux host with KVM (`ls -l /dev/kvm`) and docker or podman installed
+#   - The digiworld:latest image built by docker/build.sh
+#
+# To reuse a container you started yourself, drop the container_* keys and set
+#   server_urls: ["http://localhost:6800"]
+
+dump_dir: /tmp/mockapps_eval_docker
+
+gen_backend: litellm
+
+litellm_args:
+  model: "gpt-4o"
+  timeout: 120.0
+  max_tokens: 4096
+
+gen_args:
+  use_sampling: true
+  temperature: 0.0
+
+tasks:
+  - env_config: server_env
+    reward_fn: pass_only
+    path: digiworld_eval/configs/test_tasks.jsonl
+    samples_per_prompt: 1
+    init_args:
+      # Auto-provision containers. Each one runs its own Android emulator, so
+      # budget roughly 8 GB of RAM and 2 cores per container, and keep
+      # container_count and num_rollout_threads in step.
+      container_image: digiworld:latest
+      container_count: 1
+      # container_runtime: podman     # defaults to docker if present, else podman
+      # container_extra_args: ["--memory", "8g"]
+      max_single_action_len: 1024
+      max_turns: 20
+      saved_screenshot_folder: ${dump_dir}/saved_screenshots
+    metrics_spec:
+      pass:
+        - '@1'
+      task_completed:
+        - 'mean'
+
+num_rollout_threads: 1
+data_queue_size: 100
+seed: 42
+perf_log_freq: 60.0
+
+dump_mode: full
+dump_compress: false
+run_metrics_aggregation: true
+
+logging:
+  enable_tensorboard: false
+  enable_wandb: false
+
+setup:
+  spawn_method: forkserver
+
+log_level: debug
+max_exceptions: 0
+max_rollout_len: 11520
+no_resume: true

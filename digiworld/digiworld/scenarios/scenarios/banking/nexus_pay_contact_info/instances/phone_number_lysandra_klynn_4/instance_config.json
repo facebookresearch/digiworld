@@ -1,0 +1,29 @@
+{
+  "parameters": {
+    "contact_name": "Lysandra Klynn",
+    "info_type": "phone number"
+  },
+  "compatible_profiles": [
+    "default",
+    "failed_transactions",
+    "high_balance",
+    "high_credit_limit",
+    "high_transaction_volume",
+    "low_balance",
+    "many_beneficiaries",
+    "many_zelle_contacts",
+    "maxed_out_cards",
+    "overdue_bills",
+    "premium_users"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:02.020138+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

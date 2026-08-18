@@ -1,0 +1,10 @@
+{
+  "task_name": "Book a round trip \"<travel_class>\" flight for <adults> adults and <children> children from \"<origin>\" to \"<destination>\" from \"<date1>\" to \"<date2>\", then tell me the departure date of my flight from \"<origin>\" to \"<destination>\"",
+  "app_name": "flightbooking",
+  "scenario_class": "BookRoundTripAndGetDateScenario",
+  "parameters": ["travel_class", "adults", "children", "origin", "destination", "date1", "date2"],
+  "context_fields": [],
+  "description": "Book a round trip flight and then report the departure date of the outbound flight.",
+  "additional_mockdata": true,
+  "time": "2026-08-10T10:00:00Z"
+}

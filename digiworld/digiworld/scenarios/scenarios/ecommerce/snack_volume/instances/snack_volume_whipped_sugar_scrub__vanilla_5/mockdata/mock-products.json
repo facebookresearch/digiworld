@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Whipped Sugar Scrub \u2013 Vanilla",
+    "description": "Exfoliating sugar scrub blended with vanilla bean and jojoba oil. Removes dead skin cells for smoother hands and body. Rinse off to reveal radiant skin.",
+    "shortDescription": "Vanilla sugar scrub that exfoliates for smooth skin.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Sugar Bliss Scrubs",
+    "price": 1432.18,
+    "discountedPrice": 887.95,
+    "discountPercent": 38,
+    "categoryId": 6,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 47,
+    "subcategoryName": "Bath & Body",
+    "inStock": true,
+    "stockCount": 60,
+    "imageUrl": "/188_1",
+    "specs": "{\"ingredients\": \"Sugar, Coconut Oil, Vanilla Extract, Shea Butter, Vitamin E\", \"skinType\": \"All\", \"volume\": \"200g\", \"fragrance\": \"Vanilla\", \"madeIn\": \"USA\", \"expiryPeriod\": \"24 months\"}",
+    "tags": "[\"personal\", \"body\", \"beauty\", \"bath\", \"care\", \"popular\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

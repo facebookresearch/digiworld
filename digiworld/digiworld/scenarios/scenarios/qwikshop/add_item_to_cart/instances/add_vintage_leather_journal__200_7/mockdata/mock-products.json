@@ -1,0 +1,22 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Vintage Leather Journal \u2013 200 Pages",
+    "description": "Hand\u2011stitched leather-bound journal with thick, acid\u2011free paper for writing or sketching.",
+    "shortDescription": "Leather journal",
+    "price": 55.45,
+    "discountedPrice": 55.45,
+    "discountPercent": 0,
+    "rating": 4.4,
+    "reviewCount": 359,
+    "seller": "CraftedPages",
+    "categoryName": "Books",
+    "subcategoryName": "Non-Fiction",
+    "inStock": 1,
+    "stockCount": 175,
+    "imageUrl": "/product_2169",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

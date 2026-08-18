@@ -1,0 +1,14 @@
+{
+  "task_name": "Plan a trip from <stop_1> to <stop_2> departing <time>, find the <optimization>, and save the route with the title \"<route_title>\", then tell me the total traveling distance for the saved route titled \"<route_title>\"",
+  "app_name": "transit",
+  "scenario_class": "SaveRouteAndCheckDistanceScenario",
+  "parameters": [
+    "stop_1",
+    "stop_2",
+    "time",
+    "optimization",
+    "route_title"
+  ],
+  "context_fields": [],
+  "description": "Plan a trip, save the route, then report the total traveling distance for that saved route."
+}

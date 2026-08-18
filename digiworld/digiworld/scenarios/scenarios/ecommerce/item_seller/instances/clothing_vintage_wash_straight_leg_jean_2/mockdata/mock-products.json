@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Vintage Wash Straight-Leg Jeans",
+    "description": "Our Vintage Wash Straight-Leg Jeans deliver classic Americana style with a modern fit. The mid-rise waist and subtle fading give a lived\u2011in feel, while reinforced stitching adds durability. Suitable for everyday casual wear.",
+    "shortDescription": "Straight\u2011leg vintage wash jeans delivering classic style and durable construction.",
+    "rating": 3.5,
+    "reviewCount": 2,
+    "seller": "Denim Heritage",
+    "price": 38.76,
+    "discountedPrice": 34.88,
+    "discountPercent": 10,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 11,
+    "subcategoryName": "Jeans",
+    "inStock": true,
+    "stockCount": 110,
+    "imageUrl": "/41_1",
+    "specs": "{\"material\": \"99% cotton, 1% elastane\", \"careInstructions\": \"Machine wash cold, tumble dry low, wash with like colors\", \"fit\": \"Straight leg\", \"size\": \"28-38 waist\", \"color\": \"Vintage wash blue\", \"pattern\": \"Solid\"}",
+    "tags": "[\"jeans\", \"clothing\", \"high-quality\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

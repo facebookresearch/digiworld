@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "jennifer.clark@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Team meeting agenda for Thursday",
+    "preview": "Hi team, attached is the team meeting agenda for T...",
+    "body": "Hi team, attached is the team meeting agenda for Thursday's discussion. Please review the topics and add any items you want covered.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_jennifer_clark_team_meeting_agenda_for_t",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "thomas.garcia@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Updated team meeting agenda",
+    "preview": "Hello, I've updated the team meeting agenda with t...",
+    "body": "Hello, I've updated the team meeting agenda with the latest project milestones. Let me know if anything needs to be changed before the meeting.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_thomas_garcia_updated_team_meeting_agend",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

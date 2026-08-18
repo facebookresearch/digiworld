@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Catnip-Infused Plush Mouse",
+    "description": "Catnip\u2011infused plush mouse offers soft cuddling and a burst of catnip scent to spark playful behavior. Ideal for indoor cats who love batting and pouncing. Machine\u2011washable for easy cleaning.",
+    "shortDescription": "Plush mouse with catnip for endless feline fun.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Cozy Critter Toys",
+    "price": 18.51,
+    "discountedPrice": 18.51,
+    "discountPercent": 0,
+    "categoryId": 10,
+    "categoryName": "Pet Supplies",
+    "subcategoryId": 72,
+    "subcategoryName": "Pet Toys",
+    "inStock": true,
+    "stockCount": 36,
+    "imageUrl": "/288_1",
+    "specs": "{\"material\": \"Soft plush fabric with organic catnip\", \"suitableFor\": \"Cats of all ages\", \"weight\": \"0.05 lb (22 g)\", \"dimensions\": \"2.5 x 1.5 x 1 in\", \"warranty\": \"30\\u2011day toy guarantee\", \"ageRange\": \"Kittens 4\\u202fweeks+\"}",
+    "tags": "[\"pet\", \"toys\", \"supplies\", \"premium\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

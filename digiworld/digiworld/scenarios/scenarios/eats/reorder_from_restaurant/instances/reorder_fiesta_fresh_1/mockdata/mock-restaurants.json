@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Fiesta Fresh",
+    "description": "Fiesta Fresh specializes in street-style Mexican dishes with fresh, locally-sourced ingredients.",
+    "address": "456 Oak Avenue, Brooklyn, NY 11201",
+    "latitude": 40.6892,
+    "longitude": -73.9857,
+    "logo": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 3.5,
+    "deliveryFee": 1.92,
+    "minOrder": 8.0,
+    "deliveryRadius": 10,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

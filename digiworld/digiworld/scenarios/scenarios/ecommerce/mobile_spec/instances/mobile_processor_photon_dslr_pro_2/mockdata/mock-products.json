@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Photon DSLR Pro",
+    "description": "Photon DSLR Pro delivers a 30\u2011MP full\u2011frame sensor with dual\u2011pixel autofocus. It supports 6\u202fK video capture and a robust magnesium alloy body. Includes a 5\u2011axis in\u2011body image stabilization system. Compatible with a wide range of lenses via a standard mount.",
+    "shortDescription": "Full\u2011frame DSLR offering 30\u2011MP resolution and 6\u202fK video capture.",
+    "rating": 1.0,
+    "reviewCount": 1,
+    "seller": "LensCraft Supplies",
+    "price": 1405.17,
+    "discountedPrice": 730.69,
+    "discountPercent": 48,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 5,
+    "subcategoryName": "Cameras",
+    "inStock": true,
+    "stockCount": 70,
+    "imageUrl": "/18_1",
+    "specs": "{\"display\": \"3.5-inch fixed LCD, 1920x1080\", \"processor\": \"OPTIC X\", \"ram\": \"6 GB\", \"storage\": \"SD Card slot up to 512 GB\", \"battery\": \"Li-ion 1900 mAh\", \"os\": \"Proprietary\", \"connectivity\": \"Wi-Fi 6, Bluetooth 5.1, GPS\"}",
+    "tags": "[\"electronics\", \"cameras\", \"popular\", \"high-quality\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

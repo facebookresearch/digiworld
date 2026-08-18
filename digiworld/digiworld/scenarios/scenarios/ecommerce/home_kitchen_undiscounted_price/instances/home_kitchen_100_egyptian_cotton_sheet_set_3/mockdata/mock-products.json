@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "100% Egyptian Cotton Sheet Set, Queen",
+    "description": "Experience luxurious sleep with a 100% Egyptian cotton sheet set that feels soft and breathable. The 400\u2011thread\u2011count weave resists pilling and maintains color after repeated washes. Includes fitted sheet, flat sheet, and two pillowcases for a queen\u2011size bed.",
+    "shortDescription": "Luxurious 100% Egyptian cotton queen sheet set.",
+    "rating": 5.0,
+    "reviewCount": 1,
+    "seller": "DreamSleep Linens",
+    "price": 1710.66,
+    "discountedPrice": 1248.78,
+    "discountPercent": 27,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 19,
+    "subcategoryName": "Bedding",
+    "inStock": true,
+    "stockCount": 46,
+    "imageUrl": "/73_1",
+    "specs": "{\"material\": \"100% long\\u2011staple Egyptian cotton\", \"dimensions\": \"Fitted sheet: 60x80x15 in; flat sheet: 90x102 in; pillowcases: 20x30 in\", \"weight\": \"4.5 lbs (set)\", \"warranty\": \"30\\u2011day satisfaction guarantee\", \"color\": \"Ivory\", \"careInstructions\": \"Machine wash cold; tumble dry low; iron on low heat; do not bleach\"}",
+    "tags": "[\"kitchen\", \"home\", \"bedding\", \"top-rated\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

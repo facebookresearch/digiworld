@@ -1,0 +1,21 @@
+{
+  "task_name": "Show information about the last order",
+  "app_name": "eats",
+  "scenario_class": "ShowLastOrderInfoScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Navigate to and view the details of the most recent food order",
+  "compatible_profiles": [
+    "budget_menu",
+    "cancelled_orders",
+    "default",
+    "excellent_ratings",
+    "high_order_volume",
+    "large_orders",
+    "new_user",
+    "pending_orders",
+    "poor_ratings",
+    "premium_menu",
+    "small_orders"
+  ]
+}

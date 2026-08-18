@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754090054,
+    "title": "Limited-Edition Autographed Baseball Glove, 2022",
+    "description": "A 2022 limited\u2011edition baseball glove autographed by a Hall of Fame player, gently used during a season and kept in a climate\u2011controlled case, offering both utility and memorabilia value.",
+    "categoryId": 6,
+    "sellerId": "{{current_user_id}}",
+    "price": 1903.05,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 8,
+    "imageUrl": "https://example.com/images/limited-edition-autographed-baseball-glove,-2022.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 662.07,
+    "currentBid": 885.91,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

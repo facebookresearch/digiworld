@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Elegant Lace Evening Dress",
+    "description": "An elegant evening dress crafted from delicate lace overlay on a satin lining. The off-shoulder neckline highlights the collarbones, and the concealed back zipper ensures a seamless look.",
+    "shortDescription": "Lace evening dress with off\u2011shoulder neckline for elegant occasions.",
+    "rating": 3.4,
+    "reviewCount": 5,
+    "seller": "Luna Boutique",
+    "price": 1363.15,
+    "discountedPrice": 695.21,
+    "discountPercent": 49,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 10,
+    "subcategoryName": "Women's Dresses",
+    "inStock": true,
+    "stockCount": 200,
+    "imageUrl": "/40_1",
+    "specs": "{\"material\": \"100% Silk with lace overlay\", \"careInstructions\": \"Dry clean only\", \"fit\": \"Tailored fit\", \"size\": \"2, 4, 6, 8, 10\", \"color\": \"Champagne\", \"pattern\": \"Lace overlay\"}",
+    "tags": "[\"clothing\", \"womens\", \"dresses\", \"popular\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

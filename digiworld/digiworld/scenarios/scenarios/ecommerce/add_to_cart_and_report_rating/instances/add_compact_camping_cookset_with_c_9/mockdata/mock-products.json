@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Compact Camping Cookset with Carrying Case",
+    "description": "The cookset includes a 2\u2011liter pot, a 1\u2011liter pan, a folding kettle, and a set of nesting utensils, all made from lightweight aluminum. A silicone\u2011coated carrying case keeps everything organized and protects against scratches. Perfect for backpackers seeking a full kitchen in a small package.",
+    "shortDescription": "Lightweight aluminum cookset for backpacking and campsite meals.",
+    "rating": 4.0,
+    "reviewCount": 1,
+    "seller": "CampFire Essentials",
+    "price": 28.01,
+    "discountedPrice": 26.61,
+    "discountPercent": 5,
+    "categoryId": 4,
+    "categoryName": "Sports & Outdoors",
+    "subcategoryId": 26,
+    "subcategoryName": "Camping Gear",
+    "inStock": true,
+    "stockCount": 169,
+    "imageUrl": "/102_1",
+    "specs": "{\"material\": \"anodized aluminum\", \"weight\": \"2.5 lb\", \"dimensions\": \"10\\\"x8\\\"x3\\\"\", \"warranty\": \"2 years\", \"color\": \"silver\", \"suitableFor\": \"backpacking, car camping\"}",
+    "tags": "[\"camping\", \"gear\", \"sports\", \"outdoors\", \"popular\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

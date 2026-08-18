@@ -1,0 +1,90 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "emily.chen@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Project Update",
+    "preview": "Hi, this is an update on the current project statu...",
+    "body": "Hi, this is an update on the current project status. We are on track to meet the deadline. Further details will be discussed in the meeting.",
+    "timestamp": "2021-12-11T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_emily_chen_project_update",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "ryan.thompson@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Meeting Rescheduled",
+    "preview": "Hello, the meeting has been rescheduled to next Th...",
+    "body": "Hello, the meeting has been rescheduled to next Thursday at 2 PM. Please update your calendars accordingly.",
+    "timestamp": "2022-01-03T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_ryan_thompson_meeting_rescheduled",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "ava.lee@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "New Task Assignment",
+    "preview": "Hi team, you have been assigned a new task that ne...",
+    "body": "Hi team, you have been assigned a new task that needs to be completed by the end of the week. Please review the task details and reach out if you have any questions.",
+    "timestamp": "2022-01-17T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_ava_lee_new_task_assignment",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "ethan.hall@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Contract Review",
+    "preview": "Hi, please review the attached contract and let me...",
+    "body": "Hi, please review the attached contract and let me know if you have any feedback or concerns.",
+    "timestamp": "2022-02-09T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_ethan_hall_contract_review",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

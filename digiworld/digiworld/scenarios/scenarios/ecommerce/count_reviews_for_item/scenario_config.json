@@ -1,0 +1,10 @@
+{
+  "task_name": "How many reviews are there for the <item> item?",
+  "app_name": "ecommerce",
+  "scenario_class": "CountReviewsForItemScenario",
+  "parameters": [
+    "item"
+  ],
+  "context_fields": [],
+  "description": "Count the number of reviews for a given product"
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "David Johnson",
+    "street": "6789 Walnut St",
+    "city": "Boston",
+    "state": "MA",
+    "pincode": "02108",
+    "phone": "6175552345",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

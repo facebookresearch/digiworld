@@ -1,0 +1,17 @@
+{
+  "task_name": "Add <first_name> <last_name>, <address_line_1>, <city>, <state> <postal_code>, <country>, <phone_number> as a new saved address, then set my address at <address_line_1> as default",
+  "app_name": "ecommerce",
+  "scenario_class": "AddAddressAndSetDefaultScenario",
+  "parameters": [
+    "first_name",
+    "last_name",
+    "address_line_1",
+    "city",
+    "state",
+    "postal_code",
+    "country",
+    "phone_number"
+  ],
+  "context_fields": [],
+  "description": "Composed scenario: add a new saved address, then set it as the default delivery address."
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "key": "max_daily_transfer_limit",
+    "value": "10000",
+    "dataType": "real",
+    "category": "balance_limits",
+    "description": "Maximum daily transfer limit",
+    "isConfigurable": 1,
+    "updatedAt": "2025-10-26T20:36:12.258137"
+  },
+  {
+    "id": 2,
+    "key": "max_zelle_transaction",
+    "value": "2500",
+    "dataType": "real",
+    "category": "balance_limits",
+    "description": "Maximum single Zelle transaction",
+    "isConfigurable": 1,
+    "updatedAt": "2025-10-26T20:36:12.258139"
+  },
+  {
+    "id": 3,
+    "key": "overdraft_fee",
+    "value": "35",
+    "dataType": "real",
+    "category": "fees",
+    "description": "Standard overdraft fee",
+    "isConfigurable": 1,
+    "updatedAt": "2025-10-26T20:36:12.258140"
+  },
+  {
+    "id": 4,
+    "key": "wire_transfer_fee",
+    "value": "30",
+    "dataType": "real",
+    "category": "fees",
+    "description": "Domestic wire transfer fee",
+    "isConfigurable": 1,
+    "updatedAt": "2025-10-26T20:36:12.258141"
+  },
+  {
+    "id": 5,
+    "key": "enable_notifications",
+    "value": "true",
+    "dataType": "boolean",
+    "category": "features",
+    "description": "Enable push notifications",
+    "isConfigurable": 1,
+    "updatedAt": "2025-10-26T20:36:12.258142"
+  }
+]

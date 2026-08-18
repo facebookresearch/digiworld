@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "title": "Switchable transitional access",
+    "artistId": 17,
+    "releaseDate": "2025-01-16T00:00:00Z",
+    "categories": [
+      "travel",
+      "experimental"
+    ],
+    "coverArt": "albums/album_1.jpg",
+    "totalTracks": 5,
+    "rating": 3.9,
+    "createdAt": "2025-01-16T00:00:00Z",
+    "updatedAt": "2025-01-16T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Devolved tertiary secured line",
+    "artistId": 32,
+    "releaseDate": "2025-04-04T00:00:00Z",
+    "categories": [
+      "melancholic",
+      "chill"
+    ],
+    "coverArt": "albums/album_2.jpg",
+    "totalTracks": 3,
+    "rating": 4.1,
+    "createdAt": "2021-11-24T00:00:00Z",
+    "updatedAt": "2021-11-24T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Exclusive methodical artificial intelligence",
+    "artistId": 21,
+    "releaseDate": "2021-10-30T00:00:00Z",
+    "categories": [
+      "experimental",
+      "jazz"
+    ],
+    "coverArt": "albums/album_3.jpg",
+    "totalTracks": 6,
+    "rating": 3.1,
+    "createdAt": "2023-06-19T00:00:00Z",
+    "updatedAt": "2023-06-19T00:00:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Networked solution-oriented model",
+    "artistId": 43,
+    "releaseDate": "2022-02-16T00:00:00Z",
+    "categories": [
+      "evening",
+      "afternoon"
+    ],
+    "coverArt": "albums/album_4.jpg",
+    "totalTracks": 4,
+    "rating": 4.0,
+    "createdAt": "2022-11-12T00:00:00Z",
+    "updatedAt": "2022-11-12T00:00:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Programmable multimedia frame",
+    "artistId": 1,
+    "releaseDate": "2023-10-13T00:00:00Z",
+    "categories": [
+      "workout",
+      "ambient"
+    ],
+    "coverArt": "albums/album_5.jpg",
+    "totalTracks": 6,
+    "rating": 3.6,
+    "createdAt": "2022-01-30T00:00:00Z",
+    "updatedAt": "2022-01-30T00:00:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Function-based scalable array",
+    "artistId": 40,
+    "releaseDate": "2024-05-13T00:00:00Z",
+    "categories": [
+      "rock",
+      "night"
+    ],
+    "coverArt": "albums/album_6.jpg",
+    "totalTracks": 7,
+    "rating": 3.8,
+    "createdAt": "2023-01-15T00:00:00Z",
+    "updatedAt": "2023-01-15T00:00:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Reactive content-based capability",
+    "artistId": 39,
+    "releaseDate": "2022-02-04T00:00:00Z",
+    "categories": [
+      "chill",
+      "study"
+    ],
+    "coverArt": "albums/album_7.jpg",
+    "totalTracks": 4,
+    "rating": 5.0,
+    "createdAt": "2023-08-27T00:00:00Z",
+    "updatedAt": "2023-08-27T00:00:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Upgradable global benchmark",
+    "artistId": 23,
+    "releaseDate": "2024-07-03T00:00:00Z",
+    "categories": [
+      "jazz",
+      "focus"
+    ],
+    "coverArt": "albums/album_8.jpg",
+    "totalTracks": 6,
+    "rating": 4.2,
+    "createdAt": "2024-08-01T00:00:00Z",
+    "updatedAt": "2024-08-01T00:00:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Profit-focused explicit hub",
+    "artistId": 15,
+    "releaseDate": "2023-08-03T00:00:00Z",
+    "categories": [
+      "study",
+      "pop"
+    ],
+    "coverArt": "albums/album_9.jpg",
+    "totalTracks": 7,
+    "rating": 4.4,
+    "createdAt": "2023-02-16T00:00:00Z",
+    "updatedAt": "2023-02-16T00:00:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Reverse-engineered mission-critical interface",
+    "artistId": 38,
+    "releaseDate": "2022-04-19T00:00:00Z",
+    "categories": [
+      "workout",
+      "ambient"
+    ],
+    "coverArt": "albums/album_10.jpg",
+    "totalTracks": 5,
+    "rating": 4.5,
+    "createdAt": "2023-12-05T00:00:00Z",
+    "updatedAt": "2023-12-05T00:00:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Expanded contextually-based support",
+    "artistId": 24,
+    "releaseDate": "2021-02-03T00:00:00Z",
+    "categories": [
+      "ambient",
+      "morning"
+    ],
+    "coverArt": "albums/album_11.jpg",
+    "totalTracks": 5,
+    "rating": 3.8,
+    "createdAt": "2022-12-16T00:00:00Z",
+    "updatedAt": "2022-12-16T00:00:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Expanded 5thgeneration success",
+    "artistId": 15,
+    "releaseDate": "2024-02-16T00:00:00Z",
+    "categories": [
+      "electronic",
+      "study"
+    ],
+    "coverArt": "albums/album_12.jpg",
+    "totalTracks": 5,
+    "rating": 4.1,
+    "createdAt": "2021-01-20T00:00:00Z",
+    "updatedAt": "2021-01-20T00:00:00Z"
+  },
+  {
+    "id": 13,
+    "title": "Multi-tiered bi-directional circuit",
+    "artistId": 7,
+    "releaseDate": "2024-03-31T00:00:00Z",
+    "categories": [
+      "rock",
+      "chill"
+    ],
+    "coverArt": "albums/album_13.jpg",
+    "totalTracks": 6,
+    "rating": 4.1,
+    "createdAt": "2025-03-09T00:00:00Z",
+    "updatedAt": "2025-03-09T00:00:00Z"
+  },
+  {
+    "id": 14,
+    "title": "Networked well-modulated leverage",
+    "artistId": 15,
+    "releaseDate": "2020-06-14T00:00:00Z",
+    "categories": [
+      "evening",
+      "electronic"
+    ],
+    "coverArt": "albums/album_14.jpg",
+    "totalTracks": 4,
+    "rating": 4.6,
+    "createdAt": "2022-05-08T00:00:00Z",
+    "updatedAt": "2022-05-08T00:00:00Z"
+  },
+  {
+    "id": 15,
+    "title": "Persistent secondary capacity",
+    "artistId": 26,
+    "releaseDate": "2024-02-14T00:00:00Z",
+    "categories": [
+      "afternoon",
+      "night"
+    ],
+    "coverArt": "albums/album_15.jpg",
+    "totalTracks": 7,
+    "rating": 4.2,
+    "createdAt": "2020-01-04T00:00:00Z",
+    "updatedAt": "2020-01-04T00:00:00Z"
+  },
+  {
+    "id": 16,
+    "title": "Optional user-facing strategy",
+    "artistId": 19,
+    "releaseDate": "2025-01-11T00:00:00Z",
+    "categories": [
+      "focus",
+      "experimental"
+    ],
+    "coverArt": "albums/album_16.jpg",
+    "totalTracks": 3,
+    "rating": 4.7,
+    "createdAt": "2023-12-22T00:00:00Z",
+    "updatedAt": "2023-12-22T00:00:00Z"
+  },
+  {
+    "id": 17,
+    "title": "Triple-buffered intangible ability",
+    "artistId": 42,
+    "releaseDate": "2023-11-12T00:00:00Z",
+    "categories": [
+      "meditation",
+      "evening"
+    ],
+    "coverArt": "albums/album_17.jpg",
+    "totalTracks": 5,
+    "rating": 4.4,
+    "createdAt": "2020-07-18T00:00:00Z",
+    "updatedAt": "2020-07-18T00:00:00Z"
+  },
+  {
+    "id": 18,
+    "title": "Diverse bi-directional frame",
+    "artistId": 33,
+    "releaseDate": "2022-06-29T00:00:00Z",
+    "categories": [
+      "chill",
+      "melancholic"
+    ],
+    "coverArt": "albums/album_18.jpg",
+    "totalTracks": 6,
+    "rating": 4.0,
+    "createdAt": "2020-07-21T00:00:00Z",
+    "updatedAt": "2020-07-21T00:00:00Z"
+  },
+  {
+    "id": 19,
+    "title": "Advanced coherent knowledge user",
+    "artistId": 8,
+    "releaseDate": "2020-12-11T00:00:00Z",
+    "categories": [
+      "rock",
+      "energetic"
+    ],
+    "coverArt": "albums/album_19.jpg",
+    "totalTracks": 4,
+    "rating": 3.2,
+    "createdAt": "2021-05-29T00:00:00Z",
+    "updatedAt": "2021-05-29T00:00:00Z"
+  },
+  {
+    "id": 20,
+    "title": "Streamlined context-sensitive open system",
+    "artistId": 17,
+    "releaseDate": "2024-03-25T00:00:00Z",
+    "categories": [
+      "focus",
+      "night"
+    ],
+    "coverArt": "albums/album_20.jpg",
+    "totalTracks": 5,
+    "rating": 3.2,
+    "createdAt": "2020-11-15T00:00:00Z",
+    "updatedAt": "2020-11-15T00:00:00Z"
+  },
+  {
+    "id": 21,
+    "title": "Inverse composite initiative",
+    "artistId": 36,
+    "releaseDate": "2023-10-30T00:00:00Z",
+    "categories": [
+      "chill",
+      "meditation"
+    ],
+    "coverArt": "albums/album_21.jpg",
+    "totalTracks": 5,
+    "rating": 3.8,
+    "createdAt": "2022-09-07T00:00:00Z",
+    "updatedAt": "2022-09-07T00:00:00Z"
+  },
+  {
+    "id": 22,
+    "title": "Future-proofed interactive structure",
+    "artistId": 13,
+    "releaseDate": "2023-06-29T00:00:00Z",
+    "categories": [
+      "chill",
+      "study"
+    ],
+    "coverArt": "albums/album_22.jpg",
+    "totalTracks": 4,
+    "rating": 4.3,
+    "createdAt": "2023-06-15T00:00:00Z",
+    "updatedAt": "2023-06-15T00:00:00Z"
+  },
+  {
+    "id": 23,
+    "title": "Advanced solution-oriented Graphic Interface",
+    "artistId": 39,
+    "releaseDate": "2020-10-10T00:00:00Z",
+    "categories": [
+      "travel",
+      "electronic"
+    ],
+    "coverArt": "albums/album_23.jpg",
+    "totalTracks": 5,
+    "rating": 4.2,
+    "createdAt": "2022-06-28T00:00:00Z",
+    "updatedAt": "2022-06-28T00:00:00Z"
+  },
+  {
+    "id": 24,
+    "title": "Public-key transitional website",
+    "artistId": 22,
+    "releaseDate": "2022-11-29T00:00:00Z",
+    "categories": [
+      "rock",
+      "jazz"
+    ],
+    "coverArt": "albums/album_24.jpg",
+    "totalTracks": 3,
+    "rating": 4.3,
+    "createdAt": "2021-06-12T00:00:00Z",
+    "updatedAt": "2021-06-12T00:00:00Z"
+  },
+  {
+    "id": 25,
+    "title": "Object-based real-time hierarchy",
+    "artistId": 39,
+    "releaseDate": "2024-03-21T00:00:00Z",
+    "categories": [
+      "study",
+      "experimental"
+    ],
+    "coverArt": "albums/album_25.jpg",
+    "totalTracks": 3,
+    "rating": 3.6,
+    "createdAt": "2020-09-23T00:00:00Z",
+    "updatedAt": "2020-09-23T00:00:00Z"
+  },
+  {
+    "id": 26,
+    "title": "Networked 24/7 hierarchy",
+    "artistId": 19,
+    "releaseDate": "2020-12-19T00:00:00Z",
+    "categories": [
+      "afternoon",
+      "rock"
+    ],
+    "coverArt": "albums/album_26.jpg",
+    "totalTracks": 7,
+    "rating": 3.7,
+    "createdAt": "2025-02-06T00:00:00Z",
+    "updatedAt": "2025-02-06T00:00:00Z"
+  },
+  {
+    "id": 27,
+    "title": "Grass-roots cohesive migration",
+    "artistId": 5,
+    "releaseDate": "2022-08-04T00:00:00Z",
+    "categories": [
+      "pop",
+      "melancholic"
+    ],
+    "coverArt": "albums/album_27.jpg",
+    "totalTracks": 4,
+    "rating": 4.9,
+    "createdAt": "2022-12-04T00:00:00Z",
+    "updatedAt": "2022-12-04T00:00:00Z"
+  },
+  {
+    "id": 28,
+    "title": "Organized well-modulated portal",
+    "artistId": 2,
+    "releaseDate": "2022-04-22T00:00:00Z",
+    "categories": [
+      "jazz",
+      "rock"
+    ],
+    "coverArt": "albums/album_28.jpg",
+    "totalTracks": 3,
+    "rating": 4.9,
+    "createdAt": "2021-06-02T00:00:00Z",
+    "updatedAt": "2021-06-02T00:00:00Z"
+  },
+  {
+    "id": 29,
+    "title": "Grass-roots attitude-oriented architecture",
+    "artistId": 32,
+    "releaseDate": "2023-02-05T00:00:00Z",
+    "categories": [
+      "rock",
+      "ambient"
+    ],
+    "coverArt": "albums/album_29.jpg",
+    "totalTracks": 4,
+    "rating": 3.7,
+    "createdAt": "2023-04-15T00:00:00Z",
+    "updatedAt": "2023-04-15T00:00:00Z"
+  },
+  {
+    "id": 30,
+    "title": "Optimized multi-state software",
+    "artistId": 26,
+    "releaseDate": "2023-06-08T00:00:00Z",
+    "categories": [
+      "afternoon",
+      "travel"
+    ],
+    "coverArt": "albums/album_30.jpg",
+    "totalTracks": 4,
+    "rating": 4.0,
+    "createdAt": "2022-03-26T00:00:00Z",
+    "updatedAt": "2022-03-26T00:00:00Z"
+  },
+  {
+    "id": 31,
+    "title": "Ergonomic disintermediate database",
+    "artistId": 6,
+    "releaseDate": "2024-11-17T00:00:00Z",
+    "categories": [
+      "afternoon",
+      "evening"
+    ],
+    "coverArt": "albums/album_31.jpg",
+    "totalTracks": 3,
+    "rating": 3.3,
+    "createdAt": "2020-06-21T00:00:00Z",
+    "updatedAt": "2020-06-21T00:00:00Z"
+  },
+  {
+    "id": 32,
+    "title": "Stand-alone radical encoding",
+    "artistId": 13,
+    "releaseDate": "2021-10-10T00:00:00Z",
+    "categories": [
+      "afternoon",
+      "chill"
+    ],
+    "coverArt": "albums/album_32.jpg",
+    "totalTracks": 6,
+    "rating": 3.6,
+    "createdAt": "2024-01-27T00:00:00Z",
+    "updatedAt": "2024-01-27T00:00:00Z"
+  },
+  {
+    "id": 33,
+    "title": "Triple-buffered user-facing interface",
+    "artistId": 16,
+    "releaseDate": "2023-07-21T00:00:00Z",
+    "categories": [
+      "morning",
+      "afternoon"
+    ],
+    "coverArt": "albums/album_33.jpg",
+    "totalTracks": 6,
+    "rating": 3.9,
+    "createdAt": "2024-02-11T00:00:00Z",
+    "updatedAt": "2024-02-11T00:00:00Z"
+  },
+  {
+    "id": 34,
+    "title": "Self-enabling context-sensitive hub",
+    "artistId": 21,
+    "releaseDate": "2024-09-20T00:00:00Z",
+    "categories": [
+      "night",
+      "travel"
+    ],
+    "coverArt": "albums/album_34.jpg",
+    "totalTracks": 5,
+    "rating": 3.9,
+    "createdAt": "2020-01-15T00:00:00Z",
+    "updatedAt": "2020-01-15T00:00:00Z"
+  },
+  {
+    "id": 35,
+    "title": "Streamlined tertiary implementation",
+    "artistId": 36,
+    "releaseDate": "2024-12-12T00:00:00Z",
+    "categories": [
+      "experimental",
+      "workout"
+    ],
+    "coverArt": "albums/album_35.jpg",
+    "totalTracks": 7,
+    "rating": 3.1,
+    "createdAt": "2021-09-29T00:00:00Z",
+    "updatedAt": "2021-09-29T00:00:00Z"
+  },
+  {
+    "id": 36,
+    "title": "Cloned client-server software",
+    "artistId": 35,
+    "releaseDate": "2023-09-09T00:00:00Z",
+    "categories": [
+      "evening",
+      "workout"
+    ],
+    "coverArt": "albums/album_36.jpg",
+    "totalTracks": 4,
+    "rating": 4.2,
+    "createdAt": "2023-07-16T00:00:00Z",
+    "updatedAt": "2023-07-16T00:00:00Z"
+  },
+  {
+    "id": 37,
+    "title": "Horizontal non-volatile structure",
+    "artistId": 17,
+    "releaseDate": "2022-12-19T00:00:00Z",
+    "categories": [
+      "meditation",
+      "energetic"
+    ],
+    "coverArt": "albums/album_37.jpg",
+    "totalTracks": 7,
+    "rating": 3.9,
+    "createdAt": "2023-11-09T00:00:00Z",
+    "updatedAt": "2023-11-09T00:00:00Z"
+  },
+  {
+    "id": 38,
+    "title": "Customizable eco-centric migration",
+    "artistId": 41,
+    "releaseDate": "2021-10-04T00:00:00Z",
+    "categories": [
+      "melancholic",
+      "experimental"
+    ],
+    "coverArt": "albums/album_38.jpg",
+    "totalTracks": 5,
+    "rating": 4.5,
+    "createdAt": "2021-09-07T00:00:00Z",
+    "updatedAt": "2021-09-07T00:00:00Z"
+  },
+  {
+    "id": 39,
+    "title": "Monitored asynchronous array",
+    "artistId": 5,
+    "releaseDate": "2020-08-30T00:00:00Z",
+    "categories": [
+      "travel",
+      "jazz"
+    ],
+    "coverArt": "albums/album_39.jpg",
+    "totalTracks": 6,
+    "rating": 3.2,
+    "createdAt": "2025-04-03T00:00:00Z",
+    "updatedAt": "2025-04-03T00:00:00Z"
+  },
+  {
+    "id": 40,
+    "title": "Implemented responsive encoding",
+    "artistId": 40,
+    "releaseDate": "2021-06-19T00:00:00Z",
+    "categories": [
+      "study",
+      "chill"
+    ],
+    "coverArt": "albums/album_40.jpg",
+    "totalTracks": 4,
+    "rating": 4.9,
+    "createdAt": "2024-11-20T00:00:00Z",
+    "updatedAt": "2024-11-20T00:00:00Z"
+  },
+  {
+    "id": 41,
+    "title": "Versatile uniform support",
+    "artistId": 46,
+    "releaseDate": "2024-04-27T00:00:00Z",
+    "categories": [
+      "energetic",
+      "study"
+    ],
+    "coverArt": "albums/album_41.jpg",
+    "totalTracks": 4,
+    "rating": 3.1,
+    "createdAt": "2021-05-21T00:00:00Z",
+    "updatedAt": "2021-05-21T00:00:00Z"
+  },
+  {
+    "id": 42,
+    "title": "Organized dedicated concept",
+    "artistId": 29,
+    "releaseDate": "2024-02-29T00:00:00Z",
+    "categories": [
+      "focus",
+      "evening"
+    ],
+    "coverArt": "albums/album_42.jpg",
+    "totalTracks": 7,
+    "rating": 3.5,
+    "createdAt": "2025-05-17T00:00:00Z",
+    "updatedAt": "2025-05-17T00:00:00Z"
+  },
+  {
+    "id": 43,
+    "title": "Programmable modular emulation",
+    "artistId": 2,
+    "releaseDate": "2021-05-03T00:00:00Z",
+    "categories": [
+      "focus",
+      "meditation"
+    ],
+    "coverArt": "albums/album_43.jpg",
+    "totalTracks": 3,
+    "rating": 4.4,
+    "createdAt": "2022-03-07T00:00:00Z",
+    "updatedAt": "2022-03-07T00:00:00Z"
+  },
+  {
+    "id": 44,
+    "title": "Centralized bifurcated methodology",
+    "artistId": 27,
+    "releaseDate": "2023-08-07T00:00:00Z",
+    "categories": [
+      "meditation",
+      "pop"
+    ],
+    "coverArt": "albums/album_44.jpg",
+    "totalTracks": 4,
+    "rating": 3.8,
+    "createdAt": "2020-11-10T00:00:00Z",
+    "updatedAt": "2020-11-10T00:00:00Z"
+  },
+  {
+    "id": 45,
+    "title": "Persevering mission-critical project",
+    "artistId": 20,
+    "releaseDate": "2023-07-12T00:00:00Z",
+    "categories": [
+      "chill",
+      "focus"
+    ],
+    "coverArt": "albums/album_45.jpg",
+    "totalTracks": 7,
+    "rating": 4.8,
+    "createdAt": "2020-11-01T00:00:00Z",
+    "updatedAt": "2020-11-01T00:00:00Z"
+  },
+  {
+    "id": 46,
+    "title": "Advanced context-sensitive flexibility",
+    "artistId": 24,
+    "releaseDate": "2023-02-23T00:00:00Z",
+    "categories": [
+      "study",
+      "workout"
+    ],
+    "coverArt": "albums/album_46.jpg",
+    "totalTracks": 3,
+    "rating": 4.3,
+    "createdAt": "2024-07-04T00:00:00Z",
+    "updatedAt": "2024-07-04T00:00:00Z"
+  },
+  {
+    "id": 47,
+    "title": "Grass-roots optimal firmware",
+    "artistId": 4,
+    "releaseDate": "2023-02-26T00:00:00Z",
+    "categories": [
+      "afternoon",
+      "ambient"
+    ],
+    "coverArt": "albums/album_47.jpg",
+    "totalTracks": 7,
+    "rating": 4.9,
+    "createdAt": "2021-03-23T00:00:00Z",
+    "updatedAt": "2021-03-23T00:00:00Z"
+  },
+  {
+    "id": 48,
+    "title": "Profound maximized system engine",
+    "artistId": 5,
+    "releaseDate": "2020-01-11T00:00:00Z",
+    "categories": [
+      "travel",
+      "electronic"
+    ],
+    "coverArt": "albums/album_48.jpg",
+    "totalTracks": 3,
+    "rating": 4.7,
+    "createdAt": "2021-01-03T00:00:00Z",
+    "updatedAt": "2021-01-03T00:00:00Z"
+  },
+  {
+    "id": 49,
+    "title": "Organized responsive support",
+    "artistId": 15,
+    "releaseDate": "2024-06-22T00:00:00Z",
+    "categories": [
+      "rock",
+      "chill"
+    ],
+    "coverArt": "albums/album_49.jpg",
+    "totalTracks": 5,
+    "rating": 3.3,
+    "createdAt": "2020-02-28T00:00:00Z",
+    "updatedAt": "2020-02-28T00:00:00Z"
+  },
+  {
+    "id": 50,
+    "title": "Horizontal zero-defect solution",
+    "artistId": 38,
+    "releaseDate": "2021-10-23T00:00:00Z",
+    "categories": [
+      "pop",
+      "meditation"
+    ],
+    "coverArt": "albums/album_50.jpg",
+    "totalTracks": 5,
+    "rating": 3.7,
+    "createdAt": "2021-03-14T00:00:00Z",
+    "updatedAt": "2021-03-14T00:00:00Z"
+  },
+  {
+    "id": 51,
+    "title": "Cross-group multi-tasking pricing structure",
+    "artistId": 27,
+    "releaseDate": "2024-04-15T00:00:00Z",
+    "categories": [
+      "chill",
+      "focus"
+    ],
+    "coverArt": "albums/album_51.jpg",
+    "totalTracks": 4,
+    "rating": 3.3,
+    "createdAt": "2024-08-06T00:00:00Z",
+    "updatedAt": "2024-08-06T00:00:00Z"
+  },
+  {
+    "id": 52,
+    "title": "Fundamental attitude-oriented policy",
+    "artistId": 33,
+    "releaseDate": "2024-05-14T00:00:00Z",
+    "categories": [
+      "melancholic",
+      "workout"
+    ],
+    "coverArt": "albums/album_52.jpg",
+    "totalTracks": 4,
+    "rating": 4.3,
+    "createdAt": "2023-03-27T00:00:00Z",
+    "updatedAt": "2023-03-27T00:00:00Z"
+  },
+  {
+    "id": 53,
+    "title": "Synchronized 24hour software",
+    "artistId": 13,
+    "releaseDate": "2022-04-12T00:00:00Z",
+    "categories": [
+      "pop",
+      "ambient"
+    ],
+    "coverArt": "albums/album_53.jpg",
+    "totalTracks": 5,
+    "rating": 4.9,
+    "createdAt": "2023-04-11T00:00:00Z",
+    "updatedAt": "2023-04-11T00:00:00Z"
+  },
+  {
+    "id": 54,
+    "title": "Exclusive impactful time-frame",
+    "artistId": 48,
+    "releaseDate": "2023-07-31T00:00:00Z",
+    "categories": [
+      "ambient",
+      "night"
+    ],
+    "coverArt": "albums/album_54.jpg",
+    "totalTracks": 4,
+    "rating": 4.2,
+    "createdAt": "2023-11-28T00:00:00Z",
+    "updatedAt": "2023-11-28T00:00:00Z"
+  },
+  {
+    "id": 55,
+    "title": "Re-engineered coherent parallelism",
+    "artistId": 9,
+    "releaseDate": "2023-10-14T00:00:00Z",
+    "categories": [
+      "energetic",
+      "study"
+    ],
+    "coverArt": "albums/album_55.jpg",
+    "totalTracks": 4,
+    "rating": 4.8,
+    "createdAt": "2024-10-27T00:00:00Z",
+    "updatedAt": "2024-10-27T00:00:00Z"
+  },
+  {
+    "id": 56,
+    "title": "Advanced fault-tolerant model",
+    "artistId": 43,
+    "releaseDate": "2024-02-28T00:00:00Z",
+    "categories": [
+      "workout",
+      "study"
+    ],
+    "coverArt": "albums/album_56.jpg",
+    "totalTracks": 5,
+    "rating": 3.3,
+    "createdAt": "2024-08-19T00:00:00Z",
+    "updatedAt": "2024-08-19T00:00:00Z"
+  },
+  {
+    "id": 57,
+    "title": "Up-sized foreground monitoring",
+    "artistId": 24,
+    "releaseDate": "2023-02-22T00:00:00Z",
+    "categories": [
+      "evening",
+      "meditation"
+    ],
+    "coverArt": "albums/album_57.jpg",
+    "totalTracks": 3,
+    "rating": 4.1,
+    "createdAt": "2022-03-16T00:00:00Z",
+    "updatedAt": "2022-03-16T00:00:00Z"
+  },
+  {
+    "id": 58,
+    "title": "Vision-oriented methodical structure",
+    "artistId": 30,
+    "releaseDate": "2021-09-21T00:00:00Z",
+    "categories": [
+      "melancholic",
+      "energetic"
+    ],
+    "coverArt": "albums/album_58.jpg",
+    "totalTracks": 4,
+    "rating": 3.7,
+    "createdAt": "2020-05-23T00:00:00Z",
+    "updatedAt": "2020-05-23T00:00:00Z"
+  },
+  {
+    "id": 59,
+    "title": "Optional radical throughput",
+    "artistId": 2,
+    "releaseDate": "2022-09-22T00:00:00Z",
+    "categories": [
+      "meditation",
+      "melancholic"
+    ],
+    "coverArt": "albums/album_59.jpg",
+    "totalTracks": 5,
+    "rating": 4.8,
+    "createdAt": "2020-03-13T00:00:00Z",
+    "updatedAt": "2020-03-13T00:00:00Z"
+  },
+  {
+    "id": 60,
+    "title": "Proactive intermediate array",
+    "artistId": 4,
+    "releaseDate": "2024-04-28T00:00:00Z",
+    "categories": [
+      "energetic",
+      "focus"
+    ],
+    "coverArt": "albums/album_60.jpg",
+    "totalTracks": 6,
+    "rating": 3.5,
+    "createdAt": "2020-05-23T00:00:00Z",
+    "updatedAt": "2020-05-23T00:00:00Z"
+  },
+  {
+    "id": 61,
+    "title": "Synergistic directional policy",
+    "artistId": 32,
+    "releaseDate": "2023-12-14T00:00:00Z",
+    "categories": [
+      "rock",
+      "workout"
+    ],
+    "coverArt": "albums/album_61.jpg",
+    "totalTracks": 3,
+    "rating": 4.3,
+    "createdAt": "2024-03-19T00:00:00Z",
+    "updatedAt": "2024-03-19T00:00:00Z"
+  },
+  {
+    "id": 62,
+    "title": "Public-key intermediate collaboration",
+    "artistId": 18,
+    "releaseDate": "2024-11-17T00:00:00Z",
+    "categories": [
+      "chill",
+      "ambient"
+    ],
+    "coverArt": "albums/album_62.jpg",
+    "totalTracks": 7,
+    "rating": 3.7,
+    "createdAt": "2022-02-03T00:00:00Z",
+    "updatedAt": "2022-02-03T00:00:00Z"
+  },
+  {
+    "id": 63,
+    "title": "Stand-alone object-oriented matrix",
+    "artistId": 1,
+    "releaseDate": "2022-01-22T00:00:00Z",
+    "categories": [
+      "experimental",
+      "night"
+    ],
+    "coverArt": "albums/album_63.jpg",
+    "totalTracks": 5,
+    "rating": 4.0,
+    "createdAt": "2020-01-02T00:00:00Z",
+    "updatedAt": "2020-01-02T00:00:00Z"
+  },
+  {
+    "id": 64,
+    "title": "Cross-group next generation throughput",
+    "artistId": 38,
+    "releaseDate": "2020-06-30T00:00:00Z",
+    "categories": [
+      "chill",
+      "evening"
+    ],
+    "coverArt": "albums/album_64.jpg",
+    "totalTracks": 4,
+    "rating": 4.8,
+    "createdAt": "2023-01-08T00:00:00Z",
+    "updatedAt": "2023-01-08T00:00:00Z"
+  },
+  {
+    "id": 65,
+    "title": "Re-engineered exuding architecture",
+    "artistId": 14,
+    "releaseDate": "2024-04-11T00:00:00Z",
+    "categories": [
+      "experimental",
+      "workout"
+    ],
+    "coverArt": "albums/album_65.jpg",
+    "totalTracks": 6,
+    "rating": 4.2,
+    "createdAt": "2022-07-07T00:00:00Z",
+    "updatedAt": "2022-07-07T00:00:00Z"
+  },
+  {
+    "id": 66,
+    "title": "Sharable bandwidth-monitored monitoring",
+    "artistId": 11,
+    "releaseDate": "2024-01-10T00:00:00Z",
+    "categories": [
+      "energetic",
+      "meditation"
+    ],
+    "coverArt": "albums/album_66.jpg",
+    "totalTracks": 6,
+    "rating": 3.1,
+    "createdAt": "2020-10-28T00:00:00Z",
+    "updatedAt": "2020-10-28T00:00:00Z"
+  },
+  {
+    "id": 67,
+    "title": "Intuitive well-modulated hardware",
+    "artistId": 31,
+    "releaseDate": "2024-01-08T00:00:00Z",
+    "categories": [
+      "electronic",
+      "afternoon"
+    ],
+    "coverArt": "albums/album_67.jpg",
+    "totalTracks": 6,
+    "rating": 3.6,
+    "createdAt": "2024-01-03T00:00:00Z",
+    "updatedAt": "2024-01-03T00:00:00Z"
+  },
+  {
+    "id": 68,
+    "title": "Compatible exuding synergy",
+    "artistId": 19,
+    "releaseDate": "2024-04-25T00:00:00Z",
+    "categories": [
+      "afternoon",
+      "electronic"
+    ],
+    "coverArt": "albums/album_68.jpg",
+    "totalTracks": 6,
+    "rating": 3.3,
+    "createdAt": "2020-10-03T00:00:00Z",
+    "updatedAt": "2020-10-03T00:00:00Z"
+  },
+  {
+    "id": 69,
+    "title": "Configurable composite workforce",
+    "artistId": 6,
+    "releaseDate": "2022-06-22T00:00:00Z",
+    "categories": [
+      "afternoon",
+      "jazz"
+    ],
+    "coverArt": "albums/album_69.jpg",
+    "totalTracks": 3,
+    "rating": 3.2,
+    "createdAt": "2021-01-19T00:00:00Z",
+    "updatedAt": "2021-01-19T00:00:00Z"
+  },
+  {
+    "id": 70,
+    "title": "Devolved homogeneous attitude",
+    "artistId": 12,
+    "releaseDate": "2023-12-26T00:00:00Z",
+    "categories": [
+      "study",
+      "electronic"
+    ],
+    "coverArt": "albums/album_70.jpg",
+    "totalTracks": 5,
+    "rating": 3.4,
+    "createdAt": "2024-01-09T00:00:00Z",
+    "updatedAt": "2024-01-09T00:00:00Z"
+  },
+  {
+    "id": 71,
+    "title": "Pre-emptive clear-thinking installation",
+    "artistId": 14,
+    "releaseDate": "2024-09-26T00:00:00Z",
+    "categories": [
+      "experimental",
+      "workout"
+    ],
+    "coverArt": "albums/album_71.jpg",
+    "totalTracks": 4,
+    "rating": 4.1,
+    "createdAt": "2020-03-02T00:00:00Z",
+    "updatedAt": "2020-03-02T00:00:00Z"
+  },
+  {
+    "id": 72,
+    "title": "De-engineered national throughput",
+    "artistId": 20,
+    "releaseDate": "2023-09-23T00:00:00Z",
+    "categories": [
+      "afternoon",
+      "rock"
+    ],
+    "coverArt": "albums/album_72.jpg",
+    "totalTracks": 5,
+    "rating": 3.0,
+    "createdAt": "2024-05-19T00:00:00Z",
+    "updatedAt": "2024-05-19T00:00:00Z"
+  },
+  {
+    "id": 73,
+    "title": "Triple-buffered zero tolerance frame",
+    "artistId": 13,
+    "releaseDate": "2025-02-01T00:00:00Z",
+    "categories": [
+      "study",
+      "energetic"
+    ],
+    "coverArt": "albums/album_73.jpg",
+    "totalTracks": 7,
+    "rating": 4.6,
+    "createdAt": "2023-09-14T00:00:00Z",
+    "updatedAt": "2023-09-14T00:00:00Z"
+  },
+  {
+    "id": 74,
+    "title": "Balanced composite intranet",
+    "artistId": 35,
+    "releaseDate": "2022-02-16T00:00:00Z",
+    "categories": [
+      "night",
+      "melancholic"
+    ],
+    "coverArt": "albums/album_74.jpg",
+    "totalTracks": 6,
+    "rating": 4.6,
+    "createdAt": "2022-02-03T00:00:00Z",
+    "updatedAt": "2022-02-03T00:00:00Z"
+  },
+  {
+    "id": 75,
+    "title": "Self-enabling high-level toolset",
+    "artistId": 31,
+    "releaseDate": "2020-11-24T00:00:00Z",
+    "categories": [
+      "ambient",
+      "travel"
+    ],
+    "coverArt": "albums/album_75.jpg",
+    "totalTracks": 4,
+    "rating": 4.5,
+    "createdAt": "2024-03-05T00:00:00Z",
+    "updatedAt": "2024-03-05T00:00:00Z"
+  },
+  {
+    "id": 76,
+    "title": "Synchronized coherent intranet",
+    "artistId": 8,
+    "releaseDate": "2022-06-26T00:00:00Z",
+    "categories": [
+      "melancholic",
+      "evening"
+    ],
+    "coverArt": "albums/album_76.jpg",
+    "totalTracks": 4,
+    "rating": 4.9,
+    "createdAt": "2025-02-20T00:00:00Z",
+    "updatedAt": "2025-02-20T00:00:00Z"
+  },
+  {
+    "id": 77,
+    "title": "Assimilated tangible knowledge user",
+    "artistId": 22,
+    "releaseDate": "2020-05-30T00:00:00Z",
+    "categories": [
+      "morning",
+      "workout"
+    ],
+    "coverArt": "albums/album_77.jpg",
+    "totalTracks": 5,
+    "rating": 3.9,
+    "createdAt": "2021-09-14T00:00:00Z",
+    "updatedAt": "2021-09-14T00:00:00Z"
+  },
+  {
+    "id": 78,
+    "title": "User-centric hybrid intranet",
+    "artistId": 12,
+    "releaseDate": "2022-09-05T00:00:00Z",
+    "categories": [
+      "focus",
+      "afternoon"
+    ],
+    "coverArt": "albums/album_78.jpg",
+    "totalTracks": 7,
+    "rating": 3.7,
+    "createdAt": "2021-11-08T00:00:00Z",
+    "updatedAt": "2021-11-08T00:00:00Z"
+  },
+  {
+    "id": 79,
+    "title": "Configurable attitude-oriented paradigm",
+    "artistId": 28,
+    "releaseDate": "2022-04-03T00:00:00Z",
+    "categories": [
+      "night",
+      "morning"
+    ],
+    "coverArt": "albums/album_79.jpg",
+    "totalTracks": 4,
+    "rating": 3.1,
+    "createdAt": "2022-01-07T00:00:00Z",
+    "updatedAt": "2022-01-07T00:00:00Z"
+  },
+  {
+    "id": 80,
+    "title": "Multi-lateral 5thgeneration project",
+    "artistId": 50,
+    "releaseDate": "2021-09-13T00:00:00Z",
+    "categories": [
+      "electronic",
+      "afternoon"
+    ],
+    "coverArt": "albums/album_80.jpg",
+    "totalTracks": 5,
+    "rating": 5.0,
+    "createdAt": "2020-11-14T00:00:00Z",
+    "updatedAt": "2020-11-14T00:00:00Z"
+  }
+]

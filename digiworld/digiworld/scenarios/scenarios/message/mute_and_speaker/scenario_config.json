@@ -1,0 +1,22 @@
+{
+  "task_name": "Mute my microphone and put the call on speaker",
+  "app_name": "message",
+  "scenario_class": "MuteAndSpeakerScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Mute the microphone and enable speaker during a call",
+  "additional_mockdata": false,
+  "compatible_profiles": [
+    "default",
+    "high_message_volume",
+    "inactive_groups",
+    "large_groups",
+    "long_calls",
+    "many_groups",
+    "media_heavy",
+    "missed_calls",
+    "new_user",
+    "recent_activity",
+    "unread_messages"
+  ]
+}

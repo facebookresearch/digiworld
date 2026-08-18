@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754100058,
+    "title": "Collector\u2019s Edition 1972 Rolling Stones 'Exile on Main St.' Vinyl Set",
+    "description": "Mint\u2011condition double LP with original gatefold sleeve, includes original inner sleeve and poster.",
+    "categoryId": 1,
+    "sellerId": "{{current_user_id}}",
+    "price": 2433.46,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 11,
+    "imageUrl": "https://example.com/images/collector\u2019s-edition-1972-rolling-stones-'exile-on-main-st.'-vinyl-set.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 1006.38,
+    "currentBid": 1450.83,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

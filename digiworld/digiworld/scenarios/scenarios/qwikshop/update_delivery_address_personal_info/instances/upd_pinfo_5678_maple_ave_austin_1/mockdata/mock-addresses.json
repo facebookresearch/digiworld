@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Maria Hernandez",
+    "street": "5678 Maple Ave",
+    "city": "Austin",
+    "state": "TX",
+    "pincode": "78701",
+    "phone": "5125555678",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

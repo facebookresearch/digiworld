@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "natalie.brooks@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Recipe for chocolate chip cookies",
+    "preview": "Hi, here is the recipe for chocolate chip cookies ...",
+    "body": "Hi, here is the recipe for chocolate chip cookies you asked for. It includes step-by-step instructions and ingredient measurements.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_natalie_brooks_recipe_for_chocolate_chip",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "andrew.scott@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Here's the recipe for chocolate chip cookies",
+    "preview": "Hello, I've attached the recipe for chocolate chip...",
+    "body": "Hello, I've attached the recipe for chocolate chip cookies with a few tips for perfect texture. Let me know how they turn out!",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_andrew_scott_here_s_the_recipe_for_choco",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

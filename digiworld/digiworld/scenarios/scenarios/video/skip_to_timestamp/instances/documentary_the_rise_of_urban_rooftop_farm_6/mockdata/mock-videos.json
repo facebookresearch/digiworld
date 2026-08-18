@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 1,
+    "categoryId": 3,
+    "title": "The Rise of Urban Rooftop Farming",
+    "description": "This short documentary explores how city dwellers are turning rooftops into thriving farms, featuring interviews with pioneers and stunning aerial footage.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 658,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 6327,
+    "likeCount": 40,
+    "commentCount": 29,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Jungle Explorer Action Figure",
+    "description": "This 6-inch explorer comes with a khaki outfit, binoculars, a machete, and a removable backpack filled with tiny expedition tools. The figure's poseable joints let it swing from vines or navigate ruins. Encourages outdoor adventure storytelling.",
+    "shortDescription": "Explorer figure equipped for jungle adventures.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Adventure Playthings",
+    "price": 795.3,
+    "discountedPrice": 477.18,
+    "discountPercent": 40,
+    "categoryId": 7,
+    "categoryName": "Toys & Games",
+    "subcategoryId": 50,
+    "subcategoryName": "Action Figures",
+    "inStock": true,
+    "stockCount": 156,
+    "imageUrl": "/200_1",
+    "specs": "{\"ageRange\": \"5-12 years\", \"material\": \"ABS plastic\", \"dimensions\": \"5.5 inches tall\", \"batteryRequired\": \"No\", \"warranty\": \"1 year limited\", \"safetyRating\": \"N/A\"}",
+    "tags": "[\"games\", \"action\", \"figures\", \"toys\", \"best\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

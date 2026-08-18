@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754780140,
+    "title": "Pearl Drop Earrings \u2013 Freshly Polished and Securely Set",
+    "description": "These classic pearl drops sparkle with a fresh luster, each bead securely set in hypoallergenic metal for everyday wear.",
+    "categoryId": 10,
+    "sellerId": 2,
+    "price": 225.74,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/pearl-drop-earrings-\u2013-freshly-polished-and-securely-set.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

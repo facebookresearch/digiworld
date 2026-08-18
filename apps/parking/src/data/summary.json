@@ -1,0 +1,38 @@
+{
+  "generated_at": "2025-11-27T10:51:13.144202",
+  "config": {
+    "num_users": 25,
+    "locations_per_user": 2,
+    "vehicle_types": [
+      "car",
+      "motorcycle",
+      "van",
+      "truck",
+      "ev"
+    ],
+    "vehicles_per_user": 1,
+    "payment_methods_percent": 0.7,
+    "zones_count": 50,
+    "history_per_user": 5,
+    "output_dir": "mock_parking_data",
+    "start_date": "2025-08-29",
+    "end_date": "2025-12-27",
+    "bbox": [
+      -74.00674,
+      40.71278,
+      -73.97524,
+      40.75929
+    ]
+  },
+  "statistics": {
+    "users": 25,
+    "user_locations": 25,
+    "vehicle_types": 5,
+    "vehicles": 25,
+    "payment_methods": 27,
+    "parking_zones": 78,
+    "vehicle_type_rates": 5,
+    "parking_history": 77,
+    "notifications": 44
+  }
+}

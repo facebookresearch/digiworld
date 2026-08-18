@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "NovaTech EchoStream Smart Speaker",
+    "description": "NovaTech EchoStream Smart Speaker integrates voice assistant support and high\u2011fidelity audio with a 2\u2011way driver system. It offers Wi\u2011Fi and Bluetooth connectivity, plus multi\u2011room syncing. The sleek fabric grille blends into modern home d\u00e9cor.",
+    "shortDescription": "A smart speaker with voice assistant integration and high\u2011fidelity audio.",
+    "rating": 2.4,
+    "reviewCount": 5,
+    "seller": "DigitalSupply",
+    "price": 188.02,
+    "discountedPrice": 188.02,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 7,
+    "subcategoryName": "Speakers",
+    "inStock": true,
+    "stockCount": 148,
+    "imageUrl": "/27_1",
+    "specs": "{\"display\": \"7\\\" touch screen\", \"processor\": \"Quad\u2011core ARC Cortix\u2011A55\", \"ram\": \"2 GB LPDDR4\", \"storage\": \"8 GB flash\", \"battery\": \"Integrated mains power (no battery)\", \"os\": \"NovaAI OS\", \"connectivity\": \"Wi\u2011Fi 6, Bluetooth 5.2, Zigbee, Thread\"}",
+    "tags": "[\"speakers\", \"electronics\", \"high-quality\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

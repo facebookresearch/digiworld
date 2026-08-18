@@ -1,0 +1,10 @@
+{
+  "task_name": "Show me my transaction history for \"<transactionType>\"",
+  "app_name": "auction",
+  "scenario_class": "ShowTransactionHistoryScenario",
+  "parameters": [
+    "transactionType"
+  ],
+  "context_fields": [],
+  "description": "Navigate to the transaction history screen filtered by transaction type."
+}

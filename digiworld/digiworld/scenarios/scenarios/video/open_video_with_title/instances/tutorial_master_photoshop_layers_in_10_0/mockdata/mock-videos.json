@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 1,
+    "categoryId": 3,
+    "title": "Master Photoshop Layers in 10 Minutes",
+    "description": "Learn how to organize and edit layers efficiently in Photoshop with step\u2011by\u2011step examples, perfect for beginners and pros alike.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 871,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 1779,
+    "likeCount": 91,
+    "commentCount": 47,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

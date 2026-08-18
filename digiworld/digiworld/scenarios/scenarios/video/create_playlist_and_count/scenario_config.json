@@ -1,0 +1,11 @@
+{
+  "task_name": "Create a new playlist titled \"<playlist_name>\" with description \"<playlist_description>\", then tell me how many playlists I have",
+  "app_name": "video",
+  "scenario_class": "CreatePlaylistAndCountScenario",
+  "parameters": [
+    "playlist_name",
+    "playlist_description"
+  ],
+  "context_fields": [],
+  "description": "Create a new playlist with a specified name and description, then report the total playlist count"
+}

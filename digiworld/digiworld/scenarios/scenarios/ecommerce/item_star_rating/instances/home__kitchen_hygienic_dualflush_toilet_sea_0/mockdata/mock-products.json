@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Hygienic Dual\u2011Flush Toilet Seat with Soft\u2011Close",
+    "description": "Enhance bathroom hygiene with this dual\u2011flush toilet seat, offering soft\u2011close lid operation and a quick\u2011release hinge for easy cleaning. The antimicrobial coating resists bacteria growth, and the ergonomic shape adds comfort. Fits most standard elongated bowls.",
+    "shortDescription": "Dual\u2011flush toilet seat with soft\u2011close lid and antimicrobial coating.",
+    "rating": 3.0,
+    "reviewCount": 1,
+    "seller": "CleanSeat Sanitary",
+    "price": 278.54,
+    "discountedPrice": 278.54,
+    "discountPercent": 0,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 23,
+    "subcategoryName": "Bathroom",
+    "inStock": true,
+    "stockCount": 173,
+    "imageUrl": "/92_1",
+    "specs": "{\"material\": \"Mold-resistant plastic\", \"dimensions\": \"Standard round: 16\\\" diameter\", \"weight\": \"2 lbs\", \"warranty\": \"2-year\", \"color\": \"White\", \"careInstructions\": \"Wipe with mild cleaner; avoid bleach\"}",
+    "tags": "[\"kitchen\", \"home\", \"bathroom\", \"high-quality\", \"top-rated\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

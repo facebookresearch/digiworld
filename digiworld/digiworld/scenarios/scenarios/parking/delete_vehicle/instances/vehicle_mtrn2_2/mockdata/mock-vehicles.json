@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "nickname": "Midnight Runner",
+    "make": "Fairmont",
+    "model": "T-150",
+    "color": "Black",
+    "year": 2022,
+    "plateNumber": "MTRN2",
+    "vehicleTypeId": 3,
+    "isDefault": 0,
+    "createdAt": "{{end_timestamp}}",
+    "updatedAt": "{{end_timestamp}}",
+    "metadata": null
+  }
+]

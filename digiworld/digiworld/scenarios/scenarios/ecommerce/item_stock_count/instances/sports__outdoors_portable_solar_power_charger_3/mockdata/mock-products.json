@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Portable Solar Power Charger",
+    "description": "A compact solar charger with a high-efficiency monocrystalline panel that delivers up to 10 watts of power. The built-in battery pack stores energy for later use, and the USB ports charge phones, cameras, and GPS devices. Lightweight and weather-resistant for outdoor adventures.",
+    "shortDescription": "Portable solar charger delivering up to 10 W with USB output.",
+    "rating": 4.0,
+    "reviewCount": 1,
+    "seller": "SunCharge Solar",
+    "price": 568.22,
+    "discountedPrice": 482.99,
+    "discountPercent": 15,
+    "categoryId": 4,
+    "categoryName": "Sports & Outdoors",
+    "subcategoryId": 31,
+    "subcategoryName": "Hiking",
+    "inStock": true,
+    "stockCount": 47,
+    "imageUrl": "/124_1",
+    "specs": "{\"material\": \"Polycarbonate housing, monocrystalline panels\", \"weight\": \"800 g\", \"dimensions\": \"25 cm x 15 cm x 5 cm (folded)\", \"warranty\": \"2-year limited\", \"color\": \"Grey with black connectors\", \"suitableFor\": \"Camping, hiking, emergency charging\"}",
+    "tags": "[\"outdoors\", \"hiking\", \"sports\", \"top-rated\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

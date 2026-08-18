@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Sedan",
+    "baseFare": 50,
+    "ratePerKm": 10,
+    "icon": "sedan_icon.png"
+  },
+  {
+    "id": 2,
+    "name": "SUV",
+    "baseFare": 70,
+    "ratePerKm": 15,
+    "icon": "suv_icon.png"
+  },
+  {
+    "id": 3,
+    "name": "Mini Van",
+    "baseFare": 90,
+    "ratePerKm": 12,
+    "icon": "minivan_icon.png"
+  }
+]

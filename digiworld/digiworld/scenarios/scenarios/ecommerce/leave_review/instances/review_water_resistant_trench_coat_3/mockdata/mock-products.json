@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Water-Resistant Trench Coat",
+    "description": "Water-resistant trench coat with a belted waist and storm flap, crafted from breathable gabardine. The timeless silhouette works for both formal and casual outfits.",
+    "shortDescription": "Water-resistant trench coat with belted waist and classic silhouette.",
+    "rating": 3.0,
+    "reviewCount": 3,
+    "seller": "Coastal Classics Co.",
+    "price": 293.04,
+    "discountedPrice": 219.78,
+    "discountPercent": 25,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 12,
+    "subcategoryName": "Jackets",
+    "inStock": true,
+    "stockCount": 147,
+    "imageUrl": "/48_1",
+    "specs": "{\"material\": \"100% polyester, water-resistant coating\", \"careInstructions\": \"Machine wash cold, tumble dry low\", \"fit\": \"Trench coat, belted waist\", \"size\": \"S, M, L, XL, XXL\", \"color\": \"Beige\", \"pattern\": \"Solid\"}",
+    "tags": "[\"jackets\", \"clothing\", \"premium\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

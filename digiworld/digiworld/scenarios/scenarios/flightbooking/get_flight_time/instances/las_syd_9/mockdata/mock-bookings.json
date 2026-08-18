@@ -1,0 +1,53 @@
+[
+  {
+    "booking_id": "BK-TEST-FTYHL1C3",
+    "booking_reference": "FTYHL1C3",
+    "user_id": "{{current_user_id}}",
+    "trip_type": "one_way",
+    "booking_date": "{{end_timestamp}}",
+    "status": "confirmed",
+    "payment_status": "paid",
+    "total_price": 1140.36,
+    "refund_amount": 0,
+    "amount_paid": 1140.36,
+    "currency": "USD",
+    "flights": [
+      {
+        "flight_id": "SQ4899_2026-08-15",
+        "airline_code": "SQ",
+        "flight_number": "SQ4899",
+        "origin": "LAS",
+        "destination": "SYD",
+        "departure_time": "2026-08-15T20:15:00Z",
+        "arrival_time": "2026-08-16T00:37:00Z",
+        "duration_minutes": 262,
+        "fare": 1140.36,
+        "segment": "outbound",
+        "status": "confirmed"
+      }
+    ],
+    "passengers": [
+      {
+        "passenger_id": "P-FTYHL1C3-704201",
+        "first_name": "Test",
+        "last_name": "Traveler",
+        "email": "test.traveler@example.com",
+        "phone": "+1-555-8744",
+        "date_of_birth": "1982-08-26",
+        "passport_number": "X64634663",
+        "seat_assignments": [
+          {
+            "flight_id": "SQ4899_2026-08-15",
+            "seat_number": "7A",
+            "check_in_status": "not_checked_in",
+            "check_in_time": null
+          }
+        ],
+        "ticket_number": "TK-FTYHL1C3-704201",
+        "created_at": "2026-01-01T00:00:00Z"
+      }
+    ],
+    "created_at": "{{end_timestamp}}",
+    "updated_at": "{{end_timestamp}}"
+  }
+]

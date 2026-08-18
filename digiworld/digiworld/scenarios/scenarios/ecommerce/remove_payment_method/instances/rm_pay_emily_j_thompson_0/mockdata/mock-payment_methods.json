@@ -1,0 +1,15 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "user_id": "{{current_user_id}}",
+    "type": "card",
+    "card_type": "Vantage",
+    "name_on_card": "Emily J. Thompson",
+    "card_number": "4104332181960013",
+    "expiry_month": "06",
+    "expiry_year": "2029",
+    "is_default": 0,
+    "created_at": "2025-06-15 12:00:00.000",
+    "updated_at": "2025-06-15 12:00:00.000"
+  }
+]

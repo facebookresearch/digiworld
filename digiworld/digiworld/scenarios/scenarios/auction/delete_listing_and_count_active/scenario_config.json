@@ -1,0 +1,9 @@
+{
+  "task_name": "Delete the listing for \"<title>\", then tell me how many active auctions I have",
+  "app_name": "auction",
+  "scenario_class": "DeleteListingAndCountActiveScenario",
+  "parameters": ["title"],
+  "context_fields": [],
+  "description": "Delete a listing and then report the total number of active auctions.",
+  "additional_mockdata": true
+}

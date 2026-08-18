@@ -1,0 +1,9 @@
+{
+  "task_name": "Give me details for my flight from \"<origin>\" to \"<destination>\" on \"<date>\"",
+  "app_name": "flightbooking",
+  "scenario_class": "GetFlightDetailsScenario",
+  "parameters": ["origin", "destination", "date"],
+  "context_fields": [],
+  "description": "Retrieve comprehensive details for a specific flight booking.",
+  "additional_mockdata": true
+}

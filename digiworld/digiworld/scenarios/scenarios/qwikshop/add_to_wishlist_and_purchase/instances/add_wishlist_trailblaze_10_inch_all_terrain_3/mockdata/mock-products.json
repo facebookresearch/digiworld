@@ -1,0 +1,24 @@
+[
+  {
+    "id": 9900,
+    "name": "TrailBlaze 10-Inch All-Terrain Bike",
+    "description": "The TrailBlaze 10-inch all-terrain bike features a lightweight aluminum frame, hydraulic disc brakes, and knobby tires for rugged trails.",
+    "shortDescription": "Compact all-terrain bike with disc brakes.",
+    "price": 218.47,
+    "discountedPrice": 218.47,
+    "discountPercent": 0,
+    "rating": 3.9,
+    "reviewCount": 152,
+    "seller": "Adventure Wheels Co.",
+    "categoryName": "Sports & Outdoors",
+    "subcategoryName": "Cycling",
+    "inStock": 1,
+    "stockCount": 11,
+    "imageUrl": "/product_3615",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0,
+    "categoryId": 4,
+    "subcategoryId": 0
+  }
+]

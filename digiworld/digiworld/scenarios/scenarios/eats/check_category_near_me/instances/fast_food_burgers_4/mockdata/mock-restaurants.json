@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Grill Master Grill",
+    "description": "Serves a smoked brisket burger topped with caramelized onions and chipotle mayo.",
+    "address": "222 Birch Court, Seattle, WA 98101",
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "logo": "https://images.unsplash.com/photo-1424847651672-bf20a4b0982b?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.5,
+    "deliveryFee": 3.03,
+    "minOrder": 8.0,
+    "deliveryRadius": 6,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

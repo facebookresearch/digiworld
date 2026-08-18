@@ -1,0 +1,12 @@
+{
+  "task_name": "What date is my flight from \"<origin>\" to \"<destination>\"",
+  "app_name": "flightbooking",
+  "scenario_class": "GetFlightDateScenario",
+  "parameters": [
+    "origin",
+    "destination"
+  ],
+  "context_fields": [],
+  "additional_mockdata": true,
+  "description": "Retrieve the departure date of the user's flight between two airports."
+}

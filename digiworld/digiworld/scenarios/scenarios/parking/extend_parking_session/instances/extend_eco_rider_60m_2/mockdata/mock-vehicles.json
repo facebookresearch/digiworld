@@ -1,0 +1,17 @@
+[
+  {
+    "id": 99903,
+    "userId": "{{current_user_id}}",
+    "nickname": "Eco Rider",
+    "make": "Electra",
+    "model": "E3",
+    "color": "Midnight Black",
+    "year": 2023,
+    "plateNumber": "ECOEV",
+    "vehicleTypeId": 5,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

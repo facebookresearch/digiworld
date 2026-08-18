@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "{{current_user_email}}",
+    "receiver": [
+      "procurement.officer@example.com"
+    ],
+    "subject": "Request for Updated Vendor Contract",
+    "preview": "Hello, could you please provide the latest version...",
+    "body": "Hello, could you please provide the latest version of the vendor contract for our records? We need to review the terms before the renewal deadline.",
+    "timestamp": "{{recent_timestamp}}",
+    "unread": 0,
+    "read": 0,
+    "status": "draft",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 1,
+    "threadId": "draft_request_for_updated_vendor_contract",
+    "folder": "draft",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

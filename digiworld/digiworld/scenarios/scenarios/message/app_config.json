@@ -1,0 +1,8 @@
+{
+    "app_name": "message",
+    "apk_name": "com.andojomessage.sbx",
+    "bundle_id": "com.andojomessage.sbx",
+    "database_doc_path": "../../../../../apps/message/src/docs/database.md",
+    "feature_scope_path": "../../../../../apps/message/src/docs/feature-scope.md"
+}
+

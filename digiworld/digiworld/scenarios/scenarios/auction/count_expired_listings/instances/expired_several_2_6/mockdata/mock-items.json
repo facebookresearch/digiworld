@@ -1,0 +1,42 @@
+[
+  {
+    "id": 754580114,
+    "title": "Original 1912 Lucien Comfort Tiffindale Stained Glass Lamp",
+    "description": "Tiffindale stained glass lamp from 1912, featuring a floral motif and a brass base, fully restored and functional.",
+    "categoryId": 10,
+    "sellerId": "{{current_user_id}}",
+    "price": 803.83,
+    "auctionFlag": 1,
+    "status": "expired",
+    "quantity": 1,
+    "bidCount": 14,
+    "imageUrl": "https://example.com/images/original-1912-louis-comfort-tiffany-stained-glass-lamp.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 399.21,
+    "currentBid": 525.56,
+    "bidIncrement": 5.0,
+    "endTime": 1768881658,
+    "expired": 1
+  },
+  {
+    "id": 754580115,
+    "title": "Rare 1972 Fizzco Bottle \u2013 Limited Edition Glass Collectible",
+    "description": "Limited edition 1972 Fizzco glass bottle, still sealed, a prized item for vintage soda collectors.",
+    "categoryId": 3,
+    "sellerId": "{{current_user_id}}",
+    "price": 370.59,
+    "auctionFlag": 1,
+    "status": "expired",
+    "quantity": 1,
+    "bidCount": 13,
+    "imageUrl": "https://example.com/images/rare-1972-coca-cola-bottle-\u2013-limited-edition-glass-collectible.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 194.0,
+    "currentBid": 277.65,
+    "bidIncrement": 5.0,
+    "endTime": 1771387258,
+    "expired": 1
+  }
+]

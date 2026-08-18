@@ -1,0 +1,21 @@
+{
+  "parameters": {
+    "item": "GPS Running Watch with Heart\u2011Rate Monitor",
+    "star_rating": "4",
+    "review_title": "Excellent customer service and fast shipping",
+    "review_content": "I had a question about the setup and the support team responded within an hour with clear instructions. My order arrived two days early, well packaged, and everything works as expected. Great overall experience."
+  },
+  "compatible_profiles": [
+    "power_shopper"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T03:59:58.810613+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

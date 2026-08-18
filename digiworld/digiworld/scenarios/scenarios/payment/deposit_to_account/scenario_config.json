@@ -1,0 +1,9 @@
+{
+  "task_name": "Deposit $<amount> to my Andojo Pay account using <deposit_method>",
+  "app_name": "payment",
+  "scenario_class": "DepositToAccountScenario",
+  "parameters": ["amount", "deposit_method"],
+  "context_fields": ["current_user_pin"],
+  "description": "Verify a deposit transaction was created for the specified amount. Your PIN is required to confirm.",
+  "additional_mockdata": false
+}

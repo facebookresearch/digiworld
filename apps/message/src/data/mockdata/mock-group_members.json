@@ -1,0 +1,67 @@
+[
+  {
+    "groupId": "group1",
+    "userId": "1",
+    "exitedAt": null
+  },
+  {
+    "groupId": "group1",
+    "userId": "2",
+    "exitedAt": 1752000000
+  },
+  {
+    "groupId": "group1",
+    "userId": "3",
+    "exitedAt": null
+  },
+  {
+    "groupId": "group2",
+    "userId": "4",
+    "exitedAt": null
+  },
+  {
+    "groupId": "group2",
+    "userId": "5",
+    "exitedAt": null
+  },
+  {
+    "groupId": "group2",
+    "userId": "6",
+    "exitedAt": null
+  },
+  {
+    "groupId": "group3",
+    "userId": "7",
+    "exitedAt": null
+  },
+  {
+    "groupId": "group3",
+    "userId": "8",
+    "exitedAt": 1752500000
+  },
+  {
+    "groupId": "group3",
+    "userId": "9",
+    "exitedAt": null
+  },
+  {
+    "groupId": "group3",
+    "userId": "10",
+    "exitedAt": null
+  },
+  {
+    "groupId": "group4",
+    "userId": "1",
+    "exitedAt": null
+  },
+  {
+    "groupId": "group4",
+    "userId": "4",
+    "exitedAt": null
+  },
+  {
+    "groupId": "group4",
+    "userId": "7",
+    "exitedAt": null
+  }
+]

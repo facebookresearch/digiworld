@@ -1,0 +1,19 @@
+[
+  {
+    "flight_id": "AF7543_2026-08-15",
+    "airline_id": "airline_af",
+    "airline_code": "AF",
+    "flight_number": "AF7543",
+    "origin": "CDG",
+    "destination": "JFK",
+    "departure_time": "2026-08-15T12:15:00Z",
+    "arrival_time": "2026-08-15T17:20:00Z",
+    "duration_minutes": 305,
+    "fare": 841.57,
+    "currency": "USD",
+    "seats_available": 22,
+    "aircraft_type": "Boeing 787-9 Dreamliner",
+    "date": "2026-08-15",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

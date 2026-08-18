@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Clear Stackable Plastic Storage Bins, Set of 6",
+    "description": "Set of six clear, stackable plastic bins with snap\u2011tight lids that protect items from dust and moisture. The graduated sizes let you store everything from clothing to craft supplies. Ideal for pantry, garage, or office organization.",
+    "shortDescription": "Six clear stackable plastic storage bins with snap\u2011tight lids.",
+    "rating": 5.0,
+    "reviewCount": 1,
+    "seller": "ClearSpace Storage",
+    "price": 1816.08,
+    "discountedPrice": 1053.33,
+    "discountPercent": 42,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 21,
+    "subcategoryName": "Storage",
+    "inStock": true,
+    "stockCount": 80,
+    "imageUrl": "/82_1",
+    "specs": "{\"material\": \"High\\u2011density polyethylene (HDPE) clear plastic\", \"dimensions\": \"Small bin: 12 x 12 x 8 in; Medium: 14 x 14 x 10 in; Large: 16 x 16 x 12 in\", \"weight\": \"0.8 lbs per small bin\", \"warranty\": \"1\\u2011year limited warranty\", \"color\": \"Transparent\", \"careInstructions\": \"Wash with mild soap and water; avoid exposure to extreme heat; stack securely\"}",
+    "tags": "[\"kitchen\", \"home\", \"storage\", \"high-quality\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

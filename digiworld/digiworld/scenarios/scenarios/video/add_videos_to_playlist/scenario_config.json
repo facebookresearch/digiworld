@@ -1,0 +1,9 @@
+{
+  "task_name": "Add the videos \"<video_1>\" and \"<video_2>\" to the playlist \"<playlist_name>\"",
+  "app_name": "video",
+  "scenario_class": "AddVideosToPlaylistScenario",
+  "parameters": ["video_1", "video_2", "playlist_name"],
+  "context_fields": [],
+  "description": "Add two specified videos to an existing playlist",
+  "additional_mockdata": true
+}

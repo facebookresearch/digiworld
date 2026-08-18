@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Zenith SoundWave Over-Ear Headphones",
+    "description": "Zenith SoundWave Over\u2011Ear Headphones deliver rich, balanced sound with 40mm drivers and active noise cancellation. The wireless Bluetooth 5.2 connection ensures stable streaming up to 30 hours of playback. Comfortable memory\u2011foam ear cups and an intuitive touch panel make them perfect for travel.",
+    "shortDescription": "Over\u2011ear headphones with active noise cancellation and 30\u2011hour battery.",
+    "rating": 2.2,
+    "reviewCount": 4,
+    "seller": "TechDepot",
+    "price": 36.12,
+    "discountedPrice": 27.09,
+    "discountPercent": 25,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 4,
+    "subcategoryName": "Headphones",
+    "inStock": true,
+    "stockCount": 17,
+    "imageUrl": "/13_1",
+    "specs": "{\"display\": \"N/A\", \"processor\": \"Digital Signal Processor (DSP) for active noise cancellation\", \"ram\": \"N/A\", \"storage\": \"N/A\", \"battery\": \"30 h playback, 500 mAh Li\\u2011Ion, USB\\u2011C fast charge 5V/2A\", \"os\": \"N/A\", \"connectivity\": \"Bluetooth 5.3, multipoint, NFC pairing, 3.5mm jack\"}",
+    "tags": "[\"electronics\", \"headphones\", \"popular\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

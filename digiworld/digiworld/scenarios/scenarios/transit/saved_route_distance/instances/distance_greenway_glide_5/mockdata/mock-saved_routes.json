@@ -1,0 +1,14 @@
+[
+  {
+    "id": "saved-greenway-glide",
+    "userId": 1,
+    "name": "Greenway Glide",
+    "originStopId": "stop-2",
+    "destinationStopId": "stop-3",
+    "preferredMode": "bus",
+    "remindersEnabled": true,
+    "departureReminderMinutes": 10,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

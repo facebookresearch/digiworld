@@ -1,0 +1,25 @@
+{
+  "parameters": {
+    "name": "Hiroshi Tanaka",
+    "cardNumber": "4242424242424242",
+    "expirationMonth": "07",
+    "expirationYear": "28"
+  },
+  "compatible_profiles": [
+    "bulk_quantity",
+    "empty_cart",
+    "full_cart",
+    "low_stock",
+    "new_user"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:40.119919+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

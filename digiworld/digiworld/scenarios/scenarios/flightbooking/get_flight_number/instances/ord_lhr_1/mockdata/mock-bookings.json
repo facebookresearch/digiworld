@@ -1,0 +1,53 @@
+[
+  {
+    "booking_id": "BK-TEST-FNZZPQK5",
+    "booking_reference": "FNZZPQK5",
+    "user_id": "{{current_user_id}}",
+    "trip_type": "one_way",
+    "booking_date": "{{end_timestamp}}",
+    "status": "confirmed",
+    "payment_status": "paid",
+    "total_price": 1168.49,
+    "refund_amount": 0,
+    "amount_paid": 1168.49,
+    "currency": "USD",
+    "flights": [
+      {
+        "flight_id": "BA8517_2026-08-15",
+        "airline_code": "BA",
+        "flight_number": "BA8517",
+        "origin": "ORD",
+        "destination": "LHR",
+        "departure_time": "2026-08-15T13:15:00Z",
+        "arrival_time": "2026-08-15T16:28:00Z",
+        "duration_minutes": 193,
+        "fare": 1168.49,
+        "segment": "outbound",
+        "status": "confirmed"
+      }
+    ],
+    "passengers": [
+      {
+        "passenger_id": "P-FNZZPQK5-375504",
+        "first_name": "Test",
+        "last_name": "Traveler",
+        "email": "test.traveler@example.com",
+        "phone": "+1-555-8019",
+        "date_of_birth": "2003-10-13",
+        "passport_number": "X58586340",
+        "seat_assignments": [
+          {
+            "flight_id": "BA8517_2026-08-15",
+            "seat_number": "8B",
+            "check_in_status": "not_checked_in",
+            "check_in_time": null
+          }
+        ],
+        "ticket_number": "TK-FNZZPQK5-375504",
+        "created_at": "2026-01-01T00:00:00Z"
+      }
+    ],
+    "created_at": "{{end_timestamp}}",
+    "updated_at": "{{end_timestamp}}"
+  }
+]

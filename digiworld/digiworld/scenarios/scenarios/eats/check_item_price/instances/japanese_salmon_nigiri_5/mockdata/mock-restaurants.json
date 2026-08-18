@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Sakura Sushi Bar",
+    "description": "Edomae sushi crafted by a master chef using fish sourced from local markets.",
+    "address": "630 Harbor Drive, San Diego, CA 92101",
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "logo": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.3,
+    "deliveryFee": 4.66,
+    "minOrder": 7.0,
+    "deliveryRadius": 12,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

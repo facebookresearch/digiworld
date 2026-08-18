@@ -1,0 +1,22 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "SolarFlare 12\u2011Volt Portable Charger",
+    "description": "Foldable solar panel charger with dual USB ports, delivering up to 12\u202fV for camping trips.",
+    "shortDescription": "Solar charger",
+    "price": 341.58,
+    "discountedPrice": 290.34,
+    "discountPercent": 15,
+    "rating": 3.8,
+    "reviewCount": 239,
+    "seller": "EcoGear Supplies",
+    "categoryName": "Sports & Outdoors",
+    "subcategoryName": "Camping Gear",
+    "inStock": 1,
+    "stockCount": 160,
+    "imageUrl": "/product_5557",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

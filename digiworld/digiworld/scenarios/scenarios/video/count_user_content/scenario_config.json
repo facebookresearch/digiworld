@@ -1,0 +1,8 @@
+{
+  "task_name": "How many <metric> do I have?",
+  "app_name": "video",
+  "scenario_class": "CountUserContentScenario",
+  "parameters": ["metric"],
+  "context_fields": [],
+  "description": "Count the user's videos, playlists, or total views"
+}

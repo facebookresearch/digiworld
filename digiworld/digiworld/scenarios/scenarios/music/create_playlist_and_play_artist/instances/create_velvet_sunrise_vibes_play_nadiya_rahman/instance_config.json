@@ -1,0 +1,19 @@
+{
+  "parameters": {
+    "name": "Velvet Sunrise Vibes",
+    "artist_name": "Mali Sunfire"
+  },
+  "compatible_profiles": [
+    "default"
+  ],
+  "metadata": {
+    "created_at": "2026-04-11T15:51:29.127763+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

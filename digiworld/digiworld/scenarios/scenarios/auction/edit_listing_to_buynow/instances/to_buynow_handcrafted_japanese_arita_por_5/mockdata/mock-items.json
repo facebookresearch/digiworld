@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754120063,
+    "title": "Handcrafted Japanese Arita Porcelain Tea Set (6 Pieces)",
+    "description": "Six\u2011piece Arita set featuring a teapot, four cups, and a matching saucer, all hand\u2011painted with traditional motifs.",
+    "categoryId": 1,
+    "sellerId": "{{current_user_id}}",
+    "price": 220.03,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 11,
+    "imageUrl": "https://example.com/images/handcrafted-japanese-arita-porcelain-tea-set-(6-pieces).jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 85.36,
+    "currentBid": 128.29,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

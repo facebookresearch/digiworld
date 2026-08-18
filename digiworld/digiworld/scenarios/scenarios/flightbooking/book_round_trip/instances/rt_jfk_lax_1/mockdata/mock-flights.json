@@ -1,0 +1,36 @@
+[
+  {
+    "flight_id": "DL1106_2026-08-15",
+    "airline_id": "airline_dl",
+    "airline_code": "DL",
+    "flight_number": "DL1106",
+    "origin": "JFK",
+    "destination": "LAX",
+    "departure_time": "2026-08-15T10:45:00Z",
+    "arrival_time": "2026-08-15T19:13:00Z",
+    "duration_minutes": 508,
+    "fare": 561.23,
+    "currency": "USD",
+    "seats_available": 65,
+    "aircraft_type": "Airbus A350-900",
+    "date": "2026-08-15",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "flight_id": "DL6514_2026-08-22",
+    "airline_id": "airline_dl",
+    "airline_code": "DL",
+    "flight_number": "DL6514",
+    "origin": "LAX",
+    "destination": "JFK",
+    "departure_time": "2026-08-22T07:45:00Z",
+    "arrival_time": "2026-08-22T10:37:00Z",
+    "duration_minutes": 172,
+    "fare": 666.67,
+    "currency": "USD",
+    "seats_available": 98,
+    "aircraft_type": "Boeing 737-800",
+    "date": "2026-08-22",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

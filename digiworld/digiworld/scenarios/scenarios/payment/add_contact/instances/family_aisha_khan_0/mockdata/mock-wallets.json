@@ -1,0 +1,12 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 10001,
+    "balance": 100.0,
+    "currency": "USD",
+    "type": "personal",
+    "status": "active",
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{past_timestamp}}"
+  }
+]

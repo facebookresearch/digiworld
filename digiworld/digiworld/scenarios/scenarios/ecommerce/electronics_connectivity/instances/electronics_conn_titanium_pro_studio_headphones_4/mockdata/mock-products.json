@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Titanium Pro Studio Headphones",
+    "description": "Titanium Pro Studio headphones are built for professionals with a closed-back design and 50mm neodymium drivers for accurate sound reproduction. They include a detachable balanced armature cable, replaceable ear pads, and a 3.5 mm gold-plated connector. The sturdy aluminum frame ensures durability for studio environments.",
+    "shortDescription": "Closed-back studio headphones with high-precision drivers and detachable cable.",
+    "rating": 2.5,
+    "reviewCount": 2,
+    "seller": "AudioCraft Supplies",
+    "price": 1800.06,
+    "discountedPrice": 1224.04,
+    "discountPercent": 32,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 4,
+    "subcategoryName": "Headphones",
+    "inStock": true,
+    "stockCount": 32,
+    "imageUrl": "/15_1",
+    "specs": "{\"display\": \"N/A\", \"processor\": \"ESS Sabre32 DAC\", \"ram\": \"N/A\", \"storage\": \"N/A\", \"battery\": \"600mAh, 35h playback, 25W USB-C\", \"os\": \"N/A\", \"connectivity\": \"Bluetooth 5.3, LDAC, aptX HD, 3.5mm jack\"}",
+    "tags": "[\"electronics\", \"headphones\", \"top-rated\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

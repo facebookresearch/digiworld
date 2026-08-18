@@ -1,0 +1,24 @@
+[
+  {
+    "id": 9900,
+    "name": "UltraFlex Bluetooth Earbuds",
+    "description": "These ultra\u2011compact Bluetooth earbuds deliver crystal\u2011clear sound with active noise cancellation, and come with a wireless charging case for up to 24 hours of playtime.",
+    "shortDescription": "Compact Bluetooth earbuds with ANC and wireless charging.",
+    "price": 133.77,
+    "discountedPrice": 133.77,
+    "discountPercent": 0,
+    "rating": 3.3,
+    "reviewCount": 62,
+    "seller": "SoundWave Gadgets",
+    "categoryName": "Electronics",
+    "subcategoryName": "Headphones",
+    "inStock": 1,
+    "stockCount": 183,
+    "imageUrl": "/product_9935",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0,
+    "categoryId": 1,
+    "subcategoryId": 0
+  }
+]

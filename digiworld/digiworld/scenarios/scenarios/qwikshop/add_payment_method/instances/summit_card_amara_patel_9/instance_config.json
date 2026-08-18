@@ -1,0 +1,25 @@
+{
+  "parameters": {
+    "name": "Amara Patel",
+    "cardNumber": "5105105105105100",
+    "expirationMonth": "08",
+    "expirationYear": "31"
+  },
+  "compatible_profiles": [
+    "bulk_quantity",
+    "empty_cart",
+    "full_cart",
+    "low_stock",
+    "new_user"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:43.574229+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "sofia.rodriguez@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Client Feedback",
+    "preview": "Hi, we have received feedback from the client. Ple...",
+    "body": "Hi, we have received feedback from the client. Please review it and let me know your thoughts.",
+    "timestamp": "2024-09-20T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_sofia_rodriguez_client_feedback",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "logan.brooks@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Training Session",
+    "preview": "Hi team, a training session has been scheduled for...",
+    "body": "Hi team, a training session has been scheduled for next Monday. Please attend to enhance your skills.",
+    "timestamp": "2024-10-13T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_logan_brooks_training_session",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "charlotte.davis@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Marketing Strategy",
+    "preview": "Hello, the marketing strategy for the next quarter...",
+    "body": "Hello, the marketing strategy for the next quarter has been finalized. Please review the attached document.",
+    "timestamp": "2024-10-27T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_charlotte_davis_marketing_strategy",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "alexander.martin@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Sales Review",
+    "preview": "Hi, the sales review for the last quarter is now a...",
+    "body": "Hi, the sales review for the last quarter is now available. Please review it and let me know if you have any questions.",
+    "timestamp": "2024-11-19T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_alexander_martin_sales_review",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 9990,
+    "categoryId": 4,
+    "title": "Galactic Odyssey: Epic Space Battle",
+    "description": "Join the epic battle between alien spacecraft in this thrilling sci-fi adventure.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 422,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 1635,
+    "likeCount": 32,
+    "commentCount": 14,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

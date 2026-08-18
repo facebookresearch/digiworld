@@ -1,0 +1,21 @@
+{
+  "parameters": {
+    "item": "Durable Volleyball Net with Poles",
+    "star_rating": "2",
+    "review_title": "Great value for the price!",
+    "review_content": "I bought this blender for $30 and it works like a charm. The motor is strong and the blades crush ice easily. Highly recommend for anyone on a budget."
+  },
+  "compatible_profiles": [
+    "full_cart"
+  ],
+  "metadata": {
+    "created_at": "2026-03-31T04:09:33.232093+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "app_name": "banking",
+  "apk_name": "com.andojobank.sbx",
+  "database_name": "default.db",
+  "home_route": "/(app)/home",
+  "routes": [
+    {
+      "id": "home",
+      "route": "/(app)/home",
+      "screen_name": "home",
+      "description": "Home screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "pay_bills",
+      "route": "/(app)/pay-bills",
+      "screen_name": "payBills",
+      "description": "Pay bills screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "cards",
+      "route": "/(app)/cards",
+      "screen_name": "cards",
+      "description": "Cards screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "transactions",
+      "route": "/(app)/transactions",
+      "screen_name": "transactions",
+      "description": "Transactions screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "profile",
+      "route": "/(app)/profile",
+      "screen_name": "profile",
+      "description": "Profile screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "notifications",
+      "route": "/notifications/notifications",
+      "screen_name": "notifications",
+      "description": "Notifications screen",
+      "back_route": "/(app)/home",
+      "context_variations": []
+    },
+    {
+      "id": "bills_all",
+      "route": "/bills/all",
+      "screen_name": "billsAll",
+      "description": "All bills screen",
+      "back_route": "/(app)/home",
+      "context_variations": []
+    },
+    {
+      "id": "nexus_pay",
+      "route": "/nexus-pay",
+      "screen_name": "nexusPay",
+      "description": "Nexus Pay screen",
+      "back_route": "/(app)/home",
+      "context_variations": []
+    }
+  ]
+}

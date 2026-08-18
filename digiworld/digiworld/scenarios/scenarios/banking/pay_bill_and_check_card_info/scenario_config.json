@@ -1,0 +1,12 @@
+{
+  "task_name": "Using the credit card, pay a bill to <payee>, then tell me the <info_type> of the credit card",
+  "app_name": "banking",
+  "scenario_class": "PayBillAndCheckCardInfoScenario",
+  "parameters": [
+    "payee",
+    "info_type"
+  ],
+  "additional_mockdata": true,
+  "context_fields": [],
+  "description": "Composed scenario: pay a bill using the credit card, then report a specific credit card info field (APR, annual fee, etc.)."
+}

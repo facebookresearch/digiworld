@@ -1,0 +1,90 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "chloe.price@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "IT asset disposal request",
+    "preview": "Hi team. A request to dispose of outdated IT asset...",
+    "body": "Hi team. A request to dispose of outdated IT assets has been submitted. Approve the disposal plan to free up storage space.",
+    "timestamp": "2026-06-03T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_chloe_price_it_asset_disposal_request",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "ryan.brooks@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Legal compliance checklist update",
+    "preview": "Hello. The legal compliance checklist has been upd...",
+    "body": "Hello. The legal compliance checklist has been updated to reflect recent regulatory changes. Review the new items and confirm completion.",
+    "timestamp": "2026-06-26T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_ryan_brooks_legal_compliance_checklist_u",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "victoria.shaw@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Cross department collaboration proposal",
+    "preview": "Hi there. A proposal for cross department collabor...",
+    "body": "Hi there. A proposal for cross department collaboration on the new initiative is attached. Provide feedback or express interest in participating.",
+    "timestamp": "2026-07-10T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_victoria_shaw_cross_department_collabora",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "jonathan.myers@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Warehouse inventory count schedule",
+    "preview": "Hello. The schedule for the upcoming warehouse inv...",
+    "body": "Hello. The schedule for the upcoming warehouse inventory count is posted. Assign staff to the listed time slots.",
+    "timestamp": "2026-08-02T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_jonathan_myers_warehouse_inventory_count",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

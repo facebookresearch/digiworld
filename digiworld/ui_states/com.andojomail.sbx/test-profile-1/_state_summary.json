@@ -1,0 +1,245 @@
+[
+  {
+    "filename": "login_var0.json",
+    "route_id": "login",
+    "route": "/screens/auth/login",
+    "screen_name": "Splash",
+    "context": {},
+    "metadata": {
+      "generated_at": "2025-10-04T02:46:50.038220",
+      "session_id": "state-login-0"
+    }
+  },
+  {
+    "filename": "signup_var0.json",
+    "route_id": "signup",
+    "route": "/screens/auth/signup",
+    "screen_name": "Signup",
+    "context": {},
+    "metadata": {
+      "generated_at": "2025-10-04T02:46:50.038227",
+      "session_id": "state-signup-0"
+    }
+  },
+  {
+    "filename": "inbox_var0.json",
+    "route_id": "inbox",
+    "route": "/(tabs)/inbox",
+    "screen_name": "inbox",
+    "context": {
+      "currentFolder": "inbox",
+      "drawerOpen": false
+    },
+    "metadata": {
+      "generated_at": "2025-10-04T02:46:50.038231",
+      "session_id": "state-inbox-0"
+    }
+  },
+  {
+    "filename": "inbox_var1.json",
+    "route_id": "inbox",
+    "route": "/(tabs)/inbox",
+    "screen_name": "inbox",
+    "context": {
+      "currentFolder": "inbox",
+      "drawerOpen": true
+    },
+    "metadata": {
+      "generated_at": "2025-10-04T02:46:50.038234",
+      "session_id": "state-inbox-1"
+    }
+  },
+  {
+    "filename": "inbox_var2.json",
+    "route_id": "inbox",
+    "route": "/(tabs)/inbox",
+    "screen_name": "inbox",
+    "context": {
+      "currentFolder": "sent",
+      "drawerOpen": false
+    },
+    "metadata": {
+      "generated_at": "2025-10-04T02:46:50.038237",
+      "session_id": "state-inbox-2"
+    }
+  },
+  {
+    "filename": "inbox_var3.json",
+    "route_id": "inbox",
+    "route": "/(tabs)/inbox",
+    "screen_name": "inbox",
+    "context": {
+      "currentFolder": "sent",
+      "drawerOpen": true
+    },
+    "metadata": {
+      "generated_at": "2025-10-04T02:46:50.038239",
+      "session_id": "state-inbox-3"
+    }
+  },
+  {
+    "filename": "inbox_var4.json",
+    "route_id": "inbox",
+    "route": "/(tabs)/inbox",
+    "screen_name": "inbox",
+    "context": {
+      "currentFolder": "draft",
+      "drawerOpen": false
+    },
+    "metadata": {
+      "generated_at": "2025-10-04T02:46:50.038242",
+      "session_id": "state-inbox-4"
+    }
+  },
+  {
+    "filename": "inbox_var5.json",
+    "route_id": "inbox",
+    "route": "/(tabs)/inbox",
+    "screen_name": "inbox",
+    "context": {
+      "currentFolder": "draft",
+      "drawerOpen": true
+    },
+    "metadata": {
+      "generated_at": "2025-10-04T02:46:50.038247",
+      "session_id": "state-inbox-5"
+    }
+  },
+  {
+    "filename": "inbox_var6.json",
+    "route_id": "inbox",
+    "route": "/(tabs)/inbox",
+    "screen_name": "inbox",
+    "context": {
+      "currentFolder": "trash",
+      "drawerOpen": false
+    },
+    "metadata": {
+      "generated_at": "2025-10-04T02:46:50.038250",
+      "session_id": "state-inbox-6"
+    }
+  },
+  {
+    "filename": "inbox_var7.json",
+    "route_id": "inbox",
+    "route": "/(tabs)/inbox",
+    "screen_name": "inbox",
+    "context": {
+      "currentFolder": "trash",
+      "drawerOpen": true
+    },
+    "metadata": {
+      "generated_at": "2025-10-04T02:46:50.038252",
+      "session_id": "state-inbox-7"
+    }
+  },
+  {
+    "filename": "inbox_var8.json",
+    "route_id": "inbox",
+    "route": "/(tabs)/inbox",
+    "screen_name": "inbox",
+    "context": {
+      "currentFolder": "all",
+      "drawerOpen": false
+    },
+    "metadata": {
+      "generated_at": "2025-10-04T02:46:50.038254",
+      "session_id": "state-inbox-8"
+    }
+  },
+  {
+    "filename": "email_detail_beginning_var0.json",
+    "route_id": "email_detail_beginning",
+    "route": "/screens/mail/416",
+    "screen_name": "details",
+    "context": {
+      "showDeleteAlert": false,
+      "messageID": "416",
+      "position": "beginning"
+    },
+    "metadata": {
+      "generated_at": "2025-10-04T02:46:50.042344",
+      "session_id": "state-email_detail_beginning-0",
+      "position": "beginning",
+      "record_id": 416
+    }
+  },
+  {
+    "filename": "email_detail_middle_var0.json",
+    "route_id": "email_detail_middle",
+    "route": "/screens/mail/488",
+    "screen_name": "details",
+    "context": {
+      "showDeleteAlert": false,
+      "messageID": "488",
+      "position": "middle"
+    },
+    "metadata": {
+      "generated_at": "2025-10-04T02:46:50.042984",
+      "session_id": "state-email_detail_middle-0",
+      "position": "middle",
+      "record_id": 488
+    }
+  },
+  {
+    "filename": "email_detail_end_var0.json",
+    "route_id": "email_detail_end",
+    "route": "/screens/mail/287",
+    "screen_name": "details",
+    "context": {
+      "showDeleteAlert": false,
+      "messageID": "287",
+      "position": "end"
+    },
+    "metadata": {
+      "generated_at": "2025-10-04T02:46:50.043373",
+      "session_id": "state-email_detail_end-0",
+      "position": "end",
+      "record_id": 287
+    }
+  },
+  {
+    "filename": "compose_var0.json",
+    "route_id": "compose",
+    "route": "/screens/compose/mailcompose",
+    "screen_name": "compose",
+    "context": {},
+    "metadata": {
+      "generated_at": "2025-10-04T02:46:50.043380",
+      "session_id": "state-compose-0"
+    }
+  },
+  {
+    "filename": "contacts_var0.json",
+    "route_id": "contacts",
+    "route": "/(tabs)/contacts",
+    "screen_name": "contacts",
+    "context": {},
+    "metadata": {
+      "generated_at": "2025-10-04T02:46:50.043383",
+      "session_id": "state-contacts-0"
+    }
+  },
+  {
+    "filename": "profile_var0.json",
+    "route_id": "profile",
+    "route": "/(tabs)/profile",
+    "screen_name": "profile",
+    "context": {},
+    "metadata": {
+      "generated_at": "2025-10-04T02:46:50.043386",
+      "session_id": "state-profile-0"
+    }
+  },
+  {
+    "filename": "edit_profile_var0.json",
+    "route_id": "edit_profile",
+    "route": "/screens/settings/EditProfile",
+    "screen_name": "EditProfile",
+    "context": {},
+    "metadata": {
+      "generated_at": "2025-10-04T02:46:50.043388",
+      "session_id": "state-edit_profile-0"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "driverId": 3,
+    "pickupLocation": "{\"lat\": 40.735399, \"lng\": -73.978634, \"placename\": \"1177, Broadway, NoMad, Manhattan, USA\"}",
+    "dropLocation": "{\"lat\": 40.719792, \"lng\": -73.98151, \"placename\": \"Xi'an Famous Foods, 96, 8th Avenue, Manhattan, USA\"}",
+    "status": "completed",
+    "startTime": "{{middle_ride_time}}",
+    "endTime": "{{recent_ride_time}}",
+    "distanceKm": 1.9,
+    "fareAmount": 5.7,
+    "feedbackSubmitted": 0,
+    "paymentMode": "cash"
+  }
+]

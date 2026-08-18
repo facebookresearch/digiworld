@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "email": "john.doe@example.com",
+    "username": "johndoe",
+    "password": "hashed_password_123",
+    "avatar": "https://example.com/avatars/john.jpg",
+    "bio": "Frequent traveler and aviation enthusiast",
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "email": "sarah.smith@example.com",
+    "username": "sarahsmith",
+    "password": "hashed_password_456",
+    "avatar": "https://example.com/avatars/sarah.jpg",
+    "bio": "Business traveler and miles collector",
+    "createdAt": "2024-01-20T14:45:00.000Z",
+    "updatedAt": "2024-01-20T14:45:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 3,
+    "email": "mike.wilson@example.com",
+    "username": "mikewiadlson",
+    "password": "hashed_password_789",
+    "avatar": "https://example.com/avatars/mike.jpg",
+    "bio": "Adventure seeker and world explorer",
+    "createdAt": "2024-02-01T09:15:00.000Z",
+    "updatedAt": "2024-02-01T09:15:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 4,
+    "email": "emma.davis@example.com",
+    "username": "emmadavis",
+    "password": "hashed_password_101",
+    "avatar": "https://example.com/avatars/emma.jpg",
+    "bio": "Travel blogger and frequent flyer",
+    "createdAt": "2024-02-10T16:20:00.000Z",
+    "updatedAt": "2024-02-10T16:20:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 5,
+    "email": "alex.chen@example.com",
+    "username": "alexchen",
+    "password": "hashed_password_202",
+    "avatar": "https://example.com/avatars/alex.jpg",
+    "bio": "Digital nomad and travel tech enthusiast",
+    "createdAt": "2024-02-15T11:30:00.000Z",
+    "updatedAt": "2024-02-15T11:30:00.000Z",
+    "deletedAt": null
+  }
+]

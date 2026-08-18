@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "nickname": "Night Owl",
+    "make": "Nimbus",
+    "model": "Ranger",
+    "color": "Orange",
+    "year": 2019,
+    "plateNumber": "NVRGON",
+    "vehicleTypeId": 2,
+    "isDefault": 0,
+    "createdAt": "{{end_timestamp}}",
+    "updatedAt": "{{end_timestamp}}",
+    "metadata": null
+  }
+]

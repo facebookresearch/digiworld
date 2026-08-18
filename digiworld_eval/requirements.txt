@@ -1,0 +1,26 @@
+# Copyright (c) Meta Platforms, Inc. and affiliates.
+# digiworld_eval — dependencies for a local run (eval harness + bridge server).
+# Install with:  pip install -r digiworld_eval/requirements.txt
+#
+# NOTE: the internal `digiworld` package (scenario reset/verification used by the
+# bridge server) is NOT on PyPI — install it separately.
+
+# eval harness
+omegaconf
+universal_pathlib          # provides the `upath` module
+numpy
+requests
+pillow
+
+# local bridge server (local_server.py)
+fastapi
+uvicorn
+pydantic
+
+# model client — the `litellm` backend covers OpenAI (gpt-*), Anthropic
+# (claude-*) and Google (gemini-*) directly, reading each provider's key from
+# the environment (OPENAI_API_KEY / ANTHROPIC_API_KEY / GEMINI_API_KEY).
+litellm
+
+# OpenAI SDK — pulled in by litellm, listed explicitly for the gpt-* path.
+openai

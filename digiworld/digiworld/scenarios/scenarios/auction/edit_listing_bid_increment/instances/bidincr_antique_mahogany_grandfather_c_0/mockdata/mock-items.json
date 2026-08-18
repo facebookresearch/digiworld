@@ -1,0 +1,22 @@
+[
+  {
+    "id": 751820004,
+    "title": "Antique Mahogany Grandfather Clock (c. 1887) \u2013 Fully Restored",
+    "description": "A hand\u2011crafted 19th\u2011century clock with original brass pendulum, polished finish, and working chiming mechanism.",
+    "categoryId": 1,
+    "sellerId": "{{current_user_id}}",
+    "price": 1633.46,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 8,
+    "imageUrl": "https://example.com/images/antique-mahogany-grandfather-clock-(c.-1887)-\u2013-fully-restored.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 757.08,
+    "currentBid": 890.59,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

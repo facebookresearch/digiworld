@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Sophia Rodriguez",
+    "street": "321 Birch Lane",
+    "city": "Miami",
+    "state": "FL",
+    "pincode": "33101",
+    "phone": "3055550678",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

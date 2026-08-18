@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "userId": "{{current_user_id}}",
+    "restaurantId": 90001,
+    "addressId": 1,
+    "status": "delivered",
+    "total": 12.99,
+    "deliveryAddress": "208 Peachtree Lane, Atlanta, GA 30303",
+    "paymentMethod": "cash",
+    "specialInstructions": "",
+    "cutlery": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Harborfront District",
+    "description": "Redeveloped waterfront with ferries, promenades, and cruise terminals."
+  },
+  {
+    "id": 2,
+    "name": "Civic Core",
+    "description": "Downtown government and business center with high-rise clusters."
+  },
+  {
+    "id": 3,
+    "name": "Market Quarter",
+    "description": "Retail-heavy neighborhood full of boutiques, food halls, and nightlife."
+  },
+  {
+    "id": 4,
+    "name": "Skyline Heights",
+    "description": "Hilltop residential enclave overlooking the bay and city skyline."
+  },
+  {
+    "id": 5,
+    "name": "Innovation Corridor",
+    "description": "Technology campus and corporate parks connected by express transit."
+  },
+  {
+    "id": 6,
+    "name": "Seaside Promenade",
+    "description": "Coastal neighborhood with beaches, trails, and boardwalk attractions."
+  }
+]

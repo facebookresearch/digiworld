@@ -1,0 +1,46 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ],
+      "@/test/*": [
+        "test/*"
+      ],
+      "assets/*": [
+        "./assets/*"
+      ],
+      "@andojo/shared-theme": [
+        "../../packages/shared-theme/src"
+      ],
+      "@andojo/shared-interaction-tracking": [
+        "../../packages/shared-interaction-tracking/src"
+      ],
+      "@andojo/shared-mock-reader": [
+        "../../packages/shared-mock-reader/src"
+      ]
+    },
+    "jsx": "react-jsx",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "target": "es2017",
+    "lib": [
+      "es2017",
+      "dom"
+    ],
+    "strict": true,
+    "skipLibCheck": true
+  },
+  "include": [
+    "src",
+    "test",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts",
+    "svg.d.ts"
+, "svg.d.ts"  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

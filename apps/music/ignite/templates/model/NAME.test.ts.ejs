@@ -1,0 +1,13 @@
+<%# Copyright (c) Meta Platforms, Inc. and affiliates. %>
+---
+destinationDir: src/models
+---
+import { <%= props.pascalCaseName %>Model } from "./<%= props.pascalCaseName %>"
+
+test("can be created", () => {
+  const instance = <%= props.pascalCaseName %>Model.create({})
+
+  expect(instance).toBeTruthy()
+})
+
+

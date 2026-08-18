@@ -1,0 +1,8 @@
+{
+  "task_name": "Add <item_1>, <item_2>, and <item_3> to my cart",
+  "app_name": "ecommerce",
+  "scenario_class": "AddItemsToCartScenario",
+  "parameters": ["item_1", "item_2", "item_3"],
+  "context_fields": [],
+  "description": "Add three products to the shopping cart"
+}

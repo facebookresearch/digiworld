@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9900,
+    "name": "PetPal Automatic Feeder",
+    "description": "Keep your pet fed on schedule with the PetPal Automatic Feeder, programmable for up to 12 meals per day and featuring a secure, pet\u2011proof lid.",
+    "shortDescription": "Programmable automatic pet feeder with secure lid.",
+    "price": 295.02,
+    "discountedPrice": 295.02,
+    "discountPercent": 0,
+    "rating": 4.4,
+    "reviewCount": 33,
+    "seller": "Pawsome Essentials",
+    "categoryName": "Pet Supplies",
+    "subcategoryName": "Pet Health",
+    "inStock": 1,
+    "stockCount": 179,
+    "imageUrl": "/product_4733",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

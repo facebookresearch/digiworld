@@ -1,0 +1,23 @@
+{
+  "parameters": {
+    "origin": "408, East 13th Street, Manhattan, USA",
+    "destination": "Cellar Dog, 75, Christopher Street, West Village, Manhattan, USA",
+    "car_type": "Premium",
+    "payment_method": "RegionalCard"
+  },
+  "compatible_profiles": [
+    "excellent_feedback",
+    "poor_feedback",
+    "premium_fares"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:12.568667+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

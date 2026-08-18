@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "orderId": 1,
+    "menuItemId": 1,
+    "quantity": 2,
+    "price": 12.99,
+    "specialInstructions": "Extra cheese"
+  },
+  {
+    "id": 2,
+    "orderId": 1,
+    "menuItemId": 3,
+    "quantity": 1,
+    "price": 4.99,
+    "specialInstructions": "No garlic"
+  },
+  {
+    "id": 3,
+    "orderId": 2,
+    "menuItemId": 4,
+    "quantity": 2,
+    "price": 8.99,
+    "specialInstructions": "Add wasabi"
+  }
+] 

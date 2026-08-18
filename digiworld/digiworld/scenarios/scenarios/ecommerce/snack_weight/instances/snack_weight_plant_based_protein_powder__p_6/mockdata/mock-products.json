@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Plant-Based Protein Powder \u2013 Pea & Rice Blend",
+    "description": "This plant\u2011based protein powder combines pea and rice proteins for a complete amino acid profile. Each scoop delivers 20\u202fg of protein with minimal carbs and no dairy, making it ideal for vegans and athletes. It mixes smoothly into shakes, smoothies, or baked goods.",
+    "shortDescription": "Vegan pea\u2011and\u2011rice protein powder with 20\u202fg protein per serving.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Harvest Plant Nutrition",
+    "price": 804.88,
+    "discountedPrice": 490.98,
+    "discountPercent": 39,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 64,
+    "subcategoryName": "Supplements",
+    "inStock": true,
+    "stockCount": 159,
+    "imageUrl": "/253_1",
+    "specs": "{\"ingredients\": \"Pea Protein Isolate, Rice Protein, Pumpkin Seed Powder, Natural Vanilla Flavor, Stevia\", \"dosage\": \"1 scoop (30g) mixed with 250ml water or plant milk, post-workout\", \"weight\": \"1kg (33 servings)\", \"expiryPeriod\": \"18 months\", \"madeIn\": \"USA\", \"certifications\": \"USDA Organic, Non-GMO Project Verified, Vegan Certified\"}",
+    "tags": "[\"wellness\", \"health\", \"supplements\", \"high-quality\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

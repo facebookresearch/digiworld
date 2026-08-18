@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "marco.patel@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Weekend Hiking Trip Plans",
+    "preview": "Weekend Hiking Trip Plans...",
+    "body": "Hey Alex, just wanted to confirm our plans for this Saturday\u2019s hike up Eagle Ridge. I\u2019ve packed extra water and a first-aid kit, so let me know what time works best for you.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_target",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

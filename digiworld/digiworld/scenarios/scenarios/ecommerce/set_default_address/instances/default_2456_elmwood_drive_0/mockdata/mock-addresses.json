@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "user_id": "{{current_user_id}}",
+    "full_name": "Emily J. Thompson",
+    "street": "2456 Elmwood Drive",
+    "city": "Springfield",
+    "state": "IL",
+    "pincode": "62704",
+    "phone": "+1-555-8142",
+    "country": "United States",
+    "delivery_instructions": "",
+    "is_default": 0,
+    "created_at": "2025-06-15 12:00:00.000",
+    "updated_at": "2025-06-15 12:00:00.000"
+  }
+]

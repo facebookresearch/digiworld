@@ -1,0 +1,8 @@
+{
+  "task_name": "Tell me how many players can play the <item> game",
+  "app_name": "ecommerce",
+  "scenario_class": "GamePlayerCountScenario",
+  "parameters": ["item"],
+  "context_fields": [],
+  "description": "Retrieve the player count for a game product"
+}

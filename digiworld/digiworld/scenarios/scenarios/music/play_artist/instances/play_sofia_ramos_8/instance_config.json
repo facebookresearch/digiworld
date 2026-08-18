@@ -1,0 +1,18 @@
+{
+  "parameters": {
+    "artist_name": "Willow & Reed"
+  },
+  "compatible_profiles": [
+    "recent_activity"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T03:59:54.087112+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

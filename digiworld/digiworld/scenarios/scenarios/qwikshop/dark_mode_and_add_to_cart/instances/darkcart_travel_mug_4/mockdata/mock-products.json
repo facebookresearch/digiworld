@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "EcoBrew Stainless Steel Travel Mug",
+    "description": "EcoBrew Stainless Steel Travel Mug - premium quality product.",
+    "shortDescription": "EcoBrew Stainless Steel Travel Mug.",
+    "rating": 4.3,
+    "reviewCount": 0,
+    "seller": "MockSeller",
+    "price": 34.99,
+    "discountedPrice": 27.99,
+    "discountPercent": 20,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 0,
+    "subcategoryName": "Kitchen Tools",
+    "inStock": true,
+    "stockCount": 100,
+    "imageUrl": "/mock_darkcart_travel_mug_4_0",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": false,
+    "dateAdded": "2025-01-01 12:00:00.000"
+  }
+]

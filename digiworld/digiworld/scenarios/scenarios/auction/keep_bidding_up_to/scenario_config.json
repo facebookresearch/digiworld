@@ -1,0 +1,12 @@
+{
+  "task_name": "Keep bidding on \"<title>\" up to \"<price>\"",
+  "app_name": "auction",
+  "scenario_class": "KeepBiddingUpToScenario",
+  "parameters": [
+    "title",
+    "price"
+  ],
+  "context_fields": [],
+  "additional_mockdata": true,
+  "description": "Repeatedly bid on an auction item up to a specified maximum price."
+}

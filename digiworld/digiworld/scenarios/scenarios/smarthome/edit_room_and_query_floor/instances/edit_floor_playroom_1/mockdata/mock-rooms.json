@@ -1,0 +1,12 @@
+[
+  {
+    "userId": "{{current_user_id}}",
+    "name": "Playroom",
+    "description": "Fun area for kids",
+    "type": "other",
+    "floor": 2,
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

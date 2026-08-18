@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Programmable Electric Kettle - 1.7L",
+    "description": "The Programmable Electric Kettle boils water quickly with a 1500-watt heating element and a 1.7-liter capacity. You can set the temperature in 5-degree increments and keep water warm for up to 30 minutes. Its stainless steel interior resists limescale, and the auto-shutoff ensures safety.",
+    "shortDescription": "Programmable electric kettle with temperature control and keep-warm feature.",
+    "rating": 3.0,
+    "reviewCount": 3,
+    "seller": "AquaHeat Appliances",
+    "price": 1385.55,
+    "discountedPrice": 859.04,
+    "discountPercent": 38,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 18,
+    "subcategoryName": "Small Appliances",
+    "inStock": true,
+    "stockCount": 120,
+    "imageUrl": "/72_1",
+    "specs": "{\"material\": \"Stainless steel interior with BPA-free plastic exterior\", \"dimensions\": \"8\\\" width x 9\\\" depth x 10\\\" height\", \"weight\": \"2.2 lbs\", \"warranty\": \"2-year limited warranty\", \"color\": \"Brushed stainless steel\", \"careInstructions\": \"Descale monthly with vinegar solution; hand wash exterior; do not immerse base.\"}",
+    "tags": "[\"kitchen\", \"appliances\", \"home\", \"small\", \"best\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

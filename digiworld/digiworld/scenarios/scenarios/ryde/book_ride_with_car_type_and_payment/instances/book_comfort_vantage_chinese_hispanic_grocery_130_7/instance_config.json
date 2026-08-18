@@ -1,0 +1,24 @@
+{
+  "parameters": {
+    "origin": "Chinese Hispanic Grocery, 130, Eldridge Street, Manhattan, USA",
+    "destination": "97, Attorney Street, Manhattan, USA",
+    "car_type": "Comfort",
+    "payment_method": "CardNetwork"
+  },
+  "compatible_profiles": [
+    "default",
+    "high_rated_drivers",
+    "inactive_users",
+    "new_user"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:21.311812+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

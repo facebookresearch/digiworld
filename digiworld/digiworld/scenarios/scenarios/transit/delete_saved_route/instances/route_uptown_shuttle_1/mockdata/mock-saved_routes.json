@@ -1,0 +1,14 @@
+[
+  {
+    "id": "saved-uptown-shuttle",
+    "userId": 1,
+    "name": "Uptown Shuttle",
+    "originStopId": "stop-3",
+    "destinationStopId": "stop-12",
+    "preferredMode": "bus",
+    "remindersEnabled": true,
+    "departureReminderMinutes": 10,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "name": "Morning Routine",
+    "description": "Automated morning setup",
+    "triggerType": "time",
+    "triggerValue": "{\"time\": \"07:00\", \"days\": [\"mon\", \"tue\", \"wed\", \"thu\", \"fri\"]}",
+    "isActive": 1,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "name": "Night Routine",
+    "description": "Automated evening shutdown",
+    "triggerType": "time",
+    "triggerValue": "{\"time\": \"22:00\", \"days\": [\"mon\", \"tue\", \"wed\", \"thu\", \"fri\", \"sat\", \"sun\"]}",
+    "isActive": 1,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 6,
+    "userId": 1,
+    "name": "Work Hours",
+    "description": "Office lighting during work hours",
+    "triggerType": "time",
+    "triggerValue": "{\"time\": \"09:00\", \"days\": [\"mon\", \"tue\", \"wed\", \"thu\", \"fri\"]}",
+    "isActive": 1,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 7,
+    "userId": 2,
+    "name": "Dinner Time",
+    "description": "Dining area lighting",
+    "triggerType": "time",
+    "triggerValue": "{\"time\": \"18:30\", \"days\": [\"mon\", \"tue\", \"wed\", \"thu\", \"fri\", \"sat\", \"sun\"]}",
+    "isActive": 1,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z",
+    "deletedAt": null
+  },
+  {
+    "id": 9,
+    "userId": 1,
+    "name": "Energy Saving",
+    "description": "Turn off unused devices",
+    "triggerType": "time",
+    "triggerValue": "{\"time\": \"23:00\", \"days\": [\"mon\", \"tue\", \"wed\", \"thu\", \"fri\", \"sat\", \"sun\"]}",
+    "isActive": 1,
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z",
+    "deletedAt": null
+  }
+]

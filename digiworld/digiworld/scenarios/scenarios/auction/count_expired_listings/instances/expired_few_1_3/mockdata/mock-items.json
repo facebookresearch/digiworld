@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754410108,
+    "title": "Vintage 1978 Fenlow Stratoline Electric Guitar \u2013 Sunburst",
+    "description": "Original 1978 Fenlow Stratoline in Sunburst finish, all original hardware and a set of vintage-style strings.",
+    "categoryId": 6,
+    "sellerId": "{{current_user_id}}",
+    "price": 543.53,
+    "auctionFlag": 1,
+    "status": "expired",
+    "quantity": 1,
+    "bidCount": 2,
+    "imageUrl": "https://example.com/images/vintage-1978-fender-stratocaster-electric-guitar-\u2013-sunburst.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 206.59,
+    "currentBid": 361.39,
+    "bidIncrement": 5.0,
+    "endTime": 1770868841,
+    "expired": 1
+  }
+]

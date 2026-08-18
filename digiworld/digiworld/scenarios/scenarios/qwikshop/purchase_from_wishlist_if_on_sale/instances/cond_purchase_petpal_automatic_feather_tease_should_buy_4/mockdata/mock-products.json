@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9904,
+    "name": "PetPal Automatic Feather Teaser",
+    "description": "A battery\u2011powered toy that mimics fluttering feathers to keep cats entertained for hours, with adjustable speed settings.",
+    "shortDescription": "Automatic feather teaser for active cats.",
+    "price": 59.98,
+    "discountedPrice": 50.98,
+    "discountPercent": 15,
+    "rating": 3.2,
+    "reviewCount": 443,
+    "seller": "Purrfect Playthings",
+    "categoryName": "Pet Supplies",
+    "subcategoryName": "Dog Food",
+    "inStock": 1,
+    "stockCount": 98,
+    "imageUrl": "/product_5333",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

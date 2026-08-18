@@ -1,0 +1,20 @@
+{
+  "task_name": "Empty the cart",
+  "app_name": "ecommerce",
+  "scenario_class": "EmptyTheCartScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Remove all items from the shopping cart",
+  "compatible_profiles": [
+    "bulk_quantity",
+    "default",
+    "full_cart",
+    "heavy_discounts",
+    "high_order_volume",
+    "large_orders",
+    "low_stock",
+    "new_user",
+    "power_shopper",
+    "premium_products"
+  ]
+}

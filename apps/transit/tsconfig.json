@@ -1,0 +1,30 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "jsx": "react-native",
+    "paths": {
+      "@/*": [
+        "./src/*"
+      ],
+      "assets/*": [
+        "./assets/*"
+      ],
+      "@andojo/shared-theme": [
+        "../../packages/shared-theme/src"
+      ],
+      "@andojo/shared-interaction-tracking": [
+        "../../packages/shared-interaction-tracking/src"
+      ],
+      "@andojo/shared-asset-management": [
+        "../../packages/shared-asset-management/src"
+      ]
+    }
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts"
+  ]
+}

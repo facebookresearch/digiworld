@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 9990,
+    "categoryId": 3,
+    "title": "The Rise of Urban Beekeeping",
+    "description": "Explore how city dwellers are turning rooftops into thriving bee sanctuaries, protecting pollinators and harvesting honey.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 2772,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 4433,
+    "likeCount": 10,
+    "commentCount": 46,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

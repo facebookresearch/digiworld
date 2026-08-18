@@ -1,0 +1,21 @@
+{
+  "task_name": "Open Terms of Use",
+  "app_name": "ryde",
+  "scenario_class": "OpenTermsOfUseScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Open the Terms of Use page.",
+  "compatible_profiles": [
+    "budget_rides",
+    "cancelled_rides",
+    "default",
+    "excellent_feedback",
+    "high_rated_drivers",
+    "high_ride_volume",
+    "inactive_users",
+    "low_rated_drivers",
+    "new_user",
+    "poor_feedback",
+    "premium_fares"
+  ]
+}

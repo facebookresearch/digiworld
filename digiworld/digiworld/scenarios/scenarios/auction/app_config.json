@@ -1,0 +1,7 @@
+{
+  "app_name": "auction",
+  "apk_name": "com.andojoauction.sbx",
+  "bundle_id": "com.andojoauction.sbx",
+  "database_doc_path": "../../../../../apps/auction/docs/database.md",
+  "feature_scope_path": "../../../../../apps/auction/docs/auction-feature-scope.md"
+}

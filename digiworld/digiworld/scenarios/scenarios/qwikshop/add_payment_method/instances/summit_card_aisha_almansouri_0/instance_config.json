@@ -1,0 +1,27 @@
+{
+  "parameters": {
+    "name": "Aisha Al\u2011Mansouri",
+    "cardNumber": "5555555555554444",
+    "expirationMonth": "04",
+    "expirationYear": "28"
+  },
+  "compatible_profiles": [
+    "bulk_quantity",
+    "empty_cart",
+    "heavy_discounts",
+    "high_order_volume",
+    "low_stock",
+    "new_user",
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-03-31T23:45:00.372586+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

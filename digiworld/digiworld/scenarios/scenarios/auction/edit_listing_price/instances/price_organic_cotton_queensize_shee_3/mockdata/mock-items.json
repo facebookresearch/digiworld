@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754000026,
+    "title": "Organic Cotton Queen\u2011Size Sheet Set (4\u2011Piece) \u2013 Cloud White",
+    "description": "Ultra\u2011soft, breathable organic cotton; deep pockets and elastic band for a snug, hotel\u2011quality feel.",
+    "categoryId": 4,
+    "sellerId": "{{current_user_id}}",
+    "price": 220.03,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/organic-cotton-queen\u2011size-sheet-set-(4\u2011piece)-\u2013-cloud-white.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

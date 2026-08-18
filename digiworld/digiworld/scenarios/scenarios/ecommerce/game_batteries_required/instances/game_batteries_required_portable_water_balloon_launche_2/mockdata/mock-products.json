@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Portable Water Balloon Launcher",
+    "description": "Portable Water Balloon Launcher lets you fill and fire balloons quickly with a simple pump\u2011action mechanism. The lightweight plastic construction and compact size make it perfect for backyard parties and summer gatherings.",
+    "shortDescription": "Portable water balloon launcher for quick filling and firing at parties.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Splash Burst Toys",
+    "price": 1775.12,
+    "discountedPrice": 1189.33,
+    "discountPercent": 33,
+    "categoryId": 7,
+    "categoryName": "Toys & Games",
+    "subcategoryId": 54,
+    "subcategoryName": "Outdoor Toys",
+    "inStock": true,
+    "stockCount": 145,
+    "imageUrl": "/216_1",
+    "specs": "{\"ageRange\": \"6+ years\", \"material\": \"High-density polyethylene\", \"dimensions\": \"10 x 6 x 4 inches\", \"batteryRequired\": \"Yes (1 x AA)\", \"warranty\": \"6 months limited\", \"safetyRating\": \"ASTM F963\"}",
+    "tags": "[\"games\", \"toys\", \"outdoor\", \"top-rated\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Universal Dashboard Mount for Smartphones",
+    "description": "This universal dashboard mount securely holds any smartphone up to 6.7 inches. It features a sturdy suction cup and a flexible arm that adjusts to the perfect viewing angle, making navigation and hands-free calls safe and convenient.",
+    "shortDescription": "Secure universal mount for smartphones with adjustable viewing angle.",
+    "rating": 1.2,
+    "reviewCount": 0,
+    "seller": "AutoMount Supplies Co.",
+    "price": 24.72,
+    "discountedPrice": 21.01,
+    "discountPercent": 15,
+    "categoryId": 8,
+    "categoryName": "Automotive",
+    "subcategoryId": 57,
+    "subcategoryName": "Car Accessories",
+    "inStock": true,
+    "stockCount": 16,
+    "imageUrl": "/225_1",
+    "specs": "{\"material\": \"High-grade ABS plastic with silicone padding\", \"compatibility\": \"Fits smartphones 4.5-6.7 inches, LumaPhone 13/14, Solstice Nova S22/S23, Corvex Pixel\", \"dimensions\": \"Length 10 cm x Width 6 cm x Height 5 cm\", \"weight\": \"150 g\", \"warranty\": \"1-year limited warranty\", \"madeIn\": \"China\"}",
+    "tags": "[\"car\", \"accessories\", \"automotive\", \"popular\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

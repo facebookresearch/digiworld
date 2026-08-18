@@ -1,0 +1,20 @@
+{
+  "task_name": "How many active auctions do I currently have",
+  "app_name": "auction",
+  "scenario_class": "CountActiveAuctionsScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Count the number of active auctions the current user has listed.",
+  "compatible_profiles": [
+    "auction_heavy",
+    "budget_items",
+    "buy_now_focus",
+    "default",
+    "ending_soon",
+    "failed_payments",
+    "high_bid_volume",
+    "new_seller",
+    "power_seller",
+    "premium_items"
+  ]
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Mid\u2011Century Modern Walnut Coffee Table",
+    "description": "This mid\u2011century modern coffee table showcases a walnut veneer top and tapered metal legs for a timeless look. The lower shelf provides storage for books, magazines, or remote controls. Its sturdy construction supports daily use while adding elegance to any living room.",
+    "shortDescription": "Mid\u2011century walnut coffee table with lower shelf storage.",
+    "rating": 3.0,
+    "reviewCount": 1,
+    "seller": "ModernLiving Furnishings",
+    "price": 718.07,
+    "discountedPrice": 682.17,
+    "discountPercent": 5,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 20,
+    "subcategoryName": "Furniture",
+    "inStock": true,
+    "stockCount": 190,
+    "imageUrl": "/77_1",
+    "specs": "{\"material\": \"Solid walnut wood\", \"dimensions\": \"48\\\" L x 24\\\" W x 18\\\" H\", \"weight\": \"45 lbs\", \"warranty\": \"2-year\", \"color\": \"Walnut\", \"careInstructions\": \"Wipe with dry cloth; avoid water; use coasters\"}",
+    "tags": "[\"furniture\", \"kitchen\", \"home\", \"premium\", \"high-quality\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "task_name": "Create a new \"<category>\" BuyNow listing, titled \"<title>\", set the price to \"<price>\", then tell me how many listings I have sold",
+  "app_name": "auction",
+  "scenario_class": "CreateBuynowAndCountSoldScenario",
+  "parameters": ["category", "title", "price"],
+  "context_fields": [],
+  "description": "Create a BuyNow listing and then report the total number of sold listings.",
+  "additional_mockdata": false
+}

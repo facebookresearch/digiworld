@@ -1,0 +1,90 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "hannah.dean@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Emergency evacuation drill reminder",
+    "preview": "Hi team. This is a reminder that the emergency eva...",
+    "body": "Hi team. This is a reminder that the emergency evacuation drill will take place tomorrow at 10 AM. Participate and review safety procedures.",
+    "timestamp": "2026-09-30T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_hannah_dean_emergency_evacuation_drill_r",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "patrick.quinn@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Office relocation timeline",
+    "preview": "Hello. The timeline for the office relocation has ...",
+    "body": "Hello. The timeline for the office relocation has been finalized. Review the key dates and prepare your workspace accordingly.",
+    "timestamp": "2026-10-23T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_patrick_quinn_office_relocation_timeline",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "kayla.rhodes@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Supplier quality audit invitation",
+    "preview": "Hi there. You are invited to participate in the up...",
+    "body": "Hi there. You are invited to participate in the upcoming supplier quality audit next month. Confirm your attendance and review the audit criteria.",
+    "timestamp": "2026-11-06T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_kayla_rhodes_supplier_quality_audit_invi",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "steven.hale@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Annual report draft distribution",
+    "preview": "Hello. The draft of the annual report has been dis...",
+    "body": "Hello. The draft of the annual report has been distributed for review. Provide feedback or approval before the final version is published.",
+    "timestamp": "2026-11-29T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_steven_hale_annual_report_draft_distribu",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

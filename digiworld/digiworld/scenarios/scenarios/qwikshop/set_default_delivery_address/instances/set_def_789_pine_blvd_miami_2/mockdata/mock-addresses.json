@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Sofia Garcia",
+    "street": "789 Pine Blvd",
+    "city": "Miami",
+    "state": "FL",
+    "pincode": "33101",
+    "phone": "3055550789",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

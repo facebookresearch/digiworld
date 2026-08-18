@@ -1,0 +1,15 @@
+[
+  {
+    "id": 90001,
+    "restaurantId": 90001,
+    "categoryId": 90001,
+    "name": "Al Pastor Taco",
+    "description": "Marinated pork with pineapple, cilantro, and onion on a freshly grilled tortilla.",
+    "price": 8.5,
+    "image": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?auto=format&fit=crop&w=600&q=80",
+    "calories": 320,
+    "isPopular": 0,
+    "isActive": 1,
+    "position": 1
+  }
+]

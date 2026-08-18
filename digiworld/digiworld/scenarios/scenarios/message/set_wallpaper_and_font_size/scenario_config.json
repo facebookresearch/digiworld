@@ -1,0 +1,9 @@
+{
+  "task_name": "Set my chat wallpaper to <wallpaper>, then set my font size to <font_size>",
+  "app_name": "message",
+  "scenario_class": "SetWallpaperAndFontSizeScenario",
+  "parameters": ["wallpaper", "font_size"],
+  "context_fields": [],
+  "description": "Change the chat wallpaper and then change the font size.",
+  "additional_mockdata": false
+}

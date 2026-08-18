@@ -1,0 +1,9 @@
+{
+  "task_name": "Update personal information of delivery address \"<street>\" \"<city>\" \"<state>\" \"<zip>\" \"<country>\" to \"<firstName>\" \"<lastName>\" with phone number: \"<phone>\"",
+  "app_name": "qwikshop",
+  "scenario_class": "UpdateDeliveryAddressPersonalInfoScenario",
+  "parameters": ["street", "city", "state", "zip", "country", "firstName", "lastName", "phone"],
+  "context_fields": [],
+  "description": "Update the name and phone number associated with an existing delivery address.",
+  "additional_mockdata": true
+}

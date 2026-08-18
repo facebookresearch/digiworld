@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "nickname": "Thunderbolt",
+    "make": "Porsche",
+    "model": "911 GT3",
+    "color": "Electric Blue",
+    "year": 2019,
+    "plateNumber": "THND3R",
+    "vehicleTypeId": 1,
+    "isDefault": 0,
+    "createdAt": "{{end_timestamp}}",
+    "updatedAt": "{{end_timestamp}}",
+    "metadata": null
+  }
+]

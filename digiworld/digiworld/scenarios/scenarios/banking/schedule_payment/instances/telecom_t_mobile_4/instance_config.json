@@ -1,0 +1,33 @@
+{
+  "parameters": {
+    "payee": "T-Mobile",
+    "amount": "65.25",
+    "date": "2026-05-10",
+    "time": "06:20 AM",
+    "account": "My Everyday Checking",
+    "note": "Family plan charge"
+  },
+  "compatible_profiles": [
+    "default",
+    "failed_transactions",
+    "high_balance",
+    "high_credit_limit",
+    "high_transaction_volume",
+    "low_balance",
+    "many_beneficiaries",
+    "many_zelle_contacts",
+    "maxed_out_cards",
+    "overdue_bills",
+    "premium_users"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:39.404970+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "lena.morales@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Unlock 30% Off Your Next Purchase \u2013 Limited Time!",
+    "preview": "Unlock 30% Off Your Next Purch...",
+    "body": "Hi there, we're excited to offer you an exclusive 30% discount on all items in our spring collection. Use code SPRING30 at checkout before Sunday to claim your savings. Happy shopping!",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_target",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

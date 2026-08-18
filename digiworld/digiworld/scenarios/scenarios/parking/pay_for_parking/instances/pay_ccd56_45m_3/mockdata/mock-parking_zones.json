@@ -1,0 +1,19 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "City Center Deck",
+    "description": "Parking zone CCD56",
+    "latitude": 40.72311,
+    "longitude": -73.973856,
+    "zoneCode": "CCD56",
+    "operator": "City Parking Authority",
+    "zoneType": "garage",
+    "capacity": 76,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.09,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 1,
+    "categoryId": 4,
+    "title": "Reacting to the Funniest TikTok Challenges 2024",
+    "description": "I watched and reacted to the most viral TikTok challenges of the year, from dance crazes to crazy stunts. Laughs guaranteed!",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 2139,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 9754,
+    "likeCount": 40,
+    "commentCount": 2,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

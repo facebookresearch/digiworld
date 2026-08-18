@@ -1,0 +1,18 @@
+{
+  "parameters": {
+    "stop_name": "Eagle Rock"
+  },
+  "compatible_profiles": [
+    "many_lines"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:48.308628+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

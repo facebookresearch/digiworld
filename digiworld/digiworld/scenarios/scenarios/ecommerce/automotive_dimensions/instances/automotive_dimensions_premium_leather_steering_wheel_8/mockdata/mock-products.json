@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Premium Leather Steering Wheel Cover",
+    "description": "Upgrade your steering wheel with this genuine\u2011feel leather cover that adds a tactile grip and a touch of luxury. The perforated design promotes breathability, and the elastic stitching ensures a snug fit on standard 14\u2011inch wheels. Easy to install without tools.",
+    "shortDescription": "Luxury leather steering wheel cover with breathable perforations.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "EliteAuto Interiors",
+    "price": 787.82,
+    "discountedPrice": 464.81,
+    "discountPercent": 41,
+    "categoryId": 8,
+    "categoryName": "Automotive",
+    "subcategoryId": 60,
+    "subcategoryName": "Interior Accessories",
+    "inStock": true,
+    "stockCount": 19,
+    "imageUrl": "/238_1",
+    "specs": "{\"material\": \"Genuine premium leather with double\\u2011stitched seams\", \"compatibility\": \"Fits steering wheels 14\\u201120\\u202fin diameter\", \"dimensions\": \"14.5\\u202fin circumference \\u00d7 1.5\\u202fin thickness\", \"weight\": \"0.80 lbs\", \"warranty\": \"1\\u2011year limited warranty\", \"madeIn\": \"Italy\"}",
+    "tags": "[\"automotive\", \"accessories\", \"interior\", \"best\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "michael.adler@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Team Building Activity: Choose Your Preferred Date",
+    "preview": "Hi team, we are planning a team building activity ...",
+    "body": "Hi team, we are planning a team building activity and need to choose a date that works for everyone. Please vote on the proposed options in the attached poll.",
+    "timestamp": "{{middle_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_michael_adler_team_building_activity_ch",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

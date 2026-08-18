@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 1,
+    "categoryId": 4,
+    "title": "The Ultimate Meme Compilation 2024",
+    "description": "A nonstop roll of the funniest memes that went viral this year. Get ready to laugh out loud!",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 2718,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 7012,
+    "likeCount": 9,
+    "commentCount": 1,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

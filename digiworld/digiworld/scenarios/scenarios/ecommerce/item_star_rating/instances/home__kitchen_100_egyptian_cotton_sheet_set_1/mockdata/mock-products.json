@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "100% Egyptian Cotton Sheet Set - Queen",
+    "description": "Sleep on luxurious 100% Egyptian cotton sheets that feel soft yet breathable, with a 400-thread count for durability. The queen-size set includes a fitted sheet, flat sheet, and two pillowcases, all with reinforced stitching at the seams. Fade-resistant and machine washable for easy care.",
+    "shortDescription": "Luxurious 100% Egyptian cotton queen-size sheet set.",
+    "rating": 3.0,
+    "reviewCount": 3,
+    "seller": "SleepSilk Linens",
+    "price": 107.31,
+    "discountedPrice": 75.12,
+    "discountPercent": 30,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 19,
+    "subcategoryName": "Bedding",
+    "inStock": true,
+    "stockCount": 129,
+    "imageUrl": "/73_1",
+    "specs": "{\"material\": \"100% Egyptian cotton, 400 thread count\", \"dimensions\": \"Fitted sheet 60\\\" x 80\\\" x 15\\\" pocket, flat sheet 90\\\" x 102\\\", pillowcases 20\\\" x 30\\\"\", \"weight\": \"5 lbs\", \"warranty\": \"5-year limited warranty\", \"color\": \"Ivory\", \"careInstructions\": \"Machine wash warm, tumble dry low; iron if desired\"}",
+    "tags": "[\"home\", \"bedding\", \"kitchen\", \"premium\", \"high-quality\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

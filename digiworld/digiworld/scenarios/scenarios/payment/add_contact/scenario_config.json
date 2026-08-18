@@ -1,0 +1,9 @@
+{
+  "task_name": "Add <contact_name> to my contacts",
+  "app_name": "payment",
+  "scenario_class": "AddContactScenario",
+  "parameters": ["contact_name"],
+  "context_fields": [],
+  "description": "Verify that the specified user was added as a contact.",
+  "additional_mockdata": true
+}

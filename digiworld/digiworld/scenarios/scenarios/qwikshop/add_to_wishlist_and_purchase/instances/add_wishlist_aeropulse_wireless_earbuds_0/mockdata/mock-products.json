@@ -1,0 +1,24 @@
+[
+  {
+    "id": 9900,
+    "name": "AeroPulse Wireless Earbuds",
+    "description": "Compact true\u2011wireless earbuds delivering crystal\u2011clear sound with active noise cancellation and up to 7\u202fhours of playtime per charge.",
+    "shortDescription": "True\u2011wireless earbuds with ANC and long battery life.",
+    "price": 133.77,
+    "discountedPrice": 133.77,
+    "discountPercent": 0,
+    "rating": 3.3,
+    "reviewCount": 62,
+    "seller": "SoundWave Store",
+    "categoryName": "Electronics",
+    "subcategoryName": "Headphones",
+    "inStock": 1,
+    "stockCount": 183,
+    "imageUrl": "/product_9935",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0,
+    "categoryId": 1,
+    "subcategoryId": 0
+  }
+]

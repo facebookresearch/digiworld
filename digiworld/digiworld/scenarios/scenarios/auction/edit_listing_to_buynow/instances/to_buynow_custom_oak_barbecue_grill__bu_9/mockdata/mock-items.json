@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754240097,
+    "title": "Custom Oak Barbecue Grill \u2013 Built-in Smoker, Stainless Steel",
+    "description": "Hand\u2011built oak grill with stainless steel smoker box, digital temperature control, and a set of grilling tools.",
+    "categoryId": 12,
+    "sellerId": "{{current_user_id}}",
+    "price": 941.2,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 2,
+    "imageUrl": "https://example.com/images/custom-oak-barbecue-grill-\u2013-built-in-smoker,-stainless-steel.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 341.52,
+    "currentBid": 414.46,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

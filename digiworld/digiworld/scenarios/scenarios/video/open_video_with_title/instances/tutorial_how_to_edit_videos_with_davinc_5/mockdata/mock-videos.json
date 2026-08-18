@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 1,
+    "categoryId": 3,
+    "title": "How to Edit Videos with DaVinci Resolve",
+    "description": "Step\u2011by\u2011step guide showing beginners how to import footage, color\u2011grade, and export polished videos using DaVinci Resolve.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 3408,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 2715,
+    "likeCount": 94,
+    "commentCount": 27,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

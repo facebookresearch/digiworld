@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Ceramic Covered Casserole Dish, 9-inch",
+    "description": "A 9-inch ceramic casserole dish with a snug, heat-resistant lid that locks in moisture. The glazed interior releases food easily, while the stoneware exterior tolerates oven temperatures up to 475\u00b0F. Perfect for casseroles, roasts, and one-pot meals.",
+    "shortDescription": "Ceramic casserole dish with a secure lid for oven cooking.",
+    "rating": 2.7,
+    "reviewCount": 3,
+    "seller": "Hearthware Supplies",
+    "price": 1065.22,
+    "discountedPrice": 532.61,
+    "discountPercent": 50,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 17,
+    "subcategoryName": "Cookware",
+    "inStock": true,
+    "stockCount": 37,
+    "imageUrl": "/66_1",
+    "specs": "{\"material\": \"Ceramic\", \"dimensions\": \"9\\\" diameter x 3\\\" depth\", \"weight\": \"3.2 lbs\", \"warranty\": \"2-year limited\", \"color\": \"White\", \"careInstructions\": \"Dishwasher safe; microwave safe; avoid sudden temperature changes\"}",
+    "tags": "[\"cookware\", \"home\", \"kitchen\", \"premium\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

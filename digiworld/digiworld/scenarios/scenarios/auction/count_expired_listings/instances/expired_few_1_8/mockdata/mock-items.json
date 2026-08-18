@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754650119,
+    "title": "Vintage 1955 Fizzco Advertising Sign \u2013 Neon",
+    "description": "Authentic 1955 Fizzco neon sign, fully rewired and illuminated, a striking piece for retro d\u00e9cor.",
+    "categoryId": 2,
+    "sellerId": "{{current_user_id}}",
+    "price": 141.61,
+    "auctionFlag": 1,
+    "status": "expired",
+    "quantity": 1,
+    "bidCount": 13,
+    "imageUrl": "https://example.com/images/vintage-1955-coca-cola-advertising-sign-\u2013-neon.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 47.14,
+    "currentBid": 70.8,
+    "bidIncrement": 5.0,
+    "endTime": 1768622465,
+    "expired": 1
+  }
+]

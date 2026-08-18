@@ -1,0 +1,20 @@
+[
+  {
+    "id": 10001,
+    "email": "laura.patel@example.com",
+    "password": "hashed_placeholder",
+    "pin": "5678",
+    "pinAttempts": 0,
+    "pinLockedUntil": null,
+    "firstName": "Laura",
+    "lastName": "Patel",
+    "phoneNumber": "{{random_phone}}",
+    "settings": "{}",
+    "kycVerified": 1,
+    "status": "active",
+    "dailyLimit": 5000.0,
+    "monthlyLimit": 50000.0,
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{past_timestamp}}"
+  }
+]

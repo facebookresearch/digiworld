@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9900,
+    "name": "PetSafe Interactive Treat Dispenser",
+    "description": "Programmable treat dispenser that challenges dogs with rotating compartments and can be controlled via a mobile app.",
+    "shortDescription": "Smart treat dispenser that engages dogs with interactive puzzles.",
+    "price": 353.6,
+    "discountedPrice": 353.6,
+    "discountPercent": 0,
+    "rating": 3.7,
+    "reviewCount": 89,
+    "seller": "HappyPaws Boutique",
+    "categoryName": "Pet Supplies",
+    "subcategoryName": "Pet Toys",
+    "inStock": 1,
+    "stockCount": 65,
+    "imageUrl": "/product_6514",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754110060,
+    "title": "18k Rose Gold Halo Engagement Ring \u2013 Solitaire",
+    "description": "Elegant 18\u2011karat rose gold halo solitaire ring, set with a flawless 0.75\u2011carat diamond; gently worn, comes with original box and certificate.",
+    "categoryId": 10,
+    "sellerId": "{{current_user_id}}",
+    "price": 2022.64,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 12,
+    "imageUrl": "https://example.com/images/18k-rose-gold-halo-engagement-ring-\u2013-solitaire.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 1049.59,
+    "currentBid": 1499.85,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "nickname": "EcoCruiser",
+    "make": "Nimbus",
+    "model": "Fern",
+    "color": "Lime Green",
+    "year": 2023,
+    "plateNumber": "NLEAF1",
+    "vehicleTypeId": 5,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "task_name": "Transfer <amount> from <account_1> to <account_2>",
+  "app_name": "banking",
+  "scenario_class": "TransferBetweenAccountsScenario",
+  "parameters": [
+    "amount",
+    "account_1",
+    "account_2"
+  ],
+  "additional_mockdata": true,
+  "context_fields": [],
+  "description": "Transfer a specified amount between two of the user's accounts."
+}

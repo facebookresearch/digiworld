@@ -1,0 +1,19 @@
+[
+  {
+    "flight_id": "DL5374_2026-08-15",
+    "airline_id": "airline_dl",
+    "airline_code": "DL",
+    "flight_number": "DL5374",
+    "origin": "ORD",
+    "destination": "MEX",
+    "departure_time": "2026-08-15T07:15:00Z",
+    "arrival_time": "2026-08-15T15:14:00Z",
+    "duration_minutes": 479,
+    "fare": 1147.86,
+    "currency": "USD",
+    "seats_available": 51,
+    "aircraft_type": "Boeing 787-9 Dreamliner",
+    "date": "2026-08-15",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

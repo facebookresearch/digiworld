@@ -1,0 +1,22 @@
+[
+  {
+    "id": 751850011,
+    "title": "Sunlit Harbor Oil Painting \u2013 24x30 inches, Signed by Emerging Coastal Artist",
+    "description": "This vibrant oil on canvas captures a tranquil harbor at sunrise; the artist's signature on the lower right confirms its authenticity and it arrives professionally stretched and ready to hang.",
+    "categoryId": 9,
+    "sellerId": 2,
+    "price": 876.29,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 14,
+    "imageUrl": "https://example.com/images/sunlit-harbor-oil-painting-\u2013-24x30-inches,-signed-by-emerging-coastal-artist.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 49.12,
+    "currentBid": 96.76,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

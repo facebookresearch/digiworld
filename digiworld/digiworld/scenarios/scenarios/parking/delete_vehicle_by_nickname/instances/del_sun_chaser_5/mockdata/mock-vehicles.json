@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "nickname": "Sun Chaser",
+    "make": "Camdon",
+    "model": "Silverado 1500",
+    "color": "Sunburst Yellow",
+    "year": 2020,
+    "plateNumber": "SUNCHS",
+    "vehicleTypeId": 3,
+    "isDefault": 0,
+    "createdAt": "{{end_timestamp}}",
+    "updatedAt": "{{end_timestamp}}",
+    "metadata": null
+  }
+]

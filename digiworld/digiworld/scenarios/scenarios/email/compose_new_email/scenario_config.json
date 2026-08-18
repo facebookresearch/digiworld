@@ -1,0 +1,8 @@
+{
+    "task_name": "Open the compose email screen to start writing a new email",
+    "app_name": "email",
+    "scenario_class": "ComposeNewEmail",
+    "parameters": [],
+    "context_fields": [],
+    "description": "Navigate to the compose email screen"
+}

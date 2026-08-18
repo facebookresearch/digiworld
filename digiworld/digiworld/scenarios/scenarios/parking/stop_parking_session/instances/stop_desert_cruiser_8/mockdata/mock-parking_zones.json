@@ -1,0 +1,19 @@
+[
+  {
+    "id": 99809,
+    "name": "Adventure Lot",
+    "description": "Parking zone ADV07",
+    "latitude": 40.730683,
+    "longitude": -73.988104,
+    "zoneCode": "ADV07",
+    "operator": "City Parking Authority",
+    "zoneType": "street",
+    "capacity": 147,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.27,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

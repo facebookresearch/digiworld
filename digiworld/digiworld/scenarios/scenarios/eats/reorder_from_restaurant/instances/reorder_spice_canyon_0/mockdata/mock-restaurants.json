@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Spice Canyon",
+    "description": "Home of the smoky chipotle carnitas tacos that melt in your mouth.",
+    "address": "222 Birch Court, Seattle, WA 98101",
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "logo": "https://images.unsplash.com/photo-1424847651672-bf20a4b0982b?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.3,
+    "deliveryFee": 1.64,
+    "minOrder": 7.0,
+    "deliveryRadius": 6,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

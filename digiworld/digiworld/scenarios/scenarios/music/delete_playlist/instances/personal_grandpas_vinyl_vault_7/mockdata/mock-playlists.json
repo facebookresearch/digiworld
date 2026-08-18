@@ -1,0 +1,19 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Grandpa\u2019s Vinyl Vault",
+    "description": "A playlist called Grandpa\u2019s Vinyl Vault",
+    "userId": "{{current_user_id}}",
+    "categories": [],
+    "coverArt": "playlists/playlist_default.jpg",
+    "songIds": [
+      1,
+      5,
+      10,
+      15,
+      20
+    ],
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

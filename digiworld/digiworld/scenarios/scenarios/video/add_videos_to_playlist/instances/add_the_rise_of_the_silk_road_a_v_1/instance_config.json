@@ -1,0 +1,20 @@
+{
+  "parameters": {
+    "video_1": "Health Hack: 7\u2011Day Plant\u2011Based Meal Prep for Beginners",
+    "video_2": "Pet Care 101: Training Your Cat to Use a Clicker",
+    "playlist_name": "Sunrise Chillhop Sessions"
+  },
+  "compatible_profiles": [
+    "comments_disabled"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:56.881222+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

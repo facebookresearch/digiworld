@@ -1,0 +1,32 @@
+{
+  "parameters": {
+    "address_line1": "123 Maple St",
+    "city": "Portland",
+    "state": "OR",
+    "postcode": "97201",
+    "country": "US",
+    "label": "Office",
+    "quantity": "3",
+    "restaurant_item": "Bacon Cheeseburger",
+    "restaurant": "Burger Blast"
+  },
+  "compatible_profiles": [
+    "budget_menu",
+    "default",
+    "excellent_ratings",
+    "high_order_volume",
+    "new_user",
+    "pending_orders",
+    "premium_menu"
+  ],
+  "metadata": {
+    "created_at": "2026-04-11T00:00:00.000000+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

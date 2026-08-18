@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "WaveDrive Smart Speaker",
+    "description": "WaveDrive Smart Speaker incorporates an LED display that shows time, weather, and song info. Supports Wi\u2011Fi and Bluetooth streaming, plus voice\u2011controlled smart home integration. Features a 360\u00b0 tweeter array for balanced audio. Up to 18 hours of continuous playback.",
+    "shortDescription": "Smart speaker with LED display, Wi\u2011Fi streaming, and multi\u2011room audio.",
+    "rating": 2.4,
+    "reviewCount": 5,
+    "seller": "SmartHome Audio",
+    "price": 1431.76,
+    "discountedPrice": 873.37,
+    "discountPercent": 39,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 7,
+    "subcategoryName": "Speakers",
+    "inStock": true,
+    "stockCount": 168,
+    "imageUrl": "/27_1",
+    "specs": "{\"display\": \"7-inch touch screen\", \"processor\": \"Quad-core ARC Cortix-A55\", \"ram\": \"2 GB LPDDR4\", \"storage\": \"8 GB eMMC\", \"battery\": \"N/A (plug-in)\", \"os\": \"Corvex Assistant OS\", \"connectivity\": \"Wi-Fi 6, Bluetooth 5.2, Zigbee\"}",
+    "tags": "[\"speakers\", \"electronics\", \"high-quality\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

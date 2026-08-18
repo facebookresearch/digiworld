@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Matte Finish Foundation Stick",
+    "description": "A convenient stick foundation that delivers a matte, medium\u2011coverage finish. The blend of mineral pigments and skin\u2011loving botanicals controls shine throughout the day. Suitable for all skin tones.",
+    "shortDescription": "Stick foundation delivering a matte, medium\u2011coverage finish.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Flawless Face Essentials",
+    "price": 1641.52,
+    "discountedPrice": 1149.06,
+    "discountPercent": 30,
+    "categoryId": 6,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 42,
+    "subcategoryName": "Makeup",
+    "inStock": true,
+    "stockCount": 155,
+    "imageUrl": "/165_1",
+    "specs": "{\"ingredients\": \"Mica, Iron Oxides, Silica, Kaolin, Vitamin E\", \"skinType\": \"All skin types\", \"volume\": \"0.4oz (12g)\", \"fragrance\": \"Soft Vanilla\", \"madeIn\": \"South Korea\", \"expiryPeriod\": \"36 months\"}",
+    "tags": "[\"personal\", \"beauty\", \"makeup\", \"care\", \"top-rated\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

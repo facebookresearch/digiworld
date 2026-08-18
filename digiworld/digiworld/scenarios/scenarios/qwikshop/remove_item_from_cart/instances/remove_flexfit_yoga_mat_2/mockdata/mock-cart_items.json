@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "cartId": 1,
+    "userId": 1,
+    "productId": 9902,
+    "productName": "FlexFit Yoga Mat",
+    "productImage": "/product_9902",
+    "shortDescription": "Yoga mat",
+    "seller": "ZenGear",
+    "quantity": 3,
+    "price": 360.85,
+    "discountedPrice": 288.68,
+    "total": 866.04,
+    "inStock": 1
+  }
+]

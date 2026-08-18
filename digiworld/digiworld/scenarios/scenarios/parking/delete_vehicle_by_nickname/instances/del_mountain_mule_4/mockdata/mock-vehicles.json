@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "nickname": "Mountain Mule",
+    "make": "Wayfarer",
+    "model": "Grand Summit",
+    "color": "Forest Green",
+    "year": 2021,
+    "plateNumber": "MNTMLU",
+    "vehicleTypeId": 2,
+    "isDefault": 0,
+    "createdAt": "{{end_timestamp}}",
+    "updatedAt": "{{end_timestamp}}",
+    "metadata": null
+  }
+]

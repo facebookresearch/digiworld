@@ -1,0 +1,10 @@
+{
+  "task_name": "Book a round trip \"<travel_class>\" flight for <adults> adults and <children> children from \"<origin>\" to \"<destination>\" from \"<date1>\" to \"<date2>\"",
+  "app_name": "flightbooking",
+  "scenario_class": "BookRoundTripScenario",
+  "parameters": ["travel_class", "adults", "children", "origin", "destination", "date1", "date2"],
+  "context_fields": [],
+  "description": "Book a round trip flight with specified class, passengers, route, and dates.",
+  "additional_mockdata": true,
+  "time": "2026-08-10T10:00:00Z"
+}

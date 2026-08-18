@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754050041,
+    "title": "Signed ProBall Basketball - 2022 Finals",
+    "description": "Official size basketball signed by the championship team's roster, includes authentication card.",
+    "categoryId": 6,
+    "sellerId": "{{current_user_id}}",
+    "price": 1275.75,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 13,
+    "imageUrl": "https://example.com/images/signed-nba-basketball---2022-finals.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 392.88,
+    "currentBid": 455.38,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

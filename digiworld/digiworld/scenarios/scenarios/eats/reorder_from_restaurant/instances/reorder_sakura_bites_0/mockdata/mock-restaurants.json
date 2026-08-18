@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Sakura Bites",
+    "description": "Sakura Bites is known for its modern twist on traditional sushi rolls with spicy mayo and crunchy tempura bits.",
+    "address": "208 Peachtree Lane, Atlanta, GA 30303",
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "logo": "https://images.unsplash.com/photo-1521017432531-fbd92d768814?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 3.7,
+    "deliveryFee": 1.96,
+    "minOrder": 20.0,
+    "deliveryRadius": 10,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

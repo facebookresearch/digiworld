@@ -1,0 +1,21 @@
+{
+  "parameters": {
+    "item": "Utility Field Jacket with Corduroy Lining",
+    "star_rating": "1",
+    "review_title": "Customer service saved the day",
+    "review_content": "I had an issue with a missing part, but the support team responded quickly and sent the replacement within two days. Their service turned a frustrating experience into a positive one."
+  },
+  "compatible_profiles": [
+    "full_cart"
+  ],
+  "metadata": {
+    "created_at": "2026-03-31T04:15:04.663237+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "task_name": "What's the educational focus of the <item> game?",
+  "app_name": "ecommerce",
+  "scenario_class": "GameEducationalFocusScenario",
+  "parameters": ["item"],
+  "context_fields": [],
+  "description": "Retrieve the educational focus of a game product"
+}

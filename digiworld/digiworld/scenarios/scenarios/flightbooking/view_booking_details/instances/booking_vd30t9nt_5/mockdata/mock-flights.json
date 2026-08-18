@@ -1,0 +1,19 @@
+[
+  {
+    "flight_id": "UA5889_2026-08-15",
+    "airline_id": "airline_ua",
+    "airline_code": "UA",
+    "flight_number": "UA5889",
+    "origin": "HND",
+    "destination": "SFO",
+    "departure_time": "2026-08-15T11:15:00Z",
+    "arrival_time": "2026-08-15T20:25:00Z",
+    "duration_minutes": 550,
+    "fare": 1191.26,
+    "currency": "USD",
+    "seats_available": 148,
+    "aircraft_type": "Airbus A350-900",
+    "date": "2026-08-15",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

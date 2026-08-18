@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Digital OBD-II Scan Tool with Live Data",
+    "description": "Diagnose engine issues quickly with this handheld OBD\u2011II scanner that reads and clears fault codes across all major car makes. The LCD screen displays live sensor data, freeze frame, and emissions readiness status. It connects via Bluetooth to a smartphone app for detailed analysis.",
+    "shortDescription": "Handheld OBD\u2011II scanner offering live data and code clearing.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "TechAuto Diagnostics",
+    "price": 958.97,
+    "discountedPrice": 690.46,
+    "discountPercent": 28,
+    "categoryId": 8,
+    "categoryName": "Automotive",
+    "subcategoryId": 59,
+    "subcategoryName": "Tools & Equipment",
+    "inStock": true,
+    "stockCount": 142,
+    "imageUrl": "/233_1",
+    "specs": "{\"material\": \"Durable ABS case with 2.8\u2011inch LCD screen\", \"compatibility\": \"All OBD\u2011II compliant vehicles (1996+), works with Nimbus OS, LumaMobile and Windows apps\", \"dimensions\": \"6\u202fin \u00d7 2.5\u202fin \u00d7 1\u202fin\", \"weight\": \"0.30 lbs\", \"warranty\": \"1\u2011year limited warranty\", \"madeIn\": \"Taiwan\"}",
+    "tags": "[\"tools\", \"automotive\", \"equipment\", \"premium\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

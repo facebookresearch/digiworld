@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Joint Support Supplement with Glucosamine and MSM",
+    "description": "Joint Support supplement features glucosamine sulfate, chondroitin, and MSM to promote cartilage health and reduce joint discomfort. Includes turmeric extract for added anti\u2011inflammatory benefits. Formulated without gelatin or artificial additives.",
+    "shortDescription": "Comprehensive joint health supplement with glucosamine and MSM.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "FlexiLife Nutrition",
+    "price": 1049.1,
+    "discountedPrice": 744.86,
+    "discountPercent": 29,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 64,
+    "subcategoryName": "Supplements",
+    "inStock": true,
+    "stockCount": 196,
+    "imageUrl": "/256_1",
+    "specs": "{\"ingredients\": \"Glucosamine Sulfate (HCl) 1500mg, MSM 1000mg, Chondroitin Sulfate 800mg, Turmeric Extract (Curcumin) 100mg\", \"dosage\": \"2 tablets daily with water\", \"weight\": \"120 tablets (48g)\", \"expiryPeriod\": \"30 months\", \"madeIn\": \"Canada\", \"certifications\": \"GMP, NSF Certified for Sport, Gluten-Free\"}",
+    "tags": "[\"wellness\", \"health\", \"supplements\", \"high-quality\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

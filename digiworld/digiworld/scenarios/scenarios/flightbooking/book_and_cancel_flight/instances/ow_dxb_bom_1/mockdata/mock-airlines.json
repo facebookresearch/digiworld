@@ -1,0 +1,9 @@
+[
+  {
+    "id": "airline_ek",
+    "name": "Emirates",
+    "iata_code": "EK",
+    "country": "United Arab Emirates",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

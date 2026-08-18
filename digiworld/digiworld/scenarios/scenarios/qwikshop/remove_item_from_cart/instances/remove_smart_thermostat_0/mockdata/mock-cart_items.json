@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "cartId": 1,
+    "userId": 1,
+    "productId": 9900,
+    "productName": "Smart Thermostat",
+    "productImage": "/product_9900",
+    "shortDescription": "Smart home control",
+    "seller": "SmartHome Inc.",
+    "quantity": 3,
+    "price": 60.22,
+    "discountedPrice": 48.18,
+    "total": 144.54,
+    "inStock": 1
+  }
+]

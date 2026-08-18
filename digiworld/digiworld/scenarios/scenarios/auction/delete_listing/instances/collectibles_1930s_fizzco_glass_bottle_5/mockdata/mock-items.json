@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754400107,
+    "title": "1930s Fizzco Glass Bottle \u2013 Mint Condition",
+    "description": "Authentic 1930s Fizzco glass bottle, collector's edition with original label; preserved in mint condition with no chips or cracks.",
+    "categoryId": 8,
+    "sellerId": "{{current_user_id}}",
+    "price": 965.32,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 8,
+    "imageUrl": "https://example.com/images/1930s-coca-cola-glass-bottle-\u2013-mint-condition.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 393.55,
+    "currentBid": 501.84,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

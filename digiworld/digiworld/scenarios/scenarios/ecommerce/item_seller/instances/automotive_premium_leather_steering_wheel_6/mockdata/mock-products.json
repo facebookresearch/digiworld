@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Premium Leather Steering Wheel Cover - Black",
+    "description": "Premium Leather Steering Wheel Cover offers a snug fit and a luxurious feel. The breathable perforated leather reduces hand fatigue and improves grip, while the anti\u2011slip stitching ensures durability. Available in classic black.",
+    "shortDescription": "Luxurious leather steering wheel cover for enhanced grip.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "ComfortGrip Co.",
+    "price": 147.1,
+    "discountedPrice": 117.68,
+    "discountPercent": 20,
+    "categoryId": 8,
+    "categoryName": "Automotive",
+    "subcategoryId": 60,
+    "subcategoryName": "Interior Accessories",
+    "inStock": true,
+    "stockCount": 5,
+    "imageUrl": "/238_1",
+    "specs": "{\"material\": \"Genuine black leather with stitching\", \"compatibility\": \"Fits standard 14-16 inch steering wheels\", \"dimensions\": \"Diameter 380mm, thickness 5mm\", \"weight\": \"300g\", \"warranty\": \"2-year warranty\", \"madeIn\": \"Italy\"}",
+    "tags": "[\"automotive\", \"accessories\", \"interior\", \"top-rated\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

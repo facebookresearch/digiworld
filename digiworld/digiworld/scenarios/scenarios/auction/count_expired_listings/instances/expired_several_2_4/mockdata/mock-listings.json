@@ -1,0 +1,18 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "itemId": 754470110,
+    "listPrice": 448.57,
+    "listDate": "{{recent_timestamp}}",
+    "status": "expired"
+  },
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "itemId": 754470111,
+    "listPrice": 1728.2,
+    "listDate": "{{recent_timestamp}}",
+    "status": "expired"
+  }
+]

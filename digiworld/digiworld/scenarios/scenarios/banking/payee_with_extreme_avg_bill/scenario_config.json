@@ -1,0 +1,11 @@
+{
+  "task_name": "Which payee in the <category> category has the <extreme> average bill?",
+  "app_name": "banking",
+  "scenario_class": "PayeeWithExtremeAvgBillScenario",
+  "parameters": [
+    "category",
+    "extreme"
+  ],
+  "context_fields": [],
+  "description": "Find the payee with the highest or lowest average bill amount in a category."
+}

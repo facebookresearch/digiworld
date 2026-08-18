@@ -1,0 +1,26 @@
+{
+  "parameters": {
+    "sender_name": "Jin Park",
+    "email_body": "Thursday at 3pm works for me I will update the calendar."
+  },
+  "compatible_profiles": [
+    "50_inbox_emails",
+    "5_inbox_emails",
+    "default",
+    "mixed",
+    "personal",
+    "spam_heavy",
+    "starred_important",
+    "work_related"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:01:18.253250+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

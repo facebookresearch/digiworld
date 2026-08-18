@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Brian Anderson",
+    "street": "369 Aspen Way",
+    "city": "Phoenix",
+    "state": "AZ",
+    "pincode": "85004",
+    "phone": "6025554567",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

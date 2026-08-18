@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754760136,
+    "title": "Gold\u2011Plated Pocket Watch \u2013 1920s Art Deco Design with Engraved Monogram",
+    "description": "Art Deco pocket watch with gold plating, featuring a custom monogram and working mechanical movement.",
+    "categoryId": 4,
+    "sellerId": "{{current_user_id}}",
+    "price": 220.03,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 11,
+    "imageUrl": "https://example.com/images/gold\u2011plated-pocket-watch-\u2013-1920s-art-deco-design-with-engraved-monogram.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 85.36,
+    "currentBid": 128.29,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

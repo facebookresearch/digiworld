@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 9990,
+    "categoryId": 4,
+    "title": "Epic Gaming Marathon with Top Fortress Royale Players",
+    "description": "Join me as I play Fortress Royale with the world's top gamers and compete in an epic gaming tournament.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 1252,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 8379,
+    "likeCount": 82,
+    "commentCount": 1,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

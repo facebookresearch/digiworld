@@ -1,0 +1,19 @@
+[
+  {
+    "flight_id": "QF9179_2026-08-15",
+    "airline_id": "airline_qf",
+    "airline_code": "QF",
+    "flight_number": "QF9179",
+    "origin": "SYD",
+    "destination": "LHR",
+    "departure_time": "2026-08-15T19:15:00Z",
+    "arrival_time": "2026-08-16T00:37:00Z",
+    "duration_minutes": 322,
+    "fare": 381.52,
+    "currency": "USD",
+    "seats_available": 200,
+    "aircraft_type": "Airbus A350-900",
+    "date": "2026-08-15",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

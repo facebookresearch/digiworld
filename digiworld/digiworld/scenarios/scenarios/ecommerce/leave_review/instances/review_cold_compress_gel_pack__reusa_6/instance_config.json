@@ -1,0 +1,21 @@
+{
+  "parameters": {
+    "item": "Cold Compress Gel Pack \u2013 Reusable",
+    "star_rating": "2",
+    "review_title": "Surprisingly comfortable for a budget option",
+    "review_content": "I was skeptical about the comfort level, but after using it for a week it feels surprisingly soft and breathable. It\u2019s a great option for those on a budget who don\u2019t want to sacrifice comfort."
+  },
+  "compatible_profiles": [
+    "power_shopper"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:01.398517+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

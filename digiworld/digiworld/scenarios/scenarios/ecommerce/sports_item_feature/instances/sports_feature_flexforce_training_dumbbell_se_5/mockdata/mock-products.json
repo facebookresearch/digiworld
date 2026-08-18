@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "FlexForce Training Dumbbell Set",
+    "description": "Product: FlexForce Training Dumbbell Set",
+    "shortDescription": "FlexForce Training Dumbbell Set",
+    "rating": 4.0,
+    "reviewCount": 0,
+    "seller": "Test Seller",
+    "price": 29.99,
+    "discountedPrice": 29.99,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Sports & Outdoors",
+    "subcategoryId": 1,
+    "subcategoryName": "Equipment",
+    "inStock": true,
+    "stockCount": 50,
+    "imageUrl": "/test_1",
+    "specs": "{\"features\": \"Adjustable cast iron plates with ergonomic rubber grips for seamless weight transitions\"}",
+    "tags": "[\"sports & outdoors\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

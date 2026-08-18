@@ -1,0 +1,32 @@
+{
+  "parameters": {
+    "address_line1": "987 Walnut St",
+    "city": "Boston",
+    "state": "MA",
+    "postcode": "02108",
+    "country": "US",
+    "label": "Home",
+    "quantity": "1",
+    "restaurant_item": "Clam Chowder Bowl",
+    "restaurant": "Harbor Hearth"
+  },
+  "compatible_profiles": [
+    "budget_menu",
+    "default",
+    "excellent_ratings",
+    "high_order_volume",
+    "new_user",
+    "pending_orders",
+    "premium_menu"
+  ],
+  "metadata": {
+    "created_at": "2026-04-11T00:00:00.000000+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

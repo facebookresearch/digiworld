@@ -1,0 +1,9 @@
+[
+  {
+    "id": "airline_ua",
+    "name": "Crestline Airlines",
+    "iata_code": "UA",
+    "country": "USA",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

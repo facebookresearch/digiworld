@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "John Doe",
+    "street": "123 Maple Street",
+    "city": "Springfield",
+    "state": "IL",
+    "pincode": "62704",
+    "phone": "2175551234",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 9990,
+    "categoryId": 3,
+    "title": "Inside the World's Largest Solar Farm",
+    "description": "Explore the massive desert solar installation, its technology, and impact on renewable energy goals.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 1087,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 1239,
+    "likeCount": 10,
+    "commentCount": 42,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

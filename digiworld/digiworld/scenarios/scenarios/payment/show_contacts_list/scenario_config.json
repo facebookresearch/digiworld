@@ -1,0 +1,21 @@
+{
+  "task_name": "Show me the full list of my contacts",
+  "app_name": "payment",
+  "scenario_class": "ShowContactsListScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Verify the user navigated to the contacts list screen.",
+  "compatible_profiles": [
+    "big_spender",
+    "default",
+    "frozen_wallets",
+    "high_deposit",
+    "high_failure_rate",
+    "low_transfer",
+    "micro_payments",
+    "mostly_pending",
+    "recent_activity",
+    "savings_mode",
+    "sparse_contacts"
+  ]
+}

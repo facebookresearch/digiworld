@@ -1,0 +1,18 @@
+{
+  "parameters": {
+    "item": "Stackable Plastic Food Storage Bins, Set of 6"
+  },
+  "compatible_profiles": [
+    "bulk_quantity"
+  ],
+  "metadata": {
+    "created_at": "2026-03-02T02:08:46.548488+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

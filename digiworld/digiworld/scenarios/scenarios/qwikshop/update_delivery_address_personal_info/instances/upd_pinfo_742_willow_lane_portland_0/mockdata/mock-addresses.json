@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Emily Hart",
+    "street": "742 Willow Lane",
+    "city": "Portland",
+    "state": "OR",
+    "pincode": "97201",
+    "phone": "5035551234",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

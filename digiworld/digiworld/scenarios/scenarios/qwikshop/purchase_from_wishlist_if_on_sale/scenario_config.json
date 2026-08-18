@@ -1,0 +1,9 @@
+{
+  "task_name": "Purchase \"<item>\" from my wishlist if it's on sale by at least \"<percentage>\"",
+  "app_name": "qwikshop",
+  "scenario_class": "PurchaseFromWishlistIfOnSaleScenario",
+  "parameters": ["item", "percentage"],
+  "context_fields": [],
+  "description": "Purchase a product from the wishlist only if its discount meets or exceeds the specified percentage threshold.",
+  "additional_mockdata": true
+}

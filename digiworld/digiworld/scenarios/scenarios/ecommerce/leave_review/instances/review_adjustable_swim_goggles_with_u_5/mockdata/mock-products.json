@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Adjustable Swim Goggles with UV Protection",
+    "description": "Soft\u2011silicone swim goggles that offer a snug, leak\u2011proof fit and feature UV\u2011protective lenses to shield eyes from sun glare. The adjustable strap ensures comfort for various head sizes, and the anti\u2011fog coating maintains clear vision. Comes with a compact carrying case.",
+    "shortDescription": "UV\u2011protective swim goggles with anti\u2011fog lenses and adjustable strap.",
+    "rating": 4.0,
+    "reviewCount": 1,
+    "seller": "BlueWave Swimwear",
+    "price": 11.75,
+    "discountedPrice": 11.75,
+    "discountPercent": 0,
+    "categoryId": 4,
+    "categoryName": "Sports & Outdoors",
+    "subcategoryId": 30,
+    "subcategoryName": "Water Sports",
+    "inStock": true,
+    "stockCount": 16,
+    "imageUrl": "/120_1",
+    "specs": "{\"material\": \"polycarbonate lenses, silicone strap\", \"weight\": \"0.1 lb\", \"dimensions\": \"3\\\"x2\\\"x1\\\"\", \"warranty\": \"1 year\", \"color\": \"mirrored pink\", \"suitableFor\": \"lap swimming, open water\"}",
+    "tags": "[\"sports\", \"water\", \"outdoors\", \"popular\", \"top-rated\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

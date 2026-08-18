@@ -1,0 +1,90 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "lily.turner@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Internal audit findings overview",
+    "preview": "Hi. An overview of the internal audit findings is ...",
+    "body": "Hi. An overview of the internal audit findings is attached. Review the report and implement recommended actions.",
+    "timestamp": "2026-04-14T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_lily_turner_internal_audit_findings_over",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "andrew.phillips@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Holiday office closure announcement",
+    "preview": "Hello. The office will be closed for the holidays ...",
+    "body": "Hello. The office will be closed for the holidays from December 24 to January 2. Plan your work accordingly and set out of office replies.",
+    "timestamp": "2026-05-07T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_andrew_phillips_holiday_office_closure_a",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "zoe.collins@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Conference registration confirmation",
+    "preview": "Hi there. Your registration for the upcoming confe...",
+    "body": "Hi there. Your registration for the upcoming conference has been confirmed. The itinerary and badge will be sent shortly.",
+    "timestamp": "2026-05-21T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_zoe_collins_conference_registration_conf",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "christopher.ross@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Feedback survey results analysis",
+    "preview": "Hello. The analysis of the recent feedback survey ...",
+    "body": "Hello. The analysis of the recent feedback survey results is now posted. Use the insights to improve our processes.",
+    "timestamp": "2026-06-13T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_christopher_ross_feedback_survey_results",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

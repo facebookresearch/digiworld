@@ -1,0 +1,17 @@
+[
+  {
+    "id": 99909,
+    "userId": "{{current_user_id}}",
+    "nickname": "Desert Cruiser",
+    "make": "Wayfarer",
+    "model": "Wanderer",
+    "color": "Desert Tan",
+    "year": 2020,
+    "plateNumber": "JEEP77",
+    "vehicleTypeId": 2,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

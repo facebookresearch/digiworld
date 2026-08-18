@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Invigorating Aftershave Splash",
+    "description": "A cooling aftershave with aloe, witch hazel, and a splash of peppermint that soothes razor irritation. It leaves skin feeling refreshed and lightly scented with a crisp, clean aroma. Alcohol-free for sensitive skin.",
+    "shortDescription": "A soothing, alcohol-free aftershave that calms razor burn.",
+    "rating": 3.3,
+    "reviewCount": 0,
+    "seller": "Manly Essentials",
+    "price": 944.52,
+    "discountedPrice": 566.71,
+    "discountPercent": 40,
+    "categoryId": 6,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 45,
+    "subcategoryName": "Men's Grooming",
+    "inStock": true,
+    "stockCount": 173,
+    "imageUrl": "/178_1",
+    "specs": "{\"ingredients\": \"Aloe vera, witch hazel, menthol, eucalyptus oil, glycerin, fragrance blend\", \"skinType\": \"Post-shave skin\", \"volume\": \"100ml\", \"fragrance\": \"Invigorating menthol\", \"madeIn\": \"UK\", \"expiryPeriod\": \"24 months\"}",
+    "tags": "[\"mens\", \"personal\", \"care\", \"beauty\", \"grooming\", \"high-quality\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

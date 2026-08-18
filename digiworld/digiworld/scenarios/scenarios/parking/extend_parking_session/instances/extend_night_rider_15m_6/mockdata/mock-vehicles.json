@@ -1,0 +1,17 @@
+[
+  {
+    "id": 99907,
+    "userId": "{{current_user_id}}",
+    "nickname": "Night Rider",
+    "make": "Ducati",
+    "model": "Panigale V4",
+    "color": "Red",
+    "year": 2023,
+    "plateNumber": "NTRDR",
+    "vehicleTypeId": 6,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

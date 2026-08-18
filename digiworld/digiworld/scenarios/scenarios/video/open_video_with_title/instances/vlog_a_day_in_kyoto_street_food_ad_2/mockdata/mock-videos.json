@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 1,
+    "categoryId": 7,
+    "title": "A Day in Kyoto: Street Food Adventures",
+    "description": "Join me as I explore Kyoto\u2019s bustling markets, tasting local delicacies and sharing behind\u2011the\u2011scenes moments of the city.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 430,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 588,
+    "likeCount": 16,
+    "commentCount": 13,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

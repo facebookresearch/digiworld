@@ -1,0 +1,24 @@
+{
+  "parameters": {
+    "wallpaper": "gradient",
+    "font_size": "large"
+  },
+  "compatible_profiles": [
+    "high_message_volume",
+    "inactive_groups",
+    "long_calls",
+    "media_heavy",
+    "new_user",
+    "unread_messages"
+  ],
+  "metadata": {
+    "created_at": "2026-04-11T12:00:00.000000+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

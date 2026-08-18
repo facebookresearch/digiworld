@@ -1,0 +1,36 @@
+[
+  {
+    "flight_id": "IB3621_2026-08-15",
+    "airline_id": "airline_ib",
+    "airline_code": "IB",
+    "flight_number": "IB3621",
+    "origin": "PHX",
+    "destination": "BCN",
+    "departure_time": "2026-08-15T18:00:00Z",
+    "arrival_time": "2026-08-16T02:45:00Z",
+    "duration_minutes": 525,
+    "fare": 696.11,
+    "currency": "USD",
+    "seats_available": 129,
+    "aircraft_type": "Airbus A350-900",
+    "date": "2026-08-15",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "flight_id": "IB9669_2026-08-22",
+    "airline_id": "airline_ib",
+    "airline_code": "IB",
+    "flight_number": "IB9669",
+    "origin": "BCN",
+    "destination": "PHX",
+    "departure_time": "2026-08-22T05:00:00Z",
+    "arrival_time": "2026-08-22T09:08:00Z",
+    "duration_minutes": 248,
+    "fare": 1199.18,
+    "currency": "USD",
+    "seats_available": 97,
+    "aircraft_type": "Airbus A320neo",
+    "date": "2026-08-22",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

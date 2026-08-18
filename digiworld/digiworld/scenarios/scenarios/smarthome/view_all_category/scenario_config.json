@@ -1,0 +1,10 @@
+{
+  "task_name": "View all of my <category>",
+  "app_name": "smarthome",
+  "scenario_class": "ViewAllCategoryScenario",
+  "parameters": [
+    "category"
+  ],
+  "context_fields": [],
+  "description": "Navigate to view all items in a category (devices, automations, notifications)"
+}

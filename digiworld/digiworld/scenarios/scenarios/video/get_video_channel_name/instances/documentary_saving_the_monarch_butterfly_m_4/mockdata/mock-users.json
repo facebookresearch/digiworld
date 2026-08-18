@@ -1,0 +1,13 @@
+[
+  {
+    "id": 9998,
+    "email": "creator_6574@example.com",
+    "username": "Nature's Guardians",
+    "password": "password123",
+    "avatar": "",
+    "bio": "",
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{past_timestamp}}",
+    "deletedAt": null
+  }
+]

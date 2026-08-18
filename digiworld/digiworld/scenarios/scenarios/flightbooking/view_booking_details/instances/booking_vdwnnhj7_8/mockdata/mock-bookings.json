@@ -1,0 +1,53 @@
+[
+  {
+    "booking_id": "BK-TEST-VDWNNHJ7",
+    "booking_reference": "VDWNNHJ7",
+    "user_id": "{{current_user_id}}",
+    "trip_type": "one_way",
+    "booking_date": "{{end_timestamp}}",
+    "status": "confirmed",
+    "payment_status": "paid",
+    "total_price": 786.93,
+    "refund_amount": 0,
+    "amount_paid": 786.93,
+    "currency": "USD",
+    "flights": [
+      {
+        "flight_id": "DL7537_2026-08-15",
+        "airline_code": "DL",
+        "flight_number": "DL7537",
+        "origin": "JFK",
+        "destination": "SCL",
+        "departure_time": "2026-08-15T16:45:00Z",
+        "arrival_time": "2026-08-16T00:28:00Z",
+        "duration_minutes": 463,
+        "fare": 786.93,
+        "segment": "outbound",
+        "status": "confirmed"
+      }
+    ],
+    "passengers": [
+      {
+        "passenger_id": "P-VDWNNHJ7-335612",
+        "first_name": "Test",
+        "last_name": "Traveler",
+        "email": "test.traveler@example.com",
+        "phone": "+1-555-2049",
+        "date_of_birth": "1985-01-19",
+        "passport_number": "X84346088",
+        "seat_assignments": [
+          {
+            "flight_id": "DL7537_2026-08-15",
+            "seat_number": "8E",
+            "check_in_status": "not_checked_in",
+            "check_in_time": null
+          }
+        ],
+        "ticket_number": "TK-VDWNNHJ7-335612",
+        "created_at": "2026-01-01T00:00:00Z"
+      }
+    ],
+    "created_at": "{{end_timestamp}}",
+    "updated_at": "{{end_timestamp}}"
+  }
+]

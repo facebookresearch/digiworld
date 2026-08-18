@@ -1,0 +1,62 @@
+[
+  {
+    "origin": "LAS",
+    "destination": "TPA",
+    "distanceKm": 3564,
+    "avgDurationMinutes": 318
+  },
+  {
+    "origin": "DCA",
+    "destination": "TPA",
+    "distanceKm": 1937,
+    "avgDurationMinutes": 188
+  },
+  {
+    "origin": "LAS",
+    "destination": "YVR",
+    "distanceKm": 4747,
+    "avgDurationMinutes": 399
+  },
+  {
+    "origin": "DCA",
+    "destination": "LAS",
+    "distanceKm": 668,
+    "avgDurationMinutes": 81
+  },
+  {
+    "origin": "EWR",
+    "destination": "DCA",
+    "distanceKm": 4741,
+    "avgDurationMinutes": 390
+  },
+  {
+    "origin": "TPA",
+    "destination": "LAS",
+    "distanceKm": 3824,
+    "avgDurationMinutes": 343
+  },
+  {
+    "origin": "YVR",
+    "destination": "TPA",
+    "distanceKm": 4707,
+    "avgDurationMinutes": 391
+  },
+  {
+    "origin": "YVR",
+    "destination": "DCA",
+    "distanceKm": 849,
+    "avgDurationMinutes": 116
+  },
+  {
+    "origin": "EWR",
+    "destination": "TPA",
+    "distanceKm": 999,
+    "avgDurationMinutes": 105
+  },
+  {
+    "origin": "YVR",
+    "destination": "EWR",
+    "distanceKm": 2841,
+    "avgDurationMinutes": 268
+  }
+]

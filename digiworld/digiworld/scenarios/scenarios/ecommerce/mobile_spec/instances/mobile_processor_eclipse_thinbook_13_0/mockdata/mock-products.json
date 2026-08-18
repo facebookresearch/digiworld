@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Eclipse ThinBook 13",
+    "description": "Eclipse ThinBook 13 provides a compact 13.3-inch retina-grade display in a magnesium-alloy chassis. Featuring a low-power Vertex Micro i3 processor, 4 GB RAM, and 256 GB SSD, it excels at web browsing and document editing. The built-in fingerprint sensor adds an extra layer of security.",
+    "shortDescription": "Compact 13.3-inch laptop with a fingerprint sensor and magnesium chassis.",
+    "rating": 3.2,
+    "reviewCount": 5,
+    "seller": "Eclipse Innovations",
+    "price": 1731.6,
+    "discountedPrice": 1056.28,
+    "discountPercent": 39,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 2,
+    "subcategoryName": "Laptops",
+    "inStock": true,
+    "stockCount": 122,
+    "imageUrl": "/8_1",
+    "specs": "{\"display\": \"13.3-inch ClearView IPS, 2560x1600 pixels\", \"processor\": \"Lumen M2\", \"ram\": \"8 GB unified\", \"storage\": \"256 GB SSD\", \"battery\": \"52 Wh, 30W USB-C\", \"os\": \"LumaOS Ventura\", \"connectivity\": \"Wi-Fi 6, Bluetooth 5.3, Thunderbolt 4\"}",
+    "tags": "[\"laptops\", \"electronics\", \"best\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

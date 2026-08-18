@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "nickname": "NightRider",
+    "make": "Harley-Davidson",
+    "model": "Street 750",
+    "color": "Black",
+    "year": 2023,
+    "plateNumber": "HD750X",
+    "vehicleTypeId": 6,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

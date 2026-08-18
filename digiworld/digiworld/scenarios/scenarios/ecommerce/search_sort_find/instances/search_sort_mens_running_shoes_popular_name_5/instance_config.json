@@ -1,0 +1,30 @@
+{
+  "parameters": {
+    "search_term": "men's running shoes",
+    "sort_option": "popular",
+    "result_field": "name"
+  },
+  "compatible_profiles": [
+    "bulk_quantity",
+    "default",
+    "empty_cart",
+    "full_cart",
+    "heavy_discounts",
+    "high_order_volume",
+    "large_orders",
+    "low_stock",
+    "new_user",
+    "power_shopper",
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T03:59:56.488643+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "cardType": "Vantage",
+    "cardNumber": "4242424242422824",
+    "expiry": "12/28",
+    "cardHolderName": "Test User",
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

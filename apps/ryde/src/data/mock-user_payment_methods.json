@@ -1,0 +1,23 @@
+[
+  {
+    "userId": 1,
+    "type": "credit_card",
+    "provider": "Visa",
+    "accountNumber": "**** **** **** 1234",
+    "isDefault": 1
+  },
+  {
+    "userId": 1,
+    "type": "digital_wallet",
+    "provider": "Paytm",
+    "accountNumber": "user@paytm",
+    "isDefault": 0
+  },
+  {
+    "userId": 2,
+    "type": "credit_card",
+    "provider": "Mastercard",
+    "accountNumber": "**** **** **** 5678",
+    "isDefault": 1
+  }
+] 

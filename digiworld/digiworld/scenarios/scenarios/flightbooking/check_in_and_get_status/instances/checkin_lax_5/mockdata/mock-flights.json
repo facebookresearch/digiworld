@@ -1,0 +1,19 @@
+[
+  {
+    "flight_id": "UA1009_{{tomorrow_date}}",
+    "airline_id": "airline_ua",
+    "airline_code": "UA",
+    "flight_number": "UA1009",
+    "origin": "DEN",
+    "destination": "LAX",
+    "departure_time": "{{tomorrow_date}}T15:45:00Z",
+    "arrival_time": "{{tomorrow_date}}T22:51:00Z",
+    "duration_minutes": 426,
+    "fare": 345.43,
+    "currency": "USD",
+    "seats_available": 102,
+    "aircraft_type": "Boeing 777-300ER",
+    "date": "{{tomorrow_date}}",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": 9900,
+    "name": "TrailMaster 12-Inch Folding Bike",
+    "description": "Lightweight aluminum folding bike with 21 speeds, puncture\u2011resistant tires, and a compact design ideal for urban commuters.",
+    "shortDescription": "Compact folding bike with 21 gears for city riding.",
+    "price": 218.47,
+    "discountedPrice": 218.47,
+    "discountPercent": 0,
+    "rating": 3.9,
+    "reviewCount": 152,
+    "seller": "CyclePro Outfitters",
+    "categoryName": "Sports & Outdoors",
+    "subcategoryName": "Cycling",
+    "inStock": 1,
+    "stockCount": 11,
+    "imageUrl": "/product_3615",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0,
+    "categoryId": 4,
+    "subcategoryId": 0
+  }
+]

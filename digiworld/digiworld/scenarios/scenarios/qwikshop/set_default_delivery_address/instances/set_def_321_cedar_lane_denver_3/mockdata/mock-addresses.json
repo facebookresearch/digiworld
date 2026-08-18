@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "David Lee",
+    "street": "321 Cedar Lane",
+    "city": "Denver",
+    "state": "CO",
+    "pincode": "80202",
+    "phone": "3035550111",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

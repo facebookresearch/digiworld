@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Heavy-Duty Seat Belt Cutter and Window Breaker",
+    "description": "Designed for emergencies, this compact tool combines a stainless\u2011steel seat belt cutter with a hardened glass breaker tip. The ergonomic handle ensures a firm grip, and the bright orange color makes it easy to locate in low light. Keep it within reach in your glove compartment for quick access.",
+    "shortDescription": "Emergency seat belt cutter and glass breaker in one compact tool.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "SafetyFirst Automotive",
+    "price": 1107.69,
+    "discountedPrice": 664.61,
+    "discountPercent": 40,
+    "categoryId": 8,
+    "categoryName": "Automotive",
+    "subcategoryId": 57,
+    "subcategoryName": "Car Accessories",
+    "inStock": true,
+    "stockCount": 69,
+    "imageUrl": "/227_1",
+    "specs": "{\"material\": \"Stainless\\u2011steel cutter blade with aerospace\\u2011grade aluminum handle\", \"compatibility\": \"Universal for all seat\\u2011belt webbing and side\\u2011window glass\", \"dimensions\": \"5.5\\u202fin \\u00d7 2.5\\u202fin \\u00d7 0.8\\u202fin\", \"weight\": \"0.40 lbs\", \"warranty\": \"1\\u2011year limited warranty\", \"madeIn\": \"USA\"}",
+    "tags": "[\"automotive\", \"accessories\", \"car\", \"popular\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "marco.silva@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Book recommendation",
+    "preview": "Hi have you read any good mystery novels lately?...",
+    "body": "Hi have you read any good mystery novels lately?",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_marco_silva_book_recommendation",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "marco.silva@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Dinner invitation",
+    "preview": "Hi I'm hosting a small dinner next Friday and woul...",
+    "body": "Hi I'm hosting a small dinner next Friday and would love for you to join.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_marco_silva_dinner_invitation",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

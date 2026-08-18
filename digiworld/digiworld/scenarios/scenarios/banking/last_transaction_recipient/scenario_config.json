@@ -1,0 +1,9 @@
+{
+  "task_name": "Who was my last transaction towards?",
+  "app_name": "banking",
+  "scenario_class": "LastTransactionRecipientScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Identify the recipient or payee of the user's most recent successful transaction.",
+  "compatible_profiles": []
+}

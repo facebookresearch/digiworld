@@ -1,0 +1,15 @@
+{
+  "task_name": "What are the email subjects of my current email drafts",
+  "app_name": "email",
+  "scenario_class": "GetDraftSubjects",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Report the email subjects of all current email drafts",
+  "compatible_profiles": [
+    "50_inbox_emails",
+    "all_drafts",
+    "mixed",
+    "starred_important",
+    "work_related"
+  ]
+}

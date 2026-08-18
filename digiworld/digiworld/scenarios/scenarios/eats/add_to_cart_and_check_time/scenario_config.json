@@ -1,0 +1,9 @@
+{
+  "task_name": "Add <restaurant_item> from <restaurant> to my cart, then tell me the estimated order time from <restaurant>",
+  "app_name": "eats",
+  "scenario_class": "AddToCartAndCheckTimeScenario",
+  "parameters": ["restaurant_item", "restaurant"],
+  "context_fields": [],
+  "description": "Add a menu item to the cart and report the estimated delivery time for the restaurant",
+  "additional_mockdata": true
+}

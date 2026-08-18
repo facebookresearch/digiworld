@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 1,
+    "categoryId": 6,
+    "title": "Vertex Console OLED vs. Lite: Which Should You Buy?",
+    "description": "A side\u2011by\u2011side comparison of the Vertex OLED and Vertex Lite, focusing on display, battery, and price to help you decide.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 1693,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 4652,
+    "likeCount": 24,
+    "commentCount": 2,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754760133,
+    "title": "Limited Edition Fine Art Print \u2013 Contemporary Abstract by Maya Larkin",
+    "description": "Limited run of 250 prints, signed by the artist, printed on archival paper, ready to frame.",
+    "categoryId": 4,
+    "sellerId": "{{current_user_id}}",
+    "price": 2022.64,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 12,
+    "imageUrl": "https://example.com/images/limited-edition-fine-art-print-\u2013-contemporary-abstract-by-maya-larkin.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 1049.59,
+    "currentBid": 1499.85,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

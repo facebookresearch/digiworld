@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754730128,
+    "title": "Limited Edition Lithograph of Jazz Club \u2013 Numbered 57 of 200",
+    "description": "Printed on archival paper, this limited edition lithograph depicts a bustling jazz club scene; it is numbered 57 of 200 and remains in excellent condition with no creases.",
+    "categoryId": 9,
+    "sellerId": 2,
+    "price": 1768.82,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 9,
+    "imageUrl": "https://example.com/images/limited-edition-lithograph-of-jazz-club-\u2013-numbered-57-of-200.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 56.32,
+    "currentBid": 98.26,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

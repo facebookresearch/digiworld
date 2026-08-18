@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 1,
+    "categoryId": 3,
+    "title": "Beginner's Guide to Plant-Based Meal Prep",
+    "description": "Learn how to plan, shop, and cook a week\u2019s worth of nutritious plant\u2011based meals with simple recipes and storage tips.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 2772,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 4433,
+    "likeCount": 10,
+    "commentCount": 46,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

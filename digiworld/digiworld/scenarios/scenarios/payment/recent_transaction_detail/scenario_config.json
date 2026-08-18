@@ -1,0 +1,9 @@
+{
+  "task_name": "What's the <detail_type> of my most recent transaction?",
+  "app_name": "payment",
+  "scenario_class": "RecentTransactionDetailScenario",
+  "parameters": ["detail_type"],
+  "context_fields": [],
+  "description": "Verify the agent correctly reports a specific detail of the most recent transaction.",
+  "additional_mockdata": true
+}

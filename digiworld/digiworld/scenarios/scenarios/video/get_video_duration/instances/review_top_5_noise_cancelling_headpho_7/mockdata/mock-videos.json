@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 1,
+    "categoryId": 6,
+    "title": "Top 5 Noise-Cancelling Headphones Tested",
+    "description": "Our team tests five top noise\u2011cancelling headphones, evaluating sound quality, comfort, and real\u2011world blocking power.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 3427,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 5614,
+    "likeCount": 18,
+    "commentCount": 5,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

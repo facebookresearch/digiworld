@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "userId": "{{current_user_id}}",
+    "restaurantId": 90001,
+    "addressId": 1,
+    "status": "delivered",
+    "total": 13.75,
+    "deliveryAddress": "630 Harbor Drive, San Diego, CA 92101",
+    "paymentMethod": "cash",
+    "specialInstructions": "",
+    "cutlery": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

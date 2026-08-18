@@ -1,0 +1,9 @@
+[
+  {
+    "id": "airline_kl",
+    "name": "KLM Royal Dutch",
+    "iata_code": "KL",
+    "country": "Netherlands",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "task_name": "Play <artist_name>",
+  "app_name": "music",
+  "scenario_class": "PlayArtistScenario",
+  "parameters": ["artist_name"],
+  "context_fields": [],
+  "description": "Play music by a specific artist"
+}

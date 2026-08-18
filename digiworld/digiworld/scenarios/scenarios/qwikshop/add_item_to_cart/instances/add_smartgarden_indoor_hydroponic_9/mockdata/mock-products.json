@@ -1,0 +1,22 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "SmartGarden Indoor Hydroponic Kit",
+    "description": "All\u2011in\u2011one kit grows herbs and vegetables year\u2011round using soil\u2011free hydroponics and LED lighting.",
+    "shortDescription": "Indoor hydroponic kit",
+    "price": 405.49,
+    "discountedPrice": 324.39,
+    "discountPercent": 20,
+    "rating": 3.3,
+    "reviewCount": 204,
+    "seller": "UrbanHarvest",
+    "categoryName": "Home & Kitchen",
+    "subcategoryName": "Small Appliances",
+    "inStock": 1,
+    "stockCount": 79,
+    "imageUrl": "/product_4598",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

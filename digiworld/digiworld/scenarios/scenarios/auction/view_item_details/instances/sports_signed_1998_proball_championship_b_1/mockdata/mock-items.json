@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754040040,
+    "title": "Signed 1998 ProBall Championship Basketball, Authentic",
+    "description": "An authentic ProBall championship basketball from 1998, bearing the player's signature and a certificate of authenticity; the ball is in superb condition with minimal wear.",
+    "categoryId": 6,
+    "sellerId": "{{current_user_id}}",
+    "price": 1275.75,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 13,
+    "imageUrl": "https://example.com/images/signed-1998-nba-championship-basketball,-authentic.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 392.88,
+    "currentBid": 455.38,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

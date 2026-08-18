@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754060042,
+    "title": "Signed 2022 ProBall Finals Game Ball \u2013 Lamar Jensen",
+    "description": "Official game-used basketball from the 2022 ProBall Finals, autographed by Lamar Jensen; gently used and comes with a certificate of authenticity.",
+    "categoryId": 6,
+    "sellerId": "{{current_user_id}}",
+    "price": 1275.75,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 13,
+    "imageUrl": "https://example.com/images/signed-2022-nba-finals-game-ball-\u2013-lebron-james.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 392.88,
+    "currentBid": 455.38,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

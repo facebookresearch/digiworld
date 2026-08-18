@@ -1,0 +1,20 @@
+{
+  "parameters": {
+    "item_1": "Laser Pointer with Adjustable Modes for Cats",
+    "item_2": "Portable Solar Camping Stove",
+    "item_3": "Sturdy Metal Stilt Walking Set"
+  },
+  "compatible_profiles": [
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T03:59:45.667154+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

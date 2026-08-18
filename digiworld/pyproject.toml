@@ -1,0 +1,63 @@
+# Copyright (c) Meta Platforms, Inc. and affiliates.
+[project]
+name = "digiworld"
+version = "1.0.0"
+description = "AI testing and scenario validation framework"
+license = "Apache-2.0"
+license-files = ["LICENSE"]
+requires-python = ">=3.9"
+dependencies = [
+    "requests>=2.28.0",
+    "packaging>=21.0",
+]
+
+[project.optional-dependencies]
+test = [
+    "pytest>=7.0.0",
+    "pytest-cov>=4.0.0",
+    "pydantic>=2.0.0",
+]
+dev = [
+    "black>=23.0.0",
+    "isort>=5.12.0",
+    "mypy>=1.0.0",
+]
+llm = [
+    "langchain>=0.3.0",
+    "langchain-google-vertexai>=2.0.0",
+    "langchain-openai>=0.3.0",
+    "pydantic>=2.0.0",
+    "pyyaml>=6.0",
+]
+
+[project.scripts]
+digiworld = "digiworld.cli:main"
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["digiworld*"]
+
+[tool.setuptools.package-data]
+digiworld = [
+    "state_data/**/*.json",
+    "state_data/**/*.db",
+    "state_data/**/*.zip",
+    "state_data/**/*.mp3",
+    "state_data/**/*.mp4",
+    "state_data/**/*.pdf",
+    "state_data/**/*.pptx",
+    "state_data/**/*.xlsx",
+    "state_data/**/*.txt",
+    # Profile assets. Without these a built wheel ships profiles whose images
+    # are all missing, and every app renders placeholders.
+    "state_data/**/*.jpg",
+    "state_data/**/*.jpeg",
+    "state_data/**/*.png",
+    "state_data/**/*.webp",
+    "scenarios/**/*.json",
+    "scenarios/**/*.yaml",
+]

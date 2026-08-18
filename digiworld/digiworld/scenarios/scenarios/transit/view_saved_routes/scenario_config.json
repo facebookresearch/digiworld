@@ -1,0 +1,20 @@
+{
+  "task_name": "View Saved Routes",
+  "app_name": "transit",
+  "scenario_class": "ViewSavedRoutesScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Navigate to the screen showing the user's saved transit routes.",
+  "compatible_profiles": [
+    "default",
+    "few_stops",
+    "frequent_traveler",
+    "many_lines",
+    "many_stops",
+    "multi_modal",
+    "new_user",
+    "peak_hours",
+    "service_disruptions",
+    "weekend_schedule"
+  ]
+}

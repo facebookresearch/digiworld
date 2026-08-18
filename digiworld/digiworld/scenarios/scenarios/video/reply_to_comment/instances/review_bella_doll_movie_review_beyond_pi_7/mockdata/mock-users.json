@@ -1,0 +1,13 @@
+[
+  {
+    "id": 9998,
+    "email": "marcus.thompson.reply@example.com",
+    "username": "Marcus Thompson",
+    "password": "password123",
+    "avatar": "",
+    "bio": "",
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{past_timestamp}}",
+    "deletedAt": null
+  }
+]

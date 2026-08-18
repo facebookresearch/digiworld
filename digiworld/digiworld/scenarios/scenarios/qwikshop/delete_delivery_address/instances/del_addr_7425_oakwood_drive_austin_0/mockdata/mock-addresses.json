@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Emily Garcia",
+    "street": "7425 Oakwood Drive",
+    "city": "Austin",
+    "state": "TX",
+    "pincode": "78758",
+    "phone": "5128675309",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

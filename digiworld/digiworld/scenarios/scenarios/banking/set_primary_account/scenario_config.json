@@ -1,0 +1,11 @@
+{
+  "task_name": "Set my <account_name> account as the primary account",
+  "app_name": "banking",
+  "scenario_class": "SetPrimaryAccountScenario",
+  "parameters": [
+    "account_name"
+  ],
+  "additional_mockdata": true,
+  "context_fields": [],
+  "description": "Set a specific account as the user's primary account."
+}

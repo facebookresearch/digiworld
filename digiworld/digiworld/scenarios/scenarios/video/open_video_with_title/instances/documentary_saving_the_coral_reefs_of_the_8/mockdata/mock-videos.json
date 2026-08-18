@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 1,
+    "categoryId": 3,
+    "title": "Saving the Coral Reefs of the Great Barrier",
+    "description": "Filmmakers follow marine scientists as they battle bleaching, showcase restoration projects, and discuss the future of the Great Barrier Reef.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 1856,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 1684,
+    "likeCount": 50,
+    "commentCount": 22,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

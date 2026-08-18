@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Pulse 5G Ultra Smartphone",
+    "description": "Experience blazing 5G connectivity with the Pulse 5G Ultra, featuring a 6.7\u2011inch OLED panel and a high\u2011refresh rate for fluid visuals. The device houses a 64\u202fMP main sensor and AI\u2011enhanced imaging modes for professional\u2011grade photos. Fast charging restores 50\u202f% in just 15 minutes.",
+    "shortDescription": "5G\u2011ready smartphone with a 6.7\u2011inch OLED and 64\u202fMP camera.",
+    "rating": 3.0,
+    "reviewCount": 2,
+    "seller": "Digital Edge Retail",
+    "price": 572.24,
+    "discountedPrice": 400.57,
+    "discountPercent": 30,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 1,
+    "subcategoryName": "Smartphones",
+    "inStock": true,
+    "stockCount": 198,
+    "imageUrl": "/2_1",
+    "specs": "{\"display\": \"6.7-inch AMOLED, 1440x3216, 144Hz\", \"processor\": \"Cellwave Stormcore 8+ Gen 1\", \"ram\": \"12 GB LPDDR5X\", \"storage\": \"256 GB UFS 3.1\", \"battery\": \"5000 mAh\", \"os\": \"Nimbus OS 13\", \"connectivity\": \"5G, Wi\u2011Fi 6E, Bluetooth 5.3, NFC, USB\u2011C, Dual SIM\"}",
+    "tags": "[\"electronics\", \"smartphones\", \"high-quality\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

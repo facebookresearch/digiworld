@@ -1,0 +1,12 @@
+{
+  "task_name": "Delete the playlist titled <name>, then play a <genre> playlist",
+  "app_name": "music",
+  "scenario_class": "DeletePlaylistAndPlayGenreScenario",
+  "parameters": [
+    "name",
+    "genre"
+  ],
+  "context_fields": [],
+  "description": "Delete a playlist by name, then play a song from a specified genre",
+  "additional_mockdata": true
+}

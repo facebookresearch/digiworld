@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 1,
+    "categoryId": 6,
+    "title": "Apple LumaBuds Pro 2 In\u2011Depth Review",
+    "description": "I evaluate sound quality, noise cancellation, battery life, and comfort to see if the LumaBuds Pro 2 are worth the upgrade.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 1693,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 4652,
+    "likeCount": 24,
+    "commentCount": 13,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

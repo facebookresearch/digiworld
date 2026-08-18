@@ -1,0 +1,20 @@
+# Copyright (c) Meta Platforms, Inc. and affiliates.
+from digiworld.scenarios.verification import ComposableScenario
+from digiworld.scenarios.scenarios.ecommerce.base_scenario import EcommerceScenario
+from digiworld.scenarios.answer_matchers import substring_match
+
+
+class LatestReviewForItemScenario(EcommerceScenario, ComposableScenario):
+    def _get_checks(self, state_path):
+        rows = self._execute_query_in_path(
+            "SELECT r.comment, r.title FROM reviews r "
+            "JOIN products p ON r.product_id = p.id "
+            "WHERE p.name = ? AND r.parent_review_id IS NULL "
+            "ORDER BY r.review_date DESC LIMIT 1",
+            (self.item,),
+            state_path,
+        )
+        if not rows:
+            raise ValueError(f"No reviews found for product '{self.item}'")
+        comment = rows[0][0]
+        return {"answer_contains_review": substring_match(self.agent_answer, comment[:80])}

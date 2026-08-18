@@ -1,0 +1,19 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Nightlife Plaza",
+    "description": "Parking zone NP2A3",
+    "latitude": 40.731547,
+    "longitude": -73.978909,
+    "zoneCode": "NP2A3",
+    "operator": "City Parking Authority",
+    "zoneType": "metered",
+    "capacity": 219,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.23,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

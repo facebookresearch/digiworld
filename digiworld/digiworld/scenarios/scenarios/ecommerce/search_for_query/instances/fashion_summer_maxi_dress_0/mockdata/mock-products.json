@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "SunKissed Boho Summer Maxi Dress",
+    "description": "The SunKissed Boho Summer Maxi Dress features a flowing full-length silhouette in soft chiffon fabric. Bohemian-inspired design with a V-neckline, tiered skirt layers, and adjustable waist tie belt. Lightweight and breathable, ideal for summer festivals, vacations, and evening outings. Available in solid and printed colorways.",
+    "shortDescription": "Flowing chiffon bohemian summer maxi dress with tiered skirt and adjustable waist tie.",
+    "rating": 4.5,
+    "reviewCount": 83,
+    "seller": "SunKissed Styles",
+    "price": 2299.00,
+    "discountedPrice": 1839.20,
+    "discountPercent": 20,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 10,
+    "subcategoryName": "Women's Dresses",
+    "inStock": true,
+    "stockCount": 35,
+    "imageUrl": "/10_2",
+    "specs": "{\"material\": \"100% Chiffon\", \"neckline\": \"V-neck\", \"length\": \"Maxi\", \"fit\": \"Relaxed\", \"closure\": \"Adjustable waist tie\", \"careInstructions\": \"Hand wash cold\"}",
+    "tags": "[\"dress\", \"maxi\", \"summer\", \"boho\", \"women\", \"clothing\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

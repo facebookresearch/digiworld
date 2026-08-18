@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Aromatherapy Heated Massage Cushion",
+    "description": "Cushion that combines gentle vibration with optional heat and an aromatherapy compartment for essential oils. Fits most office chairs and car seats. Controls via remote for intensity and timer settings.",
+    "shortDescription": "Heated massage cushion with aromatherapy for relaxation.",
+    "rating": 2.0,
+    "reviewCount": 0,
+    "seller": "TheraEase Products",
+    "price": 60.94,
+    "discountedPrice": 57.89,
+    "discountPercent": 5,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 68,
+    "subcategoryName": "Massage",
+    "inStock": true,
+    "stockCount": 76,
+    "imageUrl": "/272_1",
+    "specs": "{\"ingredients\": \"Memory foam cushion, Built-in heating element, Vibration motor, Aromatherapy pad (lavender), USB power adapter\", \"dosage\": \"Use 20 minutes per session, up to twice daily\", \"weight\": \"1.5 kg cushion\", \"expiryPeriod\": \"4 years from manufacture\", \"madeIn\": \"USA\", \"certifications\": \"UL Listed, CE Marked, GMP Certified\"}",
+    "tags": "[\"wellness\", \"health\", \"massage\", \"best\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "parameters": {
+    "route_title": "Cultural Corridor"
+  },
+  "compatible_profiles": [
+    "many_lines"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:52.275416+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

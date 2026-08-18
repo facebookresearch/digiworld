@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "userId": "{{current_user_id}}",
+    "restaurantId": 90001,
+    "addressId": 1,
+    "status": "delivered",
+    "total": 59.25,
+    "deliveryAddress": "456 Oak Avenue, Brooklyn, NY 11201",
+    "paymentMethod": "credit_card",
+    "specialInstructions": "",
+    "cutlery": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

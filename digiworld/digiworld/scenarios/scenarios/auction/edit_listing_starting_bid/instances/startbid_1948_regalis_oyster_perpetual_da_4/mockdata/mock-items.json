@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754100057,
+    "title": "1948 Regalis Oyster Perpetual Datejust Men's Wristwatch \u2013 Stainless Steel",
+    "description": "A 1948 Regalis Oyster Perpetual Datejust in stainless steel, featuring the classic date window and original factory bracelet.",
+    "categoryId": 2,
+    "sellerId": "{{current_user_id}}",
+    "price": 2022.64,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 12,
+    "imageUrl": "https://example.com/images/1948-rolex-oyster-perpetual-datejust-men's-wristwatch-\u2013-stainless-steel.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 1049.59,
+    "currentBid": 1499.85,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

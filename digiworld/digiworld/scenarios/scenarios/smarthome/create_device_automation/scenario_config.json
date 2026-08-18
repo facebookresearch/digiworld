@@ -1,0 +1,9 @@
+{
+  "task_name": "Create an automation for the <device_type> device named \"<device_name>\", with the automation name \"<automation_name>\", description \"<automation_description>\", trigger type <trigger_type>",
+  "app_name": "smarthome",
+  "scenario_class": "CreateDeviceAutomationScenario",
+  "parameters": ["device_type", "device_name", "automation_name", "automation_description", "trigger_type"],
+  "context_fields": [],
+  "description": "Create an automation targeting a specific device with given name, description, and trigger type",
+  "additional_mockdata": true
+}

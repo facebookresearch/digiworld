@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "christopher.adams@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Budget review documents attached",
+    "preview": "Hi, the budget review documents are attached for y...",
+    "body": "Hi, the budget review documents are attached for your consideration. Please examine the figures and provide feedback by Friday.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_christopher_adams_budget_review_document",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "emily.davis@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Please review the budget review documents",
+    "preview": "Hello, please review the budget review documents a...",
+    "body": "Hello, please review the budget review documents and let me know if any adjustments are required. Your input is essential for the upcoming board meeting.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_emily_davis_please_review_the_budget_rev",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

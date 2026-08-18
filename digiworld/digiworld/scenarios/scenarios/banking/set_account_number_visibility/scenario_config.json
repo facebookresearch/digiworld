@@ -1,0 +1,12 @@
+{
+  "task_name": "Set my <account_name> number to <visibility>",
+  "app_name": "banking",
+  "scenario_class": "SetAccountNumberVisibilityScenario",
+  "parameters": [
+    "account_name",
+    "visibility"
+  ],
+  "additional_mockdata": true,
+  "context_fields": [],
+  "description": "Set account number display visibility to hidden or unhidden."
+}

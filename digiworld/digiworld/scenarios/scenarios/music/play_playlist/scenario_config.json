@@ -1,0 +1,9 @@
+{
+  "task_name": "Play <playlist_name>",
+  "app_name": "music",
+  "scenario_class": "PlayPlaylistScenario",
+  "parameters": ["playlist_name"],
+  "context_fields": [],
+  "description": "Play a specific playlist by name",
+  "additional_mockdata": true
+}

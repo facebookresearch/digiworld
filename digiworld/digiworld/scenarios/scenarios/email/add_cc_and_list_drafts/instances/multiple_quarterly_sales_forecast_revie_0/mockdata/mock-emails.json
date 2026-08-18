@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "{{current_user_email}}",
+    "receiver": [
+      "sales.manager@example.com"
+    ],
+    "subject": "Quarterly Sales Forecast Review",
+    "preview": "Hi team, please review the attached sales forecast...",
+    "body": "Hi team, please review the attached sales forecast for the next quarter and let me know any concerns by Wednesday. Your insights are critical for finalizing the projections.",
+    "timestamp": "{{recent_timestamp}}",
+    "unread": 0,
+    "read": 0,
+    "status": "draft",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 1,
+    "threadId": "draft_quarterly_sales_forecast_review",
+    "folder": "draft",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

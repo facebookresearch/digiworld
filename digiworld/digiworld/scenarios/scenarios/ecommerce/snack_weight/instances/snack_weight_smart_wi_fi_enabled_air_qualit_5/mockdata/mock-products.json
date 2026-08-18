@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Smart Wi-Fi Enabled Air Quality Monitor and Purifier",
+    "description": "Smart Wi\u2011Fi Enabled Air Quality Monitor and Purifier tracks PM2.5, VOCs, temperature, and humidity in real time via a mobile app. The dual\u2011stage filtration system uses a pre\u2011filter and activated carbon to reduce odors and pollutants. Voice\u2011controlled through Aria and Corvex Assistant.",
+    "shortDescription": "Wi\u2011Fi air purifier with real\u2011time air\u2011quality monitoring.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "AirSense Technologies",
+    "price": 1068.34,
+    "discountedPrice": 673.05,
+    "discountPercent": 37,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 69,
+    "subcategoryName": "Air Purifiers",
+    "inStock": true,
+    "stockCount": 15,
+    "imageUrl": "/274_1",
+    "specs": "{\"ingredients\": \"PM2.5 laser sensor, VOC sensor, HEPA filter, Wi-Fi module, LCD panel\", \"dosage\": \"Operate continuously, app alerts, replace filter yearly\", \"weight\": \"4kg\", \"expiryPeriod\": \"4 years\", \"madeIn\": \"South Korea\", \"certifications\": \"CE, FCC, RoHS\"}",
+    "tags": "[\"wellness\", \"health\", \"air\", \"purifiers\", \"top-rated\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "parameters": {
+    "spec": "battery",
+    "item": "PixelWave 128GB Compact Smartphone"
+  },
+  "compatible_profiles": [
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-03-31T04:10:50.885194+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

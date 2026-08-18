@@ -1,0 +1,42 @@
+[
+  {
+    "id": 181890013,
+    "title": "Rare 1980s Vertex Entertainment System (NES) Console",
+    "description": "This NES console is fully functional and includes the original packaging and documentation. It is a rare find for any retro gaming enthusiast.",
+    "categoryId": 12,
+    "sellerId": "{{current_user_id}}",
+    "price": 631.11,
+    "auctionFlag": 1,
+    "status": "expired",
+    "quantity": 1,
+    "bidCount": 2,
+    "imageUrl": "https://example.com/images/rare-1980s-nintendo-entertainment-system-(nes)-console.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 215.75,
+    "currentBid": 233.44,
+    "bidIncrement": 5.0,
+    "endTime": 1770343589,
+    "expired": 1
+  },
+  {
+    "id": 181890014,
+    "title": "Vinyl Record Collection: David Bowie's 'The Rise and Fall of Ziggy Stardust'",
+    "description": "This vinyl record is in excellent condition and features some of David Bowie's most iconic tracks. The album is a must-have for any music collector.",
+    "categoryId": 7,
+    "sellerId": "{{current_user_id}}",
+    "price": 98.75,
+    "auctionFlag": 1,
+    "status": "expired",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/vinyl-record-collection:-david-bowie's-'the-rise-and-fall-of-ziggy-stardust'.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 36.1,
+    "currentBid": 50.69,
+    "bidIncrement": 5.0,
+    "endTime": 1771639589,
+    "expired": 1
+  }
+]

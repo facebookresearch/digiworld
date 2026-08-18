@@ -1,0 +1,17 @@
+[
+  {
+    "id": 99902,
+    "userId": "{{current_user_id}}",
+    "nickname": "Mountain Goat",
+    "make": "Fairmont",
+    "model": "Voyager",
+    "color": "Forest Green",
+    "year": 2024,
+    "plateNumber": "MTNGO2",
+    "vehicleTypeId": 2,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

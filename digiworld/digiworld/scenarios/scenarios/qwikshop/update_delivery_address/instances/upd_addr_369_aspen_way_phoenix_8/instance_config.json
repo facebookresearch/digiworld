@@ -1,0 +1,37 @@
+{
+  "parameters": {
+    "street": "369 Aspen Way",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85004",
+    "country": "United States",
+    "street2": "9103 Ironwood Pass",
+    "city2": "Briarwood",
+    "state2": "NC",
+    "zip2": "27514",
+    "country2": "United States"
+  },
+  "compatible_profiles": [
+    "bulk_quantity",
+    "default",
+    "empty_cart",
+    "full_cart",
+    "heavy_discounts",
+    "high_order_volume",
+    "large_orders",
+    "low_stock",
+    "new_user",
+    "power_shopper",
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:31.216913+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

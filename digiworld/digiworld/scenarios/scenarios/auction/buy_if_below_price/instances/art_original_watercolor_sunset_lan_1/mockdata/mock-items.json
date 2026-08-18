@@ -1,0 +1,22 @@
+[
+  {
+    "id": 182220024,
+    "title": "Original Watercolor Sunset Landscape Painting",
+    "description": "A one-of-a-kind watercolor painting capturing the serene beauty of a sunset over the ocean, signed by the artist. The painting is framed and ready to hang.",
+    "categoryId": 9,
+    "sellerId": 2,
+    "price": 376.82,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/original-watercolor-sunset-landscape-painting.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

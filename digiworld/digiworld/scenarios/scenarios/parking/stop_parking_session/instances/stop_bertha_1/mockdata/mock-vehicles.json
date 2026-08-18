@@ -1,0 +1,17 @@
+[
+  {
+    "id": 99902,
+    "userId": 1,
+    "nickname": "Bertha",
+    "make": "Fairmont",
+    "model": "T-150",
+    "color": "Black",
+    "year": 2024,
+    "plateNumber": "VANITY1",
+    "vehicleTypeId": 3,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

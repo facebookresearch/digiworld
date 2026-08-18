@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "All\u2011Terrain Hiking Boots \u2013 Men\u2019s Size 10",
+    "description": "Men\u2019s hiking boots featuring a waterproof Gore\u2011Tex membrane, Vibram outsole for traction, and a supportive midsole for all\u2011day comfort. The leather upper offers durability, while the lace\u2011lock system provides a secure fit on rugged trails. Break\u2011in period is minimal.",
+    "shortDescription": "Waterproof Gore\u2011Tex hiking boots with Vibram outsole for rugged terrain.",
+    "rating": 5.0,
+    "reviewCount": 1,
+    "seller": "SummitStride Footwear",
+    "price": 595.18,
+    "discountedPrice": 505.9,
+    "discountPercent": 15,
+    "categoryId": 4,
+    "categoryName": "Sports & Outdoors",
+    "subcategoryId": 31,
+    "subcategoryName": "Hiking",
+    "inStock": true,
+    "stockCount": 57,
+    "imageUrl": "/124_1",
+    "specs": "{\"material\": \"full-grain leather upper, Vibram sole\", \"weight\": \"2.5 lb (per pair)\", \"dimensions\": \"size 10 US (approx 13\\\"x5\\\"x4\\\")\", \"warranty\": \"2 years\", \"color\": \"dark brown\", \"suitableFor\": \"rugged trails, mountain climbing\"}",
+    "tags": "[\"sports\", \"hiking\", \"outdoors\", \"top-rated\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

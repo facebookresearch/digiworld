@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "user_id": "{{current_user_id}}",
+    "full_name": "Liam J. O'Connor",
+    "street": "8602 Birch Street",
+    "city": "Boise",
+    "state": "ID",
+    "pincode": "83702",
+    "phone": "+1-555-1415",
+    "country": "United States",
+    "delivery_instructions": "",
+    "is_default": 0,
+    "created_at": "2025-06-15 12:00:00.000",
+    "updated_at": "2025-06-15 12:00:00.000"
+  }
+]

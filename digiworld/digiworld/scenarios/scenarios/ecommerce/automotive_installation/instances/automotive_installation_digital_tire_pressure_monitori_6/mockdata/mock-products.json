@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Digital Tire Pressure Monitoring System (TPMS) Kit",
+    "description": "Product: Digital Tire Pressure Monitoring System (TPMS) Kit",
+    "shortDescription": "Digital Tire Pressure Monitoring System (TPMS) Kit",
+    "rating": 4.0,
+    "reviewCount": 0,
+    "seller": "Test Seller",
+    "price": 29.99,
+    "discountedPrice": 29.99,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Automotive",
+    "subcategoryId": 1,
+    "subcategoryName": "Accessories",
+    "inStock": true,
+    "stockCount": 50,
+    "imageUrl": "/test_1",
+    "specs": "{\"installation\": \"Connect sensors to OBD-II port; calibrate via smartphone app; professional installation optional.\"}",
+    "tags": "[\"automotive\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

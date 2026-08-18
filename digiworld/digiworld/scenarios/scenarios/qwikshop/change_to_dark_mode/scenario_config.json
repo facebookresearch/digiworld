@@ -1,0 +1,21 @@
+{
+  "task_name": "Change the app to dark mode",
+  "app_name": "qwikshop",
+  "scenario_class": "ChangeToDarkModeScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Toggle the dark mode setting on in the app's profile/settings screen.",
+  "compatible_profiles": [
+    "bulk_quantity",
+    "default",
+    "empty_cart",
+    "full_cart",
+    "heavy_discounts",
+    "high_order_volume",
+    "large_orders",
+    "low_stock",
+    "new_user",
+    "power_shopper",
+    "premium_products"
+  ]
+}

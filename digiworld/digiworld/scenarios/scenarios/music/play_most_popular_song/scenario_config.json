@@ -1,0 +1,21 @@
+{
+  "task_name": "Play the current most popular song",
+  "app_name": "music",
+  "scenario_class": "PlayMostPopularSongScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Play the song with the highest play count",
+  "compatible_profiles": [
+    "default",
+    "genre_focused",
+    "high_rated_content",
+    "large_playlists",
+    "low_engagement",
+    "minimal_playlists",
+    "new_user",
+    "playlist_heavy",
+    "power_listener",
+    "recent_activity",
+    "viral_songs"
+  ]
+}

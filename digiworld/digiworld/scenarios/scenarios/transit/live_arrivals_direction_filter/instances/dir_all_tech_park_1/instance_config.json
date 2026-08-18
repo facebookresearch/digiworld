@@ -1,0 +1,19 @@
+{
+  "parameters": {
+    "stop_name": "Park Place",
+    "direction_filter": "All"
+  },
+  "compatible_profiles": [
+    "new_user"
+  ],
+  "metadata": {
+    "created_at": "2026-03-02T02:14:45.335588+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

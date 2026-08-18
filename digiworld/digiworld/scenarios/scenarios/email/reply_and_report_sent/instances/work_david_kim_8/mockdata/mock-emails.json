@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "david.kim@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Server maintenance notice",
+    "preview": "Hi scheduled maintenance will occur this Saturday ...",
+    "body": "Hi scheduled maintenance will occur this Saturday from 1am to 3am.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_david_kim_server_maintenance_notice",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "david.kim@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Feedback on draft proposal",
+    "preview": "Hi could you review the attached draft proposal an...",
+    "body": "Hi could you review the attached draft proposal and share your feedback by Tuesday?",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_david_kim_feedback_on_draft_proposal",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "sofia.rossi@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Team building activity ideas",
+    "preview": "Hi please send any ideas for the upcoming team bui...",
+    "body": "Hi please send any ideas for the upcoming team building event.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_sofia_rossi_team_building_activity_ideas",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "sofia.rossi@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Project deadline extension",
+    "preview": "Hi the client approved a one week extension for th...",
+    "body": "Hi the client approved a one week extension for the deliverables.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_sofia_rossi_project_deadline_extension",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

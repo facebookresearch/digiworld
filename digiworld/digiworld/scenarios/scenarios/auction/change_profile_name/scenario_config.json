@@ -1,0 +1,10 @@
+{
+  "task_name": "Change my profile name to \"<name>\"",
+  "app_name": "auction",
+  "scenario_class": "ChangeProfileNameScenario",
+  "parameters": [
+    "name"
+  ],
+  "context_fields": [],
+  "description": "Verify that the user changes their profile name to the specified name."
+}

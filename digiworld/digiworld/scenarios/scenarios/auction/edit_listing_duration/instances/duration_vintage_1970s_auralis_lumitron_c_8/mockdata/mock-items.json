@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754150072,
+    "title": "Vintage 1970s Auralis Lumitron CRT Television \u2013 Fully Functional",
+    "description": "Fully serviced Auralis Lumitron with original remote, vibrant color reproduction, and a wooden console; a collector\u2019s dream.",
+    "categoryId": 9,
+    "sellerId": "{{current_user_id}}",
+    "price": 965.81,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 5,
+    "imageUrl": "https://example.com/images/vintage-1970s-sony-trinitron-crt-television-\u2013-fully-functional.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 421.12,
+    "currentBid": 702.13,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

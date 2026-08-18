@@ -1,0 +1,22 @@
+[
+  {
+    "id": 181890011,
+    "title": "Vintage 1980s Auralis PocketPlayer Professional WM-D6C",
+    "description": "Fully functional and in great condition, this Auralis PocketPlayer is a collector's dream. Includes original packaging and manual.",
+    "categoryId": 2,
+    "sellerId": "{{current_user_id}}",
+    "price": 103.66,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/vintage-1980s-sony-walkman-professional-wm-d6c.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

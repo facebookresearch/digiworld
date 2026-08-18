@@ -1,0 +1,8 @@
+{
+  "task_name": "Change my name to <name>, then change my password to <new_password>",
+  "app_name": "parking",
+  "scenario_class": "ChangeNameAndPasswordScenario",
+  "parameters": ["name", "new_password"],
+  "context_fields": ["current_user_password"],
+  "description": "Change the user's display name and account password."
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Full-Body Shiatsu Foot Massager",
+    "description": "Full-body Shiatsu foot massager offers kneading, rolling, and heat functions to soothe tired feet. Includes adjustable arch support and a removable water tank for steam therapy.",
+    "shortDescription": "Shiatsu foot massager offering kneading, rolling, and heat.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "FootEase Comfort",
+    "price": 111.19,
+    "discountedPrice": 100.07,
+    "discountPercent": 10,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 68,
+    "subcategoryName": "Massage",
+    "inStock": true,
+    "stockCount": 139,
+    "imageUrl": "/272_1",
+    "specs": "{\"ingredients\": \"N/A\", \"dosage\": \"Sit on foot massager; select program; use up to 20 minutes per session\", \"weight\": \"7 kg\", \"expiryPeriod\": \"5 years from manufacture\", \"madeIn\": \"Japan\", \"certifications\": \"CE Marked, FCC Certified\"}",
+    "tags": "[\"wellness\", \"health\", \"massage\", \"top-rated\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

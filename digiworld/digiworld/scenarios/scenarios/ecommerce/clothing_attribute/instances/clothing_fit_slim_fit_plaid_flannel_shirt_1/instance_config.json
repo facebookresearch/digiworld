@@ -1,0 +1,19 @@
+{
+  "parameters": {
+    "attribute": "fit",
+    "item": "Slim Fit Plaid Flannel Shirt"
+  },
+  "compatible_profiles": [
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-03-31T04:10:49.043617+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

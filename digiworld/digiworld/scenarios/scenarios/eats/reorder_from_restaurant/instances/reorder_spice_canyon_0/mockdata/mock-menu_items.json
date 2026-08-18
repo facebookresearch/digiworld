@@ -1,0 +1,15 @@
+[
+  {
+    "id": 90001,
+    "restaurantId": 90001,
+    "categoryId": 90001,
+    "name": "Chipotle Carnitas Taco",
+    "description": "Slow cooked pork shoulder infused with chipotle smoke, topped with fresh cilantro and onion.",
+    "price": 12.5,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80",
+    "calories": 420,
+    "isPopular": 1,
+    "isActive": 1,
+    "position": 1
+  }
+]

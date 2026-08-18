@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Solaris Mini Slate",
+    "description": "The Solaris Mini Slate is a compact 8\u2011inch tablet aimed at on\u2011the\u2011go productivity, featuring a dual\u2011core processor and 3\u202fGB RAM. Its detachable keyboard accessory transforms it into a mini\u2011laptop. A front\u2011facing 8\u202fMP camera supports video calls.",
+    "shortDescription": "Compact 8\u2011inch tablet with detachable keyboard and 8\u202fMP front camera.",
+    "rating": 2.5,
+    "reviewCount": 2,
+    "seller": "SlateGear Supplies",
+    "price": 809.16,
+    "discountedPrice": 809.16,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 3,
+    "subcategoryName": "Tablets",
+    "inStock": true,
+    "stockCount": 106,
+    "imageUrl": "/11_1",
+    "specs": "{\"display\": \"8.0-inch LCD, 1920x1200, 60Hz\", \"processor\": \"NovaSil Solis G99\", \"ram\": \"4 GB LPDDR4X\", \"storage\": \"64 GB eMMC\", \"battery\": \"5000 mAh\", \"os\": \"Nimbus OS 11\", \"connectivity\": \"Wi\u2011Fi 5, Bluetooth 5.0, USB\u2011C\"}",
+    "tags": "[\"electronics\", \"tablets\", \"popular\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

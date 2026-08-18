@@ -1,0 +1,13 @@
+[
+  {
+    "id": 9998,
+    "email": "creator_7912@example.com",
+    "username": "Urban Illusionists",
+    "password": "password123",
+    "avatar": "",
+    "bio": "",
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{past_timestamp}}",
+    "deletedAt": null
+  }
+]

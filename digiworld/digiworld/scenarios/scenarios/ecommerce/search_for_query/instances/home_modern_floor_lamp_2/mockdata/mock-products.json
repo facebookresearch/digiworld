@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "LumiArc Modern LED Floor Lamp",
+    "description": "The LumiArc Modern LED Floor Lamp features a sleek arc design with a brushed gold metal pole and a matte white drum shade. Built-in dimmable LED bulb (12W, equivalent to 80W) with 3 color temperature settings: warm white (2700K), neutral (4000K), and cool daylight (6000K). Weighted marble base for stability. Perfect for living rooms, bedrooms, and offices.",
+    "shortDescription": "Modern arc LED floor lamp with dimmable 12W bulb, 3 color temperatures and marble base.",
+    "rating": 4.5,
+    "reviewCount": 48,
+    "seller": "LumiArc Lighting",
+    "price": 3499.00,
+    "discountedPrice": 2974.15,
+    "discountPercent": 15,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 24,
+    "subcategoryName": "Lighting",
+    "inStock": true,
+    "stockCount": 25,
+    "imageUrl": "/24_1",
+    "specs": "{\"bulb\": \"12W LED (80W equivalent)\", \"color_temp\": \"2700K / 4000K / 6000K\", \"dimmable\": \"Yes, 3 levels\", \"height\": \"165 cm\", \"shade\": \"Matte white drum shade\", \"base\": \"Weighted marble base\"}",
+    "tags": "[\"floor lamp\", \"modern\", \"led\", \"lighting\", \"home\", \"dimmable\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

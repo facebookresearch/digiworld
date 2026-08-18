@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "John Driver",
+    "vehicleName": "Toyota Camry",
+    "vehicleNumber": "ABC1234",
+    "vehicleType": "Sedan",
+    "rideOptionId": 1,
+    "rating": 4.8,
+    "profilePicture": "john_driver.png"
+  },
+  {
+    "id": 2,
+    "name": "Sara Wheels",
+    "vehicleName": "Honda CRV",
+    "vehicleNumber": "XYZ5678",
+    "vehicleType": "SUV",
+    "rideOptionId": 2,
+    "rating": 4.6,
+    "profilePicture": "sara_wheels.png"
+  },
+  {
+    "id": 3,
+    "name": "Mike Van",
+    "vehicleName": "Dodge Caravan",
+    "vehicleNumber": "VAN4321",
+    "vehicleType": "Mini Van",
+    "rideOptionId": 3,
+    "rating": 4.7,
+    "profilePicture": "mike_van.png"
+  }
+] 

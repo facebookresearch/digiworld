@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754710124,
+    "title": "Abstract Midnight Skyline Oil Painting \u2013 Signed by the Artist",
+    "description": "A striking oil composition of a cityscape at midnight, this piece bears the artist\u2019s signature on the lower corner and arrives in a protective frame.",
+    "categoryId": 9,
+    "sellerId": 2,
+    "price": 310.96,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/abstract-midnight-skyline-oil-painting-\u2013-signed-by-the-artist.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

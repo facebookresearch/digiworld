@@ -1,0 +1,8 @@
+{
+  "task_name": "What's the age group for the <item> game?",
+  "app_name": "ecommerce",
+  "scenario_class": "GameAgeGroupScenario",
+  "parameters": ["item"],
+  "context_fields": [],
+  "description": "Retrieve the age group for a game product"
+}

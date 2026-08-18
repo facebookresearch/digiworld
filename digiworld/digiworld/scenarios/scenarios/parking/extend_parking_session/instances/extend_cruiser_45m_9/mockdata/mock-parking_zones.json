@@ -1,0 +1,19 @@
+[
+  {
+    "id": 99810,
+    "name": "Event Hall",
+    "description": "Parking zone EVH45",
+    "latitude": 40.72422,
+    "longitude": -73.974142,
+    "zoneCode": "EVH45",
+    "operator": "City Parking Authority",
+    "zoneType": "underground",
+    "capacity": 130,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.21,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

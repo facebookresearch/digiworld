@@ -1,0 +1,9 @@
+{
+    "task_name": "Remove the third latest added contact from the group chat \"<group_name>\"",
+    "app_name": "message",
+    "scenario_class": "RemoveFromGroupScenario",
+    "parameters": ["group_name"],
+    "context_fields": [],
+    "description": "Remove the third latest added contact from a group chat",
+    "additional_mockdata": true
+}

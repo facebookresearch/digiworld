@@ -1,0 +1,12 @@
+{
+  "task_name": "<question> the <room_name> room?",
+  "app_name": "smarthome",
+  "scenario_class": "RoomInfoQueryScenario",
+  "parameters": [
+    "question",
+    "room_name"
+  ],
+  "context_fields": [],
+  "description": "Query information about a specific room such as device count or floor number",
+  "additional_mockdata": true
+}

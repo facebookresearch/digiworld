@@ -1,0 +1,8 @@
+{
+  "task_name": "What are the dimensions of the <item> automotive item?",
+  "app_name": "ecommerce",
+  "scenario_class": "AutomotiveDimensionsScenario",
+  "parameters": ["item"],
+  "context_fields": [],
+  "description": "Retrieve the dimensions of an automotive product"
+}

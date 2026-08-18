@@ -1,0 +1,8 @@
+{
+  "task_name": "What is the support <info_type> for the Ryde app?",
+  "app_name": "ryde",
+  "scenario_class": "SupportContactInfoScenario",
+  "parameters": ["info_type"],
+  "context_fields": [],
+  "description": "Look up the support contact information for the Ryde app"
+}

@@ -1,0 +1,8 @@
+{
+  "app_name": "smarthome",
+  "apk_name": "com.andojosmarthome.sbx",
+  "bundle_id": "com.andojosmarthome.sbx",
+  "database_doc_path": "../../../../../apps/smarthome/src/docs/database.md",
+  "feature_scope_path": "../../../../../apps/smarthome/src/docs/feature-scope-smarthome.md"
+}
+

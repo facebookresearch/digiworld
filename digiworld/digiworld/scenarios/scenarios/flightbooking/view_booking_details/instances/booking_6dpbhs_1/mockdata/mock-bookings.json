@@ -1,0 +1,50 @@
+[
+  {
+    "booking_id": "BK-TEST-6DPBHS",
+    "booking_reference": "6DPBHS",
+    "user_id": "{{current_user_id}}",
+    "trip_type": "one_way",
+    "booking_date": "{{end_timestamp}}",
+    "status": "confirmed",
+    "payment_status": "paid",
+    "total_price": 1249.27,
+    "currency": "USD",
+    "flights": [
+      {
+        "flight_id": "QF2584_2025-11-10",
+        "airline_code": "QF",
+        "flight_number": "QF2584",
+        "origin": "SYD",
+        "destination": "LAX",
+        "departure_time": "2025-11-10T16:30:00Z",
+        "arrival_time": "2025-11-10T21:33:00Z",
+        "duration_minutes": 303,
+        "fare": 1249.27,
+        "segment": "outbound",
+        "status": "confirmed"
+      }
+    ],
+    "passengers": [
+      {
+        "passenger_id": "P-TEST-649",
+        "first_name": "Test",
+        "last_name": "Traveler",
+        "email": "test.traveler@example.com",
+        "phone": "+1-555-0199",
+        "date_of_birth": "1990-05-15",
+        "passport_number": "X26753883",
+        "seat_assignments": [
+          {
+            "flight_id": "QF2584_2025-11-10",
+            "seat_number": "30D",
+            "check_in_status": "not_checked_in",
+            "check_in_time": null
+          }
+        ],
+        "ticket_number": "TK-TEST-180"
+      }
+    ],
+    "created_at": "{{end_timestamp}}",
+    "updated_at": "{{end_timestamp}}"
+  }
+]

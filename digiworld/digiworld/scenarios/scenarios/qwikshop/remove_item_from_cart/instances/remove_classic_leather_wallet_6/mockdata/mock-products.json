@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9906,
+    "name": "Classic Leather Wallet",
+    "description": "Hand\u2011stitched genuine leather wallet with RFID blocking and multiple card slots.",
+    "shortDescription": "Leather wallet",
+    "price": 60.08,
+    "discountedPrice": 54.07,
+    "discountPercent": 10,
+    "rating": 4.2,
+    "reviewCount": 97,
+    "seller": "UrbanCraft",
+    "categoryName": "Clothing",
+    "subcategoryName": "Accessories",
+    "inStock": 1,
+    "stockCount": 146,
+    "imageUrl": "/product_5010",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

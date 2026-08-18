@@ -1,0 +1,24 @@
+[
+  {
+    "id": 9900,
+    "name": "Wireless Earbuds",
+    "description": "Experience true wireless freedom with our earbuds, featuring long battery life and crystal-clear sound.",
+    "shortDescription": "Wireless Audio",
+    "price": 370.87,
+    "discountedPrice": 296.7,
+    "discountPercent": 20,
+    "rating": 3.5,
+    "reviewCount": 318,
+    "seller": "TechZone",
+    "categoryId": 9027,
+    "categoryName": "Electronics",
+    "subcategoryId": 9574,
+    "subcategoryName": "Headphones",
+    "inStock": 1,
+    "stockCount": 60,
+    "imageUrl": "/product_9928",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

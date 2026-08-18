@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Straight Leg Stretch Denim Jeans",
+    "description": "Straight leg stretch denim jeans with classic five-pocket styling. Constructed from a cotton-spandex blend for comfort and shape retention throughout the day.",
+    "shortDescription": "Straight leg stretch denim jeans with classic five-pocket design.",
+    "rating": 3.0,
+    "reviewCount": 5,
+    "seller": "Denim Heritage Co.",
+    "price": 274.68,
+    "discountedPrice": 274.68,
+    "discountPercent": 0,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 11,
+    "subcategoryName": "Jeans",
+    "inStock": true,
+    "stockCount": 101,
+    "imageUrl": "/41_1",
+    "specs": "{\"material\": \"99% cotton, 1% elastane denim\", \"careInstructions\": \"Machine wash cold, tumble dry low, do not bleach\", \"fit\": \"Straight leg\", \"size\": \"28-38 waist\", \"color\": \"Mid blue wash\", \"pattern\": \"Solid denim\"}",
+    "tags": "[\"clothing\", \"jeans\", \"top-rated\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

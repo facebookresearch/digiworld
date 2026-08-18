@@ -1,0 +1,8 @@
+{
+  "task_name": "Show me the \"About this item\" information for the <item> item",
+  "app_name": "ecommerce",
+  "scenario_class": "HomeKitchenAboutItemScenario",
+  "parameters": ["item"],
+  "context_fields": [],
+  "description": "Retrieve the product description for a Home & Kitchen item"
+}

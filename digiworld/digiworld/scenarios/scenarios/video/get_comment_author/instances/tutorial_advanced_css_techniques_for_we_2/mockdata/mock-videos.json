@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 1,
+    "categoryId": 3,
+    "title": "Advanced CSS Techniques for Web Designers",
+    "description": "Take your web design skills to the next level with these advanced CSS techniques. Learn how to create stunning animations and layouts.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 3232,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 9028,
+    "likeCount": 58,
+    "commentCount": 2,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "app_name": "ecommerce",
+  "apk_name": "com.andojoshop.sbx",
+  "database_name": "default.db",
+  "home_route": "/(app)/(drawer)/(tabs)/home",
+  "routes": [
+    {
+      "id": "home",
+      "route": "/(app)/(drawer)/(tabs)/home",
+      "screen_name": "home",
+      "description": "Home screen with product listings",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "categories",
+      "route": "/(app)/(drawer)/(tabs)/categories",
+      "screen_name": "categories",
+      "description": "Product categories view",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "cart",
+      "route": "/(app)/(drawer)/(tabs)/cart",
+      "screen_name": "cart",
+      "description": "Shopping cart view",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "profile",
+      "route": "/(app)/(drawer)/(tabs)/profile",
+      "screen_name": "profile",
+      "description": "User profile view",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "search",
+      "route": "/(app)/search",
+      "screen_name": "search",
+      "description": "Product search screen",
+      "back_route": "/(app)/(drawer)/(tabs)/home",
+      "context_variations": []
+    },
+    {
+      "id": "orders",
+      "route": "/screens/orders",
+      "screen_name": "orders",
+      "description": "Order history list",
+      "back_route": "/(app)/(drawer)/(tabs)/home",
+      "context_variations": []
+    }
+  ]
+}

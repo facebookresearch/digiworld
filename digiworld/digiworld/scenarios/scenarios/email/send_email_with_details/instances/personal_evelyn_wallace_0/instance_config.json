@@ -1,0 +1,29 @@
+{
+  "parameters": {
+    "recipient_email": "evelyn.wallace@example.com",
+    "email_subject": "Weekend Plans",
+    "email_body": "Hi, just checking in about our plans for the weekend. Let me know if you're free to grab brunch on Sunday. I've been craving pancakes all week."
+  },
+  "compatible_profiles": [
+    "50_inbox_emails",
+    "5_inbox_emails",
+    "all_drafts",
+    "default",
+    "empty_inbox",
+    "mixed",
+    "personal",
+    "spam_heavy",
+    "starred_important",
+    "work_related"
+  ],
+  "metadata": {
+    "created_at": "2026-03-02T02:10:28.504473+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

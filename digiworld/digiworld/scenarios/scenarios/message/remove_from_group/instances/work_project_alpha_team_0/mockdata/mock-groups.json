@@ -1,0 +1,12 @@
+[
+  {
+    "id": "injected-group-001",
+    "name": "Project Alpha Team",
+    "description": "Team coordination and project updates.",
+    "avatarUrl": null,
+    "createdBy": "{{current_user_id}}",
+    "createdAt": "{{recent_message_time}}",
+    "isActive": 1,
+    "deletedBy": null
+  }
+]

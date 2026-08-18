@@ -1,0 +1,48 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Astra Hybrid Smartwatch",
+    "description": "Astra Hybrid Smartwatch combines a traditional watch face with a hidden digital display. Offers heart\u2011rate monitoring, sleep analysis, and Bluetooth call alerts. Stainless\u2011steel case with interchangeable straps. Battery provides up to 12 days of typical use.",
+    "shortDescription": "Hybrid smart watch with discreet digital notifications and long battery life.",
+    "rating": 4.0,
+    "reviewCount": 3,
+    "seller": "ChronoTech Traders",
+    "price": 1000.0,
+    "discountedPrice": 690.0,
+    "discountPercent": 31,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 6,
+    "subcategoryName": "Smartwatches",
+    "inStock": true,
+    "stockCount": 88,
+    "imageUrl": "/23_1",
+    "specs": "{\"display\": \"1.5-inch AMOLED, 480x480\", \"processor\": \"Exonar 9110\", \"ram\": \"2 GB LPDDR4X\", \"storage\": \"16 GB\", \"battery\": \"420 mAh\", \"os\": \"Tizen\", \"connectivity\": \"Bluetooth 5.2, Wi-Fi, NFC, GPS\"}",
+    "tags": "[\"smartwatches\", \"electronics\", \"high-quality\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000",
+    "reviews": [
+      {
+        "userName": "Reviewer",
+        "rating": 5,
+        "title": "Sleek Design, Powerful Hybrid Features",
+        "comment": "The Astra Hybrid Smartwatch looks great on my wrist with its classic analog face and subtle digital indicators. I love the seamless notifications for calls and messages without pulling out my phone. The fitness tracking, especially heart\u2011rate monitoring, feels accurate and motivates my daily workouts.",
+        "reviewDate": "2025-06-15T10:00:00.000Z"
+      },
+      {
+        "userName": "Reviewer",
+        "rating": 5,
+        "title": "All-Day Battery and Accurate Tracking",
+        "comment": "Battery life truly lives up to the claim\u2014I've gone almost a week without charging, even with frequent use of GPS and heart\u2011rate monitoring. The watch is water\u2011resistant, so I can wear it while swimming and it still records my laps perfectly. Setup was straightforward, and the app provides clear sleep and activity summaries.",
+        "reviewDate": "2025-06-15T10:00:00.000Z"
+      },
+      {
+        "userName": "Reviewer",
+        "rating": 2,
+        "title": "Disappointed by Inconsistent Syncing",
+        "comment": "I keep running into sync problems; the watch often fails to update my steps and heart\u2011rate data in the companion app. The limited app integration makes it frustrating to get a complete picture of my health, and I expected more reliability for the price.",
+        "reviewDate": "2025-06-15T10:00:00.000Z"
+      }
+    ]
+  }
+]

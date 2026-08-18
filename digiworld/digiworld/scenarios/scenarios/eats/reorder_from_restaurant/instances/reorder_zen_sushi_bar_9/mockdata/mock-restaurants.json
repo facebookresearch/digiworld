@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Zen Sushi Bar",
+    "description": "Offers a signature dragon roll with tempura shrimp and avocado.",
+    "address": "333 Walnut Street, Denver, CO 80202",
+    "latitude": 39.7392,
+    "longitude": -104.9903,
+    "logo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.4,
+    "deliveryFee": 4.65,
+    "minOrder": 20.0,
+    "deliveryRadius": 12,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

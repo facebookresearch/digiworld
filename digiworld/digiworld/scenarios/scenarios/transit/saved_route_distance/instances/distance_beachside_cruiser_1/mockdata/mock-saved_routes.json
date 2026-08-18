@@ -1,0 +1,14 @@
+[
+  {
+    "id": "saved-beachside-cruiser",
+    "userId": 1,
+    "name": "Beachside Cruiser",
+    "originStopId": "stop-4",
+    "destinationStopId": "stop-9",
+    "preferredMode": "bus",
+    "remindersEnabled": true,
+    "departureReminderMinutes": 30,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

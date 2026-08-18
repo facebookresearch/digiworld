@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Stainless Steel 1\u2011Liter Immersion Blender",
+    "description": "Blend smoothies, soups, and sauces in seconds with this 1\u2011liter stainless steel immersion blender. The variable speed dial provides precise control, and the ergonomic grip reduces hand fatigue. The detachable stainless steel shaft is easy to clean and compatible with most pots and bowls.",
+    "shortDescription": "Stainless steel 1\u2011liter immersion blender for smoothies and soups.",
+    "rating": 3.8,
+    "reviewCount": 5,
+    "seller": "BlendMaster Appliances",
+    "price": 950.55,
+    "discountedPrice": 712.91,
+    "discountPercent": 25,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 18,
+    "subcategoryName": "Small Appliances",
+    "inStock": true,
+    "stockCount": 173,
+    "imageUrl": "/70_1",
+    "specs": "{\"material\": \"Stainless steel shaft, plastic housing\", \"dimensions\": \"15 x 2.5 x 2.5 inches\", \"weight\": \"1.2 lbs\", \"warranty\": \"2-year\", \"color\": \"Stainless steel\", \"careInstructions\": \"Detach shaft; wash in dishwasher; dry\"}",
+    "tags": "[\"kitchen\", \"small\", \"home\", \"appliances\", \"high-quality\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

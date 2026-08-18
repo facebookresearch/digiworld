@@ -1,0 +1,19 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Harbor Lot",
+    "description": "Parking zone HLB34",
+    "latitude": 40.736189,
+    "longitude": -73.99287,
+    "zoneCode": "HLB34",
+    "operator": "City Parking Authority",
+    "zoneType": "lot",
+    "capacity": 228,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.42,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

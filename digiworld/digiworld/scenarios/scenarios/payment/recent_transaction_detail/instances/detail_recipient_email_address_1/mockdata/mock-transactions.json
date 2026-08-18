@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "senderWalletId": 99001,
+    "receiverWalletId": 99002,
+    "amount": 25.57,
+    "currency": "USD",
+    "status": "completed",
+    "type": "transfer",
+    "pinVerified": 1,
+    "pinVerifiedAt": "{{recent_timestamp}}",
+    "reference": "txn_mock_99002",
+    "description": "Payment transfer",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

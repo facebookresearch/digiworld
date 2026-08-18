@@ -1,0 +1,35 @@
+{
+  "parameters": {
+    "street": "2500 Walnut St",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19103",
+    "country": "United States",
+    "firstName": "Ethan",
+    "lastName": "Wilson",
+    "phone": "6175550222"
+  },
+  "compatible_profiles": [
+    "bulk_quantity",
+    "default",
+    "empty_cart",
+    "full_cart",
+    "heavy_discounts",
+    "high_order_volume",
+    "large_orders",
+    "low_stock",
+    "new_user",
+    "power_shopper",
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:29.290389+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

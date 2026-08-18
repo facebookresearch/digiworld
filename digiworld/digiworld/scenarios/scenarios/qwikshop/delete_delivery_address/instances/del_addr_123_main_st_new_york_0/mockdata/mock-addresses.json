@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Emily Chen",
+    "street": "123 Main St",
+    "city": "New York",
+    "state": "NY",
+    "pincode": "10001",
+    "phone": "2121234567",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

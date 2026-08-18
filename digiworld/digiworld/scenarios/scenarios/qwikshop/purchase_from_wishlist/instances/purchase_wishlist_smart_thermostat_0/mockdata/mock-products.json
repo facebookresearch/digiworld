@@ -1,0 +1,24 @@
+[
+  {
+    "id": 9900,
+    "name": "Smart Thermostat",
+    "description": "This smart thermostat learns your schedule and preferences to optimize your home's temperature, saving you energy and money. It is compatible with most heating and cooling systems.",
+    "shortDescription": "Intelligent temperature control for your home.",
+    "price": 27.13,
+    "discountedPrice": 27.13,
+    "discountPercent": 0,
+    "rating": 3.6,
+    "reviewCount": 124,
+    "seller": "SmartHome Inc.",
+    "categoryId": 9142,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 9754,
+    "subcategoryName": "Small Appliances",
+    "inStock": 1,
+    "stockCount": 36,
+    "imageUrl": "/product_9935",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]
