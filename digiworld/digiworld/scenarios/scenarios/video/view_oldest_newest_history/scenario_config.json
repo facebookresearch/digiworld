@@ -1,0 +1,10 @@
+{
+  "task_name": "I want to see the <order> video in my watch history",
+  "app_name": "video",
+  "scenario_class": "ViewOldestNewestHistoryScenario",
+  "parameters": [
+    "order"
+  ],
+  "context_fields": [],
+  "description": "Navigate to and play the oldest or newest video from watch history"
+}

@@ -1,0 +1,29 @@
+{
+  "parameters": {
+    "device_name": "Living Room Switch",
+    "energy_monitoring": "disable",
+    "scheduling": "enable"
+  },
+  "compatible_profiles": [
+    "default",
+    "high_priority_alerts",
+    "large_home",
+    "many_automations",
+    "many_devices",
+    "new_user",
+    "offline_devices",
+    "security_focused",
+    "unread_notifications",
+    "weak_signal"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:25.006211+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

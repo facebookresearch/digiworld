@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Liam Brown",
+    "street": "456 Elm St Apt 101",
+    "city": "Los Angeles",
+    "state": "CA",
+    "pincode": "90001",
+    "phone": "9876543210",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

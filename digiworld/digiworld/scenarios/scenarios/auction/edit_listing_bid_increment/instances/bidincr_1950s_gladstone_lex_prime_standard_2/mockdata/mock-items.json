@@ -1,0 +1,22 @@
+[
+  {
+    "id": 182550031,
+    "title": "1950s Gladstone Lex Prime Standard Electric Guitar",
+    "description": "A rare 1950s Gladstone Lex Prime Standard electric guitar, fully restored to its original glory, with a rich tone and playability.",
+    "categoryId": 3,
+    "sellerId": "{{current_user_id}}",
+    "price": 517.12,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 7,
+    "imageUrl": "https://example.com/images/1950s-gibson-les-paul-standard-electric-guitar.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 255.96,
+    "currentBid": 367.55,
+    "bidIncrement": 5.0,
+    "endTime": 1773281255,
+    "expired": 0
+  }
+]

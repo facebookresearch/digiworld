@@ -1,0 +1,19 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Late Night Lounge",
+    "description": "A playlist called Late Night Lounge",
+    "userId": "{{current_user_id}}",
+    "categories": [],
+    "coverArt": "playlists/playlist_default.jpg",
+    "songIds": [
+      1,
+      5,
+      10,
+      15,
+      20
+    ],
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

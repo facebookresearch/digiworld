@@ -1,0 +1,9 @@
+{
+  "task_name": "Change the app to dark mode, then add \"<quantity>\" of \"<item>\" to cart",
+  "app_name": "qwikshop",
+  "scenario_class": "DarkModeAndAddToCartScenario",
+  "parameters": ["quantity", "item"],
+  "context_fields": [],
+  "description": "Toggle dark mode on, then add a product to the shopping cart.",
+  "additional_mockdata": true
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Winter Traction Tire 195/65R15",
+    "description": "Winter traction tire designed for cold climates, with deep siped tread blocks to bite into snow and ice. The rubber compound remains flexible at low temperatures, providing reliable grip on slippery surfaces. Fits compact cars with a 195/65R15 dimension.",
+    "shortDescription": "Winter traction tire with deep siped tread.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "WinterTraction Supply",
+    "price": 259.22,
+    "discountedPrice": 233.3,
+    "discountPercent": 10,
+    "categoryId": 8,
+    "categoryName": "Automotive",
+    "subcategoryId": 58,
+    "subcategoryName": "Tires & Wheels",
+    "inStock": true,
+    "stockCount": 152,
+    "imageUrl": "/232_1",
+    "specs": "{\"material\": \"winter compound rubber with 3D sipes\", \"compatibility\": \"15\\\" wheels, compact cars\", \"dimensions\": \"195/65R15 88T\", \"weight\": \"9.0 kg\", \"warranty\": \"6 years treadwear\", \"madeIn\": \"Canada\"}",
+    "tags": "[\"automotive\", \"tires\", \"wheels\", \"best\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

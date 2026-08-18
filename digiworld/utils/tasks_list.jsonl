@@ -1,0 +1,88 @@
+{"app_name": "auction", "scenario_name": "View My Bids", "instance": null}
+{"app_name": "auction", "scenario_name": "View details of item <item_title>", "instance": "art_original_hand_painted_abstract_1"}
+{"app_name": "auction", "scenario_name": "View details of item <item_title>", "instance": "electronics_pristine_4k_ultra_hd_smart_tv_0"}
+{"app_name": "auction", "scenario_name": "View details of item <item_title>", "instance": "vintage_mid_century_modern_walnut_writ_2"}
+{"app_name": "banking", "scenario_name": "View My Transactions", "instance": null}
+{"app_name": "banking", "scenario_name": "View details of transaction <transaction_description>", "instance": "deposit_direct_deposit___acme_corp_sal_1"}
+{"app_name": "banking", "scenario_name": "View details of transaction <transaction_description>", "instance": "transfer_online_transfer_to_savings_acc_2"}
+{"app_name": "banking", "scenario_name": "View details of transaction <transaction_description>", "instance": "withdrawal_atm_cash_withdrawal___downtown_0"}
+{"app_name": "eats", "scenario_name": "Add a new address <address_line1> <address_line2> <city> <state> <postcode> <country> and label it as <label>", "instance": "home_seattle_1"}
+{"app_name": "eats", "scenario_name": "Add a new address <address_line1> <address_line2> <city> <state> <postcode> <country> and label it as <label>", "instance": "office_austin_0"}
+{"app_name": "eats", "scenario_name": "Add a new address <address_line1> <address_line2> <city> <state> <postcode> <country> and label it as <label>", "instance": "other_miami_2"}
+{"app_name": "eats", "scenario_name": "Search for <query>", "instance": "cuisines_mexican_1"}
+{"app_name": "eats", "scenario_name": "Search for <query>", "instance": "food_items_pizza_0"}
+{"app_name": "eats", "scenario_name": "Search for <query>", "instance": "meal_types_brunch_2"}
+{"app_name": "eats", "scenario_name": "Show information about the last order", "instance": null}
+{"app_name": "ecommerce", "scenario_name": "Add <first_name> <last_name>, <address_line_1>, <city>, <state> <postal_code>, <country>, <phone_number> as a new saved address", "instance": "addr_austin_1"}
+{"app_name": "ecommerce", "scenario_name": "Add <first_name> <last_name>, <address_line_1>, <city>, <state> <postal_code>, <country>, <phone_number> as a new saved address", "instance": "addr_boston_2"}
+{"app_name": "ecommerce", "scenario_name": "Add <first_name> <last_name>, <address_line_1>, <city>, <state> <postal_code>, <country>, <phone_number> as a new saved address", "instance": "addr_seattle_0"}
+{"app_name": "ecommerce", "scenario_name": "Empty the cart", "instance": null}
+{"app_name": "ecommerce", "scenario_name": "Search for <query>", "instance": "fashion_silk_midi_dress_0"}
+{"app_name": "ecommerce", "scenario_name": "Search for <query>", "instance": "grocery_gluten_free_pasta_1"}
+{"app_name": "ecommerce", "scenario_name": "Search for <query>", "instance": "home_bamboo_cutting_board_2"}
+{"app_name": "email", "scenario_name": "Create a draft email with subject <subject>", "instance": "personal_catching_up_over_coffee_this_w_0"}
+{"app_name": "email", "scenario_name": "Create a draft email with subject <subject>", "instance": "work_action_required_update_to_the_2"}
+{"app_name": "email", "scenario_name": "Create a draft email with subject <subject>", "instance": "work_q3_sales_forecast_review__mee_1"}
+{"app_name": "email", "scenario_name": "Delete the email with subject <subject>", "instance": "personal_catching_up_over_coffee_this_w_1"}
+{"app_name": "email", "scenario_name": "Delete the email with subject <subject>", "instance": "promotional_introducing_our_new_ai_powered_2"}
+{"app_name": "email", "scenario_name": "Delete the email with subject <subject>", "instance": "promotional_summer_sale_up_to_50_off_all_0"}
+{"app_name": "email", "scenario_name": "Open the email with subject <subject>", "instance": "personal_catching_up_over_coffee_next_w_1"}
+{"app_name": "email", "scenario_name": "Open the email with subject <subject>", "instance": "promotional_introducing_our_new_loyalty_pr_2"}
+{"app_name": "email", "scenario_name": "Open the email with subject <subject>", "instance": "promotional_unlock_20_off_your_next_purch_0"}
+{"app_name": "email", "scenario_name": "Send any email to <email>", "instance": "personal_aishapatelgmailcom_0"}
+{"app_name": "email", "scenario_name": "Send any email to <email>", "instance": "work_liamoconnorbrightfutureio_1"}
+{"app_name": "email", "scenario_name": "Send any email to <email>", "instance": "work_yukitanakakawasaki_electroni_2"}
+{"app_name": "flightbooking", "scenario_name": "View My Bookings", "instance": null}
+{"app_name": "flightbooking", "scenario_name": "View details of booking <booking_reference>", "instance": "booking_6dpbhs_1"}
+{"app_name": "flightbooking", "scenario_name": "View details of booking <booking_reference>", "instance": "booking_ahxthv_2"}
+{"app_name": "flightbooking", "scenario_name": "View details of booking <booking_reference>", "instance": "booking_xaji0y_0"}
+{"app_name": "message", "scenario_name": "Send a message to <contact_name>", "instance": "family_aisha_patel_0"}
+{"app_name": "message", "scenario_name": "Send a message to <contact_name>", "instance": "friends_michael_oconnor_1"}
+{"app_name": "message", "scenario_name": "Send a message to <contact_name>", "instance": "work_linh_nguyen_2"}
+{"app_name": "music", "scenario_name": "Create a new playlist called <name>", "instance": "activity_neon_sprint_groove_1"}
+{"app_name": "music", "scenario_name": "Create a new playlist called <name>", "instance": "mood_velvet_sunset_reverie_0"}
+{"app_name": "music", "scenario_name": "Create a new playlist called <name>", "instance": "temporal_midnight_echoes_dawn_2"}
+{"app_name": "music", "scenario_name": "Open Terms and Conditions", "instance": null}
+{"app_name": "music", "scenario_name": "Open any song and pause it at timestamp <seconds> seconds", "instance": "pause_30s_0"}
+{"app_name": "music", "scenario_name": "Open any song and pause it at timestamp <seconds> seconds", "instance": "pause_45s_1"}
+{"app_name": "music", "scenario_name": "Open any song and pause it at timestamp <seconds> seconds", "instance": "pause_60s_2"}
+{"app_name": "parking", "scenario_name": "Delete the vehicle with plate <plate_number>", "instance": "vehicle_blu3r_0"}
+{"app_name": "parking", "scenario_name": "Delete the vehicle with plate <plate_number>", "instance": "vehicle_eco123_2"}
+{"app_name": "parking", "scenario_name": "Delete the vehicle with plate <plate_number>", "instance": "vehicle_sunset_1"}
+{"app_name": "parking", "scenario_name": "View My Vehicles", "instance": null}
+{"app_name": "payment", "scenario_name": "Change PIN to <pin>", "instance": "pin_2749_0"}
+{"app_name": "payment", "scenario_name": "Change PIN to <pin>", "instance": "pin_4062_2"}
+{"app_name": "payment", "scenario_name": "Change PIN to <pin>", "instance": "pin_5831_1"}
+{"app_name": "payment", "scenario_name": "Open the QR code to receive a payment", "instance": null}
+{"app_name": "payment", "scenario_name": "Send $<amount> to <nickname>", "instance": "family_mom_0"}
+{"app_name": "payment", "scenario_name": "Send $<amount> to <nickname>", "instance": "friends_bestie_1"}
+{"app_name": "payment", "scenario_name": "Send $<amount> to <nickname>", "instance": "work_boss_2"}
+{"app_name": "payment", "scenario_name": "Set a daily transaction limit of <amount>", "instance": "daily_large_3800_2"}
+{"app_name": "payment", "scenario_name": "Set a daily transaction limit of <amount>", "instance": "daily_medium_550_0"}
+{"app_name": "payment", "scenario_name": "Set a daily transaction limit of <amount>", "instance": "daily_small_200_1"}
+{"app_name": "payment", "scenario_name": "Set a monthly transaction limit of <amount>", "instance": "monthly_large_113600_2"}
+{"app_name": "payment", "scenario_name": "Set a monthly transaction limit of <amount>", "instance": "monthly_medium_16100_0"}
+{"app_name": "payment", "scenario_name": "Set a monthly transaction limit of <amount>", "instance": "monthly_small_6300_1"}
+{"app_name": "payment", "scenario_name": "View transaction history", "instance": null}
+{"app_name": "qwikshop", "scenario_name": "View My Orders", "instance": null}
+{"app_name": "qwikshop", "scenario_name": "View details of order <order_number>", "instance": "order_ord_126225_2"}
+{"app_name": "qwikshop", "scenario_name": "View details of order <order_number>", "instance": "order_ord_216739_1"}
+{"app_name": "qwikshop", "scenario_name": "View details of order <order_number>", "instance": "order_ord_770487_0"}
+{"app_name": "ryde", "scenario_name": "Book a ride from <origin> to <destination> with a <car_type> with any payment method", "instance": "ride_comfort_97_attorney_streetmanhattan_0"}
+{"app_name": "ryde", "scenario_name": "Book a ride from <origin> to <destination> with a <car_type> with any payment method", "instance": "ride_premium_408_east_13th_street__manhat_2"}
+{"app_name": "ryde", "scenario_name": "Book a ride from <origin> to <destination> with a <car_type> with any payment method", "instance": "ride_xl_santo_domingo_bakery__coffee_1"}
+{"app_name": "ryde", "scenario_name": "Book any ride from <origin> to <destination>", "instance": "ride_42nd_street_bryant_park_west_35_grand_street_hudson_squar_1"}
+{"app_name": "ryde", "scenario_name": "Book any ride from <origin> to <destination>", "instance": "ride_97_attorney_streetmanhattan_santo_domingo_bakery__coffee_0"}
+{"app_name": "ryde", "scenario_name": "Book any ride from <origin> to <destination>", "instance": "ride_xian_famous_foods_96_8th_av_cellar_dog_75_christopher_st_2"}
+{"app_name": "ryde", "scenario_name": "Open Terms of Use", "instance": null}
+{"app_name": "ryde", "scenario_name": "Show information about the last completed ride", "instance": null}
+{"app_name": "smarthome", "scenario_name": "Turn on <device_name>", "instance": "bedroom_speaker_0"}
+{"app_name": "smarthome", "scenario_name": "Turn on <device_name>", "instance": "driveway_camera_0"}
+{"app_name": "smarthome", "scenario_name": "Turn on <device_name>", "instance": "living_room_fan_0"}
+{"app_name": "transit", "scenario_name": "Delete the saved route <route_name>", "instance": "route_lakeside_sprint_2"}
+{"app_name": "transit", "scenario_name": "Delete the saved route <route_name>", "instance": "route_midtown_glide_1"}
+{"app_name": "transit", "scenario_name": "Delete the saved route <route_name>", "instance": "route_riverfront_voyager_0"}
+{"app_name": "transit", "scenario_name": "View Saved Routes", "instance": null}
+{"app_name": "video", "scenario_name": "Open the video with title <title>", "instance": "entertainment_top_5_weird_food_challenges_1"}
+{"app_name": "video", "scenario_name": "Open the video with title <title>", "instance": "tutorial_master_photoshop_layers_in_10_0"}
+{"app_name": "video", "scenario_name": "Open the video with title <title>", "instance": "vlog_a_day_exploring_kyotos_hidden_2"}

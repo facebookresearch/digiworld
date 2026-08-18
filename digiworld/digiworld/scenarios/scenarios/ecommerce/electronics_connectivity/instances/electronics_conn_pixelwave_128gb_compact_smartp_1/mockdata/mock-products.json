@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "PixelWave 128GB Compact Smartphone",
+    "description": "PixelWave combines a sleek 5.8-inch AMOLED screen with a compact form factor for easy one-hand use. The device runs on a NovaSil Dimensia 920 chipset, paired with 6GB RAM and 128GB storage. Its dual-lens 48MP main camera delivers sharp images, and a 4200mAh battery ensures a full day of browsing.",
+    "shortDescription": "Compact smartphone featuring a vibrant AMOLED screen and solid performance.",
+    "rating": 3.0,
+    "reviewCount": 5,
+    "seller": "Urban Mobile Hub",
+    "price": 1308.15,
+    "discountedPrice": 954.95,
+    "discountPercent": 27,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 1,
+    "subcategoryName": "Smartphones",
+    "inStock": true,
+    "stockCount": 197,
+    "imageUrl": "/2_1",
+    "specs": "{\"display\": \"5.8\\\" AMOLED, 1080x2400, 90Hz\", \"processor\": \"NovaSil Dimensia 8200\", \"ram\": \"8GB LPDDR5\", \"storage\": \"128GB UFS 2.2\", \"battery\": \"4300mAh, 33W fast charge\", \"os\": \"Nimbus OS 13\", \"connectivity\": \"5G, Wi-Fi 6, Bluetooth 5.2, NFC, Single SIM\"}",
+    "tags": "[\"smartphones\", \"electronics\", \"top-rated\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Digital Kitchen Scale with Tare Function",
+    "description": "Accurate digital kitchen scale measures up to 11\u202flb in 0.1\u2011oz increments. The tare function lets you weigh multiple ingredients in the same bowl, and the backlit LCD display is easy to read. Powered by a replaceable battery.",
+    "shortDescription": "Digital kitchen scale with tare function and backlit display.",
+    "rating": 3.0,
+    "reviewCount": 1,
+    "seller": "Precision Weigh Co.",
+    "price": 1034.28,
+    "discountedPrice": 661.94,
+    "discountPercent": 36,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 22,
+    "subcategoryName": "Kitchen Tools",
+    "inStock": true,
+    "stockCount": 141,
+    "imageUrl": "/88_1",
+    "specs": "{\"material\": \"Tempered glass platform with stainless steel sensor\", \"dimensions\": \"7 x 6 x 1.5 in\", \"weight\": \"0.9 lbs\", \"warranty\": \"1\\u2011year limited warranty\", \"color\": \"Clear glass with black base\", \"careInstructions\": \"Wipe platform with damp cloth; keep away from moisture; replace batteries as needed\"}",
+    "tags": "[\"tools\", \"kitchen\", \"home\", \"popular\", \"premium\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

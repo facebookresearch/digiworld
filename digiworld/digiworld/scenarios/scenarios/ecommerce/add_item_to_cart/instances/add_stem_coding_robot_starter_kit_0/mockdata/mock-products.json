@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "STEM Coding Robot Starter Kit",
+    "description": "Introduce children to programming with a block\u2011based coding robot that moves, sings, and displays colors. The kit includes a tablet\u2011compatible app, modular sensor blocks, and a guidebook with age\u2011appropriate challenges for ages 6\u201110. Encourages logical thinking and creativity.",
+    "shortDescription": "A block\u2011coding robot kit that teaches STEM concepts to kids.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Future Minds Learning",
+    "price": 80.3,
+    "discountedPrice": 64.24,
+    "discountPercent": 20,
+    "categoryId": 7,
+    "categoryName": "Toys & Games",
+    "subcategoryId": 55,
+    "subcategoryName": "Educational Toys",
+    "inStock": true,
+    "stockCount": 158,
+    "imageUrl": "/217_1",
+    "specs": "{\"ageRange\": \"8+\", \"material\": \"ABS plastic, electronic components\", \"dimensions\": \"9 x 7 x 5 inches\", \"batteryRequired\": \"Yes (rechargeable lithium-ion battery)\", \"warranty\": \"1 year\", \"safetyRating\": \"CE, FCC\"}",
+    "tags": "[\"educational\", \"games\", \"toys\", \"popular\", \"top-rated\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

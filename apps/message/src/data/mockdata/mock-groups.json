@@ -1,0 +1,42 @@
+[
+  {
+    "id": "group1",
+    "name": "Family Chat",
+    "description": "Our family group for staying connected and sharing updates",
+    "avatarUrl": "data:image/png;base64,RmFtaWx5IENoYXQ=",
+    "createdBy": "1",
+    "createdAt": 1750000000,
+    "isActive": 1,
+    "deletedBy": null
+  },
+  {
+    "id": "group2",
+    "name": "Work Team",
+    "description": "Team collaboration and project updates",
+    "avatarUrl": "data:image/png;base64,V29yayBUZWFt",
+    "createdBy": "4",
+    "createdAt": 1750100000,
+    "isActive": 1,
+    "deletedBy": null
+  },
+  {
+    "id": "group3",
+    "name": "College Friends",
+    "description": "Reconnecting with old college buddies",
+    "avatarUrl": "data:image/png;base64,Q29sbGVnZSBGcmllbmRz",
+    "createdBy": "7",
+    "createdAt": 1750200000,
+    "isActive": 1,
+    "deletedBy": null
+  },
+  {
+    "id": "group4",
+    "name": "Book Club",
+    "description": "Monthly book discussions and recommendations",
+    "avatarUrl": "data:image/png;base64,Qm9vayBDbHVi",
+    "createdBy": "1",
+    "createdAt": 1750300000,
+    "isActive": 1,
+    "deletedBy": null
+  }
+]

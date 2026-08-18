@@ -1,0 +1,10 @@
+{
+  "task_name": "Take me to the first video <feed_name> on my homepage",
+  "app_name": "video",
+  "scenario_class": "NavigateToFirstFeedVideoScenario",
+  "parameters": [
+    "feed_name"
+  ],
+  "context_fields": [],
+  "description": "Navigate to and play the first video in a specific recommendation feed"
+}

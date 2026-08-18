@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "sofia.nguyen@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Introducing Our New AI-Powered Photo Organizer",
+    "preview": "Introducing Our New AI-Powered...",
+    "body": "Dear user, we\u2019re thrilled to roll out a new AI-powered feature that automatically tags and groups your photos by location and people. Try it today and let us know how it improves your photo library experience.",
+    "timestamp": "{{middle_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_target",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

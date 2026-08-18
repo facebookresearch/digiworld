@@ -1,0 +1,8 @@
+{
+    "task_name": "Create a draft email with subject <subject>",
+    "app_name": "email",
+    "scenario_class": "CreateDraftWithSubject",
+    "parameters": ["subject"],
+    "context_fields": [],
+    "description": "Verify that a draft email is created with the specified subject"
+}

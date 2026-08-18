@@ -1,0 +1,10 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "itemId": 754070047,
+    "listPrice": 1519.22,
+    "listDate": "{{recent_timestamp}}",
+    "status": "active"
+  }
+]

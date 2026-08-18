@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Rapid Action Antiseptic Wound Gel",
+    "description": "Rapid Action Antiseptic Wound Gel contains 10% povidone\u2011iodine for quick bacterial reduction on minor cuts, scrapes, and burns. The gel forms a protective barrier while keeping the wound moist to aid healing. Comes in a tamper\u2011evident tube for easy application.",
+    "shortDescription": "Fast\u2011acting antiseptic gel for minor wounds.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "SafeHeal Medical Supplies",
+    "price": 870.37,
+    "discountedPrice": 652.78,
+    "discountPercent": 25,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 65,
+    "subcategoryName": "First Aid",
+    "inStock": true,
+    "stockCount": 150,
+    "imageUrl": "/257_1",
+    "specs": "{\"ingredients\": \"Octenidine Dihydrochloride 0.1%, Aloe Vera Gel, Propylene Glycol, Vitamin E\", \"dosage\": \"Apply thin layer to wound 1-2 times daily\", \"weight\": \"30g tube\", \"expiryPeriod\": \"36 months\", \"madeIn\": \"Germany\", \"certifications\": \"CE Marked, ISO 13485, Dermatologically Tested\"}",
+    "tags": "[\"first\", \"wellness\", \"aid\", \"health\", \"premium\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

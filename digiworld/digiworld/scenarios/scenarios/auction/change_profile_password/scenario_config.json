@@ -1,0 +1,12 @@
+{
+  "task_name": "Change my Profile password to \"<password2>\"",
+  "app_name": "auction",
+  "scenario_class": "ChangeProfilePasswordScenario",
+  "parameters": [
+    "password2"
+  ],
+  "context_fields": [
+    "current_user_password"
+  ],
+  "description": "Verify that the user changes their profile password to the specified password."
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "id": 90001,
+    "restaurantId": 90001,
+    "categoryId": 90001,
+    "name": "Honey Mustard Fried Chicken",
+    "description": "Buttermilk fried chicken pieces served with a sweet honey mustard drizzle.",
+    "price": 8.25,
+    "image": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?auto=format&fit=crop&w=600&q=80",
+    "calories": 620,
+    "isPopular": 1,
+    "isActive": 1,
+    "position": 1
+  }
+]

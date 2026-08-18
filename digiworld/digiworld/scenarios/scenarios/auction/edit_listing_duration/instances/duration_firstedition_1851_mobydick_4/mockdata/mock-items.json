@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754030035,
+    "title": "First\u2011Edition 1851 'Moby\u2011Dick' Illustrated by Rockwell Kent",
+    "description": "First\u2011edition hardcover with hand\u2011colored illustrations, original dust jacket, and a provenance note from the previous owner.",
+    "categoryId": 10,
+    "sellerId": "{{current_user_id}}",
+    "price": 1519.22,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 3,
+    "imageUrl": "https://example.com/images/first\u2011edition-1851-'moby\u2011dick'-illustrated-by-rockwell-kent.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 823.63,
+    "currentBid": 1304.45,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

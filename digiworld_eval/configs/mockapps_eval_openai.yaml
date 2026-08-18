@@ -1,0 +1,66 @@
+# Standalone evaluation config for server_env with an OpenAI (GPT) model.
+#
+# Usage:
+#   python -m digiworld_eval.eval config=digiworld_eval/configs/mockapps_eval_openai.yaml
+#
+# Prerequisites:
+#   - Set OPENAI_API_KEY environment variable (see README §5)
+#   - A running DigiWorld bridge server reachable at server_urls below
+#     (start it with: python -m digiworld_eval.local_server --port 6800 --digiworld)
+#
+# To use a different OpenAI model, override on the command line:
+#   litellm_args.model=gpt-4o-mini
+
+dump_dir: /tmp/mockapps_eval_openai
+
+# litellm reads OPENAI_API_KEY from the environment; a bare "gpt-*" model id
+# needs no provider prefix.
+gen_backend: litellm
+
+litellm_args:
+  model: "gpt-4o"
+  timeout: 120.0
+  max_tokens: 4096
+
+gen_args:
+  use_sampling: true
+  temperature: 0.0
+
+tasks:
+  - env_config: server_env
+    reward_fn: pass_only
+    path: digiworld_eval/configs/test_tasks.jsonl
+    samples_per_prompt: 1
+    init_args:
+      # One server URL per running DigiWorld bridge server (must match --port).
+      server_urls:
+        - "http://localhost:6800"
+      max_single_action_len: 1024
+      max_turns: 20
+      saved_screenshot_folder: ${dump_dir}/saved_screenshots
+    metrics_spec:
+      pass:
+        - '@1'
+      task_completed:
+        - 'mean'
+
+num_rollout_threads: 1
+data_queue_size: 100
+seed: 42
+perf_log_freq: 60.0
+
+dump_mode: full
+dump_compress: false
+run_metrics_aggregation: true
+
+logging:
+  enable_tensorboard: false
+  enable_wandb: false
+
+setup:
+  spawn_method: forkserver
+
+log_level: debug
+max_exceptions: 0
+max_rollout_len: 11520
+no_resume: true

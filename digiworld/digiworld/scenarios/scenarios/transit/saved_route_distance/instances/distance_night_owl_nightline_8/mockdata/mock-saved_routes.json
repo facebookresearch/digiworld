@@ -1,0 +1,14 @@
+[
+  {
+    "id": "saved-night-owl-nightline",
+    "userId": 1,
+    "name": "Night Owl Nightline",
+    "originStopId": "stop-3",
+    "destinationStopId": "stop-12",
+    "preferredMode": "subway",
+    "remindersEnabled": false,
+    "departureReminderMinutes": 15,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

@@ -1,0 +1,6 @@
+{
+    "shell_timeout": 5,
+    "file_transfer_timeout": 60,
+    "install_timeout": 60
+}
+

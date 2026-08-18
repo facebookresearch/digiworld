@@ -1,0 +1,11 @@
+{
+  "task_name": "What number stop is <stop_name> on the <line_name> line?",
+  "app_name": "transit",
+  "scenario_class": "CityConnectorStopNumberScenario",
+  "parameters": [
+    "stop_name",
+    "line_name"
+  ],
+  "context_fields": [],
+  "description": "Retrieve the sequence number of a stop on the City Connector line."
+}

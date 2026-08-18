@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Industrial Metal Bookshelf, 5-Tier",
+    "description": "This five-tier bookshelf blends black powder-coated steel with reclaimed wood shelves for an industrial aesthetic. Adjustable shelf heights accommodate books, d\u00e9cor, and storage boxes. Easy to assemble with included hardware.",
+    "shortDescription": "An industrial metal bookshelf with five adjustable tiers.",
+    "rating": 2.0,
+    "reviewCount": 1,
+    "seller": "TimberCraft Furniture",
+    "price": 1521.87,
+    "discountedPrice": 1050.09,
+    "discountPercent": 31,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 20,
+    "subcategoryName": "Furniture",
+    "inStock": true,
+    "stockCount": 107,
+    "imageUrl": "/80_1",
+    "specs": "{\"material\": \"Powder-coated steel\", \"dimensions\": \"72\\\" H x 30\\\" W x 12\\\" D\", \"weight\": \"55 lbs\", \"warranty\": \"5-year limited\", \"color\": \"Gunmetal gray\", \"careInstructions\": \"Dust with microfiber; do not overload shelves beyond weight rating; wipe with dry cloth\"}",
+    "tags": "[\"kitchen\", \"furniture\", \"home\", \"high-quality\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

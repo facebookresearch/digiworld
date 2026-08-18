@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Revitalizing Coffee Scrub",
+    "description": "Product: Revitalizing Coffee Scrub",
+    "shortDescription": "Revitalizing Coffee Scrub",
+    "rating": 4.0,
+    "reviewCount": 0,
+    "seller": "Test Seller",
+    "price": 29.99,
+    "discountedPrice": 29.99,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 1,
+    "subcategoryName": "Skincare",
+    "inStock": true,
+    "stockCount": 50,
+    "imageUrl": "/test_1",
+    "specs": "{\"applicationMethod\": \"Massage onto damp skin in circular motions, then rinse after 2-3 minutes for a refreshed complexion.\"}",
+    "tags": "[\"beauty & personal care\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

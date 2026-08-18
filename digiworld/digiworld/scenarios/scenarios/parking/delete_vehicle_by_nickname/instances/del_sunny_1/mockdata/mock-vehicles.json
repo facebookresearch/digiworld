@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "nickname": "Sunny",
+    "make": "Harmony",
+    "model": "Civix",
+    "color": "Solar Silver",
+    "year": 2018,
+    "plateNumber": "SUNNY7",
+    "vehicleTypeId": 1,
+    "isDefault": 0,
+    "createdAt": "{{end_timestamp}}",
+    "updatedAt": "{{end_timestamp}}",
+    "metadata": null
+  }
+]

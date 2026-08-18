@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "cartId": 1,
+    "userId": 1,
+    "productId": 9908,
+    "productName": "ProBake Silicone Baking Mat",
+    "productImage": "/product_9908",
+    "shortDescription": "Silicone baking mat",
+    "seller": "CookMaster",
+    "quantity": 2,
+    "price": 367.57,
+    "discountedPrice": 312.43,
+    "total": 624.86,
+    "inStock": 1
+  }
+]

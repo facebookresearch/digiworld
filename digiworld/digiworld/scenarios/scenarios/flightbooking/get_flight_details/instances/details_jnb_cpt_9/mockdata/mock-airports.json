@@ -1,0 +1,18 @@
+[
+  {
+    "code": "JNB",
+    "name": "JNB International Airport",
+    "city": "JNB",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "code": "CPT",
+    "name": "CPT International Airport",
+    "city": "CPT",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "task_name": "What was the undiscounted price of the <item> item?",
+  "app_name": "ecommerce",
+  "scenario_class": "HomeKitchenUndiscountedPriceScenario",
+  "parameters": [
+    "item"
+  ],
+  "context_fields": [],
+  "description": "Retrieve the undiscounted (original) price of a Home & Kitchen product"
+}

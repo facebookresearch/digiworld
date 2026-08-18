@@ -1,0 +1,29 @@
+{
+  "parameters": {
+    "zone_code": "SPA12",
+    "vehicle": "BlueComet",
+    "minutes": "90"
+  },
+  "compatible_profiles": [
+    "active_sessions",
+    "budget_zones",
+    "default",
+    "electric_vehicles",
+    "expired_sessions",
+    "high_parking_volume",
+    "many_vehicles",
+    "new_user",
+    "premium_zones",
+    "zone_full"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:04.572788+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

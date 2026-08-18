@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Casa del Sol",
+    "description": "Traditional Oaxacan mole served over tender chicken, simmered for 24 hours.",
+    "address": "444 Spruce Way, Portland, OR 97201",
+    "latitude": 45.5152,
+    "longitude": -122.6784,
+    "logo": "https://images.unsplash.com/photo-1590846406792-0adc7f938f1d?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.0,
+    "deliveryFee": 3.11,
+    "minOrder": 10.0,
+    "deliveryRadius": 10,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

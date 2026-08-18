@@ -1,0 +1,116 @@
+// Copyright (c) Meta Platforms, Inc. and affiliates.
+const en = {
+  common: {
+    ok: 'OK!',
+    cancel: 'Cancel',
+    back: 'Back',
+    search: 'Search',
+    empty: 'No items found',
+    alert: 'Change Language',
+    confirm: 'Confirm',
+  },
+  welcomeScreen: {
+    title: 'Welcome to Andojo Shop',
+    subtitle: 'Your One-Stop Shopping Destination',
+    connecting: 'Setting up your shopping experience...',
+    version: 'Version 1.1.0',
+    copyright: '© 2025 Andojo Shop',
+  },
+  productScreen: {
+    search: 'Search products...',
+    noProducts: 'No products found',
+    categories: {
+      all: 'All Categories',
+      electronics: 'Electronics',
+      fashion: 'Fashion',
+      grocery: 'Grocery',
+      home: 'Home & Living',
+    },
+    sort: {
+      title: 'Sort By',
+      newest: 'Newest',
+      priceLowToHigh: 'Price: Low to High',
+      priceHighToLow: 'Price: High to Low',
+      popularity: 'Popularity',
+    },
+    filter: 'Filter',
+  },
+  cartScreen: {
+    title: 'Shopping Cart',
+    empty: 'Your cart is empty',
+    subtotal: 'Subtotal',
+    shipping: 'Shipping',
+    tax: 'Tax',
+    total: 'Total',
+    checkout: 'Proceed to Checkout',
+    remove: 'Remove',
+  },
+  authScreen: {
+    login: {
+      title: 'Welcome Back',
+      subtitle: 'Sign in to your account',
+      emailPlaceholder: 'Email address',
+      passwordPlaceholder: 'Password',
+      signInButton: 'Sign In',
+      forgotPassword: 'Forgot Password?',
+      createAccount: 'Create one',
+      createAccountPrompt: "Don't have an account?",
+    },
+    register: {
+      title: 'Create Account',
+      subtitle: 'Start your shopping journey',
+      firstNamePlaceholder: 'First name',
+      lastNamePlaceholder: 'Last name',
+      emailPlaceholder: 'Email address',
+      passwordPlaceholder: 'Password',
+      confirmPasswordPlaceholder: 'Confirm password',
+      signUpButton: 'Create Account',
+      loginPrompt: 'Already have an account?',
+      login: 'Sign in',
+    },
+  },
+  errorScreen: {
+    title: 'Something went wrong!',
+    friendlySubtitle: 'Please try again later or contact support.',
+    reset: 'RESET APP',
+  },
+  emptyStateComponent: {
+    generic: {
+      heading: 'No Items Found',
+      content: "We couldn't find what you're looking for.",
+      button: 'Refresh',
+    },
+  },
+  profileScreen: {
+    title: 'My Profile',
+    editProfile: 'Edit Profile',
+    myOrders: 'My Orders',
+    myAddresses: 'My Addresses',
+    paymentMethods: 'Payment Methods',
+    settings: 'Settings',
+    theme: 'Theme',
+    language: 'Language',
+    notifications: 'Notifications',
+    currentTheme: 'Current: {{theme}}',
+    currentLanguage: 'Current: {{language}}',
+    notificationStatus: 'Status: {{status}}',
+    languageChangeMessage:
+      'App needs to restart to apply language changes. Continue?',
+  },
+  orderScreen: {
+    title: 'My Orders',
+    pending: 'Pending',
+    processing: 'Processing',
+    shipped: 'Shipped',
+    delivered: 'Delivered',
+    cancelled: 'Cancelled',
+    orderNumber: 'Order #{{number}}',
+    orderDate: 'Ordered on {{date}}',
+    trackOrder: 'Track Order',
+    reorder: 'Buy Again',
+  },
+}
+
+export default en
+
+export type Translations = typeof en

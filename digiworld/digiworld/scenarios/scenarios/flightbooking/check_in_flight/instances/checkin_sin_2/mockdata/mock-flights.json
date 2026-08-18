@@ -1,0 +1,19 @@
+[
+  {
+    "flight_id": "SQ2139_{{tomorrow_date}}",
+    "airline_id": "airline_sq",
+    "airline_code": "SQ",
+    "flight_number": "SQ2139",
+    "origin": "BOM",
+    "destination": "SIN",
+    "departure_time": "{{tomorrow_date}}T12:30:00Z",
+    "arrival_time": "{{tomorrow_date}}T14:53:00Z",
+    "duration_minutes": 143,
+    "fare": 1311.91,
+    "currency": "USD",
+    "seats_available": 35,
+    "aircraft_type": "Boeing 737-800",
+    "date": "{{tomorrow_date}}",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

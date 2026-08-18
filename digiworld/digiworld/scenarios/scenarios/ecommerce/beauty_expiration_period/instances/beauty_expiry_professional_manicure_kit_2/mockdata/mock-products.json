@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Professional Manicure Kit",
+    "description": "Complete manicure set featuring stainless\u2011steel clippers, a buffer, a cuticle pusher, and a dual\u2011ended nail file. Comes in a compact travel case. Perfect for at\u2011home salon styling.",
+    "shortDescription": "Full manicure kit for at\u2011home nail care.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Mani Master Kits",
+    "price": 1333.79,
+    "discountedPrice": 946.99,
+    "discountPercent": 29,
+    "categoryId": 6,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 46,
+    "subcategoryName": "Nail Care",
+    "inStock": true,
+    "stockCount": 75,
+    "imageUrl": "/184_1",
+    "specs": "{\"ingredients\": \"Acetone, Nail File, Cuticle Pusher, Buffer, Tweezers\", \"skinType\": \"All\", \"volume\": \"One set\", \"fragrance\": \"None\", \"madeIn\": \"USA\", \"expiryPeriod\": \"36 months\"}",
+    "tags": "[\"personal\", \"nail\", \"beauty\", \"care\", \"premium\", \"top-rated\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Space Station Engineering Kit",
+    "description": "Assemble a detailed orbital laboratory using snap\u2011together panels, transparent domes, and scientific instrument mini\u2011models. The kit includes 650 parts and a booklet that explains real\u2011world space station functions. Encourages STEM learning through hands\u2011on building.",
+    "shortDescription": "A building kit for a detailed space station with educational guide.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Orbit Builders Ltd.",
+    "price": 137.91,
+    "discountedPrice": 137.91,
+    "discountPercent": 0,
+    "categoryId": 7,
+    "categoryName": "Toys & Games",
+    "subcategoryId": 52,
+    "subcategoryName": "Building Sets",
+    "inStock": true,
+    "stockCount": 3,
+    "imageUrl": "/207_1",
+    "specs": "{\"ageRange\": \"10+\", \"material\": \"Metal rods, plastic connectors\", \"dimensions\": \"14 x 11 x 4 inches\", \"batteryRequired\": \"No\", \"warranty\": \"1 year\", \"safetyRating\": \"ASTM F963\"}",
+    "tags": "[\"building\", \"toys\", \"games\", \"sets\", \"best\", \"premium\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "task_name": "View My Vehicles",
+  "app_name": "parking",
+  "scenario_class": "ViewMyVehiclesScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Navigate to the screen showing the user's registered vehicles.",
+  "compatible_profiles": [
+    "active_sessions",
+    "budget_zones",
+    "default",
+    "electric_vehicles",
+    "expired_sessions",
+    "high_parking_volume",
+    "many_vehicles",
+    "new_user",
+    "premium_zones",
+    "zone_full"
+  ]
+}

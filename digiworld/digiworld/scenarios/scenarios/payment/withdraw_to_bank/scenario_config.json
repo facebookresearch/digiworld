@@ -1,0 +1,9 @@
+{
+  "task_name": "Withdraw $<amount> from my account to Bank Account <bank_account>",
+  "app_name": "payment",
+  "scenario_class": "WithdrawToBankScenario",
+  "parameters": ["amount", "bank_account"],
+  "context_fields": ["current_user_pin"],
+  "description": "Verify a withdrawal transaction was created for the specified amount. Your PIN is required to confirm.",
+  "additional_mockdata": false
+}

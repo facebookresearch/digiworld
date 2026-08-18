@@ -1,0 +1,277 @@
+<html><head><meta charset="utf-8"/><title>Test Report</title><style type="text/css">:root {
+  --text-primary: #111;
+  --text-secondary: #4f4f4f;
+  --success: #006633;
+  --success-bright: #80ffbf;
+  --danger: #cc071e;
+  --danger-bright: #fbdfe0;
+  --warning: #995c00;
+  --warning-bright: #ffeea8;
+  --panel: #eee;
+  --border: #949494;
+  --disabled: #6b6b6b;
+}
+
+html,
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  color: var(--text-primary);
+}
+body {
+  padding: 2rem 1rem;
+}
+.jesthtml-content {
+  margin: 0 auto;
+  max-width: 70rem;
+}
+header {
+  display: flex;
+  align-items: center;
+}
+#title {
+  margin: 0;
+  flex-grow: 1;
+}
+#logo {
+  height: 4rem;
+}
+#timestamp {
+  color: var(--text-secondary);
+  margin-top: 0.5rem;
+}
+
+#metadata-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.additional-information-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  color: var(--text-secondary);
+}
+
+/** SUMMARY */
+#summary {
+  color: var(--text-primary);
+  display: flex;
+  font-family: monospace;
+  font-size: 1rem;
+}
+#summary > div {
+  margin-right: 0.5rem;
+  background: var(--panel);
+  padding: 1rem;
+  min-width: 15rem;
+}
+#summary > div:last-child {
+  margin-right: 0;
+}
+@media only screen and (max-width: 720px) {
+  #summary {
+    flex-direction: column;
+  }
+  #summary > div {
+    margin-right: 0;
+    margin-top: 1rem;
+  }
+  #summary > div:first-child {
+    margin-top: 0;
+  }
+}
+
+.summary-total {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+.summary-passed {
+  color: var(--success);
+  border-left: 0.4rem solid var(--success);
+  padding-left: 0.5rem;
+  margin-bottom: 0.15rem;
+}
+.summary-failed,
+.summary-obsolete-snapshots {
+  color: var(--danger);
+  border-left: 0.4rem solid var(--danger);
+  padding-left: 0.5rem;
+  margin-bottom: 0.15rem;
+}
+.summary-pending {
+  color: var(--warning);
+  border-left: 0.4rem solid var(--warning);
+  padding-left: 0.5rem;
+  margin-bottom: 0.15rem;
+}
+.summary-empty {
+  color: var(--disabled);
+  border-left: 0.4rem solid var(--disabled);
+  margin-bottom: 0.15rem;
+}
+
+.test-result {
+  padding: 1rem;
+  margin-bottom: 0.25rem;
+}
+.test-result:last-child {
+  border: 0;
+}
+.test-result.passed {
+  background-color: var(--success-bright);
+  color: var(--success);
+}
+.test-result.failed {
+  background-color: var(--danger-bright);
+  color: var(--danger);
+}
+.test-result.pending {
+  background-color: var(--warning-bright);
+  color: var(--warning);
+}
+
+.test-info {
+  display: flex;
+  justify-content: space-between;
+}
+.test-suitename {
+  width: 20%;
+  text-align: left;
+  font-weight: bold;
+  word-break: break-word;
+}
+.test-title {
+  width: 40%;
+  text-align: left;
+  font-style: italic;
+}
+.test-status {
+  width: 20%;
+  text-align: right;
+}
+.test-duration {
+  width: 10%;
+  text-align: right;
+  font-size: 0.85rem;
+}
+
+.failureMessages {
+  padding: 0 1rem;
+  margin-top: 1rem;
+  border-top: 1px dashed var(--danger);
+}
+.failureMessages.suiteFailure {
+  border-top: none;
+}
+.failureMsg {
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
+}
+
+.suite-container {
+  margin-bottom: 1rem;
+}
+.suite-info {
+  padding: 1rem;
+  background-color: var(--panel);
+  color: var(--text-secondary);
+  border: 0.15rem solid;
+  border-color: var(--panel);
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.25rem;
+}
+.suite-info:hover {
+  border-color: var(--border);
+  cursor: pointer;
+}
+.suite-info .suite-path {
+  word-break: break-all;
+  flex-grow: 1;
+  font-family: monospace;
+  font-size: 1rem;
+}
+.suite-info .suite-time {
+  margin-left: 1rem;
+  padding: 0.2rem 0.3rem;
+  font-size: 0.85rem;
+}
+.suite-info .suite-time.warn {
+  background-color: var(--danger);
+  color: #fff;
+}
+.suite-info:before {
+  content: "\2303";
+  display: inline-block;
+  margin-right: 1rem;
+  transform: rotate(180deg) translateY(0.15rem);
+}
+.suite-container[open] .suite-info:before {
+  transform: rotate(0deg) translateY(0.15rem);
+}
+
+/* CONSOLE LOGS */
+.suite-consolelog {
+  margin-bottom: 0.25rem;
+  padding: 1rem;
+  background-color: var(--panel);
+}
+.suite-consolelog-header {
+  font-weight: bold;
+}
+.suite-consolelog-item {
+  padding: 0.5rem;
+}
+.suite-consolelog-item pre {
+  margin: 0.5rem 0;
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
+}
+.suite-consolelog-item-origin {
+  color: var(--text-secondary);
+  font-weight: bold;
+}
+.suite-consolelog-item-message {
+  color: var(--text-primary);
+  font-size: 1rem;
+  padding: 0 0.5rem;
+}
+
+/* OBSOLETE SNAPSHOTS */
+.suite-obsolete-snapshots {
+  margin-bottom: 0.25rem;
+  padding: 1rem;
+  background-color: var(--danger-bright);
+  color: var(--danger);
+}
+.suite-obsolete-snapshots-header {
+  font-weight: bold;
+}
+.suite-obsolete-snapshots-item {
+  padding: 0.5rem;
+}
+.suite-obsolete-snapshots-item pre {
+  margin: 0.5rem 0;
+  white-space: pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  word-wrap: break-word;
+}
+.suite-obsolete-snapshots-item-message {
+  color: var(--text-primary);
+  font-size: 1rem;
+  padding: 0 0.5rem;
+}
+</style></head><body><main class="jesthtml-content"><header><h1 id="title">Test Report</h1></header><section id="metadata-container"><div id="timestamp">Started: 2025-05-27 23:16:52</div><div id="summary"><div id="suite-summary"><div class="summary-total">Suites (7)</div><div class="summary-passed ">7 passed</div><div class="summary-failed  summary-empty">0 failed</div><div class="summary-pending  summary-empty">0 pending</div></div><div id="test-summary"><div class="summary-total">Tests (73)</div><div class="summary-passed ">73 passed</div><div class="summary-failed  summary-empty">0 failed</div><div class="summary-pending  summary-empty">0 pending</div></div></div></section><details id="suite-1" class="suite-container" open=""><summary class="suite-info"><div class="suite-path">/Volumes/Unify/andojo/andojo-monorepo/apps/music/src/__tests__/player.test.tsx</div><div class="suite-time">0.78s</div></summary><div class="suite-tests"><div class="test-result passed"><div class="test-info"><div class="test-suitename">PlayerScreen &gt; Component Rendering</div><div class="test-title">renders without crashing</div><div class="test-status">passed</div><div class="test-duration">0.166s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">PlayerScreen &gt; Playback Logic</div><div class="test-title">toggles play/pause state</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">PlayerScreen &gt; Playback Logic</div><div class="test-title">updates current time</div><div class="test-status">passed</div><div class="test-duration">0.002s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">PlayerScreen &gt; Playback Logic</div><div class="test-title">cycles through repeat modes</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">PlayerScreen &gt; Playback Logic</div><div class="test-title">handles volume control</div><div class="test-status">passed</div><div class="test-duration">0.002s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">PlayerScreen &gt; Queue Management</div><div class="test-title">moves to next song correctly</div><div class="test-status">passed</div><div class="test-duration">0.002s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">PlayerScreen &gt; Queue Management</div><div class="test-title">moves to previous song correctly</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">PlayerScreen &gt; Queue Management</div><div class="test-title">handles shuffle toggle</div><div class="test-status">passed</div><div class="test-duration">0.002s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">PlayerScreen &gt; Queue Management</div><div class="test-title">handles repeat mode with queue end</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">PlayerScreen &gt; Favorite Management</div><div class="test-title">toggles favorite status</div><div class="test-status">passed</div><div class="test-duration">0.002s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">PlayerScreen &gt; Favorite Management</div><div class="test-title">checks favorite status</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">PlayerScreen &gt; Favorite Management</div><div class="test-title">gets favorite count</div><div class="test-status">passed</div><div class="test-duration">0.002s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">PlayerScreen &gt; Advanced Playback Logic</div><div class="test-title">handles mute/unmute with volume memory</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">PlayerScreen &gt; Advanced Playback Logic</div><div class="test-title">tracks seek history for forward/backward navigation</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">PlayerScreen &gt; Advanced Playback Logic</div><div class="test-title">handles rapid play/pause transitions</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">PlayerScreen &gt; Advanced Queue Management</div><div class="test-title">maintains queue history for undo/redo operations</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div></div></details><details id="suite-2" class="suite-container" open=""><summary class="suite-info"><div class="suite-path">/Volumes/Unify/andojo/andojo-monorepo/apps/music/src/__tests__/signup.test.tsx</div><div class="suite-time">0.79s</div></summary><div class="suite-tests"><div class="test-result passed"><div class="test-info"><div class="test-suitename">Signup Validation</div><div class="test-title">renders without crashing</div><div class="test-status">passed</div><div class="test-duration">0.189s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">Signup Validation &gt; Name Validation</div><div class="test-title">accepts valid names</div><div class="test-status">passed</div><div class="test-duration">0.002s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">Signup Validation &gt; Name Validation</div><div class="test-title">rejects invalid names</div><div class="test-status">passed</div><div class="test-duration">0.002s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">Signup Validation &gt; Email Validation</div><div class="test-title">accepts valid emails</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">Signup Validation &gt; Email Validation</div><div class="test-title">rejects invalid emails</div><div class="test-status">passed</div><div class="test-duration">0.002s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">Signup Validation &gt; Password Validation</div><div class="test-title">accepts valid passwords</div><div class="test-status">passed</div><div class="test-duration">0.002s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">Signup Validation &gt; Password Validation</div><div class="test-title">rejects invalid passwords</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">Signup Validation &gt; Form Validation</div><div class="test-title">validates complete form data</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">Signup Validation &gt; Form Validation</div><div class="test-title">validates incomplete form data</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">Signup Validation &gt; Form Validation</div><div class="test-title">validates mixed valid/invalid data</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div></div></details><details id="suite-3" class="suite-container" open=""><summary class="suite-info"><div class="suite-path">/Volumes/Unify/andojo/andojo-monorepo/apps/music/src/__tests__/library.test.tsx</div><div class="suite-time">0.796s</div></summary><div class="suite-tests"><div class="test-result passed"><div class="test-info"><div class="test-suitename">library-screen.test.tsx</div><div class="test-title">renders without crashing</div><div class="test-status">passed</div><div class="test-duration">0.15s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">library-screen.test.tsx &gt; Playlist Management</div><div class="test-title">creates playlist correctly</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">library-screen.test.tsx &gt; Playlist Management</div><div class="test-title">deletes playlist</div><div class="test-status">passed</div><div class="test-duration">0.002s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">library-screen.test.tsx &gt; Playlist Management</div><div class="test-title">adds and removes songs from playlist</div><div class="test-status">passed</div><div class="test-duration">0.002s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">library-screen.test.tsx &gt; Playlist Management</div><div class="test-title">prevents duplicate songs in playlist</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">library-screen.test.tsx &gt; Filter Management</div><div class="test-title">changes library filter</div><div class="test-status">passed</div><div class="test-duration">0.002s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">library-screen.test.tsx &gt; Loading State</div><div class="test-title">manages loading state</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">library-screen.test.tsx &gt; Recently Played</div><div class="test-title">manages recently played songs</div><div class="test-status">passed</div><div class="test-duration">0.002s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">library-screen.test.tsx &gt; Recently Played</div><div class="test-title">limits recently played list</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">library-screen.test.tsx &gt; User Playlists</div><div class="test-title">filters playlists by user</div><div class="test-status">passed</div><div class="test-duration">0.002s</div></div></div></div></details><details id="suite-4" class="suite-container" open=""><summary class="suite-info"><div class="suite-path">/Volumes/Unify/andojo/andojo-monorepo/apps/music/src/__tests__/profile.test.tsx</div><div class="suite-time">0.803s</div></summary><div class="suite-tests"><div class="test-result passed"><div class="test-info"><div class="test-suitename">ProfileScreen</div><div class="test-title">renders user information correctly</div><div class="test-status">passed</div><div class="test-duration">0.162s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">ProfileScreen</div><div class="test-title">displays correct playlist count</div><div class="test-status">passed</div><div class="test-duration">0.006s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">ProfileScreen</div><div class="test-title">displays correct time spent</div><div class="test-status">passed</div><div class="test-duration">0.006s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">ProfileScreen</div><div class="test-title">navigates to terms and privacy policy</div><div class="test-status">passed</div><div class="test-duration">0.006s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">ProfileScreen</div><div class="test-title">handles logout correctly</div><div class="test-status">passed</div><div class="test-duration">0.011s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">ProfileScreen</div><div class="test-title">renders menu sections correctly</div><div class="test-status">passed</div><div class="test-duration">0.006s</div></div></div></div></details><details id="suite-5" class="suite-container" open=""><summary class="suite-info"><div class="suite-path">/Volumes/Unify/andojo/andojo-monorepo/apps/music/src/__tests__/search.test.tsx</div><div class="suite-time">0.821s</div></summary><div class="suite-tests"><div class="test-result passed"><div class="test-info"><div class="test-suitename">SearchScreen &gt; Component Rendering</div><div class="test-title">renders without crashing</div><div class="test-status">passed</div><div class="test-duration">0.182s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">SearchScreen &gt; Search Logic</div><div class="test-title">returns empty array for empty query</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">SearchScreen &gt; Search Logic</div><div class="test-title">finds items containing search term</div><div class="test-status">passed</div><div class="test-duration">0.002s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">SearchScreen &gt; Search Logic</div><div class="test-title">prioritizes exact matches</div><div class="test-status">passed</div><div class="test-duration">0.002s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">SearchScreen &gt; Search Logic</div><div class="test-title">sorts by rating when relevance is equal</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">SearchScreen &gt; Search Logic</div><div class="test-title">handles case-insensitive search</div><div class="test-status">passed</div><div class="test-duration">0.002s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">SearchScreen &gt; Search Logic</div><div class="test-title">handles multi-word search</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">SearchScreen &gt; Search Logic</div><div class="test-title">handles partial word matches</div><div class="test-status">passed</div><div class="test-duration">0.002s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">SearchScreen &gt; Search Logic</div><div class="test-title">returns empty array for non-matching query</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">SearchScreen &gt; Playlist Management</div><div class="test-title">adds song to playlist</div><div class="test-status">passed</div><div class="test-duration">0.002s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">SearchScreen &gt; Playlist Management</div><div class="test-title">removes song from playlist</div><div class="test-status">passed</div><div class="test-duration">0.003s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">SearchScreen &gt; Playlist Management</div><div class="test-title">creates new playlist</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">SearchScreen &gt; Playlist Management</div><div class="test-title">renames playlist</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">SearchScreen &gt; Playlist Management</div><div class="test-title">merges playlists</div><div class="test-status">passed</div><div class="test-duration">0.002s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">SearchScreen &gt; Playlist Management</div><div class="test-title">removes duplicate songs from playlist</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">SearchScreen &gt; Playlist Management</div><div class="test-title">moves song position in playlist</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">SearchScreen &gt; Queue Management</div><div class="test-title">moves to next song in queue</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">SearchScreen &gt; Queue Management</div><div class="test-title">moves to previous song in queue</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">SearchScreen &gt; Queue Management</div><div class="test-title">handles shuffle mode</div><div class="test-status">passed</div><div class="test-duration">0.001s</div></div></div></div></details><details id="suite-6" class="suite-container" open=""><summary class="suite-info"><div class="suite-path">/Volumes/Unify/andojo/andojo-monorepo/apps/music/src/__tests__/login.test.tsx</div><div class="suite-time">0.938s</div></summary><div class="suite-tests"><div class="test-result passed"><div class="test-info"><div class="test-suitename">LoginScreen</div><div class="test-title">renders login form</div><div class="test-status">passed</div><div class="test-duration">0.156s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">LoginScreen</div><div class="test-title">updates form fields on input</div><div class="test-status">passed</div><div class="test-duration">0.028s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">LoginScreen</div><div class="test-title">shows validation errors for empty fields</div><div class="test-status">passed</div><div class="test-duration">0.026s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">LoginScreen</div><div class="test-title">shows validation error for invalid email</div><div class="test-status">passed</div><div class="test-duration">0.026s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">LoginScreen</div><div class="test-title">clears validation errors when input is changed</div><div class="test-status">passed</div><div class="test-duration">0.027s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">LoginScreen</div><div class="test-title">maintains field focus state</div><div class="test-status">passed</div><div class="test-duration">0.024s</div></div></div></div></details><details id="suite-7" class="suite-container" open=""><summary class="suite-info"><div class="suite-path">/Volumes/Unify/andojo/andojo-monorepo/apps/music/src/__tests__/home.test.tsx</div><div class="suite-time">2.14s</div></summary><div class="suite-tests"><div class="test-result passed"><div class="test-info"><div class="test-suitename">HomeScreen</div><div class="test-title">renders welcome message with username</div><div class="test-status">passed</div><div class="test-duration">0.354s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">HomeScreen</div><div class="test-title">displays recently played songs</div><div class="test-status">passed</div><div class="test-duration">0.015s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">HomeScreen</div><div class="test-title">displays music categories</div><div class="test-status">passed</div><div class="test-duration">1.02s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">HomeScreen</div><div class="test-title">plays a song when clicked</div><div class="test-status">passed</div><div class="test-duration">0.03s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">HomeScreen</div><div class="test-title">sorts recently played by date correctly</div><div class="test-status">passed</div><div class="test-duration">0.003s</div></div></div><div class="test-result passed"><div class="test-info"><div class="test-suitename">HomeScreen</div><div class="test-title">updates play count when song is played</div><div class="test-status">passed</div><div class="test-duration">0.113s</div></div></div></div></details></main></body></html>

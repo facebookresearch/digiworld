@@ -1,0 +1,13 @@
+{
+  "task_name": "Add the videos \"<video_1>\" and \"<video_2>\" to the playlist \"<playlist_name>\", then tell me the duration of the video \"<video_1>\"",
+  "app_name": "video",
+  "scenario_class": "AddVideosToPlaylistAndGetDurationScenario",
+  "parameters": [
+    "video_1",
+    "video_2",
+    "playlist_name"
+  ],
+  "context_fields": [],
+  "description": "Add two videos to a playlist, then report the duration of the first video",
+  "additional_mockdata": true
+}

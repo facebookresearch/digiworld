@@ -1,0 +1,7 @@
+{
+  "app_name": "music",
+  "apk_name": "com.andojomusic.sbx",
+  "database_doc_path": "../../../../../apps/music/docs/database.md",
+  "feature_scope_path": "../../../../../apps/music/docs/music-feature-scope.md"
+}
+

@@ -1,0 +1,13 @@
+{
+  "task_name": "Add a new Nexus Pay contact with the name \"<name>\", email \"<email>\", and phone number <phone>, then pay them $5 with the memo \"<memo>\"",
+  "app_name": "banking",
+  "scenario_class": "AddNexusPayContactAndPayScenario",
+  "parameters": [
+    "name",
+    "email",
+    "phone",
+    "memo"
+  ],
+  "context_fields": [],
+  "description": "Add a new QuickPay/Nexus Pay contact and immediately send them $5."
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 9990,
+    "categoryId": 7,
+    "title": "My Morning Routine as a Digital Nomad",
+    "description": "Follow my daily morning routine as I travel the world as a digital nomad.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 408,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 9295,
+    "likeCount": 30,
+    "commentCount": 45,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

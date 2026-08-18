@@ -1,0 +1,14 @@
+[
+  {
+    "id": "saved-harbor-loop",
+    "userId": 1,
+    "name": "Harbor Loop",
+    "originStopId": "stop-4",
+    "destinationStopId": "stop-1",
+    "preferredMode": "train",
+    "remindersEnabled": false,
+    "departureReminderMinutes": 15,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

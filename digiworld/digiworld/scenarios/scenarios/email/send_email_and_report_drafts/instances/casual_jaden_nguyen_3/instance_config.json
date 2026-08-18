@@ -1,0 +1,24 @@
+{
+  "parameters": {
+    "recipient_email": "jordan.nguyen@example.com",
+    "email_subject": "Recipe for lemon pasta",
+    "email_body": "Jordan, here is the lemon pasta recipe I mentioned at dinner. It is super easy to make and only takes about 20 minutes."
+  },
+  "compatible_profiles": [
+    "50_inbox_emails",
+    "all_drafts",
+    "mixed",
+    "starred_important",
+    "work_related"
+  ],
+  "metadata": {
+    "created_at": "2026-04-11T00:00:00.000000+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

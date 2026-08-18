@@ -1,0 +1,24 @@
+[
+  {
+    "id": 9900,
+    "name": "Organic Cotton Bed Sheet Set",
+    "description": "Soft and breathable, our organic cotton bed sheet set is designed for comfort and durability. Made from high-quality, eco-friendly materials.",
+    "shortDescription": "Soft, breathable, and eco-friendly bed sheets.",
+    "price": 30.41,
+    "discountedPrice": 30.41,
+    "discountPercent": 0,
+    "rating": 3.2,
+    "reviewCount": 129,
+    "seller": "GreenNest Home",
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 0,
+    "subcategoryName": "Bedding",
+    "inStock": 1,
+    "stockCount": 16,
+    "imageUrl": "/product_4257",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Kevin Patel",
+    "street": "9101 Pine Blvd",
+    "city": "Denver",
+    "state": "CO",
+    "pincode": "80203",
+    "phone": "3035559012",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

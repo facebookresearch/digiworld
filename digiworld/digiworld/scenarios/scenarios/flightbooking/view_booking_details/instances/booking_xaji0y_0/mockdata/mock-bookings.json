@@ -1,0 +1,50 @@
+[
+  {
+    "booking_id": "BK-TEST-XAJI0Y",
+    "booking_reference": "XAJI0Y",
+    "user_id": "{{current_user_id}}",
+    "trip_type": "one_way",
+    "booking_date": "{{end_timestamp}}",
+    "status": "confirmed",
+    "payment_status": "paid",
+    "total_price": 642.33,
+    "currency": "USD",
+    "flights": [
+      {
+        "flight_id": "BA1106_2025-11-10",
+        "airline_code": "BA",
+        "flight_number": "BA1106",
+        "origin": "LHR",
+        "destination": "JFK",
+        "departure_time": "2025-11-10T10:45:00Z",
+        "arrival_time": "2025-11-10T19:13:00Z",
+        "duration_minutes": 508,
+        "fare": 642.33,
+        "segment": "outbound",
+        "status": "confirmed"
+      }
+    ],
+    "passengers": [
+      {
+        "passenger_id": "P-TEST-881",
+        "first_name": "Test",
+        "last_name": "Traveler",
+        "email": "test.traveler@example.com",
+        "phone": "+1-555-0199",
+        "date_of_birth": "1990-05-15",
+        "passport_number": "X55176955",
+        "seat_assignments": [
+          {
+            "flight_id": "BA1106_2025-11-10",
+            "seat_number": "4A",
+            "check_in_status": "not_checked_in",
+            "check_in_time": null
+          }
+        ],
+        "ticket_number": "TK-TEST-489"
+      }
+    ],
+    "created_at": "{{end_timestamp}}",
+    "updated_at": "{{end_timestamp}}"
+  }
+]

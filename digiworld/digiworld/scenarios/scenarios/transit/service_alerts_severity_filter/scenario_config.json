@@ -1,0 +1,8 @@
+{
+  "task_name": "Take me to the Service Alerts page and filter by <severity_filter>",
+  "app_name": "transit",
+  "scenario_class": "ServiceAlertsSeverityFilterScenario",
+  "parameters": ["severity_filter"],
+  "context_fields": [],
+  "description": "Navigate to the Service Alerts page and apply a severity filter (All, High, Medium, or Low)."
+}

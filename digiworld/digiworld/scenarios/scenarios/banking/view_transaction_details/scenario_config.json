@@ -1,0 +1,11 @@
+{
+  "task_name": "View details of transaction <transaction_description>",
+  "app_name": "banking",
+  "scenario_class": "ViewTransactionDetailsScenario",
+  "parameters": [
+    "transaction_description"
+  ],
+  "context_fields": [],
+  "description": "View the details page of a specific transaction by its description.",
+  "additional_mockdata": true
+}

@@ -1,0 +1,11 @@
+{
+  "task_name": "Delete the vehicle with plate <plate_number>",
+  "app_name": "parking",
+  "scenario_class": "DeleteVehicleScenario",
+  "parameters": [
+    "plate_number"
+  ],
+  "context_fields": [],
+  "additional_mockdata": true,
+  "description": "Delete a specific vehicle from the user's registered vehicles by its plate number."
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Minty Breath Freshening Mouthwash",
+    "description": "Mouthwash with a strong mint flavour that combats bad breath and kills 99.9% of plaque\u2011forming bacteria. Alcohol\u2011free formula soothes gums while leaving a clean taste.",
+    "shortDescription": "Mint mouthwash that freshens breath and fights plaque.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Fresh Breath Works",
+    "price": 1414.05,
+    "discountedPrice": 1032.26,
+    "discountPercent": 27,
+    "categoryId": 6,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 48,
+    "subcategoryName": "Oral Care",
+    "inStock": true,
+    "stockCount": 37,
+    "imageUrl": "/190_1",
+    "specs": "{\"ingredients\": \"Water, Glycerin, Peppermint Oil, Sodium Benzoate, Potassium Sorbate\", \"skinType\": \"All\", \"volume\": \"500ml\", \"fragrance\": \"Mint\", \"madeIn\": \"Germany\", \"expiryPeriod\": \"24 months\"}",
+    "tags": "[\"personal\", \"beauty\", \"oral\", \"care\", \"premium\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

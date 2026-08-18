@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 9990,
+    "categoryId": 4,
+    "title": "Epic Street Magic Showdown",
+    "description": "Watch two master magicians battle it out on the city streets, pulling off mind\u2011blowing tricks for unsuspecting crowds.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 422,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 1635,
+    "likeCount": 32,
+    "commentCount": 14,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

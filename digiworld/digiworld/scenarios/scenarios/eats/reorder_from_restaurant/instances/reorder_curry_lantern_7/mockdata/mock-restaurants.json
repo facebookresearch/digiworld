@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Curry Lantern",
+    "description": "Famous for its vegetarian paneer tikka masala with a cashew cream base.",
+    "address": "412 Willow Creek Road, Phoenix, AZ 85004",
+    "latitude": 33.4484,
+    "longitude": -112.074,
+    "logo": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.4,
+    "deliveryFee": 4.97,
+    "minOrder": 7.0,
+    "deliveryRadius": 6,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

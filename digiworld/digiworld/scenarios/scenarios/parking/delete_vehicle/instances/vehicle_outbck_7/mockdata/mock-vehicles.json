@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "nickname": "Outback Wanderer",
+    "make": "Sylvan",
+    "model": "Backcountry",
+    "color": "Purple",
+    "year": 2026,
+    "plateNumber": "OUTBCK",
+    "vehicleTypeId": 2,
+    "isDefault": 0,
+    "createdAt": "{{end_timestamp}}",
+    "updatedAt": "{{end_timestamp}}",
+    "metadata": null
+  }
+]

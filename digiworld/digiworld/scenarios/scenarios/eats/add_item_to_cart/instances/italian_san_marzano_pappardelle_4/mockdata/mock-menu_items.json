@@ -1,0 +1,15 @@
+[
+  {
+    "id": 90001,
+    "restaurantId": 90001,
+    "categoryId": 90001,
+    "name": "San Marzano Pappardelle",
+    "description": "Broad pappardelle noodles coated in a slow-simmered San Marzano tomato sauce.",
+    "price": 14.0,
+    "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=600&q=80",
+    "calories": 660,
+    "isPopular": 0,
+    "isActive": 1,
+    "position": 1
+  }
+]

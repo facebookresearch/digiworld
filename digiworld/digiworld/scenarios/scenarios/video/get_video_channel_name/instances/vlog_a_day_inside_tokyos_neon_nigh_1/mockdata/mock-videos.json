@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 9990,
+    "categoryId": 7,
+    "title": "A Day Inside Tokyo's Neon Nightlife",
+    "description": "Join me as I explore Tokyo after dark, sampling street food, arcade games, and hidden karaoke bars.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 408,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 9295,
+    "likeCount": 30,
+    "commentCount": 45,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

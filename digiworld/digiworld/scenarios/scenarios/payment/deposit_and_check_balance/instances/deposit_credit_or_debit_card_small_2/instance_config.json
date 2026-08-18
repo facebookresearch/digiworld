@@ -1,0 +1,31 @@
+{
+  "parameters": {
+    "amount": "32.03",
+    "deposit_method": "Credit or Debit Card"
+  },
+  "compatible_profiles": [
+    "big_spender",
+    "default",
+    "high_deposit",
+    "high_failure_rate",
+    "low_transfer",
+    "micro_payments",
+    "mostly_pending",
+    "recent_activity",
+    "savings_mode",
+    "sparse_contacts"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:32.070442+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  },
+  "scenario_context": {
+    "userPin": "{{current_user_pin}}"
+  }
+}

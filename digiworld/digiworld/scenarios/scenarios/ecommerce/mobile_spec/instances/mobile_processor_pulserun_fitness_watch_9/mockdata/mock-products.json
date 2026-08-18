@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "PulseRun Fitness Watch",
+    "description": "PulseRun Fitness Watch features a sleek AMOLED screen and advanced health sensors. Tracks VO2 max, stress levels, and offers guided workouts. Includes NFC for contactless payments and music control. Up to 10 days of battery life with active use.",
+    "shortDescription": "Fitness\u2011focused smartwatch with AMOLED display and NFC payments.",
+    "rating": 3.5,
+    "reviewCount": 4,
+    "seller": "HealthPulse Store",
+    "price": 1459.96,
+    "discountedPrice": 744.58,
+    "discountPercent": 49,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 6,
+    "subcategoryName": "Smartwatches",
+    "inStock": true,
+    "stockCount": 175,
+    "imageUrl": "/22_1",
+    "specs": "{\"display\": \"1.2-inch LCD, 390x390\", \"processor\": \"NovaSil MT2523\", \"ram\": \"512 MB\", \"storage\": \"4 GB\", \"battery\": \"300 mAh\", \"os\": \"Proprietary RTOS\", \"connectivity\": \"Bluetooth 5.1, GPS\"}",
+    "tags": "[\"smartwatches\", \"electronics\", \"high-quality\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,391 @@
+[
+  {
+    "id": "stop-1",
+    "name": "Harbor Exchange",
+    "areaId": 1,
+    "description": "Major interchange between coastal buses and commuter rail.",
+    "latitude": 37.7797,
+    "longitude": -122.3893,
+    "modesServed": ["bus", "train", "subway"],
+    "facilities": [
+      "Shelter",
+      "Bike Lockers",
+      "Digital Displays",
+      "Ticket Machines"
+    ],
+    "amenities": ["Coffee Cart", "Public Restrooms", "ATM"],
+    "accessibility": [
+      "Wheelchair Accessible",
+      "Audio Announcements",
+      "Tactile Paving"
+    ],
+    "platforms": [
+      {
+        "mode": "bus",
+        "latitude": 37.7797,
+        "longitude": -122.3893,
+        "walkingDistanceMeters": 0,
+        "description": "Curbside bus bays along Embarcadero Way."
+      },
+      {
+        "mode": "train",
+        "latitude": 37.7801,
+        "longitude": -122.3889,
+        "walkingDistanceMeters": 110,
+        "description": "Commuter rail platforms inside Harbor Exchange terminal."
+      },
+      {
+        "mode": "subway",
+        "latitude": 37.7799,
+        "longitude": -122.3891,
+        "walkingDistanceMeters": 80,
+        "description": "Underground metro station with direct access."
+      }
+    ]
+  },
+  {
+    "id": "stop-2",
+    "name": "Civic Center Hub",
+    "areaId": 2,
+    "description": "Central downtown station serving all rapid transit lines.",
+    "latitude": 37.7793,
+    "longitude": -122.4192,
+    "modesServed": ["bus", "subway", "train"],
+    "facilities": [
+      "Customer Service Desk",
+      "Security Patrol",
+      "Elevators",
+      "Escalators"
+    ],
+    "amenities": ["Retail Kiosks", "Water Fountain", "Food Court"],
+    "accessibility": ["Elevators", "Tactile Guidance", "Braille Signage"],
+    "platforms": [
+      {
+        "mode": "bus",
+        "latitude": 37.7791,
+        "longitude": -122.4198,
+        "walkingDistanceMeters": 65,
+        "description": "Surface-level bus plaza on Hyde Street."
+      },
+      {
+        "mode": "subway",
+        "latitude": 37.779,
+        "longitude": -122.4191,
+        "walkingDistanceMeters": 20,
+        "description": "Underground mezzanine serving S1 and S2 lines."
+      },
+      {
+        "mode": "train",
+        "latitude": 37.7798,
+        "longitude": -122.4202,
+        "walkingDistanceMeters": 140,
+        "description": "Regional rail hall adjacent to Fulton Terminal."
+      }
+    ]
+  },
+  {
+    "id": "stop-3",
+    "name": "Market Street Gateway",
+    "areaId": 3,
+    "description": "Underground subway station with direct bus connections.",
+    "latitude": 37.7879,
+    "longitude": -122.4074,
+    "modesServed": ["bus", "train", "subway"],
+    "facilities": ["Shelter", "Digital Displays", "Security Cameras"],
+    "amenities": ["Lockers", "Vending Machines"],
+    "accessibility": ["Wheelchair Accessible", "Audio Announcements"],
+    "platforms": [
+      {
+        "mode": "bus",
+        "latitude": 37.7881,
+        "longitude": -122.4078,
+        "walkingDistanceMeters": 45,
+        "description": "Dedicated bus stop on Market Street median."
+      },
+      {
+        "mode": "subway",
+        "latitude": 37.7878,
+        "longitude": -122.4072,
+        "walkingDistanceMeters": 30,
+        "description": "Subterranean island platform accessible via Market entrance."
+      },
+      {
+        "mode": "train",
+        "latitude": 37.7876,
+        "longitude": -122.4076,
+        "walkingDistanceMeters": 100,
+        "description": "Regional rail platform adjacent to subway station."
+      }
+    ]
+  },
+  {
+    "id": "stop-4",
+    "name": "Skyline Commons",
+    "areaId": 4,
+    "description": "Hilltop residential stop with panoramic views.",
+    "latitude": 37.7618,
+    "longitude": -122.4478,
+    "modesServed": ["bus"],
+    "facilities": ["Shelter", "Benches"],
+    "amenities": ["Bike Rack"],
+    "accessibility": ["Ramp Access"],
+    "platforms": [
+      {
+        "mode": "bus",
+        "latitude": 37.7618,
+        "longitude": -122.4478,
+        "walkingDistanceMeters": 0,
+        "description": "Single bus stop on Skyline Boulevard."
+      }
+    ]
+  },
+  {
+    "id": "stop-5",
+    "name": "Innovation Park",
+    "areaId": 5,
+    "description": "Primary stop for tech campus and business park.",
+    "latitude": 37.3947,
+    "longitude": -122.1503,
+    "modesServed": ["bus", "train"],
+    "facilities": [
+      "Digital Displays",
+      "Security Cameras",
+      "Covered Waiting Area"
+    ],
+    "amenities": ["Food Trucks", "Charging Stations", "WiFi"],
+    "accessibility": ["Wheelchair Accessible", "Braille Signage", "Elevators"],
+    "platforms": [
+      {
+        "mode": "bus",
+        "latitude": 37.3947,
+        "longitude": -122.1503,
+        "walkingDistanceMeters": 0,
+        "description": "Bus bay adjacent to campus entrance."
+      },
+      {
+        "mode": "train",
+        "latitude": 37.3951,
+        "longitude": -122.1508,
+        "walkingDistanceMeters": 95,
+        "description": "Train platform with direct walkway to tech campus."
+      }
+    ]
+  },
+  {
+    "id": "stop-6",
+    "name": "University Square",
+    "areaId": 3,
+    "description": "Student-focused station with late-night service.",
+    "latitude": 37.8716,
+    "longitude": -122.2727,
+    "modesServed": ["bus", "train", "subway"],
+    "facilities": ["Study Lounge", "Secure Bicycle Parking", "Lockers"],
+    "amenities": ["Bookstore", "Cafe", "Student Center"],
+    "accessibility": ["Elevators", "Audio Announcements", "Wide Turnstiles"],
+    "platforms": [
+      {
+        "mode": "bus",
+        "latitude": 37.8716,
+        "longitude": -122.2727,
+        "walkingDistanceMeters": 0,
+        "description": "Bus stop at campus entrance."
+      },
+      {
+        "mode": "subway",
+        "latitude": 37.8713,
+        "longitude": -122.2731,
+        "walkingDistanceMeters": 80,
+        "description": "Underground station beneath university plaza."
+      },
+      {
+        "mode": "train",
+        "latitude": 37.8718,
+        "longitude": -122.2725,
+        "walkingDistanceMeters": 120,
+        "description": "Regional rail platform near campus."
+      }
+    ]
+  },
+  {
+    "id": "stop-7",
+    "name": "Aurora Heights",
+    "areaId": 4,
+    "description": "Residential suburb with express train service.",
+    "latitude": 37.8044,
+    "longitude": -122.2711,
+    "modesServed": ["bus", "train", "subway"],
+    "facilities": ["Park & Ride", "Shelter", "Ticket Machines"],
+    "amenities": ["Farmers Market (Seasonal)", "Coffee Shop"],
+    "accessibility": ["Wheelchair Accessible", "Ramp Access"],
+    "platforms": [
+      {
+        "mode": "train",
+        "latitude": 37.8044,
+        "longitude": -122.2711,
+        "walkingDistanceMeters": 0,
+        "description": "Elevated train platform with parking below."
+      },
+      {
+        "mode": "bus",
+        "latitude": 37.8041,
+        "longitude": -122.2714,
+        "walkingDistanceMeters": 60,
+        "description": "Bus stops at street level near station entrance."
+      },
+      {
+        "mode": "subway",
+        "latitude": 37.8042,
+        "longitude": -122.2713,
+        "walkingDistanceMeters": 70,
+        "description": "Underground metro station beneath train platform."
+      }
+    ]
+  },
+  {
+    "id": "stop-8",
+    "name": "Seaside Terrace",
+    "areaId": 6,
+    "description": "Coastal community hub and popular residential stop.",
+    "latitude": 37.7338,
+    "longitude": -122.503,
+    "modesServed": ["bus", "train"],
+    "facilities": ["Shelter", "Real-Time Displays", "Benches"],
+    "amenities": ["Beach Access", "Bike Rentals", "Restrooms"],
+    "accessibility": ["Ramp Access", "Visual Alerts", "Wide Pathways"],
+    "platforms": [
+      {
+        "mode": "bus",
+        "latitude": 37.7338,
+        "longitude": -122.503,
+        "walkingDistanceMeters": 0,
+        "description": "Bus stop along coastal promenade."
+      },
+      {
+        "mode": "train",
+        "latitude": 37.7335,
+        "longitude": -122.5026,
+        "walkingDistanceMeters": 75,
+        "description": "Train platform with ocean views."
+      }
+    ]
+  },
+  {
+    "id": "stop-9",
+    "name": "Northgate Terminal",
+    "areaId": 2,
+    "description": "Northern gateway to downtown with multiple connections.",
+    "latitude": 37.7965,
+    "longitude": -122.4185,
+    "modesServed": ["bus", "train", "subway"],
+    "facilities": ["Transfer Center", "Information Kiosk", "Digital Displays"],
+    "amenities": ["Convenience Store", "ATM"],
+    "accessibility": ["Wheelchair Accessible", "Elevators", "Tactile Guidance"],
+    "platforms": [
+      {
+        "mode": "subway",
+        "latitude": 37.7965,
+        "longitude": -122.4185,
+        "walkingDistanceMeters": 0,
+        "description": "Underground platforms for north-south subway lines."
+      },
+      {
+        "mode": "bus",
+        "latitude": 37.7968,
+        "longitude": -122.4182,
+        "walkingDistanceMeters": 50,
+        "description": "Surface bus terminal with multiple bays."
+      },
+      {
+        "mode": "train",
+        "latitude": 37.7963,
+        "longitude": -122.4188,
+        "walkingDistanceMeters": 90,
+        "description": "Regional rail terminal with express service."
+      }
+    ]
+  },
+  {
+    "id": "stop-10",
+    "name": "Bayside Marina",
+    "areaId": 1,
+    "description": "Waterfront stop near marina and restaurants.",
+    "latitude": 37.7712,
+    "longitude": -122.3856,
+    "modesServed": ["train", "subway"],
+    "facilities": ["Shelter", "Benches", "Lighting"],
+    "amenities": ["Marina Access", "Restaurants Nearby"],
+    "accessibility": ["Wheelchair Accessible", "Level Boarding"],
+    "platforms": [
+      {
+        "mode": "train",
+        "latitude": 37.7712,
+        "longitude": -122.3856,
+        "walkingDistanceMeters": 0,
+        "description": "Waterfront rail platform with scenic views."
+      },
+      {
+        "mode": "subway",
+        "latitude": 37.771,
+        "longitude": -122.3858,
+        "walkingDistanceMeters": 60,
+        "description": "Underground metro station near marina."
+      }
+    ]
+  },
+  {
+    "id": "stop-11",
+    "name": "Tech Plaza",
+    "areaId": 5,
+    "description": "Modern stop serving technology district offices.",
+    "latitude": 37.3892,
+    "longitude": -122.1447,
+    "modesServed": ["train", "subway"],
+    "facilities": ["Digital Displays", "WiFi", "Covered Area"],
+    "amenities": ["Coffee Shop", "Fast Food", "Charging Stations"],
+    "accessibility": ["Wheelchair Accessible", "Automated Doors"],
+    "platforms": [
+      {
+        "mode": "train",
+        "latitude": 37.3892,
+        "longitude": -122.1447,
+        "walkingDistanceMeters": 0,
+        "description": "Regional rail platform integrated into office plaza."
+      },
+      {
+        "mode": "subway",
+        "latitude": 37.3889,
+        "longitude": -122.1443,
+        "walkingDistanceMeters": 70,
+        "description": "Underground station with direct building access."
+      }
+    ]
+  },
+  {
+    "id": "stop-12",
+    "name": "Beachfront Pavilion",
+    "areaId": 6,
+    "description": "Popular beach access point with seasonal service.",
+    "latitude": 37.7265,
+    "longitude": -122.5085,
+    "modesServed": ["train", "subway"],
+    "facilities": ["Shelter", "Bike Parking"],
+    "amenities": ["Beach Access", "Boardwalk", "Restrooms"],
+    "accessibility": ["Ramp Access", "Beach Wheelchair Available"],
+    "platforms": [
+      {
+        "mode": "train",
+        "latitude": 37.7265,
+        "longitude": -122.5085,
+        "walkingDistanceMeters": 0,
+        "description": "Regional rail terminal at beachfront pavilion."
+      },
+      {
+        "mode": "subway",
+        "latitude": 37.7263,
+        "longitude": -122.5087,
+        "walkingDistanceMeters": 50,
+        "description": "Underground metro station near beach access."
+      }
+    ]
+  }
+]

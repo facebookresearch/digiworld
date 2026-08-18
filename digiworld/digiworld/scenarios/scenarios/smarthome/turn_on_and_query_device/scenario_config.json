@@ -1,0 +1,9 @@
+{
+  "task_name": "Turn on <device_name>, then tell me the <info_type> of the device <device_name>",
+  "app_name": "smarthome",
+  "scenario_class": "TurnOnAndQueryDeviceScenario",
+  "parameters": ["device_name", "info_type"],
+  "context_fields": [],
+  "description": "Turn on a device and then query information about it",
+  "additional_mockdata": true
+}

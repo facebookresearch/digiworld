@@ -1,0 +1,19 @@
+[
+  {
+    "flight_id": "EK6573_2026-08-15",
+    "airline_id": "airline_ek",
+    "airline_code": "EK",
+    "flight_number": "EK6573",
+    "origin": "DXB",
+    "destination": "SIN",
+    "departure_time": "2026-08-15T14:45:00Z",
+    "arrival_time": "2026-08-15T17:42:00Z",
+    "duration_minutes": 177,
+    "fare": 789.84,
+    "currency": "USD",
+    "seats_available": 194,
+    "aircraft_type": "Boeing 737-800",
+    "date": "2026-08-15",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

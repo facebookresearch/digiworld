@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Royal Curry House",
+    "description": "Slow-simmered royal lamb rogan josh with aromatic garam masala.",
+    "address": "222 Birch Court, Seattle, WA 98101",
+    "latitude": 47.6062,
+    "longitude": -122.3321,
+    "logo": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 3.9,
+    "deliveryFee": 4.35,
+    "minOrder": 10.0,
+    "deliveryRadius": 6,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "booking_id": "BK-TEST-VD6DPBHS",
+    "booking_reference": "VD6DPBHS",
+    "user_id": "{{current_user_id}}",
+    "trip_type": "one_way",
+    "booking_date": "{{end_timestamp}}",
+    "status": "confirmed",
+    "payment_status": "paid",
+    "total_price": 381.52,
+    "refund_amount": 0,
+    "amount_paid": 381.52,
+    "currency": "USD",
+    "flights": [
+      {
+        "flight_id": "QF9179_2026-08-15",
+        "airline_code": "QF",
+        "flight_number": "QF9179",
+        "origin": "SYD",
+        "destination": "LHR",
+        "departure_time": "2026-08-15T19:15:00Z",
+        "arrival_time": "2026-08-16T00:37:00Z",
+        "duration_minutes": 322,
+        "fare": 381.52,
+        "segment": "outbound",
+        "status": "confirmed"
+      }
+    ],
+    "passengers": [
+      {
+        "passenger_id": "P-VD6DPBHS-688637",
+        "first_name": "Test",
+        "last_name": "Traveler",
+        "email": "test.traveler@example.com",
+        "phone": "+1-555-9830",
+        "date_of_birth": "1983-12-19",
+        "passport_number": "X67503414",
+        "seat_assignments": [
+          {
+            "flight_id": "QF9179_2026-08-15",
+            "seat_number": "29E",
+            "check_in_status": "not_checked_in",
+            "check_in_time": null
+          }
+        ],
+        "ticket_number": "TK-VD6DPBHS-688637",
+        "created_at": "2026-01-01T00:00:00Z"
+      }
+    ],
+    "created_at": "{{end_timestamp}}",
+    "updated_at": "{{end_timestamp}}"
+  }
+]

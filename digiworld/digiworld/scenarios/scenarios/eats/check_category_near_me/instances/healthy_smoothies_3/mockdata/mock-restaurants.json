@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Vital Blend Bar",
+    "description": "Specializes in turmeric-ginger smoothies topped with chia seeds.",
+    "address": "527 Summit Street, Kansas City, MO 64105",
+    "latitude": 39.0997,
+    "longitude": -94.5786,
+    "logo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.1,
+    "deliveryFee": 2.75,
+    "minOrder": 7.0,
+    "deliveryRadius": 6,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

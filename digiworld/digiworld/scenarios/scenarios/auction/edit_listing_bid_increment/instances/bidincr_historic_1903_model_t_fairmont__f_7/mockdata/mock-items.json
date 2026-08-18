@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754160075,
+    "title": "Historic 1903 Model T Ford \u2013 Fully Restored, Running Condition",
+    "description": "Original Ford engine, newly painted black, includes period\u2011correct leather seat and wooden steering wheel.",
+    "categoryId": 4,
+    "sellerId": "{{current_user_id}}",
+    "price": 1938.34,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 3,
+    "imageUrl": "https://example.com/images/historic-1903-model-t-ford-\u2013-fully-restored,-running-condition.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 1154.41,
+    "currentBid": 1944.32,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

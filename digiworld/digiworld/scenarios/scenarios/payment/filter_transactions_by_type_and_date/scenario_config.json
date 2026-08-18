@@ -1,0 +1,8 @@
+{
+  "task_name": "Show me transactions filtered by <filter_type> and by the date range of <date_range>",
+  "app_name": "payment",
+  "scenario_class": "FilterTransactionsByTypeAndDateScenario",
+  "parameters": ["filter_type", "date_range"],
+  "context_fields": [],
+  "description": "Verify the user navigated to transactions with both type and date range filters applied."
+}

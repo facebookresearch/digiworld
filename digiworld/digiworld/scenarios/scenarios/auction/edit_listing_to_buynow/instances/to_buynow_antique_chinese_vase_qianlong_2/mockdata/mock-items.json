@@ -1,0 +1,22 @@
+[
+  {
+    "id": 182630043,
+    "title": "Antique Chinese Vase, Qianlong Period (1736-1795)",
+    "description": "A stunning antique Chinese vase from the Qianlong period, featuring intricate blue and white glaze and ornate decoration. A true piece of Chinese art history.",
+    "categoryId": 12,
+    "sellerId": "{{current_user_id}}",
+    "price": 517.12,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 7,
+    "imageUrl": "https://example.com/images/antique-chinese-vase,-qianlong-period-(1736-1795).jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 255.96,
+    "currentBid": 367.55,
+    "bidIncrement": 5.0,
+    "endTime": 1773281263,
+    "expired": 0
+  }
+]

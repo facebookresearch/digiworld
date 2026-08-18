@@ -1,0 +1,8 @@
+{
+  "task_name": "Is installation required for the <item> automotive item?",
+  "app_name": "ecommerce",
+  "scenario_class": "AutomotiveInstallationScenario",
+  "parameters": ["item"],
+  "context_fields": [],
+  "description": "Check if installation is required for an automotive product"
+}

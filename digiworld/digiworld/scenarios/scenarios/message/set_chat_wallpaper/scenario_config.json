@@ -1,0 +1,9 @@
+{
+    "task_name": "Set my chat wallpaper to <wallpaper>",
+    "app_name": "message",
+    "scenario_class": "SetChatWallpaperScenario",
+    "parameters": ["wallpaper"],
+    "context_fields": [],
+    "description": "Change the chat wallpaper setting to a specified option",
+    "additional_mockdata": false
+}

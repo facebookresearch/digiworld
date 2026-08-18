@@ -1,0 +1,8 @@
+{
+  "task_name": "How much power does the <item> item use?",
+  "app_name": "ecommerce",
+  "scenario_class": "ElectronicsPowerConsumptionScenario",
+  "parameters": ["item"],
+  "context_fields": [],
+  "description": "Retrieve the power consumption specification for an electronics product"
+}

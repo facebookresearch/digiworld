@@ -1,0 +1,8 @@
+{
+  "task_name": "When was my <recency> past ride?",
+  "app_name": "ryde",
+  "scenario_class": "PastRideDateScenario",
+  "parameters": ["recency"],
+  "context_fields": [],
+  "description": "Look up the date of the oldest or most recent completed ride"
+}

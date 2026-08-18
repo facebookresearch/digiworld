@@ -1,0 +1,6 @@
+{
+    "app_name": "email",
+    "apk_name": "com.andojomail.sbx",
+    "database_doc_path": "../../../../../apps/email/src/docs/database.md",
+    "feature_scope_path": "../../../../../apps/email/src/docs/feature-scope.md"
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "All-Natural Beef & Veggie Dry Dog Kibble",
+    "description": "All-natural beef and vegetable kibble offers a wholesome blend of real beef, carrots, and peas. The recipe is crafted without synthetic preservatives, ensuring natural nutrition. Perfect for everyday feeding of adult dogs.",
+    "shortDescription": "All-natural beef and veggie kibble for everyday feeding.",
+    "rating": 2.3,
+    "reviewCount": 0,
+    "seller": "Green Meadow Pet Foods",
+    "price": 36.5,
+    "discountedPrice": 25.55,
+    "discountPercent": 30,
+    "categoryId": 10,
+    "categoryName": "Pet Supplies",
+    "subcategoryId": 70,
+    "subcategoryName": "Dog Food",
+    "inStock": true,
+    "stockCount": 89,
+    "imageUrl": "/280_1",
+    "specs": "{\"material\": \"Beef, sweet potato, peas, carrots, natural antioxidants\", \"suitableFor\": \"Adult dogs\", \"weight\": \"18 lbs (8.2 kg) bag\", \"dimensions\": \"13 x 9 x 4 inches\", \"warranty\": \"30-day money-back guarantee\", \"ageRange\": \"1 to 7 years\"}",
+    "tags": "[\"supplies\", \"pet\", \"dog\", \"food\", \"high-quality\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "task_name": "Turn on the LED Strips named \"<device_name>\", set the brightness to <brightness>%, set the color mode to <color_mode>, set effects to <effects> and set music sync to <music_sync>",
+  "app_name": "smarthome",
+  "scenario_class": "ConfigureLedStripsScenario",
+  "parameters": ["device_name", "brightness", "color_mode", "effects", "music_sync"],
+  "context_fields": [],
+  "description": "Configure LED Strips with brightness, color mode, effects, and music sync settings",
+  "additional_mockdata": true
+}

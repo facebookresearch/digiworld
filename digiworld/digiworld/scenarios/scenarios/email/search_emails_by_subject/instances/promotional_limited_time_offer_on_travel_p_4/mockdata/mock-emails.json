@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "olivia.reed@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Limited time offer on travel packages",
+    "preview": "Hi, we are offering a limited time offer on travel...",
+    "body": "Hi, we are offering a limited time offer on travel packages to tropical destinations. Book now and save up to 25%.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_olivia_reed_limited_time_offer_on_travel",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "mark.thompson@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Grab the limited time offer on travel packages",
+    "preview": "Hello, grab the limited time offer on travel packa...",
+    "body": "Hello, grab the limited time offer on travel packages before it ends this weekend. Exclusive deals on flights and hotels are available.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_mark_thompson_grab_the_limited_time_offe",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

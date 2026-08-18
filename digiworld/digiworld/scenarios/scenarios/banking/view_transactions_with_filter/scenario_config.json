@@ -1,0 +1,10 @@
+{
+  "task_name": "View all transactions, then filter by <filter_type>",
+  "app_name": "banking",
+  "scenario_class": "ViewTransactionsWithFilterScenario",
+  "parameters": [
+    "filter_type"
+  ],
+  "context_fields": [],
+  "description": "Navigate to transactions screen and apply a transaction type filter."
+}

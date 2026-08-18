@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "david.luo@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Book Club Meeting Rescheduled",
+    "preview": "Hi, the book club meeting has been moved to next W...",
+    "body": "Hi, the book club meeting has been moved to next Wednesday at 6pm due to venue availability. Let me know if you can still attend.",
+    "timestamp": "{{middle_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_david_luo_book_club_meeting_rescheduled",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

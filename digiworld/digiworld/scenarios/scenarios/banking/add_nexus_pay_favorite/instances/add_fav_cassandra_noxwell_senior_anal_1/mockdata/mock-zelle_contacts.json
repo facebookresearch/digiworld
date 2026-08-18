@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "contactName": "Cassandra Noxwell, Senior Analyst, Helix Dynamics",
+    "contactEmail": "cassandra.noxwell@example.com",
+    "contactPhone": "{{random_phone}}",
+    "isEnrolled": 1,
+    "isFavorite": 0,
+    "lastSentAmount": null,
+    "lastSentDate": null,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

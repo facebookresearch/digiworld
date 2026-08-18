@@ -1,0 +1,74 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "orderNumber": "ORD-770487",
+    "userId": "{{current_user_id}}",
+    "items": [
+      {
+        "id": 9104,
+        "productId": 9692,
+        "productName": "UltraFlex Bluetooth Headphones",
+        "productImage": "https://picsum.photos/seed/9935/600/400",
+        "shortDescription": "High-fidelity wireless over-ear headphones with active noise cancellation and 30-hour battery life.",
+        "sku": "SKU-2424",
+        "categoryName": "Electronics",
+        "subcategoryName": "Wireless Over-Ear Headphones",
+        "seller": "Test Seller",
+        "quantity": 1,
+        "price": 133.77,
+        "discountedPrice": 133.77,
+        "total": 133.77,
+        "savedAmount": 0,
+        "addedAt": "{{middle_timestamp}}",
+        "inStock": true
+      }
+    ],
+    "subtotal": 133.77,
+    "totalSavings": 0,
+    "shipping": 7.79,
+    "tax": 11.04,
+    "couponDiscount": 0,
+    "couponCode": null,
+    "totalAmount": 152.6,
+    "status": "Delivered",
+    "statusHistory": [
+      {
+        "status": "Order Placed",
+        "timestamp": "{{middle_timestamp}}",
+        "description": "Your order has been received and is being processed."
+      },
+      {
+        "status": "Payment Confirmed",
+        "timestamp": "{{middle_timestamp}}",
+        "description": "Payment has been successfully processed."
+      },
+      {
+        "status": "Shipped",
+        "timestamp": "{{middle_timestamp}}",
+        "description": "Your order has been shipped and is on its way to you."
+      },
+      {
+        "status": "Delivered",
+        "timestamp": "{{end_timestamp}}",
+        "description": "Your order has been delivered successfully."
+      }
+    ],
+    "deliveryAddress": {
+      "fullName": "{{current_user_address_full_name}}",
+      "street": "{{current_user_address_street}}",
+      "city": "{{current_user_address_city}}",
+      "state": "{{current_user_address_state}}",
+      "pincode": "{{current_user_address_pincode}}"
+    },
+    "paymentMethod": "Credit Card",
+    "paymentStatus": "Completed",
+    "orderDate": "{{middle_timestamp}}",
+    "shippedDate": "{{middle_timestamp}}",
+    "deliveryDate": "{{end_timestamp}}",
+    "estimatedDeliveryDate": "{{end_timestamp}}",
+    "trackingNumber": "TRK-719176",
+    "courierPartner": "Express Shipping",
+    "isGift": false,
+    "giftMessage": null
+  }
+]

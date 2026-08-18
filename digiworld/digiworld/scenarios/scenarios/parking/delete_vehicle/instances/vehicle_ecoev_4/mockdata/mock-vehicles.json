@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "nickname": "Eco Flash",
+    "make": "Baymar",
+    "model": "i3",
+    "color": "Green",
+    "year": 2021,
+    "plateNumber": "ECOEV",
+    "vehicleTypeId": 5,
+    "isDefault": 0,
+    "createdAt": "{{end_timestamp}}",
+    "updatedAt": "{{end_timestamp}}",
+    "metadata": null
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 99903,
+    "userId": 1,
+    "nickname": "Lil' Rider",
+    "make": "Harley-Davidson",
+    "model": "Sportster",
+    "color": "Red",
+    "year": 2026,
+    "plateNumber": "BIKER7",
+    "vehicleTypeId": 6,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

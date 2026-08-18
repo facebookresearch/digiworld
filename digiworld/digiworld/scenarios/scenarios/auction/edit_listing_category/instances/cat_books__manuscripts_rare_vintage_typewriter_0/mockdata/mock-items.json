@@ -1,0 +1,22 @@
+[
+  {
+    "id": 181890005,
+    "title": "Rare Vintage Typewriter",
+    "description": "A functional antique typewriter from the early 20th century, perfect for collectors of unique writing instruments.",
+    "categoryId": 3,
+    "sellerId": "{{current_user_id}}",
+    "price": 1699.83,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 13,
+    "imageUrl": "https://example.com/images/rare-vintage-typewriter.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 964.92,
+    "currentBid": 1032.03,
+    "bidIncrement": 5.0,
+    "endTime": 1772676389,
+    "expired": 0
+  }
+]

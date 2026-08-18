@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "user_id": "{{current_user_id}}",
+    "full_name": "Marcus J. Patel",
+    "street": "8856 Cedar Blvd",
+    "city": "Hickory Hills",
+    "state": "IL",
+    "pincode": "60431",
+    "phone": "+1-555-1429",
+    "country": "United States",
+    "delivery_instructions": "",
+    "is_default": 0,
+    "created_at": "2025-06-15 12:00:00.000",
+    "updated_at": "2025-06-15 12:00:00.000"
+  }
+]

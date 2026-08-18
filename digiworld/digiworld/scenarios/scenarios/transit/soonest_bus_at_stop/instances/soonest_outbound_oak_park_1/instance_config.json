@@ -1,0 +1,20 @@
+{
+  "parameters": {
+    "direction": "outbound",
+    "stop_name": "Oak Park",
+    "line_name": "Riverfront Loop"
+  },
+  "compatible_profiles": [
+    "default"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:39.723019+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

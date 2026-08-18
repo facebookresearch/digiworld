@@ -1,0 +1,8 @@
+{
+  "task_name": "What is my <limit_type> limit?",
+  "app_name": "payment",
+  "scenario_class": "CheckLimitScenario",
+  "parameters": ["limit_type"],
+  "context_fields": [],
+  "description": "Verify the agent correctly reports the user's daily or monthly transaction limit."
+}

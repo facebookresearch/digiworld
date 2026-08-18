@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9905,
+    "name": "PetSafe Interactive Cat Toy",
+    "description": "Battery\u2011operated feather wand that moves randomly to keep cats entertained for hours.",
+    "shortDescription": "Cat interactive toy",
+    "price": 176.72,
+    "discountedPrice": 176.72,
+    "discountPercent": 0,
+    "rating": 4.4,
+    "reviewCount": 359,
+    "seller": "HappyPaws",
+    "categoryName": "Pet Supplies",
+    "subcategoryName": "Aquarium Supplies",
+    "inStock": 1,
+    "stockCount": 175,
+    "imageUrl": "/product_2169",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

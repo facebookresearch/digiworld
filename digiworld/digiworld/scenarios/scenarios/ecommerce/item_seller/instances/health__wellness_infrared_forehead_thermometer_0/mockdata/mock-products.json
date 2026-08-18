@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Infrared Forehead Thermometer",
+    "description": "Infrared Forehead Thermometer provides quick, non\u2011contact temperature measurement within one second. The device displays body temperature on a clear LCD and includes a fever alert beep. Ideal for home use with children and the elderly.",
+    "shortDescription": "Infrared forehead thermometer measures temperature instantly without contact.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "ThermoSense Instruments",
+    "price": 75.59,
+    "discountedPrice": 64.25,
+    "discountPercent": 15,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 66,
+    "subcategoryName": "Medical Devices",
+    "inStock": true,
+    "stockCount": 69,
+    "imageUrl": "/262_1",
+    "specs": "{\"ingredients\": \"Infrared sensor, LCD screen, lithium battery, plastic housing\", \"dosage\": \"Take temperature reading by holding device 2 cm from forehead\", \"weight\": \"80 g\", \"expiryPeriod\": \"3 years from manufacture\", \"madeIn\": \"Germany\", \"certifications\": \"FDA cleared, CE, ISO 13485\"}",
+    "tags": "[\"wellness\", \"devices\", \"health\", \"medical\", \"best\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "task_name": "What's the shelf life of the <item> snack?",
+  "app_name": "ecommerce",
+  "scenario_class": "SnackShelfLifeScenario",
+  "parameters": ["item"],
+  "context_fields": [],
+  "description": "Retrieve the shelf life of a snack product"
+}

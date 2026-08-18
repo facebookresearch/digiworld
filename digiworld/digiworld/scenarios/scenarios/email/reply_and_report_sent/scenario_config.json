@@ -1,0 +1,12 @@
+{
+  "task_name": "Reply to the most recent email from \"<sender_name>\" saying: \"<email_body>\", then tell me the subject and recipient of my most recently sent email",
+  "app_name": "email",
+  "scenario_class": "ReplyAndReportSentScenario",
+  "parameters": [
+    "sender_name",
+    "email_body"
+  ],
+  "context_fields": [],
+  "description": "Composed scenario: reply to the most recent email from a sender, then report the subject and recipient of the most recently sent email.",
+  "additional_mockdata": true
+}

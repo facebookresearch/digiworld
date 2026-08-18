@@ -1,0 +1,17 @@
+[
+  {
+    "id": 99904,
+    "userId": "{{current_user_id}}",
+    "nickname": "Red Rocket",
+    "make": "Harmony",
+    "model": "Civix",
+    "color": "Blue",
+    "year": 2023,
+    "plateNumber": "REDRC",
+    "vehicleTypeId": 7,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

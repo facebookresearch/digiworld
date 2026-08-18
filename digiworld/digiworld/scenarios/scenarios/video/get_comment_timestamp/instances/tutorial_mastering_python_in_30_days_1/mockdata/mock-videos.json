@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 1,
+    "categoryId": 3,
+    "title": "Mastering Python in 30 Days",
+    "description": "A step-by-step guide to learning Python quickly",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 1252,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 8379,
+    "likeCount": 82,
+    "commentCount": 2,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "task_name": "Add a new address <address_line1> <address_line2> <city> <state> <postcode> <country> and label it as <label>",
+  "app_name": "eats",
+  "scenario_class": "AddNewAddressScenario",
+  "parameters": [
+    "address_line1",
+    "address_line2",
+    "city",
+    "state",
+    "postcode",
+    "country",
+    "label"
+  ],
+  "context_fields": [],
+  "description": "Add a new delivery address to the user's account with a specific label (Home, Office, or Other)"
+}

@@ -1,0 +1,29 @@
+{
+  "parameters": {
+    "recipient_email": "jordan.nguyen@example.com",
+    "email_subject": "Board game night invitation",
+    "email_body": "Hi, I'm hosting a board game night at my place next Thursday at 7 pm. Feel free to bring your favorite game and a snack."
+  },
+  "compatible_profiles": [
+    "50_inbox_emails",
+    "5_inbox_emails",
+    "all_drafts",
+    "default",
+    "empty_inbox",
+    "mixed",
+    "personal",
+    "spam_heavy",
+    "starred_important",
+    "work_related"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:01:17.573167+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

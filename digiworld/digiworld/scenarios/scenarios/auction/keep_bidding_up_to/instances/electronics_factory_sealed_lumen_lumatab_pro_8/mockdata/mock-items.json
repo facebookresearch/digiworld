@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754810147,
+    "title": "Factory-Sealed Lumen LumaTab Pro 2021 \u2013 12.9-inch, 256GB, Wi\u2011Fi",
+    "description": "Sealed in its original box, this 2021 Lumen LumaTab Pro is untouched, with all accessories included; the factory seal guarantees a brand\u2011new device.",
+    "categoryId": 1,
+    "sellerId": 2,
+    "price": 1017.88,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 10,
+    "imageUrl": "https://example.com/images/factory-sealed-apple-ipad-pro-2021-\u2013-12.9-inch,-256gb,-wi\u2011fi.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 30.79,
+    "currentBid": 47.99,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

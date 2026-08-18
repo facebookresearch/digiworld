@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "aisha.patel@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Project Alpha kickoff meeting minutes",
+    "preview": "Hi team, Please find attached the minutes from the...",
+    "body": "Hi team, Please find attached the minutes from the Project Alpha kickoff meeting. Let me know if any action items need clarification.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_aisha_patel_project_alpha_kickoff_meetin",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "aisha.patel@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Updated timeline for Project Alpha deliverables",
+    "preview": "Hello, The timeline for Project Alpha has been rev...",
+    "body": "Hello, The timeline for Project Alpha has been revised based on recent inputs. The updated schedule is attached for your review.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_aisha_patel_updated_timeline_for_project",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

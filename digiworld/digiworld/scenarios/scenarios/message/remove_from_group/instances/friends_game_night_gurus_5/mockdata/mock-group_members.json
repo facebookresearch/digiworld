@@ -1,0 +1,22 @@
+[
+  {
+    "groupId": "injected-group-001",
+    "userId": "{{current_user_id}}",
+    "exitedAt": null
+  },
+  {
+    "groupId": "injected-group-001",
+    "userId": "friend-001",
+    "exitedAt": null
+  },
+  {
+    "groupId": "injected-group-001",
+    "userId": "friend-002",
+    "exitedAt": null
+  },
+  {
+    "groupId": "injected-group-001",
+    "userId": "friend-003",
+    "exitedAt": null
+  }
+]

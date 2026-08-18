@@ -1,0 +1,22 @@
+[
+  {
+    "id": 753930018,
+    "title": "1927 Patek\u2011Philippe Calatrava Ref. 2523 in Stainless Steel",
+    "description": "Rare stainless\u2011steel Calatrava with original dial, polished case, and original box; a timeless piece for serious collectors.",
+    "categoryId": 4,
+    "sellerId": "{{current_user_id}}",
+    "price": 2028.34,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 13,
+    "imageUrl": "https://example.com/images/1927-patek\u2011philippe-calatrava-ref.-2523-in-stainless-steel.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 612.46,
+    "currentBid": 1007.29,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

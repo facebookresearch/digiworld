@@ -1,0 +1,12 @@
+{
+  "task_name": "Edit the listing for \"<title>\", change the auction duration to \"<days>\"",
+  "app_name": "auction",
+  "scenario_class": "EditListingDurationScenario",
+  "parameters": [
+    "title",
+    "days"
+  ],
+  "context_fields": [],
+  "additional_mockdata": true,
+  "description": "Edit an auction listing to change its duration in days."
+}

@@ -1,0 +1,40 @@
+{
+  "app_name": "flightbooking",
+  "apk_name": "com.andojofly.sbx",
+  "database_name": "default.db",
+  "home_route": "/(tabs)/home",
+  "routes": [
+    {
+      "id": "home",
+      "route": "/(tabs)/home",
+      "screen_name": "home",
+      "description": "Home screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "tickets",
+      "route": "/(tabs)/tickets",
+      "screen_name": "tickets",
+      "description": "Tickets screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "boardingpass",
+      "route": "/(tabs)/boardingpass",
+      "screen_name": "boardingPass",
+      "description": "Boarding pass screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "profile",
+      "route": "/(tabs)/profile",
+      "screen_name": "profile",
+      "description": "Profile screen",
+      "back_route": null,
+      "context_variations": []
+    }
+  ]
+}

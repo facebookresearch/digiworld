@@ -1,0 +1,19 @@
+[
+  {
+    "flight_id": "NH4899_{{tomorrow_date}}",
+    "airline_id": "airline_nh",
+    "airline_code": "NH",
+    "flight_number": "NH4899",
+    "origin": "HNL",
+    "destination": "NRT",
+    "departure_time": "{{tomorrow_date}}T20:15:00Z",
+    "arrival_time": "{{tomorrow_date_plus1}}T00:37:00Z",
+    "duration_minutes": 262,
+    "fare": 1140.36,
+    "currency": "USD",
+    "seats_available": 156,
+    "aircraft_type": "Boeing 737-800",
+    "date": "{{tomorrow_date}}",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

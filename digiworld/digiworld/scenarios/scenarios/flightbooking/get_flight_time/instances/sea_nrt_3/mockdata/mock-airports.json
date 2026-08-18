@@ -1,0 +1,18 @@
+[
+  {
+    "code": "SEA",
+    "name": "SEA International Airport",
+    "city": "SEA",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "code": "NRT",
+    "name": "NRT International Airport",
+    "city": "NRT",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

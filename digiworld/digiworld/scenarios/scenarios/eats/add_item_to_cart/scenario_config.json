@@ -1,0 +1,12 @@
+{
+  "task_name": "Add <restaurant_item> from <restaurant> to my cart",
+  "app_name": "eats",
+  "scenario_class": "AddItemToCartScenario",
+  "parameters": [
+    "restaurant_item",
+    "restaurant"
+  ],
+  "context_fields": [],
+  "description": "Add a specific menu item from a restaurant to the user's cart",
+  "additional_mockdata": true
+}

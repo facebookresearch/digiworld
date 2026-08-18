@@ -1,0 +1,17 @@
+[
+  {
+    "id": 99903,
+    "userId": "{{current_user_id}}",
+    "nickname": "Big Rig",
+    "make": "Volvo",
+    "model": "VNL",
+    "color": "White",
+    "year": 2026,
+    "plateNumber": "TRK123",
+    "vehicleTypeId": 3,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

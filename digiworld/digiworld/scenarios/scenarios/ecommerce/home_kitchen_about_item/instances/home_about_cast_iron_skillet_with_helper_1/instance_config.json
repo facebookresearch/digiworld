@@ -1,0 +1,18 @@
+{
+  "parameters": {
+    "item": "Cast Iron Skillet with Helper Handle"
+  },
+  "compatible_profiles": [
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-03-02T19:14:17.523556+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

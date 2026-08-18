@@ -1,0 +1,11 @@
+{
+  "task_name": "Turn off all devices in the room \"<room_name>\" and disable all automations and scenes",
+  "app_name": "smarthome",
+  "scenario_class": "TurnOffAllInRoomScenario",
+  "parameters": [
+    "room_name"
+  ],
+  "context_fields": [],
+  "description": "Turn off all devices in the specified room and disable all automations and scenes globally",
+  "additional_mockdata": true
+}

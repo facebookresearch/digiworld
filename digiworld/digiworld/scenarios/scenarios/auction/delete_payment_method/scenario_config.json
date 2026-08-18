@@ -1,0 +1,11 @@
+{
+  "task_name": "Delete payment method with card number ending in \"<last4CardNum>\"",
+  "app_name": "auction",
+  "scenario_class": "DeletePaymentMethodScenario",
+  "parameters": [
+    "last4CardNum"
+  ],
+  "context_fields": [],
+  "description": "Verify that the user deletes a payment method identified by the last 4 digits of its card number.",
+  "additional_mockdata": true
+}

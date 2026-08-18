@@ -1,0 +1,23 @@
+{
+  "parameters": {
+    "origin": "Santo Domingo Bakery & Coffee Shop, Clinton Street, USA",
+    "destination": "Chinese Hispanic Grocery, 130, Eldridge Street, Manhattan, USA",
+    "car_type": "Comfort",
+    "payment_method": "RegionalCard"
+  },
+  "compatible_profiles": [
+    "excellent_feedback",
+    "poor_feedback",
+    "premium_fares"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:15.124686+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

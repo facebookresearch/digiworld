@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754140070,
+    "title": "Antique Victorian Pearl Drop Earrings \u2013 Set of Two",
+    "description": "A pair of genuine Victorian\u2011era pearl drop earrings, set in antique silver with intricate filigree; excellent condition with lustrous pearls.",
+    "categoryId": 10,
+    "sellerId": "{{current_user_id}}",
+    "price": 220.03,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 11,
+    "imageUrl": "https://example.com/images/antique-victorian-pearl-drop-earrings-\u2013-set-of-two.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 85.36,
+    "currentBid": 128.29,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

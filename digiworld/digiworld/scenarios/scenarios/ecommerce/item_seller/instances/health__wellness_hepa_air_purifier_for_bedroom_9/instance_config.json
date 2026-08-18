@@ -1,0 +1,18 @@
+{
+  "parameters": {
+    "item": "HEPA Air Purifier for Bedroom (150 sq ft)"
+  },
+  "compatible_profiles": [
+    "bulk_quantity"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T03:59:50.115897+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Noodle Quest",
+    "description": "Serves a midnight miso ramen with pork belly and a soft boiled egg.",
+    "address": "900 Magnolia Blvd, Nashville, TN 37203",
+    "latitude": 36.1627,
+    "longitude": -86.7816,
+    "logo": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.7,
+    "deliveryFee": 4.28,
+    "minOrder": 10.0,
+    "deliveryRadius": 10,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

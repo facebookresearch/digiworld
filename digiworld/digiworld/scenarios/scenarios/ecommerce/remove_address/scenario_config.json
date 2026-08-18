@@ -1,0 +1,11 @@
+{
+  "task_name": "Remove the address at <street_address>",
+  "app_name": "ecommerce",
+  "scenario_class": "RemoveAddressScenario",
+  "parameters": [
+    "street_address"
+  ],
+  "context_fields": [],
+  "description": "Remove a specific saved address by street",
+  "additional_mockdata": true
+}

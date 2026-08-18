@@ -1,0 +1,9 @@
+[
+  {
+    "id": "airline_qf",
+    "name": "Qantas Airways",
+    "iata_code": "QF",
+    "country": "Australia",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

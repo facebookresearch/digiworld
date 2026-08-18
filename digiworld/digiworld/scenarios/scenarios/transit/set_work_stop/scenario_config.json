@@ -1,0 +1,10 @@
+{
+  "task_name": "Set Work Stop to <stop_name>",
+  "app_name": "transit",
+  "scenario_class": "SetWorkStopScenario",
+  "parameters": [
+    "stop_name"
+  ],
+  "context_fields": [],
+  "description": "Set the user's work stop to a specified transit stop."
+}

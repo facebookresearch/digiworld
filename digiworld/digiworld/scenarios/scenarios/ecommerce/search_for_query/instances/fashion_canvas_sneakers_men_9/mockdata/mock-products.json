@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "UrbanStep Men's Canvas Sneakers",
+    "description": "UrbanStep Men's Canvas Sneakers combine classic low-top style with modern comfort. Made from durable 100% cotton canvas upper with vulcanized rubber outsole for grip and flexibility. Features a cushioned insole with arch support and breathable mesh lining. Available in multiple colorways. Perfect for casual everyday wear.",
+    "shortDescription": "Classic low-top men's canvas sneakers with cushioned insole and vulcanized rubber sole.",
+    "rating": 4.2,
+    "reviewCount": 54,
+    "seller": "UrbanStep Footwear",
+    "price": 1799.00,
+    "discountedPrice": 1529.15,
+    "discountPercent": 15,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 14,
+    "subcategoryName": "Shoes",
+    "inStock": true,
+    "stockCount": 60,
+    "imageUrl": "/14_1",
+    "specs": "{\"upper\": \"100% Cotton Canvas\", \"sole\": \"Vulcanized Rubber\", \"lining\": \"Breathable Mesh\", \"closure\": \"Lace-up\", \"fit\": \"Regular\", \"careInstructions\": \"Spot clean only\"}",
+    "tags": "[\"shoes\", \"canvas\", \"sneakers\", \"men\", \"casual\", \"clothing\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

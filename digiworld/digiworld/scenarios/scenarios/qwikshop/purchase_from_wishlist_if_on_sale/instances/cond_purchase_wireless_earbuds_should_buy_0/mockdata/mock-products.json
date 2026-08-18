@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9900,
+    "name": "Wireless Earbuds",
+    "description": "Experience crystal-clear sound and effortless connectivity with our latest wireless earbuds, designed for comfort and durability. Compatible with both LumaMobile and Nimbus OS devices.",
+    "shortDescription": "Wireless earbuds with crystal-clear sound and long battery life.",
+    "price": 343.2,
+    "discountedPrice": 264.26,
+    "discountPercent": 23,
+    "rating": 4.8,
+    "reviewCount": 54,
+    "seller": "TechZone",
+    "categoryName": "Electronics",
+    "subcategoryName": "Smartphones",
+    "inStock": 1,
+    "stockCount": 161,
+    "imageUrl": "/product_7912",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

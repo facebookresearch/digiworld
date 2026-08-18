@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Green Bowl",
+    "description": "Green Bowl offers nourishing quinoa bowls topped with roasted seasonal vegetables.",
+    "address": "789 Elm Street, San Francisco, CA 94102",
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "logo": "https://images.unsplash.com/photo-1424847651672-bf20a4b0982b?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 3.8,
+    "deliveryFee": 3.77,
+    "minOrder": 7.0,
+    "deliveryRadius": 10,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

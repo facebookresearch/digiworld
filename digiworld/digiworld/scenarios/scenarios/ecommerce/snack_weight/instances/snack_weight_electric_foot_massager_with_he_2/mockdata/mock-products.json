@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Electric Foot Massager with Heat Therapy",
+    "description": "Electric foot massager featuring multiple kneading nodes, heat therapy, and adjustable intensity levels. The spacious footwell accommodates all shoe sizes, and the quiet motor ensures a relaxing experience. Perfect for evening unwind or after long days on foot.",
+    "shortDescription": "Electric foot massager with heat, multiple nodes, and adjustable intensity.",
+    "rating": 2.1,
+    "reviewCount": 0,
+    "seller": "SoleRelax Appliances",
+    "price": 1557.02,
+    "discountedPrice": 1167.76,
+    "discountPercent": 25,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 68,
+    "subcategoryName": "Massage",
+    "inStock": true,
+    "stockCount": 36,
+    "imageUrl": "/272_1",
+    "specs": "{\"ingredients\": \"Therapeutic foam rollers, Infrared heating elements, Control panel, ABS base\", \"dosage\": \"Use 20 minutes per session, up to 2 sessions daily\", \"weight\": \"3.5kg\", \"expiryPeriod\": \"3 years\", \"madeIn\": \"South Korea\", \"certifications\": \"CE, UL, FCC\"}",
+    "tags": "[\"wellness\", \"health\", \"massage\", \"top-rated\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

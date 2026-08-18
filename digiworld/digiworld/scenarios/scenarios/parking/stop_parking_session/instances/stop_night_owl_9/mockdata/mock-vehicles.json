@@ -1,0 +1,17 @@
+[
+  {
+    "id": 99910,
+    "userId": "{{current_user_id}}",
+    "nickname": "Night Owl",
+    "make": "Baymar",
+    "model": "X5L",
+    "color": "Midnight Black",
+    "year": 2023,
+    "plateNumber": "OWL123",
+    "vehicleTypeId": 2,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

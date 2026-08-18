@@ -1,0 +1,22 @@
+{
+  "parameters": {
+    "device_name": "Bathroom Heater",
+    "temperature": "50",
+    "fan_speed": "5",
+    "mode": "heat",
+    "scheduling": "enable"
+  },
+  "compatible_profiles": [
+    "unread_notifications"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:25.148133+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

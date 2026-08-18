@@ -1,0 +1,11 @@
+{
+  "task_name": "What is <contact_name>'s <info_type> on Nexus Pay?",
+  "app_name": "banking",
+  "scenario_class": "NexusPayContactInfoScenario",
+  "parameters": [
+    "contact_name",
+    "info_type"
+  ],
+  "context_fields": [],
+  "description": "Look up a Nexus Pay (QuickPay) contact's email address or phone number."
+}

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "carlos.rivera@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Weekend Hike Plans?",
+    "preview": "Hi, I was thinking about heading out for a hike th...",
+    "body": "Hi, I was thinking about heading out for a hike this weekend and wanted to see if anyone is interested. Let me know if you'd like to join and we can plan the trail.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_carlos_rivera_weekend_hike_plans",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

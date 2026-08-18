@@ -1,0 +1,15 @@
+[
+  {
+    "id": 90001,
+    "restaurantId": 90001,
+    "categoryId": 90001,
+    "name": "Tagliatelle al Tartufo",
+    "description": "Fresh tagliatelle ribbons coated in a creamy truffle sauce with shaved parmesan.",
+    "price": 18.0,
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=600&q=80",
+    "calories": 580,
+    "isPopular": 0,
+    "isActive": 1,
+    "position": 1
+  }
+]

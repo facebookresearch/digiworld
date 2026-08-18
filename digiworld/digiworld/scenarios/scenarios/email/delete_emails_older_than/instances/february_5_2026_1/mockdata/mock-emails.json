@@ -1,0 +1,90 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "mia.rivera@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Server maintenance downtime notice",
+    "preview": "Hello. The servers will undergo maintenance this w...",
+    "body": "Hello. The servers will undergo maintenance this weekend resulting in temporary downtime. Plan your work accordingly and notify users of the impact.",
+    "timestamp": "2026-01-06T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_mia_rivera_server_maintenance_downtime_n",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "lucas.nguyen@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "New hire onboarding checklist",
+    "preview": "Hi team. A checklist for onboarding the new hires ...",
+    "body": "Hi team. A checklist for onboarding the new hires has been prepared and is available on the intranet. Ensure all items are completed within the first week.",
+    "timestamp": "2026-01-29T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_lucas_nguyen_new_hire_onboarding_checkli",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "olivia.kim@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Marketing campaign performance metrics",
+    "preview": "Hi. The latest performance metrics for the marketi...",
+    "body": "Hi. The latest performance metrics for the marketing campaign are now posted. Analyze the data to identify trends and share insights.",
+    "timestamp": "2026-02-12T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_olivia_kim_marketing_campaign_performanc",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "james.sullivan@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Software license renewal reminder",
+    "preview": "Hello. This is a reminder that the software licens...",
+    "body": "Hello. This is a reminder that the software licenses will expire next month. Initiate the renewal process to avoid service interruption.",
+    "timestamp": "2026-03-07T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_james_sullivan_software_license_renewal",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

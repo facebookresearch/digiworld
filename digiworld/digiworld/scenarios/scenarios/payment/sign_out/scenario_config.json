@@ -1,0 +1,21 @@
+{
+  "task_name": "Sign out of Andojo Pay",
+  "app_name": "payment",
+  "scenario_class": "SignOutScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Verify the user signed out and is on the login screen.",
+  "compatible_profiles": [
+    "big_spender",
+    "default",
+    "frozen_wallets",
+    "high_deposit",
+    "high_failure_rate",
+    "low_transfer",
+    "micro_payments",
+    "mostly_pending",
+    "recent_activity",
+    "savings_mode",
+    "sparse_contacts"
+  ]
+}

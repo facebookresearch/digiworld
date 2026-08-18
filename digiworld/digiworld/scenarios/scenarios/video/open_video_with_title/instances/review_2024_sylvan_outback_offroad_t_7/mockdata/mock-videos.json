@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 1,
+    "categoryId": 6,
+    "title": "2024 Sylvan Outback Off\u2011Road Test",
+    "description": "We take the new Sylvan Outback on rugged trails, evaluating its handling, comfort, and whether it truly lives up to its adventure badge.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 3427,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 5614,
+    "likeCount": 18,
+    "commentCount": 5,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

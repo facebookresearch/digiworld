@@ -1,0 +1,13 @@
+{
+  "task_name": "I want to plan a trip from <stop_1> to <stop_2> departing <time>, find me the <optimization> and tell me what time it would be finished by",
+  "app_name": "transit",
+  "scenario_class": "TripArrivalTimeScenario",
+  "parameters": [
+    "stop_1",
+    "stop_2",
+    "time",
+    "optimization"
+  ],
+  "context_fields": [],
+  "description": "Retrieve the arrival time of an optimized trip between two stops."
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Performance Trail Running Shoes",
+    "description": "Performance trail running shoes with aggressive outsole lugs for traction on uneven terrain. Breathable mesh upper keeps feet cool, and the responsive midsole cushions each stride.",
+    "shortDescription": "Trail running shoes with aggressive outsole lugs and responsive midsole.",
+    "rating": 2.6,
+    "reviewCount": 5,
+    "seller": "Stride Footwear",
+    "price": 1594.98,
+    "discountedPrice": 1132.44,
+    "discountPercent": 29,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 14,
+    "subcategoryName": "Shoes",
+    "inStock": true,
+    "stockCount": 167,
+    "imageUrl": "/56_1",
+    "specs": "{\"material\": \"Engineered mesh upper with TPU overlays\", \"careInstructions\": \"Remove laces, hand wash with mild soap, air dry\", \"fit\": \"Performance fit\", \"size\": \"7, 8, 9, 10, 11, 12 US\", \"color\": \"Orange/Black\", \"pattern\": \"Speckled\"}",
+    "tags": "[\"clothing\", \"shoes\", \"best\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

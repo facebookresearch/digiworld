@@ -1,0 +1,163 @@
+{
+  "generated_at": "2025-10-26T20:36:12.270812",
+  "config": {
+    "num_users": 15,
+    "transactions_per_user": 15,
+    "bills_per_user": 3,
+    "beneficiaries_per_user": 2,
+    "zelle_contacts_per_user": 3,
+    "output_dir": "mock_data",
+    "start_date": "2024-01-01",
+    "end_date": "2024-12-31",
+    "initial_balance_range": [
+      1000,
+      50000
+    ],
+    "credit_limit_range": [
+      2000,
+      15000
+    ]
+  },
+  "statistics": {
+    "account_tier_levels": 3,
+    "account_types": 3,
+    "interest_rate_tiers": 3,
+    "users": 15,
+    "sessions": 15,
+    "accounts": 30,
+    "credit_cards": 10,
+    "beneficiaries": 30,
+    "zelle_contacts": 45,
+    "billers": 20,
+    "user_billers": 3,
+    "bills": 45,
+    "transaction_types": 10,
+    "transactions": 225,
+    "scheduled_transactions": 33,
+    "error_codes": 5,
+    "system_config": 5,
+    "notifications": 47
+  },
+  "users": [
+    {
+      "id": 1,
+      "username": "tina.ferguson0",
+      "full_name": "Tina Ferguson",
+      "tier": "Sapphire Banking",
+      "accounts": 2,
+      "credit_cards": 0
+    },
+    {
+      "id": 2,
+      "username": "kathleen.gray1",
+      "full_name": "Kathleen Gray",
+      "tier": "Premier Checking",
+      "accounts": 2,
+      "credit_cards": 0
+    },
+    {
+      "id": 3,
+      "username": "john.wells2",
+      "full_name": "John Wells",
+      "tier": "Everyday Checking",
+      "accounts": 2,
+      "credit_cards": 0
+    },
+    {
+      "id": 4,
+      "username": "daniel.johnson3",
+      "full_name": "Daniel Johnson",
+      "tier": "Everyday Checking",
+      "accounts": 2,
+      "credit_cards": 1
+    },
+    {
+      "id": 5,
+      "username": "doris.jones4",
+      "full_name": "Doris Jones",
+      "tier": "Sapphire Banking",
+      "accounts": 2,
+      "credit_cards": 0
+    },
+    {
+      "id": 6,
+      "username": "margaret.vargas5",
+      "full_name": "Margaret Vargas",
+      "tier": "Sapphire Banking",
+      "accounts": 2,
+      "credit_cards": 1
+    },
+    {
+      "id": 7,
+      "username": "lauren.peterson6",
+      "full_name": "Lauren Peterson",
+      "tier": "Sapphire Banking",
+      "accounts": 2,
+      "credit_cards": 1
+    },
+    {
+      "id": 8,
+      "username": "andre.phillips7",
+      "full_name": "Andre Phillips",
+      "tier": "Everyday Checking",
+      "accounts": 2,
+      "credit_cards": 1
+    },
+    {
+      "id": 9,
+      "username": "jerry.griffith8",
+      "full_name": "Jerry Griffith",
+      "tier": "Everyday Checking",
+      "accounts": 2,
+      "credit_cards": 1
+    },
+    {
+      "id": 10,
+      "username": "kevin.erickson9",
+      "full_name": "Kevin Erickson",
+      "tier": "Sapphire Banking",
+      "accounts": 2,
+      "credit_cards": 1
+    },
+    {
+      "id": 11,
+      "username": "scott.lopez10",
+      "full_name": "Scott Lopez",
+      "tier": "Sapphire Banking",
+      "accounts": 2,
+      "credit_cards": 0
+    },
+    {
+      "id": 12,
+      "username": "anna.torres11",
+      "full_name": "Anna Torres",
+      "tier": "Premier Checking",
+      "accounts": 2,
+      "credit_cards": 1
+    },
+    {
+      "id": 13,
+      "username": "kenneth.chapman12",
+      "full_name": "Kenneth Chapman",
+      "tier": "Sapphire Banking",
+      "accounts": 2,
+      "credit_cards": 1
+    },
+    {
+      "id": 14,
+      "username": "shannon.wheeler13",
+      "full_name": "Shannon Wheeler",
+      "tier": "Sapphire Banking",
+      "accounts": 2,
+      "credit_cards": 1
+    },
+    {
+      "id": 15,
+      "username": "margaret.jones14",
+      "full_name": "Margaret Jones",
+      "tier": "Premier Checking",
+      "accounts": 2,
+      "credit_cards": 1
+    }
+  ]
+}

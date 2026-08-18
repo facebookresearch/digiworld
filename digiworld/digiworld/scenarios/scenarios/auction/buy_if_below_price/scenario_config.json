@@ -1,0 +1,12 @@
+{
+  "task_name": "Buy \"<title>\" if the current price is below $<price>",
+  "app_name": "auction",
+  "scenario_class": "BuyIfBelowPriceScenario",
+  "parameters": [
+    "title",
+    "price"
+  ],
+  "context_fields": [],
+  "additional_mockdata": true,
+  "description": "Purchase an item via Buy Now if its current price is below the given threshold."
+}

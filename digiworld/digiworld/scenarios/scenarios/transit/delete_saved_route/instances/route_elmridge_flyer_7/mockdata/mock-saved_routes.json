@@ -1,0 +1,14 @@
+[
+  {
+    "id": "saved-elmridge-flyer",
+    "userId": 1,
+    "name": "Elmridge Flyer",
+    "originStopId": "stop-6",
+    "destinationStopId": "stop-2",
+    "preferredMode": "bus",
+    "remindersEnabled": true,
+    "departureReminderMinutes": 30,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Olivia Garcia",
+    "street": "2100 Pine Ave",
+    "city": "Denver",
+    "state": "CO",
+    "pincode": "80204",
+    "phone": "7205556678",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

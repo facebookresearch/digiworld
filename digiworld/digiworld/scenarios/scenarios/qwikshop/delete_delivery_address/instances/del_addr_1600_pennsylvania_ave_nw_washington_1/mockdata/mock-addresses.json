@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "James Rodriguez",
+    "street": "1600 Pennsylvania Ave NW",
+    "city": "Washington",
+    "state": "DC",
+    "pincode": "20500",
+    "phone": "2025555678",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "nickname": "Night Rider",
+    "make": "Harley-Davidson",
+    "model": "Street 750",
+    "color": "Midnight Purple",
+    "year": 2019,
+    "plateNumber": "NTRDR1",
+    "vehicleTypeId": 6,
+    "isDefault": 0,
+    "createdAt": "{{end_timestamp}}",
+    "updatedAt": "{{end_timestamp}}",
+    "metadata": null
+  }
+]

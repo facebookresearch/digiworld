@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 1,
+    "categoryId": 6,
+    "title": "Vertex Console OLED vs. Lite: Which Wins?",
+    "description": "Comparing screen quality, battery life, and game library to help you decide.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 718,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 1619,
+    "likeCount": 53,
+    "commentCount": 2,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

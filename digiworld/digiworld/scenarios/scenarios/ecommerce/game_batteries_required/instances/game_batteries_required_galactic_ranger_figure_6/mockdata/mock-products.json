@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Galactic Ranger Figure",
+    "description": "The Galactic Ranger Figure captures the iconic hero in a pose ready for action, complete with removable helmet and laser blaster accessory. Crafted from durable polymer, the figure stands 6 inches tall and includes interchangeable armor plates for customizable display.",
+    "shortDescription": "Posable Galactic Ranger figure with removable helmet and laser blaster.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Galaxy Gear",
+    "price": 1021.84,
+    "discountedPrice": 613.1,
+    "discountPercent": 40,
+    "categoryId": 7,
+    "categoryName": "Toys & Games",
+    "subcategoryId": 50,
+    "subcategoryName": "Action Figures",
+    "inStock": true,
+    "stockCount": 130,
+    "imageUrl": "/197_1",
+    "specs": "{\"ageRange\": \"6-12 years\", \"material\": \"ABS plastic\", \"dimensions\": \"5.5 x 2.5 x 2 inches\", \"batteryRequired\": \"No\", \"warranty\": \"6 months limited\", \"safetyRating\": \"EN71\"}",
+    "tags": "[\"action\", \"toys\", \"figures\", \"games\", \"high-quality\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

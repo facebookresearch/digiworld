@@ -1,0 +1,21 @@
+{
+  "parameters": {
+    "subject": "Draft agenda for upcoming client meeting"
+  },
+  "compatible_profiles": [
+    "5_inbox_emails",
+    "empty_inbox",
+    "spam_heavy",
+    "starred_important"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:34.908896+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "driverId": 4,
+    "pickupLocation": "{\"lat\": 40.718746, \"lng\": -73.979786, \"placename\": \"408, East 13th Street, Manhattan, USA\"}",
+    "dropLocation": "{\"lat\": 40.711061, \"lng\": -73.992046, \"placename\": \"Xi'an Famous Foods, 96, 8th Avenue, Manhattan, USA\"}",
+    "status": "completed",
+    "startTime": "{{middle_ride_time}}",
+    "endTime": "{{recent_ride_time}}",
+    "distanceKm": 2.08,
+    "fareAmount": 2.5,
+    "feedbackSubmitted": 0,
+    "paymentMode": "cash"
+  }
+]

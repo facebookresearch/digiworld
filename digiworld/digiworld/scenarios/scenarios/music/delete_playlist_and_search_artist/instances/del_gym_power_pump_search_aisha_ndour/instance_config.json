@@ -1,0 +1,20 @@
+{
+  "parameters": {
+    "name": "Gym Power Pump",
+    "artist_name": "Kora Echoes"
+  },
+  "compatible_profiles": [
+    "large_playlists",
+    "power_listener"
+  ],
+  "metadata": {
+    "created_at": "2026-04-11T15:51:35.363269+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

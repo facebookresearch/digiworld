@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "emily.carter@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Family reunion photos are now online",
+    "preview": "Hi, the photos from our family reunion have been u...",
+    "body": "Hi, the photos from our family reunion have been uploaded to the shared album. You can view them anytime and download your favorites.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_emily_carter_family_reunion_photos_are_n",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "michael.brown@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Check out the family reunion photos",
+    "preview": "Hello, I just organized the family reunion photos ...",
+    "body": "Hello, I just organized the family reunion photos into separate folders by event. Feel free to add comments or tag anyone missing.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_michael_brown_check_out_the_family_reuni",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

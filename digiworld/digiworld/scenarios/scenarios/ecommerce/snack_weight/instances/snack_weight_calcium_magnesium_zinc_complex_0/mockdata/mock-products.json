@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Calcium Magnesium Zinc Complex Powder",
+    "description": "A balanced powder blend of calcium, magnesium, and zinc provides essential minerals for muscle function and skeletal strength. The formula is flavored with natural citrus and dissolves easily in water or juice. No added sugars or artificial sweeteners.",
+    "shortDescription": "Mineral complex powder for bone and muscle support.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "NatureCore Supplements",
+    "price": 1982.32,
+    "discountedPrice": 1407.45,
+    "discountPercent": 29,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 63,
+    "subcategoryName": "Vitamins",
+    "inStock": true,
+    "stockCount": 107,
+    "imageUrl": "/252_1",
+    "specs": "{\"ingredients\": \"Calcium Carbonate, Magnesium Citrate, Zinc Oxide, Vitamin D3, Natural Strawberry Flavor\", \"dosage\": \"1 scoop (10g) mixed with water, twice daily\", \"weight\": \"300g (30 servings)\", \"expiryPeriod\": \"24 months\", \"madeIn\": \"Australia\", \"certifications\": \"GMP, Certified Gluten-Free, HACCP\"}",
+    "tags": "[\"wellness\", \"health\", \"vitamins\", \"premium\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

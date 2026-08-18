@@ -1,0 +1,11 @@
+{
+  "task_name": "I want to get to <stop_name> on the <line_name> line, how often does the bus come?",
+  "app_name": "transit",
+  "scenario_class": "CityConnectorStopFrequencyScenario",
+  "parameters": [
+    "stop_name",
+    "line_name"
+  ],
+  "context_fields": [],
+  "description": "Retrieve how frequently the City Connector bus line serves a given stop."
+}

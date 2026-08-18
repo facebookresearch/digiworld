@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754160078,
+    "title": "Limited Edition Giclee Print \u2013 'Midnight Bloom' by Ava Chen",
+    "description": "A limited edition giclee print titled 'Midnight Bloom' by emerging artist Ava Chen, numbered 27/150; printed on archival paper and professionally framed.",
+    "categoryId": 9,
+    "sellerId": "{{current_user_id}}",
+    "price": 570.59,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/limited-edition-giclee-print-\u2013-'midnight-bloom'-by-ava-chen.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 272.05,
+    "currentBid": 448.21,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 182210022,
+    "title": "Original 'The Scream' by Edvard Munch Print",
+    "description": "This authentic print of Edvard Munch's 'The Scream' is a rare opportunity to own a piece of art history, with vibrant colors and excellent condition.",
+    "categoryId": 9,
+    "sellerId": "{{current_user_id}}",
+    "price": 1069.26,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/original-'the-scream'-by-edvard-munch-print.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 330.34,
+    "currentBid": 388.12,
+    "bidIncrement": 5.0,
+    "endTime": 1773367621,
+    "expired": 0
+  }
+]

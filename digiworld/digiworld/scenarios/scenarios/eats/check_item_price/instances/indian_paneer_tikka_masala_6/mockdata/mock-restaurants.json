@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Spice Caravan",
+    "description": "North Indian tandoor specialties infused with rooftop garden herbs.",
+    "address": "789 Elm Street, San Francisco, CA 94102",
+    "latitude": 37.7749,
+    "longitude": -122.4194,
+    "logo": "https://images.unsplash.com/photo-1590846406792-0adc7f938f1d?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.6,
+    "deliveryFee": 5.92,
+    "minOrder": 8.0,
+    "deliveryRadius": 5,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

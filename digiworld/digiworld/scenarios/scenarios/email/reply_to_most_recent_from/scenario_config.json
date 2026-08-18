@@ -1,0 +1,9 @@
+{
+    "task_name": "Reply to the most recent email from \"<sender_name>\" saying: \"<email_body>\"",
+    "app_name": "email",
+    "scenario_class": "ReplyToMostRecentFrom",
+    "parameters": ["sender_name", "email_body"],
+    "context_fields": [],
+    "description": "Reply to the most recent email from a specific sender with a specific message",
+    "additional_mockdata": true
+}

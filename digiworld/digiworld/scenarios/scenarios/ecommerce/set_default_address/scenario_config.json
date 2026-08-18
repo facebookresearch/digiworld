@@ -1,0 +1,11 @@
+{
+  "task_name": "Set my address at <street_address> as default",
+  "app_name": "ecommerce",
+  "scenario_class": "SetDefaultAddressScenario",
+  "parameters": [
+    "street_address"
+  ],
+  "context_fields": [],
+  "description": "Set a specific saved address as the default delivery address",
+  "additional_mockdata": true
+}

@@ -1,0 +1,18 @@
+{
+  "parameters": {
+    "item": "Warm Amber Body Mist"
+  },
+  "compatible_profiles": [
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-03-31T04:15:03.185031+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

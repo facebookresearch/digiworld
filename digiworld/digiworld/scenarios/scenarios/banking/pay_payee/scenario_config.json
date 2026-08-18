@@ -1,0 +1,12 @@
+{
+  "task_name": "Pay the payee named \"<payee_name>\" $<amount>",
+  "app_name": "banking",
+  "scenario_class": "PayPayeeScenario",
+  "parameters": [
+    "payee_name",
+    "amount"
+  ],
+  "additional_mockdata": true,
+  "context_fields": [],
+  "description": "Pay a specific payee/biller a given dollar amount."
+}

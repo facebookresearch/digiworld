@@ -1,0 +1,8 @@
+{
+    "task_name": "Open the email with subject <subject>",
+    "app_name": "email",
+    "scenario_class": "OpenEmailWithSubject",
+    "parameters": ["subject"],
+    "context_fields": [],
+    "description": "Verify that an email with the specified subject is opened."
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754130069,
+    "title": "Rare 1975 Star Saga Action Figure, Original Packaging",
+    "description": "A rare 1975 Star Saga action figure still sealed in its original packaging, with crisp graphics and no signs of aging, a prized addition for any pop\u2011culture collector.",
+    "categoryId": 8,
+    "sellerId": "{{current_user_id}}",
+    "price": 965.32,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 8,
+    "imageUrl": "https://example.com/images/rare-1975-star-wars-action-figure,-original-packaging.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 393.55,
+    "currentBid": 501.84,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

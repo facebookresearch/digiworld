@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754060043,
+    "title": "18\u2011K White Gold Emerald Halo Engagement Ring with Pear Cut Diamonds",
+    "description": "Elegant halo setting featuring a 1.2\u2011carat emerald center stone surrounded by 12 pear\u2011cut diamonds, set in 18\u2011K white gold.",
+    "categoryId": 1,
+    "sellerId": "{{current_user_id}}",
+    "price": 2433.46,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 11,
+    "imageUrl": "https://example.com/images/18\u2011k-white-gold-emerald-halo-engagement-ring-with-pear-cut-diamonds.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 1006.38,
+    "currentBid": 1450.83,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

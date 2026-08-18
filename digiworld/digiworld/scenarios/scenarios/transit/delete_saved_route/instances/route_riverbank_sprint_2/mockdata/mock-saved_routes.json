@@ -1,0 +1,14 @@
+[
+  {
+    "id": "saved-riverbank-sprint",
+    "userId": 1,
+    "name": "Riverbank Sprint",
+    "originStopId": "stop-1",
+    "destinationStopId": "stop-3",
+    "preferredMode": "bus",
+    "remindersEnabled": true,
+    "departureReminderMinutes": 15,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Airport Parking",
+    "description": "Parking zone F5G6H",
+    "latitude": 40.73204,
+    "longitude": -73.981775,
+    "zoneCode": "F5G6H",
+    "operator": "City Parking Authority",
+    "zoneType": "underground",
+    "capacity": 216,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.7,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "code": "transfer",
+    "name": "Account Transfer",
+    "category": "transfer",
+    "description": "Account Transfer transaction"
+  },
+  {
+    "id": 2,
+    "code": "bill_payment",
+    "name": "Bill Payment",
+    "category": "debit",
+    "description": "Bill Payment transaction"
+  },
+  {
+    "id": 3,
+    "code": "zelle",
+    "name": "Nexus Payment",
+    "category": "transfer",
+    "description": "Nexus Payment transaction"
+  },
+  {
+    "id": 4,
+    "code": "external_transfer",
+    "name": "External Transfer",
+    "category": "transfer",
+    "description": "External Transfer transaction"
+  },
+  {
+    "id": 5,
+    "code": "deposit",
+    "name": "Deposit",
+    "category": "credit",
+    "description": "Deposit transaction"
+  },
+  {
+    "id": 6,
+    "code": "withdrawal",
+    "name": "Withdrawal",
+    "category": "debit",
+    "description": "Withdrawal transaction"
+  },
+  {
+    "id": 7,
+    "code": "purchase",
+    "name": "Purchase",
+    "category": "debit",
+    "description": "Purchase transaction"
+  },
+  {
+    "id": 8,
+    "code": "credit_card_payment",
+    "name": "Credit Card Payment",
+    "category": "debit",
+    "description": "Credit Card Payment transaction"
+  },
+  {
+    "id": 9,
+    "code": "interest_charge",
+    "name": "Interest Charge",
+    "category": "debit",
+    "description": "Interest Charge transaction"
+  },
+  {
+    "id": 10,
+    "code": "monthly_fee",
+    "name": "Monthly Fee",
+    "category": "debit",
+    "description": "Monthly Fee transaction"
+  }
+]

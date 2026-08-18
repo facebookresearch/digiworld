@@ -1,0 +1,32 @@
+{
+  "parameters": {
+    "color": "Silver",
+    "make": "Tolimar",
+    "model": "4Runner",
+    "vehicle_type": "SUV",
+    "license_plate": "L33TF1",
+    "nickname": "Terra"
+  },
+  "compatible_profiles": [
+    "active_sessions",
+    "budget_zones",
+    "default",
+    "electric_vehicles",
+    "expired_sessions",
+    "high_parking_volume",
+    "many_vehicles",
+    "new_user",
+    "premium_zones",
+    "zone_full"
+  ],
+  "metadata": {
+    "created_at": "2026-03-02T02:11:44.581978+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

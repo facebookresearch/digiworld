@@ -1,0 +1,10 @@
+{
+  "task_name": "What priority is the service alert for \"<alert_title>\"?",
+  "app_name": "transit",
+  "scenario_class": "AlertPriorityScenario",
+  "parameters": [
+    "alert_title"
+  ],
+  "context_fields": [],
+  "description": "Retrieve the severity/priority level of a specific service alert."
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Castle Fortress Building Set",
+    "description": "Castle Fortress Building Set includes over 300 interlocking bricks to construct a towering medieval stronghold. Detailed battlements, a drawbridge, and miniature knights bring the castle to life. Instructions offer multiple design options for creative expansion.",
+    "shortDescription": "300\u2011piece brick set to build a towering medieval castle.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Castle Creations Inc.",
+    "price": 95.36,
+    "discountedPrice": 71.52,
+    "discountPercent": 25,
+    "categoryId": 7,
+    "categoryName": "Toys & Games",
+    "subcategoryId": 52,
+    "subcategoryName": "Building Sets",
+    "inStock": true,
+    "stockCount": 164,
+    "imageUrl": "/205_1",
+    "specs": "{\"ageRange\": \"9-14 years\", \"material\": \"ABS plastic bricks, metal connectors\", \"dimensions\": \"15 x 10 x 5 inches (box)\", \"batteryRequired\": \"No\", \"warranty\": \"2 years limited warranty\", \"safetyRating\": \"EN71-1 compliant\"}",
+    "tags": "[\"building\", \"toys\", \"games\", \"sets\", \"top-rated\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

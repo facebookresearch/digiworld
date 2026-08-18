@@ -1,0 +1,18 @@
+[
+  {
+    "code": "DFW",
+    "name": "DFW International Airport",
+    "city": "DFW",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "code": "MEX",
+    "name": "MEX International Airport",
+    "city": "MEX",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

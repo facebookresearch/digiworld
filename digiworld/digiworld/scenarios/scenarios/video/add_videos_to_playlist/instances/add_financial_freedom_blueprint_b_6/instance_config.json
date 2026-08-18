@@ -1,0 +1,20 @@
+{
+  "parameters": {
+    "video_1": "Gaming Guide: Strategies for Conquering the Shadow Fortress",
+    "video_2": "Kids Craft: Creating a DIY Kaleidoscope with Recycled Materials",
+    "playlist_name": "Urban Beat Sketches"
+  },
+  "compatible_profiles": [
+    "comments_disabled"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:59.825315+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

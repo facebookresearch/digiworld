@@ -1,0 +1,15 @@
+[
+  {
+    "id": 90001,
+    "restaurantId": 90001,
+    "categoryId": 90001,
+    "name": "Lamb Rogan Josh",
+    "description": "Tender lamb pieces in a rich tomato and onion gravy, spiced with cardamom and cinnamon.",
+    "price": 17.2,
+    "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?auto=format&fit=crop&w=600&q=80",
+    "calories": 720,
+    "isPopular": 0,
+    "isActive": 1,
+    "position": 1
+  }
+]

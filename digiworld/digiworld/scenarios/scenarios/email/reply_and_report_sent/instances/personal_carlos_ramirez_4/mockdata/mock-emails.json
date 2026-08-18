@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "carlos.ramirez@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Gym schedule",
+    "preview": "Hi are you still doing the 6am yoga class on Tuesd...",
+    "body": "Hi are you still doing the 6am yoga class on Tuesdays?",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_carlos_ramirez_gym_schedule",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "carlos.ramirez@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Concert tickets",
+    "preview": "Hi I have two extra tickets for the jazz concert S...",
+    "body": "Hi I have two extra tickets for the jazz concert Saturday let me know if you want them.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_carlos_ramirez_concert_tickets",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

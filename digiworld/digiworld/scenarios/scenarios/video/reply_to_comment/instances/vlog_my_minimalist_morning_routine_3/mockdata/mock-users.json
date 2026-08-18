@@ -1,0 +1,13 @@
+[
+  {
+    "id": 9998,
+    "email": "liam.o'connor.reply@example.com",
+    "username": "Liam O'Connor",
+    "password": "password123",
+    "avatar": "",
+    "bio": "",
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{past_timestamp}}",
+    "deletedAt": null
+  }
+]

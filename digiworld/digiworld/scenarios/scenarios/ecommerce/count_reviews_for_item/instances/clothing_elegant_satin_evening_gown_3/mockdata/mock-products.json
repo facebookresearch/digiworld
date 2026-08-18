@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Elegant Satin Evening Gown",
+    "description": "Elegant satin evening gown with a deep V-neck and subtle drape. The floor-length silhouette includes a back zip closure and delicate side seam detailing for formal occasions.",
+    "shortDescription": "Satin evening gown with a deep V-neck and floor-length skirt.",
+    "rating": 3.0,
+    "reviewCount": 5,
+    "seller": "Evelyn Grace Designs",
+    "price": 259.77,
+    "discountedPrice": 220.8,
+    "discountPercent": 15,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 10,
+    "subcategoryName": "Women's Dresses",
+    "inStock": true,
+    "stockCount": 78,
+    "imageUrl": "/38_1",
+    "specs": "{\"material\": \"100% silk satin\", \"careInstructions\": \"Dry clean only\", \"fit\": \"Tailored fit\", \"size\": \"2, 4, 6, 8, 10\", \"color\": \"Midnight black\", \"pattern\": \"Solid\"}",
+    "tags": "[\"clothing\", \"dresses\", \"womens\", \"best\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

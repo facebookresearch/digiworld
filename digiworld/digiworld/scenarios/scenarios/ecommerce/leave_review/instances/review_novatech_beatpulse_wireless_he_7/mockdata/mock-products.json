@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "NovaTech BeatPulse Wireless Headset",
+    "description": "NovaTech BeatPulse Wireless Headset features dynamic drivers and a compact ergonomic design for all\u2011day comfort. With built\u2011in ambient mode, you can stay aware of your surroundings while enjoying high\u2011fidelity audio. The 20\u2011hour battery life and quick\u2011charge function keep you powered on the go.",
+    "shortDescription": "Wireless headset delivering dynamic sound and 20\u2011hour playtime.",
+    "rating": 3.5,
+    "reviewCount": 4,
+    "seller": "GadgetHub",
+    "price": 586.56,
+    "discountedPrice": 469.25,
+    "discountPercent": 20,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 4,
+    "subcategoryName": "Headphones",
+    "inStock": true,
+    "stockCount": 110,
+    "imageUrl": "/14_1",
+    "specs": "{\"display\": \"LED indicator (no screen)\", \"processor\": \"Cellwave QCC5142 audio chipset\", \"ram\": \"N/A\", \"storage\": \"N/A\", \"battery\": \"20 h playback, 400 mAh, USB\u2011C fast charge\", \"os\": \"N/A\", \"connectivity\": \"Bluetooth 5.2, aptX Adaptive, built\u2011in mic\"}",
+    "tags": "[\"electronics\", \"headphones\", \"high-quality\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

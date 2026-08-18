@@ -1,0 +1,9 @@
+{
+  "task_name": "Call <contact_name> using the call function, then mute my microphone and put the call on speaker",
+  "app_name": "message",
+  "scenario_class": "CallAndMuteSpeakerScenario",
+  "parameters": ["contact_name"],
+  "context_fields": [],
+  "description": "Initiate a voice call to a specified contact, then mute the microphone and enable speaker.",
+  "additional_mockdata": true
+}

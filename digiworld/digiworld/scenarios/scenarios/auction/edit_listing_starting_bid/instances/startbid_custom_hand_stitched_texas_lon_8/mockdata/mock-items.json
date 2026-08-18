@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754220094,
+    "title": "Custom Hand-Stitched Texas Longhorn Leather Saddle, Brown",
+    "description": "A custom-made Texas Longhorn leather saddle, hand-stitched with brass hardware, sized for a 16\u2011hand horse.",
+    "categoryId": 4,
+    "sellerId": "{{current_user_id}}",
+    "price": 965.81,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 5,
+    "imageUrl": "https://example.com/images/custom-hand-stitched-texas-longhorn-leather-saddle,-brown.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 421.12,
+    "currentBid": 702.13,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

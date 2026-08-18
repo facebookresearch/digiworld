@@ -1,0 +1,11 @@
+{
+  "task_name": "View details of item <item_title>",
+  "app_name": "auction",
+  "scenario_class": "ViewItemDetailsScenario",
+  "parameters": [
+    "item_title"
+  ],
+  "context_fields": [],
+  "description": "Navigate to view the details of a specific auction item by its title.",
+  "additional_mockdata": true
+}

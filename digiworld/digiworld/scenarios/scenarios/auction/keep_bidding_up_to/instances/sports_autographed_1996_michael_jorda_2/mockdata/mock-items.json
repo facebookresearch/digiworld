@@ -1,0 +1,22 @@
+[
+  {
+    "id": 182570039,
+    "title": "Autographed 1996 Marcus Jaden Game-Worn Windward Bisons Jersey",
+    "description": "This jersey is a rare piece of ProBall history, worn by MJ during the 1995-1996 season and authenticated by the ProBall, making it a must-have for any serious sports memorabilia collector.",
+    "categoryId": 6,
+    "sellerId": 2,
+    "price": 712.73,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 3,
+    "imageUrl": "https://example.com/images/autographed-1996-michael-jordan-game-worn-chicago-bulls-jersey.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 50.97,
+    "currentBid": 96.76,
+    "bidIncrement": 5.0,
+    "endTime": 1772762857,
+    "expired": 0
+  }
+]

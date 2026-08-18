@@ -1,0 +1,20 @@
+{
+  "parameters": {
+    "video_1": "Neon Skyline: Night Walk Through Luminara City",
+    "video_2": "Sports Spotlight: Mastering the Spin Serve in Table Tennis",
+    "playlist_name": "Urban Beat Sketches"
+  },
+  "compatible_profiles": [
+    "comments_disabled"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:59.825315+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

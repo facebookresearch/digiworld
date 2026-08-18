@@ -1,0 +1,11 @@
+{
+  "task_name": "For the video \"<title>\", how many subscribers does the channel that published this video have?",
+  "app_name": "video",
+  "scenario_class": "GetChannelSubscriberCountScenario",
+  "parameters": [
+    "title"
+  ],
+  "context_fields": [],
+  "description": "Retrieve the subscriber count of the channel that published a given video",
+  "additional_mockdata": true
+}

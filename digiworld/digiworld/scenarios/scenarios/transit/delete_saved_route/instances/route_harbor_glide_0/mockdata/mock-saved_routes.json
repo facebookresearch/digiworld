@@ -1,0 +1,14 @@
+[
+  {
+    "id": "saved-harbor-glide",
+    "userId": 1,
+    "name": "Harbor Glide",
+    "originStopId": "stop-2",
+    "destinationStopId": "stop-1",
+    "preferredMode": "train",
+    "remindersEnabled": false,
+    "departureReminderMinutes": 15,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

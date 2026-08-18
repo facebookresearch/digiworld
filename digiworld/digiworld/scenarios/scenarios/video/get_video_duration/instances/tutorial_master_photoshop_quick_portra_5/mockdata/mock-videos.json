@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 1,
+    "categoryId": 3,
+    "title": "Master Photoshop: Quick Portrait Editing",
+    "description": "Learn how to quickly edit portrait photos in Photoshop with step\u2011by\u2011step techniques for stunning results.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 3408,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 2715,
+    "likeCount": 94,
+    "commentCount": 27,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

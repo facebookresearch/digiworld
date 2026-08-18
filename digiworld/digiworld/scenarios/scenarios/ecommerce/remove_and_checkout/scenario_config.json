@@ -1,0 +1,9 @@
+{
+  "task_name": "Remove <item_to_remove> from my cart, then check out the cart using my default address and the payment card under the name \"<card_name>\", adding the promo code \"<promo_code>\"",
+  "app_name": "ecommerce",
+  "scenario_class": "RemoveAndCheckoutScenario",
+  "parameters": ["item_to_remove", "card_name", "promo_code"],
+  "context_fields": [],
+  "description": "Remove an item from the cart, then check out with a promo code and a specific payment card",
+  "additional_mockdata": true
+}

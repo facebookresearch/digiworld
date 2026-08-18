@@ -1,0 +1,22 @@
+[
+  {
+    "id": 751800002,
+    "title": "Vintage 1960s Mid-Century Danish Teak Coffee Table",
+    "description": "A solid teak top with tapered legs, original walnut finish, and authentic 1960s hardware; perfect for modern lofts.",
+    "categoryId": 1,
+    "sellerId": "{{current_user_id}}",
+    "price": 1373.73,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/vintage-1960s-mid-century-danish-teak-coffee-table.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 502.97,
+    "currentBid": 740.08,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

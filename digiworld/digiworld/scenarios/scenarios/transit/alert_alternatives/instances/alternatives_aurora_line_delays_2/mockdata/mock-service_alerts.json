@@ -1,0 +1,13 @@
+[
+  {
+    "id": "alert-aurora-line-delays",
+    "severity": "high",
+    "title": "Aurora Line Delays",
+    "description": "Signal equipment failure on the Aurora Line is causing delays of up to 25 minutes during peak hours. Crews are on site and repairs are expected to complete by end of day.",
+    "icon": "warning",
+    "recommendedAlternatives": "Use the City Connector bus service for parallel routes. Subway Line S1 also connects major stops.",
+    "createdAt": "{{past_timestamp}}",
+    "expiresAt": null,
+    "isActive": 1
+  }
+]

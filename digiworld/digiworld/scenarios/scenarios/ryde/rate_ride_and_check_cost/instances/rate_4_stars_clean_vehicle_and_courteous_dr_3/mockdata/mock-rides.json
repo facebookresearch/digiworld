@@ -1,0 +1,16 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "driverId": 1,
+    "pickupLocation": "{\"lat\": 40.7439, \"lng\": -73.975851, \"placename\": \"97, Attorney Street, Manhattan, USA\"}",
+    "dropLocation": "{\"lat\": 40.742285, \"lng\": -73.970811, \"placename\": \"Newman Library and Technology Center, East 25th Street, Kips Bay, Manhattan, USA\"}",
+    "status": "completed",
+    "startTime": "{{middle_ride_time}}",
+    "endTime": "{{recent_ride_time}}",
+    "distanceKm": 3.53,
+    "fareAmount": 6.35,
+    "feedbackSubmitted": 0,
+    "paymentMode": "cash"
+  }
+]

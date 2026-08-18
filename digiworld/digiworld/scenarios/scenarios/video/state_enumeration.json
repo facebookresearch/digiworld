@@ -1,0 +1,56 @@
+{
+  "app_name": "video",
+  "apk_name": "com.andojovideo.sbx",
+  "database_name": "default.db",
+  "home_route": "/(app)/home",
+  "routes": [
+    {
+      "id": "home",
+      "route": "/(app)/home",
+      "screen_name": "home",
+      "description": "Home screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "channels",
+      "route": "/(app)/channels",
+      "screen_name": "channels",
+      "description": "Channels screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "profile",
+      "route": "/(app)/profile",
+      "screen_name": "profile",
+      "description": "Profile screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "playlists",
+      "route": "/playlists",
+      "screen_name": "playlists",
+      "description": "Playlists screen",
+      "back_route": "/(app)/home",
+      "context_variations": []
+    },
+    {
+      "id": "search",
+      "route": "/search",
+      "screen_name": "search",
+      "description": "Search screen",
+      "back_route": "/(app)/home",
+      "context_variations": []
+    },
+    {
+      "id": "watch_history",
+      "route": "/watch-history",
+      "screen_name": "watchHistory",
+      "description": "Watch history screen",
+      "back_route": "/(app)/home",
+      "context_variations": []
+    }
+  ]
+}

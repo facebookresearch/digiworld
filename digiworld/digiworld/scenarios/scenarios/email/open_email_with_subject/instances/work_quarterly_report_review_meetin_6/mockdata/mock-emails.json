@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "sophie.nguyen@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Quarterly Report Review Meeting Schedule",
+    "preview": "Hi team, the quarterly report review meeting has b...",
+    "body": "Hi team, the quarterly report review meeting has been scheduled for next Wednesday at 10 am. Please prepare your department updates and share any supporting documents beforehand.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_sophie_nguyen_quarterly_report_review_me",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

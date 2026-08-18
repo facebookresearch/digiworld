@@ -1,0 +1,9 @@
+{
+  "task_name": "Update delivery address of \"<street>\" \"<city>\" \"<state>\" \"<zip>\" \"<country>\" to \"<street2>\" \"<city2>\" \"<state2>\" \"<zip2>\" \"<country2>\"",
+  "app_name": "qwikshop",
+  "scenario_class": "UpdateDeliveryAddressScenario",
+  "parameters": ["street", "city", "state", "zip", "country", "street2", "city2", "state2", "zip2", "country2"],
+  "context_fields": [],
+  "description": "Update the location details of an existing delivery address.",
+  "additional_mockdata": true
+}

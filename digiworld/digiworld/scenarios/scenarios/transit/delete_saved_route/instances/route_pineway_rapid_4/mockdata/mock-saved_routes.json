@@ -1,0 +1,14 @@
+[
+  {
+    "id": "saved-pineway-rapid",
+    "userId": 1,
+    "name": "Pineway Rapid",
+    "originStopId": "stop-11",
+    "destinationStopId": "stop-12",
+    "preferredMode": "train",
+    "remindersEnabled": false,
+    "departureReminderMinutes": 15,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

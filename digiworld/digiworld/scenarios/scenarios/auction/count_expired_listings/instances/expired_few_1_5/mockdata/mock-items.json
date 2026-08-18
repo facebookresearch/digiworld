@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754530112,
+    "title": "Vertex Console OLED Model \u2013 Neon Blue/Red, 32GB, with Dock",
+    "description": "Vertex Console OLED, brand new, includes dock, Joy\u2011Con controllers, and a selection of two games.",
+    "categoryId": 4,
+    "sellerId": "{{current_user_id}}",
+    "price": 104.45,
+    "auctionFlag": 1,
+    "status": "expired",
+    "quantity": 1,
+    "bidCount": 6,
+    "imageUrl": "https://example.com/images/nintendo-switch-oled-model-\u2013-neon-blue/red,-32gb,-with-dock.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 41.22,
+    "currentBid": 50.05,
+    "bidIncrement": 5.0,
+    "endTime": 1768276853,
+    "expired": 1
+  }
+]

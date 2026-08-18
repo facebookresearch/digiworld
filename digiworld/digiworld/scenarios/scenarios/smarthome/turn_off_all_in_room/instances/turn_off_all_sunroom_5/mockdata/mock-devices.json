@@ -1,0 +1,50 @@
+[
+  {
+    "userId": "{{current_user_id}}",
+    "name": "Sunroom Light",
+    "deviceTypeId": "{{device_type_id_by_name:Smart Bulb}}",
+    "roomId": 90001,
+    "status": "online",
+    "isOn": true,
+    "properties": "{\"brightness\": 50, \"color_temperature\": 3000, \"color\": \"#ffffff\", \"color_mode\": \"white\", \"scheduling\": false}",
+    "battery": 100,
+    "signalStrength": 95,
+    "firmwareVersion": "1.0.0",
+    "lastSeen": "{{recent_timestamp}}",
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  },
+  {
+    "userId": "{{current_user_id}}",
+    "name": "Sunroom Camera",
+    "deviceTypeId": "{{device_type_id_by_name:Security Camera}}",
+    "roomId": 90001,
+    "status": "online",
+    "isOn": true,
+    "properties": "{\"motion_detection\": false, \"night_vision\": false, \"two_way_audio\": false, \"cloud_storage\": false, \"recording\": false}",
+    "battery": 100,
+    "signalStrength": 95,
+    "firmwareVersion": "1.0.0",
+    "lastSeen": "{{recent_timestamp}}",
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  },
+  {
+    "userId": "{{current_user_id}}",
+    "name": "Sunroom Speaker",
+    "deviceTypeId": "{{device_type_id_by_name:Smart Speaker}}",
+    "roomId": 90001,
+    "status": "online",
+    "isOn": true,
+    "properties": "{\"volume\": 50, \"is_playing\": false, \"volume_control\": false, \"music_playback\": false, \"voice_assistant\": false, \"bluetooth\": false}",
+    "battery": 100,
+    "signalStrength": 95,
+    "firmwareVersion": "1.0.0",
+    "lastSeen": "{{recent_timestamp}}",
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

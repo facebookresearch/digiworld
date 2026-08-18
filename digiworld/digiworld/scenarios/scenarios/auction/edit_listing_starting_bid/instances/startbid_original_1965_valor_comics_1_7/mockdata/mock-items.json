@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754190087,
+    "title": "Original 1965 Valor Comics #1 \u2013 'The Amazing Arachno-Man' (Near Mint)",
+    "description": "Near-mint 1965 Valor Comics #1 featuring the debut of Arachno-Man, with original cover art and minimal wear.",
+    "categoryId": 10,
+    "sellerId": "{{current_user_id}}",
+    "price": 1938.34,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 3,
+    "imageUrl": "https://example.com/images/original-1965-marvel-comics-#1-\u2013-'the-amazing-spider-man'-(near-mint).jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 1154.41,
+    "currentBid": 1944.32,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

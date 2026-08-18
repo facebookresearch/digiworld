@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "email": "alice@example.com",
+    "password": "hashedpassword1",
+    "firstName": "Alice",
+    "lastName": "Smith",
+    "phoneNumber": "+1234567890",
+    "createdAt": "2024-06-01T12:00:00Z",
+    "updatedAt": "2024-06-01T12:00:00Z",
+    "settings": "{}",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "email": "bob@example.com",
+    "password": "hashedpassword2",
+    "firstName": "Bob",
+    "lastName": "Johnson",
+    "phoneNumber": "+1987654321",
+    "createdAt": "2024-06-01T12:05:00Z",
+    "updatedAt": "2024-06-01T12:05:00Z",
+    "settings": "{}",
+    "status": "active"
+  }
+] 

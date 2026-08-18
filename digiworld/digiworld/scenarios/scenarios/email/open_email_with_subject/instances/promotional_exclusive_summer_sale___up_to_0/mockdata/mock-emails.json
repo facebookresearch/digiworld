@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "maya.patel@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Exclusive Summer Sale - Up to 50% Off!",
+    "preview": "Hi there, we're excited to announce our exclusive ...",
+    "body": "Hi there, we're excited to announce our exclusive summer sale with discounts up to 50 percent on selected items. Shop now and enjoy fast delivery before the season ends.",
+    "timestamp": "{{middle_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_maya_patel_exclusive_summer_sale_up_to",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

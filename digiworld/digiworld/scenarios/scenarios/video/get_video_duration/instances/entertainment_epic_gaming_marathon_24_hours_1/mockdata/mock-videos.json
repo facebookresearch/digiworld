@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 1,
+    "categoryId": 4,
+    "title": "Epic Gaming Marathon: 24 Hours Non-Stop Fun",
+    "description": "Join me for a thrilling gaming session where we play the hottest new releases.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 2533,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 1524,
+    "likeCount": 80,
+    "commentCount": 27,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

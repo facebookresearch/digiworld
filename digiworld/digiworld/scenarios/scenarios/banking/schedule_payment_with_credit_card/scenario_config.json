@@ -1,0 +1,15 @@
+{
+  "task_name": "Create a scheduled payment to <payee> for $<amount> on <date> at <time>, add a note \"<note>\", and pay using the credit card",
+  "app_name": "banking",
+  "scenario_class": "SchedulePaymentWithCreditCardScenario",
+  "parameters": [
+    "payee",
+    "amount",
+    "date",
+    "time",
+    "note"
+  ],
+  "additional_mockdata": true,
+  "context_fields": [],
+  "description": "Schedule a payment for the average of the payee's listed bill amounts using the credit card."
+}

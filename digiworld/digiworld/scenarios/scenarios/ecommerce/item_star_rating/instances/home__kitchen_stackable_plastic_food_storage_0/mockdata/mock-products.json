@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Stackable Plastic Food Storage Bins, Set of 6",
+    "description": "Keep leftovers fresh with this set of six stackable plastic food storage bins, each with airtight snap\u2011lock lids and clear sides for quick identification. The bins are BPA\u2011free and microwave\u2011safe, and they nest neatly to save cabinet space. Perfect for meal prep and pantry organization.",
+    "shortDescription": "Six stackable BPA\u2011free plastic food storage bins with airtight lids.",
+    "rating": 1.0,
+    "reviewCount": 1,
+    "seller": "FreshSeal Storage",
+    "price": 200.71,
+    "discountedPrice": 160.57,
+    "discountPercent": 20,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 21,
+    "subcategoryName": "Storage",
+    "inStock": true,
+    "stockCount": 104,
+    "imageUrl": "/82_1",
+    "specs": "{\"material\": \"Polypropylene\", \"dimensions\": \"Each bin: 6\\\" x 6\\\" x 6\\\" (stackable)\", \"weight\": \"0.4 lbs per bin\", \"warranty\": \"6\\u2011month warranty\", \"color\": \"Clear with blue lid\", \"careInstructions\": \"Dishwasher safe; avoid high heat\"}",
+    "tags": "[\"kitchen\", \"home\", \"storage\", \"popular\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

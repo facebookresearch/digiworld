@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "James O'Neill",
+    "street": "4557 Willow Lane",
+    "city": "Miami",
+    "state": "FL",
+    "pincode": "33133",
+    "phone": "3055552746",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

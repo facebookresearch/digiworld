@@ -1,0 +1,14 @@
+[
+  {
+    "id": "saved-granite-runner",
+    "userId": 1,
+    "name": "Granite Runner",
+    "originStopId": "stop-8",
+    "destinationStopId": "stop-9",
+    "preferredMode": "train",
+    "remindersEnabled": true,
+    "departureReminderMinutes": 30,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

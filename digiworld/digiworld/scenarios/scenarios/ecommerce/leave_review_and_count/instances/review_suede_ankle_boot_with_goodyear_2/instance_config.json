@@ -1,0 +1,21 @@
+{
+  "parameters": {
+    "item": "Suede Ankle Boot with Goodyear Stitching",
+    "star_rating": "4",
+    "review_title": "Excellent sound quality, but bulky",
+    "review_content": "The headphones deliver crystal\u2011clear highs and deep bass, making my music sound amazing. However, they are a bit heavy and the ear cups get warm after long sessions."
+  },
+  "compatible_profiles": [
+    "full_cart"
+  ],
+  "metadata": {
+    "created_at": "2026-03-31T04:12:13.554183+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

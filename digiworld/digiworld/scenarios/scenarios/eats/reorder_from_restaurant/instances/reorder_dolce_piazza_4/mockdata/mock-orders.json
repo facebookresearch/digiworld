@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "userId": "{{current_user_id}}",
+    "restaurantId": 90001,
+    "addressId": 1,
+    "status": "delivered",
+    "total": 31.0,
+    "deliveryAddress": "555 Pine Road, Chicago, IL 60601",
+    "paymentMethod": "apple_pay",
+    "specialInstructions": "",
+    "cutlery": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

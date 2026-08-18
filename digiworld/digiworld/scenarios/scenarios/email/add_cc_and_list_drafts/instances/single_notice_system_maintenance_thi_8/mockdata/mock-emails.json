@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "{{current_user_email}}",
+    "receiver": [
+      "it.support@example.com"
+    ],
+    "subject": "Notice: System Maintenance This Weekend",
+    "preview": "Hi there, please be aware that system maintenance ...",
+    "body": "Hi there, please be aware that system maintenance is planned for this weekend, which may cause temporary downtime. We apologize for any inconvenience and appreciate your patience.",
+    "timestamp": "{{recent_timestamp}}",
+    "unread": 0,
+    "read": 0,
+    "status": "draft",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 1,
+    "threadId": "draft_notice_system_maintenance_this_weekend",
+    "folder": "draft",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

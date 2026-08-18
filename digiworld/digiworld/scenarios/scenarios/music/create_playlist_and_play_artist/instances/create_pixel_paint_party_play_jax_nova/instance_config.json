@@ -1,0 +1,19 @@
+{
+  "parameters": {
+    "name": "Pixel Paint Party",
+    "artist_name": "Jinara Sol"
+  },
+  "compatible_profiles": [
+    "genre_focused"
+  ],
+  "metadata": {
+    "created_at": "2026-04-11T15:51:29.115626+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

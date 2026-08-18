@@ -1,0 +1,20 @@
+{
+  "parameters": {
+    "video_1": "Health Hack: 7\u2011Day Plant\u2011Based Meal Prep for Beginners",
+    "video_2": "Virtual Village: Exploring a User\u2011Created Fantasy MMO Town",
+    "playlist_name": "Cosmic Synth Dreams"
+  },
+  "compatible_profiles": [
+    "comments_disabled"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:59.275988+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754080051,
+    "title": "Rare 1978 Star Saga Action Figure \u2013 First Edition",
+    "description": "First\u2011edition 1978 Star Saga action figure, still in its original blister pack with crisp artwork; highly sought after by collectors.",
+    "categoryId": 8,
+    "sellerId": "{{current_user_id}}",
+    "price": 965.32,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 8,
+    "imageUrl": "https://example.com/images/rare-1978-star-wars-action-figure-\u2013-first-edition.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 393.55,
+    "currentBid": 501.84,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

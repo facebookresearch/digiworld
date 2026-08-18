@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Collagen Peptide Powder",
+    "description": "Product: Collagen Peptide Powder",
+    "shortDescription": "Collagen Peptide Powder",
+    "rating": 4.0,
+    "reviewCount": 0,
+    "seller": "Test Seller",
+    "price": 29.99,
+    "discountedPrice": 29.99,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 1,
+    "subcategoryName": "Food",
+    "inStock": true,
+    "stockCount": 50,
+    "imageUrl": "/test_1",
+    "specs": "{\"nutritionalValue\": \"Calories: 35, Protein: 9g, Collagen: 10g, Vitamin C: 20mg per serving\"}",
+    "tags": "[\"health & wellness\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

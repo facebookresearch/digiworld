@@ -1,0 +1,829 @@
+[
+  {
+    "bookingId": "BK001",
+    "bookingReference": "ABC123",
+    "userId": 1,
+    "tripType": "one_way",
+    "bookingDate": "2025-10-01T14:30:00Z",
+    "status": "confirmed",
+    "paymentStatus": "paid",
+    "totalPrice": 459.88,
+    "currency": "USD",
+    "flights": [
+      {
+        "flightId": "HA6326_2025-10-09",
+        "airlineCode": "HA",
+        "flightNumber": "HA6326",
+        "origin": "LAS",
+        "destination": "TPA",
+        "departureTime": "2025-10-09T21:15:00Z",
+        "arrivalTime": "2025-10-10T02:33:00Z",
+        "durationMinutes": 318,
+        "fare": 459.88,
+        "segment": "outbound",
+        "status": "confirmed"
+      }
+    ],
+    "passengers": [
+      {
+        "passengerId": "P001",
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@example.com",
+        "phone": "+1-555-0101",
+        "dateOfBirth": "1985-03-15",
+        "passportNumber": "US123456789",
+        "seatAssignments": [
+          {
+            "flightId": "HA6326_2025-10-09",
+            "seatNumber": "12A",
+            "checkInStatus": "checked_in",
+            "checkInTime": "2025-10-08T10:30:00Z"
+          }
+        ],
+        "ticketNumber": "TK001-HA6326"
+      }
+    ],
+    "createdAt": "2025-10-01T14:30:00Z",
+    "updatedAt": "2025-10-01T14:30:00Z"
+  },
+  {
+    "bookingId": "BK002",
+    "bookingReference": "DEF456",
+    "userId": 2,
+    "tripType": "round_trip",
+    "bookingDate": "2025-10-02T09:15:00Z",
+    "status": "confirmed",
+    "paymentStatus": "paid",
+    "totalPrice": 1764.72,
+    "currency": "USD",
+    "flights": [
+      {
+        "flightId": "AM8650_2025-10-09",
+        "airlineCode": "AM",
+        "flightNumber": "AM8650",
+        "origin": "LAS",
+        "destination": "TPA",
+        "departureTime": "2025-10-09T12:00:00Z",
+        "arrivalTime": "2025-10-09T17:18:00Z",
+        "durationMinutes": 318,
+        "fare": 441.18,
+        "segment": "outbound",
+        "status": "confirmed"
+      },
+      {
+        "flightId": "AM6073_2025-10-15",
+        "airlineCode": "AM",
+        "flightNumber": "AM6073",
+        "origin": "TPA",
+        "destination": "LAS",
+        "departureTime": "2025-10-15T07:45:00Z",
+        "arrivalTime": "2025-10-15T13:28:00Z",
+        "durationMinutes": 343,
+        "fare": 473.11,
+        "segment": "return",
+        "status": "confirmed"
+      }
+    ],
+    "passengers": [
+      {
+        "passengerId": "P002",
+        "firstName": "Sarah",
+        "lastName": "Smith",
+        "email": "sarah.smith@example.com",
+        "phone": "+1-555-0102",
+        "dateOfBirth": "1990-07-22",
+        "passportNumber": "US987654321",
+        "seatAssignments": [
+          {
+            "flightId": "AM8650_2025-10-09",
+            "seatNumber": "8B",
+            "checkInStatus": "not_checked_in",
+            "checkInTime": null
+          },
+          {
+            "flightId": "AM6073_2025-10-15",
+            "seatNumber": "15A",
+            "checkInStatus": "not_checked_in",
+            "checkInTime": null
+          }
+        ],
+        "ticketNumber": "TK002-RT"
+      },
+      {
+        "passengerId": "P003",
+        "firstName": "David",
+        "lastName": "Smith",
+        "email": "david.smith@example.com",
+        "phone": "+1-555-0103",
+        "dateOfBirth": "1988-05-10",
+        "passportNumber": "US456789123",
+        "seatAssignments": [
+          {
+            "flightId": "AM8650_2025-10-09",
+            "seatNumber": "8C",
+            "checkInStatus": "not_checked_in",
+            "checkInTime": null
+          },
+          {
+            "flightId": "AM6073_2025-10-15",
+            "seatNumber": "15B",
+            "checkInStatus": "not_checked_in",
+            "checkInTime": null
+          }
+        ],
+        "ticketNumber": "TK003-RT"
+      }
+    ],
+    "createdAt": "2025-10-02T09:15:00Z",
+    "updatedAt": "2025-10-02T09:15:00Z"
+  },
+  {
+    "bookingId": "BK003",
+    "bookingReference": "GHI789",
+    "userId": 3,
+    "tripType": "one_way",
+    "bookingDate": "2025-10-03T16:45:00Z",
+    "status": "confirmed",
+    "paymentStatus": "paid",
+    "totalPrice": 308.29,
+    "currency": "USD",
+    "flights": [
+      {
+        "flightId": "HA8641_2025-10-09",
+        "airlineCode": "HA",
+        "flightNumber": "HA8641",
+        "origin": "DCA",
+        "destination": "TPA",
+        "departureTime": "2025-10-09T13:00:00Z",
+        "arrivalTime": "2025-10-09T16:08:00Z",
+        "durationMinutes": 188,
+        "fare": 308.29,
+        "segment": "outbound",
+        "status": "confirmed"
+      }
+    ],
+    "passengers": [
+      {
+        "passengerId": "P004",
+        "firstName": "Mike",
+        "lastName": "Wilson",
+        "email": "mike.wilson@example.com",
+        "phone": "+1-555-0104",
+        "dateOfBirth": "1982-11-30",
+        "passportNumber": "US789123456",
+        "seatAssignments": [
+          {
+            "flightId": "HA8641_2025-10-09",
+            "seatNumber": "15C",
+            "checkInStatus": "not_checked_in",
+            "checkInTime": null
+          }
+        ],
+        "ticketNumber": "TK004-HA8641"
+      }
+    ],
+    "createdAt": "2025-10-03T16:45:00Z",
+    "updatedAt": "2025-10-03T16:45:00Z"
+  },
+  {
+    "bookingId": "BK004",
+    "bookingReference": "JKL012",
+    "userId": 4,
+    "tripType": "round_trip",
+    "bookingDate": "2025-09-28T11:20:00Z",
+    "status": "partially_cancelled",
+    "paymentStatus": "partially_refunded",
+    "totalPrice": 2809.47,
+    "refundAmount": 2042.43,
+    "amountPaid": 767.04,
+    "currency": "USD",
+    "flights": [
+      {
+        "flightId": "UA4045_2025-10-09",
+        "airlineCode": "UA",
+        "flightNumber": "UA4045",
+        "origin": "LAS",
+        "destination": "TPA",
+        "departureTime": "2025-10-09T11:45:00Z",
+        "arrivalTime": "2025-10-09T17:03:00Z",
+        "durationMinutes": 318,
+        "fare": 465.41,
+        "segment": "outbound",
+        "status": "confirmed"
+      },
+      {
+        "flightId": "UA5998_2025-10-14",
+        "airlineCode": "UA",
+        "flightNumber": "UA5998",
+        "origin": "TPA",
+        "destination": "LAS",
+        "departureTime": "2025-10-14T12:00:00Z",
+        "arrivalTime": "2025-10-14T17:43:00Z",
+        "durationMinutes": 343,
+        "fare": 680.81,
+        "segment": "return",
+        "status": "cancelled",
+        "cancellationDate": "2025-10-11T09:30:00Z",
+        "cancellationReason": "Changed travel plans",
+        "refundAmount": 680.81
+      }
+    ],
+    "passengers": [
+      {
+        "passengerId": "P005",
+        "firstName": "Emma",
+        "lastName": "Davis",
+        "email": "emma.davis@example.com",
+        "phone": "+1-555-0105",
+        "dateOfBirth": "1995-04-18",
+        "passportNumber": "US321654987",
+        "seatAssignments": [
+          {
+            "flightId": "UA4045_2025-10-09",
+            "seatNumber": "3A",
+            "checkInStatus": "not_checked_in",
+            "checkInTime": null
+          },
+          {
+            "flightId": "UA5998_2025-10-14",
+            "seatNumber": "5A",
+            "checkInStatus": "not_checked_in",
+            "checkInTime": null
+          }
+        ],
+        "ticketNumber": "TK005-RT"
+      },
+      {
+        "passengerId": "P006",
+        "firstName": "James",
+        "lastName": "Davis",
+        "email": "james.davis@example.com",
+        "phone": "+1-555-0106",
+        "dateOfBirth": "1993-08-25",
+        "passportNumber": "US654987321",
+        "seatAssignments": [
+          {
+            "flightId": "UA4045_2025-10-09",
+            "seatNumber": "3B",
+            "checkInStatus": "not_checked_in",
+            "checkInTime": null
+          },
+          {
+            "flightId": "UA5998_2025-10-14",
+            "seatNumber": "5B",
+            "checkInStatus": "not_checked_in",
+            "checkInTime": null
+          }
+        ],
+        "ticketNumber": "TK006-RT"
+      },
+      {
+        "passengerId": "P007",
+        "firstName": "Lily",
+        "lastName": "Davis",
+        "email": "emma.davis@example.com",
+        "phone": "+1-555-0105",
+        "dateOfBirth": "2018-12-05",
+        "passportNumber": "US159753486",
+        "seatAssignments": [
+          {
+            "flightId": "UA4045_2025-10-09",
+            "seatNumber": "3C",
+            "checkInStatus": "not_checked_in",
+            "checkInTime": null
+          },
+          {
+            "flightId": "UA5998_2025-10-14",
+            "seatNumber": "5C",
+            "checkInStatus": "not_checked_in",
+            "checkInTime": null
+          }
+        ],
+        "ticketNumber": "TK007-RT"
+      }
+    ],
+    "createdAt": "2025-09-28T11:20:00Z",
+    "updatedAt": "2025-10-11T09:30:00Z"
+  },
+  {
+    "bookingId": "BK005",
+    "bookingReference": "MNO345",
+    "userId": 5,
+    "tripType": "round_trip",
+    "bookingDate": "2025-10-04T08:30:00Z",
+    "status": "confirmed",
+    "paymentStatus": "paid",
+    "totalPrice": 603.07,
+    "currency": "USD",
+    "flights": [
+      {
+        "flightId": "WN5136_2025-10-09",
+        "airlineCode": "WN",
+        "flightNumber": "WN5136",
+        "origin": "DCA",
+        "destination": "TPA",
+        "departureTime": "2025-10-09T16:15:00Z",
+        "arrivalTime": "2025-10-09T19:23:00Z",
+        "durationMinutes": 188,
+        "fare": 304.17,
+        "segment": "outbound",
+        "status": "confirmed"
+      },
+      {
+        "flightId": "WN4975_2025-10-15",
+        "airlineCode": "WN",
+        "flightNumber": "WN4975",
+        "origin": "DCA",
+        "destination": "TPA",
+        "departureTime": "2025-10-15T14:30:00Z",
+        "arrivalTime": "2025-10-15T17:38:00Z",
+        "durationMinutes": 188,
+        "fare": 282.06,
+        "segment": "return",
+        "status": "confirmed"
+      }
+    ],
+    "passengers": [
+      {
+        "passengerId": "P008",
+        "firstName": "Alex",
+        "lastName": "Chen",
+        "email": "alex.chen@example.com",
+        "phone": "+1-555-0107",
+        "dateOfBirth": "1992-09-14",
+        "passportNumber": "US753951456",
+        "seatAssignments": [
+          {
+            "flightId": "WN5136_2025-10-09",
+            "seatNumber": "20D",
+            "checkInStatus": "not_checked_in",
+            "checkInTime": null
+          },
+          {
+            "flightId": "WN4975_2025-10-15",
+            "seatNumber": "22C",
+            "checkInStatus": "not_checked_in",
+            "checkInTime": null
+          }
+        ],
+        "ticketNumber": "TK008-RT"
+      }
+    ],
+    "createdAt": "2025-10-04T08:30:00Z",
+    "updatedAt": "2025-10-04T08:30:00Z"
+  },
+  {
+    "bookingId": "BK006",
+    "bookingReference": "PQR678",
+    "userId": 1,
+    "tripType": "round_trip",
+    "bookingDate": "2025-10-05T13:45:00Z",
+    "status": "partially_cancelled",
+    "paymentStatus": "partially_refunded",
+    "totalPrice": 1168.63,
+    "refundAmount": 558.23,
+    "amountPaid": 610.4,
+    "currency": "USD",
+    "flights": [
+      {
+        "flightId": "HA1267_2025-10-09",
+        "airlineCode": "HA",
+        "flightNumber": "HA1267",
+        "origin": "LAS",
+        "destination": "YVR",
+        "departureTime": "2025-10-09T23:00:00Z",
+        "arrivalTime": "2025-10-10T05:39:00Z",
+        "durationMinutes": 399,
+        "fare": 610.4,
+        "segment": "outbound",
+        "status": "confirmed"
+      },
+      {
+        "flightId": "AM1549_2025-10-15",
+        "airlineCode": "AM",
+        "flightNumber": "AM1549",
+        "origin": "LAS",
+        "destination": "YVR",
+        "departureTime": "2025-10-15T08:45:00Z",
+        "arrivalTime": "2025-10-15T15:24:00Z",
+        "durationMinutes": 399,
+        "fare": 558.23,
+        "segment": "return",
+        "status": "cancelled",
+        "cancellationDate": "2025-10-08T16:20:00Z",
+        "cancellationReason": "Extended stay - rescheduling return",
+        "refundAmount": 558.23
+      }
+    ],
+    "passengers": [
+      {
+        "passengerId": "P009",
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@example.com",
+        "phone": "+1-555-0101",
+        "dateOfBirth": "1985-03-15",
+        "passportNumber": "US123456789",
+        "seatAssignments": [
+          {
+            "flightId": "HA1267_2025-10-09",
+            "seatNumber": "5A",
+            "checkInStatus": "not_checked_in",
+            "checkInTime": null
+          },
+          {
+            "flightId": "AM1549_2025-10-15",
+            "seatNumber": "9B",
+            "checkInStatus": "not_checked_in",
+            "checkInTime": null
+          }
+        ],
+        "ticketNumber": "TK009-RT"
+      }
+    ],
+    "createdAt": "2025-10-05T13:45:00Z",
+    "updatedAt": "2025-10-08T16:20:00Z"
+  },
+  {
+    "bookingId": "BK007",
+    "bookingReference": "STU901",
+    "userId": 2,
+    "tripType": "one_way",
+    "bookingDate": "2025-10-06T10:00:00Z",
+    "status": "cancelled",
+    "paymentStatus": "refunded",
+    "totalPrice": 154.44,
+    "refundAmount": 154.44,
+    "amountPaid": 0.0,
+    "currency": "USD",
+    "flights": [
+      {
+        "flightId": "AM2021_2025-10-09",
+        "airlineCode": "AM",
+        "flightNumber": "AM2021",
+        "origin": "DCA",
+        "destination": "LAS",
+        "departureTime": "2025-10-09T09:45:00Z",
+        "arrivalTime": "2025-10-09T11:06:00Z",
+        "durationMinutes": 81,
+        "fare": 154.44,
+        "segment": "outbound",
+        "status": "cancelled",
+        "cancellationDate": "2025-10-07T14:20:00Z",
+        "cancellationReason": "Personal reasons",
+        "refundAmount": 154.44
+      }
+    ],
+    "passengers": [
+      {
+        "passengerId": "P010",
+        "firstName": "Sarah",
+        "lastName": "Smith",
+        "email": "sarah.smith@example.com",
+        "phone": "+1-555-0102",
+        "dateOfBirth": "1990-07-22",
+        "passportNumber": "US987654321",
+        "seatAssignments": [
+          {
+            "flightId": "AM2021_2025-10-09",
+            "seatNumber": "10A",
+            "checkInStatus": "not_checked_in",
+            "checkInTime": null
+          }
+        ],
+        "ticketNumber": "TK010-AM2021"
+      }
+    ],
+    "createdAt": "2025-10-06T10:00:00Z",
+    "updatedAt": "2025-10-07T14:20:00Z"
+  },
+  {
+    "bookingId": "BK008",
+    "bookingReference": "VWX234",
+    "userId": 3,
+    "tripType": "round_trip",
+    "bookingDate": "2025-10-01T15:30:00Z",
+    "status": "confirmed",
+    "paymentStatus": "paid",
+    "totalPrice": 1170.22,
+    "currency": "USD",
+    "flights": [
+      {
+        "flightId": "UA1780_2025-10-09",
+        "airlineCode": "UA",
+        "flightNumber": "UA1780",
+        "origin": "EWR",
+        "destination": "DCA",
+        "departureTime": "2025-10-09T06:00:00Z",
+        "arrivalTime": "2025-10-09T12:30:00Z",
+        "durationMinutes": 390,
+        "fare": 564.89,
+        "segment": "outbound",
+        "status": "confirmed"
+      },
+      {
+        "flightId": "AM8256_2025-10-15",
+        "airlineCode": "AM",
+        "flightNumber": "AM8256",
+        "origin": "EWR",
+        "destination": "DCA",
+        "departureTime": "2025-10-15T21:15:00Z",
+        "arrivalTime": "2025-10-16T03:45:00Z",
+        "durationMinutes": 390,
+        "fare": 630.95,
+        "segment": "return",
+        "status": "confirmed"
+      }
+    ],
+    "passengers": [
+      {
+        "passengerId": "P011",
+        "firstName": "Mike",
+        "lastName": "Wilson",
+        "email": "mike.wilson@example.com",
+        "phone": "+1-555-0104",
+        "dateOfBirth": "1982-11-30",
+        "passportNumber": "US789123456",
+        "seatAssignments": [
+          {
+            "flightId": "UA1780_2025-10-09",
+            "seatNumber": "7B",
+            "checkInStatus": "not_checked_in",
+            "checkInTime": null
+          },
+          {
+            "flightId": "AM8256_2025-10-15",
+            "seatNumber": "12A",
+            "checkInStatus": "not_checked_in",
+            "checkInTime": null
+          }
+        ],
+        "ticketNumber": "TK011-RT"
+      }
+    ],
+    "createdAt": "2025-10-01T15:30:00Z",
+    "updatedAt": "2025-10-01T15:30:00Z"
+  },
+  {
+    "bookingId": "BK009",
+    "bookingReference": "YZA567",
+    "userId": 4,
+    "tripType": "one_way",
+    "bookingDate": "2025-10-02T12:15:00Z",
+    "status": "confirmed",
+    "paymentStatus": "paid",
+    "totalPrice": 966.38,
+    "currency": "USD",
+    "flights": [
+      {
+        "flightId": "WN9623_2025-10-09",
+        "airlineCode": "WN",
+        "flightNumber": "WN9623",
+        "origin": "TPA",
+        "destination": "LAS",
+        "departureTime": "2025-10-09T23:45:00Z",
+        "arrivalTime": "2025-10-10T05:28:00Z",
+        "durationMinutes": 343,
+        "fare": 483.19,
+        "segment": "outbound",
+        "status": "confirmed"
+      }
+    ],
+    "passengers": [
+      {
+        "passengerId": "P012",
+        "firstName": "Emma",
+        "lastName": "Davis",
+        "email": "emma.davis@example.com",
+        "phone": "+1-555-0105",
+        "dateOfBirth": "1995-04-18",
+        "passportNumber": "US321654987",
+        "seatAssignments": [
+          {
+            "flightId": "WN9623_2025-10-09",
+            "seatNumber": "14A",
+            "checkInStatus": "not_checked_in",
+            "checkInTime": null
+          }
+        ],
+        "ticketNumber": "TK012-WN9623"
+      },
+      {
+        "passengerId": "P013",
+        "firstName": "Olivia",
+        "lastName": "Martinez",
+        "email": "olivia.m@example.com",
+        "phone": "+1-555-0108",
+        "dateOfBirth": "1994-06-20",
+        "passportNumber": "US852963741",
+        "seatAssignments": [
+          {
+            "flightId": "WN9623_2025-10-09",
+            "seatNumber": "14B",
+            "checkInStatus": "not_checked_in",
+            "checkInTime": null
+          }
+        ],
+        "ticketNumber": "TK013-WN9623"
+      }
+    ],
+    "createdAt": "2025-10-02T12:15:00Z",
+    "updatedAt": "2025-10-02T12:15:00Z"
+  },
+  {
+    "bookingId": "BK010",
+    "bookingReference": "BCD890",
+    "userId": 5,
+    "tripType": "one_way",
+    "bookingDate": "2025-09-30T09:00:00Z",
+    "status": "pending",
+    "paymentStatus": "pending",
+    "totalPrice": 190.26,
+    "currency": "USD",
+    "flights": [
+      {
+        "flightId": "WN3537_2025-10-09",
+        "airlineCode": "WN",
+        "flightNumber": "WN3537",
+        "origin": "YVR",
+        "destination": "DCA",
+        "departureTime": "2025-10-09T17:00:00Z",
+        "arrivalTime": "2025-10-09T18:56:00Z",
+        "durationMinutes": 116,
+        "fare": 190.26,
+        "segment": "outbound",
+        "status": "pending"
+      }
+    ],
+    "passengers": [
+      {
+        "passengerId": "P014",
+        "firstName": "Alex",
+        "lastName": "Chen",
+        "email": "alex.chen@example.com",
+        "phone": "+1-555-0107",
+        "dateOfBirth": "1992-09-14",
+        "passportNumber": "US753951456",
+        "seatAssignments": [
+          {
+            "flightId": "WN3537_2025-10-09",
+            "seatNumber": "18F",
+            "checkInStatus": "not_checked_in",
+            "checkInTime": null
+          }
+        ],
+        "ticketNumber": "TK014-WN3537"
+      }
+    ],
+    "createdAt": "2025-09-30T09:00:00Z",
+    "updatedAt": "2025-09-30T09:00:00Z"
+  },
+  {
+    "bookingId": "BK011",
+    "bookingReference": "EFG123",
+    "userId": 1,
+    "tripType": "round_trip",
+    "bookingDate": "2025-10-03T11:30:00Z",
+    "status": "partially_cancelled",
+    "paymentStatus": "partially_refunded",
+    "totalPrice": 1389.05,
+    "refundAmount": 673.98,
+    "amountPaid": 678.75,
+    "currency": "USD",
+    "flights": [
+      {
+        "flightId": "AM8656_2025-10-09",
+        "airlineCode": "AM",
+        "flightNumber": "AM8656",
+        "origin": "YVR",
+        "destination": "TPA",
+        "departureTime": "2025-10-09T15:00:00Z",
+        "arrivalTime": "2025-10-09T21:31:00Z",
+        "durationMinutes": 391,
+        "fare": 673.98,
+        "segment": "outbound",
+        "status": "cancelled",
+        "cancellationDate": "2025-10-06T10:15:00Z",
+        "cancellationReason": "Flight rescheduled by airline",
+        "refundAmount": 673.98
+      },
+      {
+        "flightId": "AM3525_2025-10-15",
+        "airlineCode": "AM",
+        "flightNumber": "AM3525",
+        "origin": "YVR",
+        "destination": "TPA",
+        "departureTime": "2025-10-15T20:45:00Z",
+        "arrivalTime": "2025-10-16T03:16:00Z",
+        "durationMinutes": 391,
+        "fare": 678.75,
+        "segment": "return",
+        "status": "confirmed"
+      }
+    ],
+    "passengers": [
+      {
+        "passengerId": "P015",
+        "firstName": "John",
+        "lastName": "Doe",
+        "email": "john.doe@example.com",
+        "phone": "+1-555-0101",
+        "dateOfBirth": "1985-03-15",
+        "passportNumber": "US123456789",
+        "seatAssignments": [
+          {
+            "flightId": "AM8656_2025-10-09",
+            "seatNumber": "11C",
+            "checkInStatus": "not_checked_in",
+            "checkInTime": null
+          },
+          {
+            "flightId": "AM3525_2025-10-15",
+            "seatNumber": "16D",
+            "checkInStatus": "not_checked_in",
+            "checkInTime": null
+          }
+        ],
+        "ticketNumber": "TK015-RT"
+      }
+    ],
+    "createdAt": "2025-10-03T11:30:00Z",
+    "updatedAt": "2025-10-06T10:15:00Z"
+  },
+  {
+    "bookingId": "BK012",
+    "bookingReference": "HIJ456",
+    "userId": 2,
+    "tripType": "round_trip",
+    "bookingDate": "2025-10-04T14:00:00Z",
+    "status": "cancelled",
+    "paymentStatus": "refunded",
+    "totalPrice": 419.11,
+    "refundAmount": 419.11,
+    "amountPaid": 0.0,
+    "currency": "USD",
+    "flights": [
+      {
+        "flightId": "WN2932_2025-10-09",
+        "airlineCode": "WN",
+        "flightNumber": "WN2932",
+        "origin": "EWR",
+        "destination": "TPA",
+        "departureTime": "2025-10-09T19:00:00Z",
+        "arrivalTime": "2025-10-09T20:45:00Z",
+        "durationMinutes": 105,
+        "fare": 204.8,
+        "segment": "outbound",
+        "status": "cancelled",
+        "cancellationDate": "2025-10-05T11:00:00Z",
+        "cancellationReason": "Trip cancelled - emergency",
+        "refundAmount": 204.8
+      },
+      {
+        "flightId": "AM6366_2025-10-15",
+        "airlineCode": "AM",
+        "flightNumber": "AM6366",
+        "origin": "EWR",
+        "destination": "TPA",
+        "departureTime": "2025-10-15T12:45:00Z",
+        "arrivalTime": "2025-10-15T14:30:00Z",
+        "durationMinutes": 105,
+        "fare": 218.17,
+        "segment": "return",
+        "status": "cancelled",
+        "cancellationDate": "2025-10-05T11:00:00Z",
+        "cancellationReason": "Trip cancelled - emergency",
+        "refundAmount": 218.17
+      }
+    ],
+    "passengers": [
+      {
+        "passengerId": "P016",
+        "firstName": "Sarah",
+        "lastName": "Smith",
+        "email": "sarah.smith@example.com",
+        "phone": "+1-555-0102",
+        "dateOfBirth": "1990-07-22",
+        "passportNumber": "US987654321",
+        "seatAssignments": [
+          {
+            "flightId": "WN2932_2025-10-09",
+            "seatNumber": "6D",
+            "checkInStatus": "not_checked_in",
+            "checkInTime": null
+          },
+          {
+            "flightId": "AM6366_2025-10-15",
+            "seatNumber": "8A",
+            "checkInStatus": "not_checked_in",
+            "checkInTime": null
+          }
+        ],
+        "ticketNumber": "TK016-RT"
+      }
+    ],
+    "createdAt": "2025-10-04T14:00:00Z",
+    "updatedAt": "2025-10-05T11:00:00Z"
+  }
+]

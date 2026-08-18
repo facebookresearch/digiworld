@@ -1,0 +1,19 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "EcoPark Plaza",
+    "description": "Parking zone EP999",
+    "latitude": 40.7289,
+    "longitude": -73.9801,
+    "zoneCode": "EP999",
+    "operator": "City Parking Authority",
+    "zoneType": "garage",
+    "capacity": 120,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.55,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

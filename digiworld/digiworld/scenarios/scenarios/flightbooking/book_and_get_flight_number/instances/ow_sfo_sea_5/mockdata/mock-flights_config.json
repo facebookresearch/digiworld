@@ -1,0 +1,18 @@
+[
+  {
+    "flight_id": "FC_UA2291",
+    "airline_id": "airline_ua",
+    "airline_code": "UA",
+    "flight_number": "UA2291",
+    "origin": "SFO",
+    "destination": "SEA",
+    "departure_time": "14:30",
+    "arrival_time": "21:12",
+    "duration_minutes": 402,
+    "fare": 449.98,
+    "currency": "USD",
+    "seats_available": 27,
+    "aircraft_type": "Boeing 787-9 Dreamliner",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

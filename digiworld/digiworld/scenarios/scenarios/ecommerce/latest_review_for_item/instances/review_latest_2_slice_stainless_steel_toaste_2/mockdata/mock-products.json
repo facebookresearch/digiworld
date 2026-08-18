@@ -1,0 +1,62 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "2-Slice Stainless Steel Toaster",
+    "description": "This sleek stainless steel toaster offers two wide slots for bagels and thick bread, with six browning settings for personalized crispness. The high-lift lever makes retrieval easy, and the crumb tray slides out for hassle-free cleaning. Compact enough for any countertop.",
+    "shortDescription": "A stainless steel toaster with customizable browning.",
+    "rating": 3.6,
+    "reviewCount": 5,
+    "seller": "BrewMaster Appliances",
+    "price": 601.48,
+    "discountedPrice": 342.84,
+    "discountPercent": 43,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 18,
+    "subcategoryName": "Small Appliances",
+    "inStock": true,
+    "stockCount": 124,
+    "imageUrl": "/71_1",
+    "specs": "{\"material\": \"Stainless steel exterior, chrome heating elements\", \"dimensions\": \"7\\\" H x 6\\\" W x 5\\\" D\", \"weight\": \"2.3 lbs\", \"warranty\": \"1-year limited\", \"color\": \"Brushed stainless\", \"careInstructions\": \"Unplug before cleaning; wipe crumb tray weekly; clean exterior with mild detergent\"}",
+    "tags": "[\"home\", \"appliances\", \"small\", \"kitchen\", \"top-rated\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000",
+    "reviews": [
+      {
+        "userName": "Reviewer",
+        "rating": 3,
+        "title": "Decent toaster but uneven browning",
+        "comment": "The stainless-steel body looks sleek and fits nicely on my countertop. The 2-slice slots are roomy, but the browning control is a bit inconsistent, leaving one slice darker than the other. Overall it works, just not as reliably as I hoped.",
+        "reviewDate": "2025-09-11T22:39:31.814865Z"
+      },
+      {
+        "userName": "Reviewer",
+        "rating": 5,
+        "title": "Perfect compact toaster for daily use",
+        "comment": "I love the brushed stainless steel finish; it adds a modern touch to my kitchen. The 2-slice capacity is perfect for quick breakfasts, and the adjustable browning dial gives exactly the toast I want every time. The removable crumb tray makes cleaning a breeze, and the cancel button is a handy safety feature.",
+        "reviewDate": "2026-01-04T11:26:37.814870Z"
+      },
+      {
+        "userName": "Reviewer",
+        "rating": 2,
+        "title": "Disappointing performance and flimsy construction",
+        "comment": "The toaster's stainless steel exterior feels cheap and scratches easily. The heating elements take too long to toast even a single slice, and the crumb tray is too shallow to catch all the crumbs. For the price, I expected a sturdier 2-slice toaster.",
+        "reviewDate": "2025-05-04T11:06:24.814875Z"
+      },
+      {
+        "userName": "Reviewer",
+        "rating": 5,
+        "title": "Reliable toast every morning, highly recommend",
+        "comment": "This 2-slice stainless steel toaster delivers consistent results with its precise browning control. The slots accommodate bagels and thick bread without issue, and the pop-up mechanism works smoothly. Cleaning is simple thanks to the easy-slide crumb tray, and the sleek design complements any kitchen d\u00e9cor.",
+        "reviewDate": "2025-07-26T15:26:23.814880Z"
+      },
+      {
+        "userName": "Reviewer",
+        "rating": 3,
+        "title": "Good looks but average toasting",
+        "comment": "The brushed stainless steel finish looks great on my counter, and the compact size is a plus. However, the toaster sometimes burns the edges while leaving the center under-done, even on the lightest setting. It's okay for occasional use, but I wish the browning control were more reliable.",
+        "reviewDate": "2025-06-19T00:26:58.814885Z"
+      }
+    ]
+  }
+]

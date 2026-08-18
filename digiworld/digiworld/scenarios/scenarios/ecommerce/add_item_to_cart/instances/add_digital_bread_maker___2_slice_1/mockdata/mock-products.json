@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Digital Bread Maker - 2-Slice Loaf",
+    "description": "Bake fresh bread at home with this digital bread maker that offers 14 preset cycles, including gluten-free and whole-grain options. The 2-slice loaf capacity fits most kitchen counters, and the non-stick baking pan slides out easily for clean removal. A programmable delay timer lets you start baking at your convenience.",
+    "shortDescription": "Digital bread maker with 14 preset cycles for fresh loaves.",
+    "rating": 2.4,
+    "reviewCount": 5,
+    "seller": "BakeMaster Ltd.",
+    "price": 329.08,
+    "discountedPrice": 263.26,
+    "discountPercent": 20,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 18,
+    "subcategoryName": "Small Appliances",
+    "inStock": true,
+    "stockCount": 70,
+    "imageUrl": "/72_1",
+    "specs": "{\"material\": \"Stainless steel interior, plastic housing\", \"dimensions\": \"12\\\" x 10\\\" x 13\\\"\", \"weight\": \"10.5 lbs\", \"warranty\": \"2-year limited warranty\", \"color\": \"Matte white\", \"careInstructions\": \"Clean crumb tray after each cycle; wipe interior with damp cloth; do not immerse motor\"}",
+    "tags": "[\"home\", \"appliances\", \"small\", \"kitchen\", \"popular\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

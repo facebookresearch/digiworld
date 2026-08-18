@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 1,
+    "categoryId": 4,
+    "title": "Top 5 Most Epic Movie Fight Scenes",
+    "description": "From Star Saga to The Matrix, we're counting down the most epic fight scenes in movie history. Here are the top 5 that made the cut!",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 888,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 2647,
+    "likeCount": 32,
+    "commentCount": 48,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

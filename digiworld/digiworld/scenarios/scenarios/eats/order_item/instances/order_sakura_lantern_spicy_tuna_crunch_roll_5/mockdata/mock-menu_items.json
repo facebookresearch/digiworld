@@ -1,0 +1,15 @@
+[
+  {
+    "id": 90001,
+    "restaurantId": 90001,
+    "categoryId": 90001,
+    "name": "Spicy Tuna Crunch Roll",
+    "description": "Fresh tuna mixed with chili mayo, rolled with cucumber and tempura flakes, topped with sesame seeds.",
+    "price": 11.5,
+    "image": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?auto=format&fit=crop&w=600&q=80",
+    "calories": 460,
+    "isPopular": 0,
+    "isActive": 1,
+    "position": 1
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "task_name": "When did I watch the <order> video in my watch history?",
+  "app_name": "video",
+  "scenario_class": "GetWatchTimeScenario",
+  "parameters": [
+    "order"
+  ],
+  "context_fields": [],
+  "description": "Report when the oldest or newest video was watched"
+}

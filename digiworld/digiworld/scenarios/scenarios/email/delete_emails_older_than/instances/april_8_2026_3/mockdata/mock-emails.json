@@ -1,0 +1,90 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "grace.howard@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Vendor contract negotiation status",
+    "preview": "Hello. An update on the vendor contract negotiatio...",
+    "body": "Hello. An update on the vendor contract negotiations is included in the attached document. Let us know if any changes are needed.",
+    "timestamp": "2026-03-09T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_grace_howard_vendor_contract_negotiation",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "samuel.green@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Data backup verification results",
+    "preview": "Hi. The results of the recent data backup verifica...",
+    "body": "Hi. The results of the recent data backup verification have been completed. No issues were found and backups are secure.",
+    "timestamp": "2026-04-01T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_samuel_green_data_backup_verification_re",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "ella.morgan@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Customer support ticket escalation",
+    "preview": "Hello. A customer support ticket has been escalate...",
+    "body": "Hello. A customer support ticket has been escalated to the engineering team for urgent resolution. Track progress in the ticketing system.",
+    "timestamp": "2026-04-15T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_ella_morgan_customer_support_ticket_esca",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "david.cooper@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Product roadmap Q3 planning",
+    "preview": "Hi team. The Q3 product roadmap planning session i...",
+    "body": "Hi team. The Q3 product roadmap planning session is scheduled for next Monday. Prepare your feature proposals for discussion.",
+    "timestamp": "2026-05-08T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_david_cooper_product_roadmap_q3_planning",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

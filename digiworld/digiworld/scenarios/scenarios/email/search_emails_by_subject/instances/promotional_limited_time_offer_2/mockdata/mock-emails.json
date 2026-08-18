@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "ava.moreno@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Take advantage of our limited time offer",
+    "preview": "Hi there, don't miss our limited time offer on the...",
+    "body": "Hi there, don't miss our limited time offer on the new products. Order now to receive a discount.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_ava_moreno_take_advantage_of_our_limited",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "ethan.hall@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Don't miss out on our limited time offer",
+    "preview": "Hello, we've got a limited time offer on our best-...",
+    "body": "Hello, we've got a limited time offer on our best-selling items. Check out the deals on our website.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_ethan_hall_don_t_miss_out_on_our_limited",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Adjustable Orthopedic Wrist Brace",
+    "description": "Adjustable Orthopedic Wrist Brace provides firm support while allowing limited motion for wrist injuries. Made from breathable neoprene with Velcro straps for a customized fit. Suitable for carpal tunnel and sprains.",
+    "shortDescription": "Breathable wrist brace offering firm orthopedic support.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "FlexSupport Orthopedics",
+    "price": 94.71,
+    "discountedPrice": 66.3,
+    "discountPercent": 30,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 66,
+    "subcategoryName": "Medical Devices",
+    "inStock": true,
+    "stockCount": 1,
+    "imageUrl": "/263_1",
+    "specs": "{\"ingredients\": \"N/A (medical\\u2011grade neoprene, adjustable Velcro, molded polyethylene splint)\", \"dosage\": \"Wear 24 hrs initially, then as needed for support\", \"weight\": \"0.15 lbs (68 g)\", \"expiryPeriod\": \"5 years from manufacture\", \"madeIn\": \"USA\", \"certifications\": \"ISO 13485, FDA registered, CE marked\"}",
+    "tags": "[\"wellness\", \"devices\", \"health\", \"medical\", \"best\", \"top-rated\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

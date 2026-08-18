@@ -1,0 +1,9 @@
+{
+  "task_name": "Delete the listing for \"<title>\"",
+  "app_name": "auction",
+  "scenario_class": "DeleteListingScenario",
+  "parameters": ["title"],
+  "context_fields": [],
+  "additional_mockdata": true,
+  "description": "Delete an existing listing by its title."
+}

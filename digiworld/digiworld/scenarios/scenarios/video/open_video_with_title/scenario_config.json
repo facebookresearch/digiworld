@@ -1,0 +1,11 @@
+{
+  "task_name": "Open the video with title <title>",
+  "app_name": "video",
+  "scenario_class": "OpenVideoWithTitleScenario",
+  "parameters": [
+    "title"
+  ],
+  "context_fields": [],
+  "description": "Open a video with a specified title",
+  "additional_mockdata": true
+}

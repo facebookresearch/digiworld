@@ -1,0 +1,19 @@
+[
+  {
+    "id": 99803,
+    "name": "Civic Center",
+    "description": "Parking zone CIVIC1",
+    "latitude": 40.72839,
+    "longitude": -73.984016,
+    "zoneCode": "CIVIC1",
+    "operator": "City Parking Authority",
+    "zoneType": "garage",
+    "capacity": 257,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.87,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

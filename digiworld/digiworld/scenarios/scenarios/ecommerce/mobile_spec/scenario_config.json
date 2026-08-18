@@ -1,0 +1,8 @@
+{
+  "task_name": "I want to buy a new phone, what's the <spec> on the <item>?",
+  "app_name": "ecommerce",
+  "scenario_class": "MobileSpecScenario",
+  "parameters": ["spec", "item"],
+  "context_fields": [],
+  "description": "Retrieve a specific specification for a mobile or tablet product"
+}

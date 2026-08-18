@@ -1,0 +1,19 @@
+[
+  {
+    "flight_id": "WN4295_{{tomorrow_date}}",
+    "airline_id": "airline_wn",
+    "airline_code": "WN",
+    "flight_number": "WN4295",
+    "origin": "PHX",
+    "destination": "LAS",
+    "departure_time": "{{tomorrow_date}}T14:45:00Z",
+    "arrival_time": "{{tomorrow_date}}T22:50:00Z",
+    "duration_minutes": 485,
+    "fare": 1044.84,
+    "currency": "USD",
+    "seats_available": 122,
+    "aircraft_type": "Boeing 787-9 Dreamliner",
+    "date": "{{tomorrow_date}}",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

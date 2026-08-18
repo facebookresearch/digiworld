@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Magnetic Sunshade for Windshield",
+    "description": "Keep your car's interior cool with this magnetic sunshade that snaps onto the windshield frame. The reflective surface blocks up to 95% of UV rays, reducing cabin temperature and protecting upholstery. Simple to install and remove without leaving residue.",
+    "shortDescription": "Magnetic windshield sunshade that blocks up to 95% of UV rays.",
+    "rating": 4.9,
+    "reviewCount": 0,
+    "seller": "ShadeGuard Co.",
+    "price": 713.68,
+    "discountedPrice": 435.34,
+    "discountPercent": 39,
+    "categoryId": 8,
+    "categoryName": "Automotive",
+    "subcategoryId": 57,
+    "subcategoryName": "Car Accessories",
+    "inStock": true,
+    "stockCount": 161,
+    "imageUrl": "/228_1",
+    "specs": "{\"material\": \"Polyethylene fabric with embedded neodymium magnets\", \"compatibility\": \"Windshields up to 60 inches width, most passenger vehicles\", \"dimensions\": \"60 x 30 inches (folded 30 x 15 inches)\", \"weight\": \"0.3 lbs (136 g)\", \"warranty\": \"1-year limited\", \"madeIn\": \"Malaysia\"}",
+    "tags": "[\"car\", \"accessories\", \"automotive\", \"best\", \"premium\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

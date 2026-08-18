@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Durable Volleyball Net with Poles",
+    "description": "A 9 ft x 9 ft volleyball net made from UV-resistant nylon, paired with powder-coated steel poles and tension cords for stability. The net includes a quick-release system for easy setup and takedown. Suitable for beach or backyard play.",
+    "shortDescription": "Sturdy volleyball net system with easy-assembly poles.",
+    "rating": 1.0,
+    "reviewCount": 1,
+    "seller": "PlaySphere Athletics",
+    "price": 142.64,
+    "discountedPrice": 121.24,
+    "discountPercent": 15,
+    "categoryId": 4,
+    "categoryName": "Sports & Outdoors",
+    "subcategoryId": 29,
+    "subcategoryName": "Team Sports",
+    "inStock": true,
+    "stockCount": 36,
+    "imageUrl": "/115_1",
+    "specs": "{\"material\": \"Polyethylene netting with steel telescopic poles\", \"weight\": \"7 lbs\", \"dimensions\": \"Length 32 ft, height 7.5 ft (regulation)\", \"warranty\": \"2-year warranty\", \"color\": \"White net, black poles\", \"suitableFor\": \"Beach volleyball, indoor courts, backyard games\"}",
+    "tags": "[\"outdoors\", \"sports\", \"team\", \"high-quality\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

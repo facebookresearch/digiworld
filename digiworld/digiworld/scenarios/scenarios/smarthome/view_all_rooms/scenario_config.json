@@ -1,0 +1,21 @@
+{
+  "task_name": "I want to see all my current rooms",
+  "app_name": "smarthome",
+  "scenario_class": "ViewAllRoomsScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Navigate to the rooms screen to view all rooms.",
+  "compatible_profiles": [
+    "default",
+    "high_priority_alerts",
+    "large_home",
+    "low_battery_devices",
+    "many_automations",
+    "many_devices",
+    "new_user",
+    "offline_devices",
+    "security_focused",
+    "unread_notifications",
+    "weak_signal"
+  ]
+}

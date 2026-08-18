@@ -1,0 +1,53 @@
+[
+  {
+    "booking_id": "BK-TEST-DTAJI0Y6",
+    "booking_reference": "DTAJI0Y6",
+    "user_id": "{{current_user_id}}",
+    "trip_type": "one_way",
+    "booking_date": "{{end_timestamp}}",
+    "status": "confirmed",
+    "payment_status": "paid",
+    "total_price": 561.23,
+    "refund_amount": 0,
+    "amount_paid": 561.23,
+    "currency": "USD",
+    "flights": [
+      {
+        "flight_id": "AA1106_2026-08-15",
+        "airline_code": "AA",
+        "flight_number": "AA1106",
+        "origin": "LAX",
+        "destination": "JFK",
+        "departure_time": "2026-08-15T10:45:00Z",
+        "arrival_time": "2026-08-15T19:13:00Z",
+        "duration_minutes": 508,
+        "fare": 561.23,
+        "segment": "outbound",
+        "status": "confirmed"
+      }
+    ],
+    "passengers": [
+      {
+        "passenger_id": "P-DTAJI0Y6-900581",
+        "first_name": "Test",
+        "last_name": "Traveler",
+        "email": "test.traveler@example.com",
+        "phone": "+1-555-6514",
+        "date_of_birth": "1978-02-13",
+        "passport_number": "X22981052",
+        "seat_assignments": [
+          {
+            "flight_id": "AA1106_2026-08-15",
+            "seat_number": "12C",
+            "check_in_status": "not_checked_in",
+            "check_in_time": null
+          }
+        ],
+        "ticket_number": "TK-DTAJI0Y6-900581",
+        "created_at": "2026-01-01T00:00:00Z"
+      }
+    ],
+    "created_at": "{{end_timestamp}}",
+    "updated_at": "{{end_timestamp}}"
+  }
+]

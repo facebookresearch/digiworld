@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "patrick.morgan@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Client feedback summary for Q2",
+    "preview": "Hi team, the client feedback summary for Q2 is now...",
+    "body": "Hi team, the client feedback summary for Q2 is now available. It highlights key strengths and areas for improvement.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_patrick_morgan_client_feedback_summary_f",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "laura.bennett@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Review the client feedback summary",
+    "preview": "Hello, please review the client feedback summary a...",
+    "body": "Hello, please review the client feedback summary attached and prepare any questions for our next strategy session.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_laura_bennett_review_the_client_feedback",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

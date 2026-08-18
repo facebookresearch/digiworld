@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Digital OBD-II Scanner with Bluetooth",
+    "description": "The digital OBD-II scanner connects to your smartphone via Bluetooth for real-time diagnostics. It reads and clears error codes, displays live sensor data, and offers a freeze-frame snapshot of engine conditions. Compatible with vehicles from 1996 onward.",
+    "shortDescription": "Bluetooth OBD-II scanner for real-time diagnostics via smartphone.",
+    "rating": 4.7,
+    "reviewCount": 0,
+    "seller": "Diagnostic Solutions",
+    "price": 549.18,
+    "discountedPrice": 329.51,
+    "discountPercent": 40,
+    "categoryId": 8,
+    "categoryName": "Automotive",
+    "subcategoryId": 59,
+    "subcategoryName": "Tools & Equipment",
+    "inStock": true,
+    "stockCount": 135,
+    "imageUrl": "/233_1",
+    "specs": "{\"material\": \"ABS housing with internal electronics\", \"compatibility\": \"OBD-II compliant vehicles 1996+, supports CAN, ISO, VPW protocols\", \"dimensions\": \"3.5 x 2.0 x 0.8 inches\", \"weight\": \"0.2 lbs (90 g)\", \"warranty\": \"2-year limited\", \"madeIn\": \"South Korea\"}",
+    "tags": "[\"equipment\", \"tools\", \"automotive\", \"popular\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

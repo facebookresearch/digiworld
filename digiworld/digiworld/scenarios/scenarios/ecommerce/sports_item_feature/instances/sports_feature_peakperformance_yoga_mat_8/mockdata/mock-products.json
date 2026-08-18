@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "PeakPerformance Yoga Mat",
+    "description": "Product: PeakPerformance Yoga Mat",
+    "shortDescription": "PeakPerformance Yoga Mat",
+    "rating": 4.0,
+    "reviewCount": 0,
+    "seller": "Test Seller",
+    "price": 29.99,
+    "discountedPrice": 29.99,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Sports & Outdoors",
+    "subcategoryId": 1,
+    "subcategoryName": "Equipment",
+    "inStock": true,
+    "stockCount": 50,
+    "imageUrl": "/test_1",
+    "specs": "{\"features\": \"Eco-friendly TPE foam core with a non-slip rubber base and alignment markers for precision practice\"}",
+    "tags": "[\"sports & outdoors\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

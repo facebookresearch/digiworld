@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "nickname": "Soul Cruiser",
+    "make": "Kestrel",
+    "model": "Soul",
+    "color": "Brown",
+    "year": 2019,
+    "plateNumber": "SOUL7",
+    "vehicleTypeId": 7,
+    "isDefault": 0,
+    "createdAt": "{{end_timestamp}}",
+    "updatedAt": "{{end_timestamp}}",
+    "metadata": null
+  }
+]

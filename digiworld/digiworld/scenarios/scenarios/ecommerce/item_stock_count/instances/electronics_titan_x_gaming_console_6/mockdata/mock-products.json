@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Titan X Gaming Console",
+    "description": "Titan X Gaming Console provides 8K resolution support, a custom SSD for rapid load times, and an extensive library of indie and AAA titles. Its sleek black chassis includes two detachable controllers.",
+    "shortDescription": "Gaming console supporting 8K resolution and fast SSD storage.",
+    "rating": 4.0,
+    "reviewCount": 1,
+    "seller": "Titan Gaming Ltd.",
+    "price": 724.86,
+    "discountedPrice": 579.89,
+    "discountPercent": 20,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 8,
+    "subcategoryName": "Gaming Consoles",
+    "inStock": true,
+    "stockCount": 25,
+    "imageUrl": "/29_1",
+    "specs": "{\"display\": \"HDMI 2.1 output (4K/120Hz)\", \"processor\": \"Custom Radiant Zen 2 CPU + RDNX 2 GPU\", \"ram\": \"16 GB GDDR6\", \"storage\": \"1 TB NVMe SSD\", \"battery\": \"N/A\", \"os\": \"Custom Gaming OS\", \"connectivity\": \"Wi\u2011Fi 6E, Bluetooth 5.2, Ethernet 2.5Gb\"}",
+    "tags": "[\"gaming\", \"electronics\", \"consoles\", \"top-rated\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

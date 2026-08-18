@@ -1,0 +1,11 @@
+{
+  "task_name": "<action> <setting>",
+  "app_name": "ecommerce",
+  "scenario_class": "ToggleSettingScenario",
+  "parameters": [
+    "action",
+    "setting"
+  ],
+  "context_fields": [],
+  "description": "Enable or disable a user setting such as Dark Mode or Notifications"
+}

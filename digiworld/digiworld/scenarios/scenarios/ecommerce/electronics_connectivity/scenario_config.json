@@ -1,0 +1,8 @@
+{
+  "task_name": "I need to know the connectivity of the <item> item",
+  "app_name": "ecommerce",
+  "scenario_class": "ElectronicsConnectivityScenario",
+  "parameters": ["item"],
+  "context_fields": [],
+  "description": "Retrieve the connectivity specification for an electronics product"
+}

@@ -1,0 +1,17 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "jsx": "react-native",
+    "paths": {
+      "@/*": ["./src/*"],
+      "assets/*": ["./assets/*"],
+      "@andojo/shared-theme": ["../../packages/shared-theme/src"],
+      "@andojo/shared-mock-reader": ["../../packages/shared-mock-reader/src"],
+      "@andojo/shared-interaction-tracking": [
+        "../../packages/shared-interaction-tracking/src"
+      ]
+    }
+  },
+  "include": ["**/*.ts", "**/*.tsx", ".expo/types/**/*.ts", "expo-env.d.ts"]
+}

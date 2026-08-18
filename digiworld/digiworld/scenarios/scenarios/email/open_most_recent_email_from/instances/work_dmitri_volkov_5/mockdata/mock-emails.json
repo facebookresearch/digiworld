@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "dmitri.volkov@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Server maintenance schedule",
+    "preview": "Hi team, The server maintenance is planned for thi...",
+    "body": "Hi team, The server maintenance is planned for this Thursday from 2am to 4am. Expect brief downtime during this window.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_dmitri_volkov_server_maintenance_schedul",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "dmitri.volkov@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Maintenance completed successfully",
+    "preview": "Hello, The scheduled server maintenance was comple...",
+    "body": "Hello, The scheduled server maintenance was completed without issues. All systems are back online and functioning normally.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_dmitri_volkov_maintenance_completed_succ",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

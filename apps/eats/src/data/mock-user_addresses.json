@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "label": "Home",
+    "addressLine1": "123 Main St",
+    "addressLine2": "Apt 4B",
+    "city": "Metropolis",
+    "state": "NY",
+    "postalCode": "10001",
+    "country": "USA",
+    "latitude": 40.7128,
+    "longitude": -74.0060,
+    "isDefault": true,
+    "createdAt": "2024-06-01T12:00:00Z",
+    "updatedAt": "2024-06-01T12:00:00Z"
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "label": "Office",
+    "addressLine1": "456 Market St",
+    "addressLine2": null,
+    "city": "Gotham",
+    "state": "NJ",
+    "postalCode": "07001",
+    "country": "USA",
+    "latitude": 40.7357,
+    "longitude": -74.1724,
+    "isDefault": false,
+    "createdAt": "2024-06-01T12:05:00Z",
+    "updatedAt": "2024-06-01T12:05:00Z"
+  }
+] 

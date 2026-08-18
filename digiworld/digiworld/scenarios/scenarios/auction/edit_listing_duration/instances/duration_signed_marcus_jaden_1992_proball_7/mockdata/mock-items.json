@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754120064,
+    "title": "Signed Marcus Jaden 1992 ProBall Finals Game\u2011Worn Windward Bisons Jersey",
+    "description": "Authentic game\u2011worn jersey from Jordan\u2019s iconic 1992 Finals performance, signed on the front and includes a certificate of authenticity.",
+    "categoryId": 4,
+    "sellerId": "{{current_user_id}}",
+    "price": 1938.34,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 3,
+    "imageUrl": "https://example.com/images/signed-michael-jordan-1992-nba-finals-game\u2011worn-chicago-bulls-jersey.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 1154.41,
+    "currentBid": 1944.32,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "orderNumber": "ORD-334053",
+    "userId": "{{current_user_id}}",
+    "items": [
+      {
+        "id": 9370,
+        "productId": 9591,
+        "productName": "SolarCharge 20W Foldable Solar Panel",
+        "productImage": "https://picsum.photos/seed/4150/600/400",
+        "shortDescription": "Lightweight panel with USB\u2011C output, perfect for charging devices while camping.",
+        "sku": "SKU-2139",
+        "categoryName": "Electronics",
+        "subcategoryName": "Solar Chargers",
+        "seller": "Test Seller",
+        "quantity": 1,
+        "price": 319.89,
+        "discountedPrice": 319.89,
+        "total": 319.89,
+        "savedAmount": 0,
+        "addedAt": "{{middle_timestamp}}",
+        "inStock": true
+      }
+    ],
+    "subtotal": 319.89,
+    "totalSavings": 0,
+    "shipping": 22.71,
+    "tax": 26.39,
+    "couponDiscount": 0,
+    "couponCode": null,
+    "totalAmount": 368.99,
+    "status": "Delivered",
+    "statusHistory": [
+      {
+        "status": "Order Placed",
+        "timestamp": "{{middle_timestamp}}",
+        "description": "Your order has been received and is being processed."
+      },
+      {
+        "status": "Payment Confirmed",
+        "timestamp": "{{middle_timestamp}}",
+        "description": "Payment has been successfully processed."
+      },
+      {
+        "status": "Shipped",
+        "timestamp": "{{middle_timestamp}}",
+        "description": "Your order has been shipped and is on its way to you."
+      },
+      {
+        "status": "Delivered",
+        "timestamp": "{{end_timestamp}}",
+        "description": "Your order has been delivered successfully."
+      }
+    ],
+    "deliveryAddress": {
+      "fullName": "{{current_user_address_full_name}}",
+      "street": "{{current_user_address_street}}",
+      "city": "{{current_user_address_city}}",
+      "state": "{{current_user_address_state}}",
+      "pincode": "{{current_user_address_pincode}}"
+    },
+    "paymentMethod": "Credit Card",
+    "paymentStatus": "Completed",
+    "orderDate": "{{middle_timestamp}}",
+    "shippedDate": "{{middle_timestamp}}",
+    "deliveryDate": "{{end_timestamp}}",
+    "estimatedDeliveryDate": "{{end_timestamp}}",
+    "trackingNumber": "TRK-148050",
+    "courierPartner": "Express Shipping",
+    "isGift": false,
+    "giftMessage": null
+  }
+]

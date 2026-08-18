@@ -1,0 +1,38 @@
+{
+  "name": "@andojo/shared-theme",
+  "version": "0.0.1",
+  "private": true,
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "clean": "rm -rf dist",
+    "prebuild": "yarn clean",
+    "update-theme": "node scripts/update-theme.js",
+    "export-theme": "node scripts/export-theme-to-json.js",
+    "validate-theme": "node scripts/validate-theme-json.js",
+    "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,json,md}\"",
+    "lint": "eslint . --fix",
+    "test": "jest --passWithNoTests"
+  },
+  "dependencies": {
+    "@gluestack-style/react": "^1.0.57",
+    "@gluestack-ui/config": "^1.1.20",
+    "@gluestack-ui/overlay": "^0.1.22",
+    "@gluestack-ui/themed": "^1.1.73",
+    "@gluestack-ui/toast": "^1.0.9",
+    "@react-navigation/native": "7",
+    "expo-system-ui": "~4.0.3"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-native": "^0.72.0"
+  },
+  "engines": {
+    "node": "^18.18.0 || >=20.0.0"
+  }
+}

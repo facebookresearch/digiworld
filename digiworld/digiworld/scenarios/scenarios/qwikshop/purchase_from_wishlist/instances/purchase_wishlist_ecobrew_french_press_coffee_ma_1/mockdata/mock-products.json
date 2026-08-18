@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9901,
+    "name": "EcoBrew French Press Coffee Maker",
+    "description": "A 1\u2011liter glass French press with a stainless steel mesh filter, designed for smooth, full\u2011bodied coffee.",
+    "shortDescription": "Glass French press for rich coffee.",
+    "price": 260.1,
+    "discountedPrice": 260.1,
+    "discountPercent": 0,
+    "rating": 3.1,
+    "reviewCount": 111,
+    "seller": "BrewMasters Co.",
+    "categoryName": "Home & Kitchen",
+    "subcategoryName": "Bathroom",
+    "inStock": 1,
+    "stockCount": 193,
+    "imageUrl": "/product_9928",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "parameters": {
+    "color": "Olive",
+    "make": "Wayfarer",
+    "model": "Wanderer",
+    "vehicle_type": "SUV",
+    "license_plate": "MTNGOAT",
+    "nickname": "Mountain Goat"
+  },
+  "compatible_profiles": [
+    "active_sessions",
+    "budget_zones",
+    "default",
+    "electric_vehicles",
+    "expired_sessions",
+    "high_parking_volume",
+    "many_vehicles",
+    "new_user",
+    "premium_zones",
+    "zone_full"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T03:59:51.824279+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

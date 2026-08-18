@@ -1,0 +1,120 @@
+<svg viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Main gradient background -->
+    <radialGradient id="bgGradient" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" style="stop-color:#f0f4ff;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#e6edff;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#662fff;stop-opacity:0.3" />
+    </radialGradient>
+    
+    <!-- Primary gradient for main elements -->
+    <linearGradient id="primaryGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#662fff;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#8a5cff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f45baf;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Secondary gradient for accents -->
+    <linearGradient id="secondaryGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f0f4ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d1dfff;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- White gradient for highlights -->
+    <linearGradient id="whiteGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFFFFF;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#F8F9FF;stop-opacity:0.7" />
+    </linearGradient>
+    
+    <!-- Glow effect -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <!-- Shadow filter -->
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="6"/>
+      <feOffset dx="0" dy="3" result="offsetblur"/>
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.4"/>
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background circle with gradient -->
+  <circle cx="200" cy="200" r="180" fill="url(#bgGradient)" opacity="0.8"/>
+  
+  <!-- Main airplane design -->
+  <g transform="translate(200, 200)" filter="url(#shadow)">
+    
+    <!-- Airplane body (fuselage) -->
+    <ellipse cx="0" cy="0" rx="8" ry="80" fill="url(#primaryGradient)" stroke="url(#whiteGradient)" stroke-width="2"/>
+    
+    <!-- Main wings -->
+    <ellipse cx="0" cy="10" rx="60" ry="12" fill="url(#primaryGradient)" stroke="url(#whiteGradient)" stroke-width="2"/>
+    
+    <!-- Wing details -->
+    <ellipse cx="-25" cy="8" rx="15" ry="8" fill="url(#secondaryGradient)" opacity="0.7"/>
+    <ellipse cx="25" cy="8" rx="15" ry="8" fill="url(#secondaryGradient)" opacity="0.7"/>
+    
+    <!-- Tail wings -->
+    <ellipse cx="0" cy="-50" rx="25" ry="6" fill="url(#primaryGradient)" stroke="url(#whiteGradient)" stroke-width="1.5"/>
+    
+    <!-- Vertical tail fin -->
+    <path d="M -3 -50 L 0 -75 L 3 -50 Z" fill="url(#primaryGradient)" stroke="url(#whiteGradient)" stroke-width="1.5"/>
+    
+    <!-- Engine pods -->
+    <ellipse cx="-35" cy="15" rx="6" ry="20" fill="url(#whiteGradient)" stroke="url(#primaryGradient)" stroke-width="2"/>
+    <ellipse cx="35" cy="15" rx="6" ry="20" fill="url(#whiteGradient)" stroke="url(#primaryGradient)" stroke-width="2"/>
+    
+    <!-- Cockpit -->
+    <ellipse cx="0" cy="-30" rx="12" ry="15" fill="url(#whiteGradient)" stroke="url(#primaryGradient)" stroke-width="2"/>
+    <ellipse cx="0" cy="-30" rx="8" ry="10" fill="url(#primaryGradient)" opacity="0.3"/>
+    
+    <!-- Propeller effect (motion lines) -->
+    <g opacity="0.6">
+      <line x1="-35" y1="15" x2="-50" y2="5" stroke="url(#primaryGradient)" stroke-width="2" stroke-linecap="round"/>
+      <line x1="-35" y1="15" x2="-50" y2="25" stroke="url(#primaryGradient)" stroke-width="2" stroke-linecap="round"/>
+      <line x1="35" y1="15" x2="50" y2="5" stroke="url(#primaryGradient)" stroke-width="2" stroke-linecap="round"/>
+      <line x1="35" y1="15" x2="50" y2="25" stroke="url(#primaryGradient)" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    
+    <!-- Speed lines behind the plane -->
+    <g opacity="0.4">
+      <line x1="-70" y1="5" x2="-85" y2="0" stroke="url(#primaryGradient)" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="-70" y1="15" x2="-90" y2="10" stroke="url(#primaryGradient)" stroke-width="1.5" stroke-linecap="round"/>
+      <line x1="-70" y1="25" x2="-85" y2="20" stroke="url(#primaryGradient)" stroke-width="1.5" stroke-linecap="round"/>
+    </g>
+    
+    <!-- Decorative elements -->
+    <circle cx="-20" cy="-40" r="3" fill="url(#primaryGradient)" opacity="0.8"/>
+    <circle cx="20" cy="-40" r="3" fill="url(#primaryGradient)" opacity="0.8"/>
+    <circle cx="0" cy="-60" r="2" fill="url(#primaryGradient)" opacity="0.6"/>
+    
+    <!-- Wing tip lights -->
+    <circle cx="-60" cy="10" r="2" fill="#f45baf" filter="url(#glow)"/>
+    <circle cx="60" cy="10" r="2" fill="#f45baf" filter="url(#glow)"/>
+    
+  </g>
+  
+  <!-- Floating particles/clouds for atmosphere -->
+  <g opacity="0.3">
+    <circle cx="80" cy="80" r="4" fill="url(#secondaryGradient)"/>
+    <circle cx="320" cy="120" r="3" fill="url(#secondaryGradient)"/>
+    <circle cx="100" cy="300" r="5" fill="url(#secondaryGradient)"/>
+    <circle cx="300" cy="280" r="3" fill="url(#secondaryGradient)"/>
+    <circle cx="50" cy="200" r="2" fill="url(#secondaryGradient)"/>
+    <circle cx="350" cy="180" r="4" fill="url(#secondaryGradient)"/>
+  </g>
+  
+  <!-- Subtle border -->
+  <circle cx="200" cy="200" r="190" fill="none" stroke="url(#primaryGradient)" stroke-width="1" opacity="0.3"/>
+</svg>

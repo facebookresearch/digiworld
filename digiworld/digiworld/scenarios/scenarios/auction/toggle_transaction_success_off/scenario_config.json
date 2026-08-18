@@ -1,0 +1,19 @@
+{
+  "task_name": "Toggle Transaction success off",
+  "app_name": "auction",
+  "scenario_class": "ToggleTransactionSuccessOffScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Verify that the user toggles the transaction success system config to off.",
+  "compatible_profiles": [
+    "auction_heavy",
+    "budget_items",
+    "buy_now_focus",
+    "default",
+    "ending_soon",
+    "high_bid_volume",
+    "new_seller",
+    "power_seller",
+    "premium_items"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "app_name": "video",
+  "apk_name": "com.andojovideo.sbx",
+  "bundle_id": "com.andojovideo.sbx",
+  "database_doc_path": "../../../../../apps/video/src/docs/database.md",
+  "feature_scope_path": "../../../../../apps/video/src/docs/feature_scope_video_app.md"
+}
+

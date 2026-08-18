@@ -1,0 +1,20 @@
+{
+  "task_name": "Sign out of my account",
+  "app_name": "video",
+  "scenario_class": "SignOutScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Sign out of the current user account",
+  "compatible_profiles": [
+    "comments_disabled",
+    "default",
+    "high_engagement",
+    "high_view_count",
+    "inactive_users",
+    "long_videos",
+    "low_engagement",
+    "many_videos",
+    "new_content",
+    "short_videos"
+  ]
+}

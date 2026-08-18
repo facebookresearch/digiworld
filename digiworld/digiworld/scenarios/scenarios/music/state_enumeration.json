@@ -1,0 +1,40 @@
+{
+  "app_name": "music",
+  "apk_name": "com.andojomusic.sbx",
+  "database_name": "default.db",
+  "home_route": "/(app)/home",
+  "routes": [
+    {
+      "id": "home",
+      "route": "/(app)/home",
+      "screen_name": "Home",
+      "description": "Home screen with music feed",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "search",
+      "route": "/(app)/search",
+      "screen_name": "Search",
+      "description": "Search screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "library",
+      "route": "/(app)/library",
+      "screen_name": "Library",
+      "description": "User library view",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "profile",
+      "route": "/(app)/profile",
+      "screen_name": "Profile",
+      "description": "User profile view",
+      "back_route": null,
+      "context_variations": []
+    }
+  ]
+}

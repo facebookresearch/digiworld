@@ -1,0 +1,8 @@
+{
+  "task_name": "How much would a <car_type> ride between <origin> and <destination> cost?",
+  "app_name": "ryde",
+  "scenario_class": "RideCostEstimateScenario",
+  "parameters": ["car_type", "origin", "destination"],
+  "context_fields": [],
+  "description": "Estimate the fare for a specific car type between two locations"
+}

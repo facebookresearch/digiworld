@@ -1,0 +1,10 @@
+{
+  "task_name": "Search for <query>",
+  "app_name": "eats",
+  "scenario_class": "SearchForQueryScenario",
+  "parameters": [
+    "query"
+  ],
+  "context_fields": [],
+  "description": "Search for restaurants or food items using a search query"
+}

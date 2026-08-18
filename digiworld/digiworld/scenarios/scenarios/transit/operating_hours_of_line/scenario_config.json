@@ -1,0 +1,10 @@
+{
+  "task_name": "What are the operating hours of <line_name>?",
+  "app_name": "transit",
+  "scenario_class": "OperatingHoursOfLineScenario",
+  "parameters": [
+    "line_name"
+  ],
+  "context_fields": [],
+  "description": "Retrieve the operating hours (start and end) of a specific transit line."
+}

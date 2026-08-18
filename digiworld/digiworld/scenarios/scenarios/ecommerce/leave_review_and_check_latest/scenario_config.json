@@ -1,0 +1,13 @@
+{
+  "task_name": "Leave a review on the <item> item, with <star_rating> stars, title \"<review_title>\", and content \"<review_content>\", then tell me what the latest review says for the <item>",
+  "app_name": "ecommerce",
+  "scenario_class": "LeaveReviewAndCheckLatestScenario",
+  "parameters": [
+    "item",
+    "star_rating",
+    "review_title",
+    "review_content"
+  ],
+  "context_fields": [],
+  "description": "Composed scenario: leave a product review, then report the content of the latest review for that product."
+}

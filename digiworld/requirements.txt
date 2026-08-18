@@ -1,0 +1,8 @@
+# DigiWorld installation requirements
+# Install with: pip install -r requirements.txt
+
+# Version comparison for APK version verification
+packaging>=21.0
+
+# DigiWorld package itself
+-e .

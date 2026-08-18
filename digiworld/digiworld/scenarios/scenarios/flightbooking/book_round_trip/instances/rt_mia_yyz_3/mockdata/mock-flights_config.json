@@ -1,0 +1,34 @@
+[
+  {
+    "flight_id": "FC_AC1750",
+    "airline_id": "airline_ac",
+    "airline_code": "AC",
+    "flight_number": "AC1750",
+    "origin": "MIA",
+    "destination": "YYZ",
+    "departure_time": "12:30",
+    "arrival_time": "20:08",
+    "duration_minutes": 458,
+    "fare": 1311.91,
+    "currency": "USD",
+    "seats_available": 35,
+    "aircraft_type": "Boeing 777-300ER",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "flight_id": "FC_AC7227",
+    "airline_id": "airline_ac",
+    "airline_code": "AC",
+    "flight_number": "AC7227",
+    "origin": "YYZ",
+    "destination": "MIA",
+    "departure_time": "19:30",
+    "arrival_time": "23:52",
+    "duration_minutes": 262,
+    "fare": 681.24,
+    "currency": "USD",
+    "seats_available": 63,
+    "aircraft_type": "Boeing 737-800",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

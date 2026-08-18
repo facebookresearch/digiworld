@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754090053,
+    "title": "1998 Ch\u00e2teau Margaux 1998 Grand Vin \u2013 12\u2011Bottle Case",
+    "description": "Seven\u2011year\u2011old vintage Bordeaux, stored in optimal conditions, includes original wine labels and a tasting note booklet.",
+    "categoryId": 2,
+    "sellerId": "{{current_user_id}}",
+    "price": 1453.95,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 7,
+    "imageUrl": "https://example.com/images/1998-ch\u00e2teau-margaux-1998-grand-vin-\u2013-12\u2011bottle-case.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 743.51,
+    "currentBid": 770.77,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

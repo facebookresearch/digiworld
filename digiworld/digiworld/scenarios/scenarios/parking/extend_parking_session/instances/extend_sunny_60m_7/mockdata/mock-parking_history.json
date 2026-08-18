@@ -1,0 +1,19 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "vehicleId": 99908,
+    "parkingZoneId": 99808,
+    "startTime": "{{current_timestamp}}",
+    "plannedEndTime": "{{current_timestamp_plus_60_minutes}}",
+    "actualEndTime": null,
+    "plannedDurationMinutes": 60,
+    "actualDurationMinutes": null,
+    "chargedAmount": 10.49,
+    "currency": "USD",
+    "status": "active",
+    "metadata": null,
+    "createdAt": "{{current_timestamp}}",
+    "updatedAt": "{{current_timestamp}}"
+  }
+]

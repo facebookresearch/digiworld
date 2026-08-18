@@ -1,0 +1,8 @@
+{
+  "task_name": "What experience level is the <item> sports item recommended for?",
+  "app_name": "ecommerce",
+  "scenario_class": "SportsItemExperienceLevelScenario",
+  "parameters": ["item"],
+  "context_fields": [],
+  "description": "Retrieve the recommended experience level for a sports item"
+}

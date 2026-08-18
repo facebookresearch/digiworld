@@ -1,0 +1,19 @@
+{
+  "parameters": {
+    "name": "Late Night Lounge",
+    "artist_name": "The Neon Nomads"
+  },
+  "compatible_profiles": [
+    "genre_focused"
+  ],
+  "metadata": {
+    "created_at": "2026-04-11T15:51:35.404603+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

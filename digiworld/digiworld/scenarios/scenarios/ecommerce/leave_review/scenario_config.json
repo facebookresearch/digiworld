@@ -1,0 +1,13 @@
+{
+  "task_name": "Leave a review on the <item> item, with <star_rating> stars, title \"<review_title>\", and content \"<review_content>\"",
+  "app_name": "ecommerce",
+  "scenario_class": "LeaveReviewScenario",
+  "parameters": [
+    "item",
+    "star_rating",
+    "review_title",
+    "review_content"
+  ],
+  "context_fields": [],
+  "description": "Leave a product review with a star rating, title, and content"
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 1,
+    "categoryId": 6,
+    "title": "Bella Doll Movie Review: Beyond Pink Plastic",
+    "description": "A candid look at Greta Gerwig\u2019s Bella Doll, analyzing its humor, themes, and cultural impact. Spoiler: it\u2019s more than just a doll.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 1708,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 9991,
+    "likeCount": 38,
+    "commentCount": 1,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

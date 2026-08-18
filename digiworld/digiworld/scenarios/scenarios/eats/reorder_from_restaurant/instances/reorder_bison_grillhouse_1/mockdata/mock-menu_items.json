@@ -1,0 +1,15 @@
+[
+  {
+    "id": 90001,
+    "restaurantId": 90001,
+    "categoryId": 90001,
+    "name": "Grass-Fed Bison Burger",
+    "description": "Juicy bison patty on a toasted brioche bun with hickory aioli, lettuce, and pickles.",
+    "price": 18.0,
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=600&q=80",
+    "calories": 680,
+    "isPopular": 0,
+    "isActive": 1,
+    "position": 1
+  }
+]

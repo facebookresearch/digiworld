@@ -1,0 +1,10 @@
+{
+  "task_name": "Show me an item in the <category> category",
+  "app_name": "ecommerce",
+  "scenario_class": "ShowItemInCategoryScenario",
+  "parameters": [
+    "category"
+  ],
+  "context_fields": [],
+  "description": "Navigate to a specific category and view a product from it"
+}

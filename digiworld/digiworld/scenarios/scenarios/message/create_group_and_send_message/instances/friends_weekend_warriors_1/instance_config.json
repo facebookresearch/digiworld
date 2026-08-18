@@ -1,0 +1,29 @@
+{
+  "parameters": {
+    "group_name": "Weekend Warriors",
+    "group_description": "Planning our next adventure.",
+    "message_content": "What is up crew! This is our new hangout spot. Who is free this weekend?"
+  },
+  "compatible_profiles": [
+    "default",
+    "high_message_volume",
+    "inactive_groups",
+    "large_groups",
+    "long_calls",
+    "many_groups",
+    "media_heavy",
+    "missed_calls",
+    "recent_activity",
+    "unread_messages"
+  ],
+  "metadata": {
+    "created_at": "2026-03-02T02:11:12.211073+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "ChefPro 8\u2011Quart Stainless Steel Dutch Oven",
+    "description": "Heavy\u2011duty cast\u2011iron core Dutch oven with a stainless steel exterior, perfect for slow\u2011cooking.",
+    "shortDescription": "Stainless Dutch oven",
+    "price": 55.91,
+    "discountedPrice": 55.91,
+    "discountPercent": 0,
+    "rating": 3.7,
+    "reviewCount": 89,
+    "seller": "Culinary Essentials",
+    "categoryName": "Home & Kitchen",
+    "subcategoryName": "Cookware",
+    "inStock": 1,
+    "stockCount": 65,
+    "imageUrl": "/product_6514",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

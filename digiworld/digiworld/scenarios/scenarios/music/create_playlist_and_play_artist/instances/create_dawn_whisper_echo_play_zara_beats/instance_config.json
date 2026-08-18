@@ -1,0 +1,19 @@
+{
+  "parameters": {
+    "name": "Dawn Whisper Echo",
+    "artist_name": "R\u00edo Azul"
+  },
+  "compatible_profiles": [
+    "high_rated_content"
+  ],
+  "metadata": {
+    "created_at": "2026-04-11T15:51:29.133603+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

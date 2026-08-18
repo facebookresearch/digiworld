@@ -1,0 +1,22 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "FitPulse Pro Smartwatch",
+    "description": "Water\u2011resistant smartwatch featuring heart\u2011rate monitoring, GPS, and customizable workout modes.",
+    "shortDescription": "Smartwatch",
+    "price": 304.99,
+    "discountedPrice": 259.24,
+    "discountPercent": 15,
+    "rating": 3.2,
+    "reviewCount": 204,
+    "seller": "TechTrend Hub",
+    "categoryName": "Electronics",
+    "subcategoryName": "Smartwatches",
+    "inStock": 1,
+    "stockCount": 34,
+    "imageUrl": "/product_6881",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

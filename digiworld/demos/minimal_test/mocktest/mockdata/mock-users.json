@@ -1,0 +1,29 @@
+[
+  {
+    "id": "9383",
+    "email": "manager@company.com",
+    "password": "password123",
+    "firstName": "Sarah",
+    "lastName": "Manager",
+    "displayName": "Sarah Manager",
+    "avatar": "https://i.pravatar.cc/150?u=sarah",
+    "role": "user",
+    "phoneNumber": "+1-555-0123",
+    "dateOfBirth": "1985-03-15",
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "settings": {
+      "theme": "light",
+      "language": "en",
+      "notifications": true,
+      "twoFactorEnabled": false
+    },
+    "emailSettings": {
+      "signature": "Best regards,\nSarah Manager\nTeam Lead",
+      "emailsPerPage": 25,
+      "autoReadReceipts": true,
+      "defaultReplyTo": "manager@company.com",
+      "vacationAutoReplyEnabled": false,
+      "vacationAutoReplyMessage": ""
+    }
+  }
+]

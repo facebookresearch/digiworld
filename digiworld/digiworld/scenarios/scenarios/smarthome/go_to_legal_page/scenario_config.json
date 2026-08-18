@@ -1,0 +1,8 @@
+{
+  "task_name": "Go to the <page_name>",
+  "app_name": "smarthome",
+  "scenario_class": "GoToLegalPageScenario",
+  "parameters": ["page_name"],
+  "context_fields": [],
+  "description": "Navigate to the Terms & Conditions or Privacy Policy page."
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "anna.patel@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Don't miss our summer sale on electronics",
+    "preview": "Hi there, our summer sale on electronics offers up...",
+    "body": "Hi there, our summer sale on electronics offers up to 40% off select items. Shop now and save on the latest gadgets.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_anna_patel_don_t_miss_our_summer_sale_on",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "james.wilson@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Summer sale on electronics starts today",
+    "preview": "Hello, don't miss the summer sale on electronics s...",
+    "body": "Hello, don't miss the summer sale on electronics starting today. Enjoy big discounts on phones, laptops, and accessories.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_james_wilson_summer_sale_on_electronics",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

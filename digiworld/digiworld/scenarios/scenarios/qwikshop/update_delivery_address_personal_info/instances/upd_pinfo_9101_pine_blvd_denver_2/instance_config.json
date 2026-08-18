@@ -1,0 +1,35 @@
+{
+  "parameters": {
+    "street": "9101 Pine Blvd",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80203",
+    "country": "United States",
+    "firstName": "Ethan",
+    "lastName": "Kline",
+    "phone": "5552345678"
+  },
+  "compatible_profiles": [
+    "bulk_quantity",
+    "default",
+    "empty_cart",
+    "full_cart",
+    "heavy_discounts",
+    "high_order_volume",
+    "large_orders",
+    "low_stock",
+    "new_user",
+    "power_shopper",
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-03-31T23:46:42.541905+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

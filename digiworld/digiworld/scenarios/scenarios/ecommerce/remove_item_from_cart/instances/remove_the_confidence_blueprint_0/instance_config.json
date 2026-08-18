@@ -1,0 +1,18 @@
+{
+  "parameters": {
+    "item": "The Confidence Blueprint"
+  },
+  "compatible_profiles": [
+    "bulk_quantity"
+  ],
+  "metadata": {
+    "created_at": "2026-03-02T02:08:49.899537+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Aurora Sport In-Ear Headphones",
+    "description": "Aurora Sport In-Ear Headphones are sweat-resistant and come with secure ear-hooks for vigorous workouts. The dynamic drivers deliver punchy bass while the built-in mic provides clear voice calls.",
+    "shortDescription": "Sweat-resistant in-ear sport headphones with secure ear-hooks.",
+    "rating": 4.3,
+    "reviewCount": 3,
+    "seller": "Aurora SoundWorks",
+    "price": 540.68,
+    "discountedPrice": 405.51,
+    "discountPercent": 25,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 4,
+    "subcategoryName": "Headphones",
+    "inStock": true,
+    "stockCount": 163,
+    "imageUrl": "/15_1",
+    "specs": "{\"display\": \"N/A\", \"processor\": \"Aurelia Active EQ\", \"ram\": \"N/A\", \"storage\": \"N/A\", \"battery\": \"200mAh\", \"os\": \"Proprietary\", \"connectivity\": \"Bluetooth 5.2, IPX4\"}",
+    "tags": "[\"electronics\", \"headphones\", \"premium\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

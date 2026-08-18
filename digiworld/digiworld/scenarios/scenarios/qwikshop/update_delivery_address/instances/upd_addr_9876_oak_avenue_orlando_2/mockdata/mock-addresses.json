@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Sofia Rodriguez",
+    "street": "9876 Oak Avenue",
+    "city": "Orlando",
+    "state": "FL",
+    "pincode": "32801",
+    "phone": "4075559012",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

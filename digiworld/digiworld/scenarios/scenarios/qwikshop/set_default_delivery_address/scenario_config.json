@@ -1,0 +1,9 @@
+{
+  "task_name": "Make delivery address of \"<street>\" \"<city>\" \"<state>\" \"<zip>\" \"<country>\" my default address",
+  "app_name": "qwikshop",
+  "scenario_class": "SetDefaultDeliveryAddressScenario",
+  "parameters": ["street", "city", "state", "zip", "country"],
+  "context_fields": [],
+  "description": "Set a specific delivery address as the default address.",
+  "additional_mockdata": true
+}

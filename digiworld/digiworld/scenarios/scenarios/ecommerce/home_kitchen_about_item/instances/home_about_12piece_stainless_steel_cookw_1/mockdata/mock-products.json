@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "12\u2011Piece Stainless Steel Cookware Set",
+    "description": "This 12\u2011piece cookware set includes saucepans, a stockpot, and a frying pan, all constructed from durable stainless steel with an aluminum core for even heating. The polished finish resists stains and is dishwasher safe, making cleanup a breeze. Compatible with all stovetops, including induction.",
+    "shortDescription": "Durable 12\u2011piece stainless steel cookware set for all stovetops.",
+    "rating": 4.0,
+    "reviewCount": 2,
+    "seller": "Home Essentials Co.",
+    "price": 883.63,
+    "discountedPrice": 477.16,
+    "discountPercent": 46,
+    "categoryId": 3,
+    "categoryName": "Home & Kitchen",
+    "subcategoryId": 17,
+    "subcategoryName": "Cookware",
+    "inStock": true,
+    "stockCount": 25,
+    "imageUrl": "/65_1",
+    "specs": "{\"material\": \"Stainless steel (18/10) with aluminum core\", \"dimensions\": \"Varies per piece; largest piece 12\\u2011inch skillet 12x12x3 in\", \"weight\": \"15 lbs\", \"warranty\": \"Lifetime limited warranty\", \"color\": \"Polished stainless steel\", \"careInstructions\": \"Dishwasher safe; hand wash recommended for longevity; avoid abrasive cleaners\"}",
+    "tags": "[\"kitchen\", \"home\", \"cookware\", \"best\", \"high-quality\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

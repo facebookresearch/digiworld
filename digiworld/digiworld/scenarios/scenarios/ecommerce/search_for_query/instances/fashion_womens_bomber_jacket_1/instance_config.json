@@ -1,0 +1,28 @@
+{
+  "parameters": {
+    "query": "women's bomber jacket"
+  },
+  "compatible_profiles": [
+    "bulk_quantity",
+    "default",
+    "empty_cart",
+    "full_cart",
+    "heavy_discounts",
+    "high_order_volume",
+    "large_orders",
+    "low_stock",
+    "new_user",
+    "power_shopper",
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-03-31T04:10:51.315561+00:00"
+  },
+  "additional_mockdata": false,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

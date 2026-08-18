@@ -1,0 +1,12 @@
+{
+  "task_name": "Send an email to \"<recipient_email>\" with the subject as \"<email_subject>\", saying \"<email_body>\", then tell me the subjects of all my current email drafts",
+  "app_name": "email",
+  "scenario_class": "SendEmailAndReportDraftsScenario",
+  "parameters": [
+    "recipient_email",
+    "email_subject",
+    "email_body"
+  ],
+  "context_fields": [],
+  "description": "Composed scenario: send an email with specific details, then report the subjects of all current email drafts."
+}

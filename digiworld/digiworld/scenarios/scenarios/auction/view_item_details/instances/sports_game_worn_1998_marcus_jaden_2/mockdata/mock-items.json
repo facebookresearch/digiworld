@@ -1,0 +1,22 @@
+[
+  {
+    "id": 182570036,
+    "title": "Game-Worn 1998 Marcus Jaden Championship Jersey",
+    "description": "This jersey, worn by Marcus Jaden during the 1998 ProBall championship, is a unique piece of sports history, with visible wear and a certificate of authenticity from the ProBall.",
+    "categoryId": 6,
+    "sellerId": "{{current_user_id}}",
+    "price": 517.12,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 7,
+    "imageUrl": "https://example.com/images/game-worn-1998-michael-jordan-championship-jersey.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 255.96,
+    "currentBid": 367.55,
+    "bidIncrement": 5.0,
+    "endTime": 1773281257,
+    "expired": 0
+  }
+]

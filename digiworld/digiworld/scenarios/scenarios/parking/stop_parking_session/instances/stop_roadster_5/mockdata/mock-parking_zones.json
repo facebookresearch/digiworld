@@ -1,0 +1,19 @@
+[
+  {
+    "id": 99806,
+    "name": "Downtown Bike Hub",
+    "description": "Parking zone DBH01",
+    "latitude": 40.736588,
+    "longitude": -73.98063,
+    "zoneCode": "DBH01",
+    "operator": "City Parking Authority",
+    "zoneType": "garage",
+    "capacity": 197,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.19,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

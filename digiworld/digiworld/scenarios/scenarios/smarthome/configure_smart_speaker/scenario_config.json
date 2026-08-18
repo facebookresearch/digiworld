@@ -1,0 +1,9 @@
+{
+  "task_name": "Turn on the Smart Speaker named \"<device_name>\", set the volume to <volume>, set the audio mode to <speaker_type>, then hit the play button",
+  "app_name": "smarthome",
+  "scenario_class": "ConfigureSmartSpeakerScenario",
+  "parameters": ["device_name", "volume", "speaker_type"],
+  "context_fields": [],
+  "description": "Turn on a smart speaker, set its volume and audio mode, and start playback",
+  "additional_mockdata": true
+}

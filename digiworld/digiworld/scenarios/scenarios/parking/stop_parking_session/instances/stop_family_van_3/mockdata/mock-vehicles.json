@@ -1,0 +1,17 @@
+[
+  {
+    "id": 99904,
+    "userId": "{{current_user_id}}",
+    "nickname": "Family Van",
+    "make": "Harmony",
+    "model": "Odyssey",
+    "color": "Silver",
+    "year": 2023,
+    "plateNumber": "VANFUN",
+    "vehicleTypeId": 4,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

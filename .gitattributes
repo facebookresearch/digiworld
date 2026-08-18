@@ -1,0 +1,23 @@
+# Track state_data with Git LFS
+digiworld/digiworld/state_data/**/*.json filter=lfs diff=lfs merge=lfs -text
+digiworld/digiworld/state_data/**/*.db filter=lfs diff=lfs merge=lfs -text
+digiworld/digiworld/state_data/**/*.zip filter=lfs diff=lfs merge=lfs -text
+digiworld/digiworld/state_data/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
+digiworld/digiworld/state_data/**/*.mp3 filter=lfs diff=lfs merge=lfs -text
+digiworld/digiworld/state_data/**/*.pdf filter=lfs diff=lfs merge=lfs -text
+digiworld/digiworld/state_data/**/*.pptx filter=lfs diff=lfs merge=lfs -text
+digiworld/digiworld/state_data/**/*.xlsx filter=lfs diff=lfs merge=lfs -text
+digiworld/digiworld/state_data/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+digiworld/digiworld/state_data/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+digiworld/digiworld/state_data/**/*.png filter=lfs diff=lfs merge=lfs -text
+digiworld/digiworld/state_data/**/*.webp filter=lfs diff=lfs merge=lfs -text
+
+# Track python-agent-to-app-interaction-api data with Git LFS
+# Note: JSON files are NOT tracked by LFS to preserve diff visibility
+python-agent-to-app-interaction-api/data/**/*.db filter=lfs diff=lfs merge=lfs -text
+python-agent-to-app-interaction-api/data/**/*.zip filter=lfs diff=lfs merge=lfs -text
+python-agent-to-app-interaction-api/data/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
+python-agent-to-app-interaction-api/data/**/*.mp3 filter=lfs diff=lfs merge=lfs -text
+python-agent-to-app-interaction-api/data/**/*.pdf filter=lfs diff=lfs merge=lfs -text
+python-agent-to-app-interaction-api/data/**/*.pptx filter=lfs diff=lfs merge=lfs -text
+python-agent-to-app-interaction-api/data/**/*.xlsx filter=lfs diff=lfs merge=lfs -text

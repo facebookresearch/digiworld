@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "nina.volkova@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Budget approval request",
+    "preview": "Hi finance please approve the budget for the upcom...",
+    "body": "Hi finance please approve the budget for the upcoming conference.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_nina_volkova_budget_approval_request",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "nina.volkova@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Travel itinerary for Berlin trip",
+    "preview": "Hi attached is the finalized travel itinerary for ...",
+    "body": "Hi attached is the finalized travel itinerary for the Berlin conference next month.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_nina_volkova_travel_itinerary_for_berlin",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

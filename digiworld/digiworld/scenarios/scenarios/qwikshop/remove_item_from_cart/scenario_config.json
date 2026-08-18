@@ -1,0 +1,9 @@
+{
+  "task_name": "Remove \"<quantity>\" of \"<item>\" from cart",
+  "app_name": "qwikshop",
+  "scenario_class": "RemoveItemFromCartScenario",
+  "parameters": ["quantity", "item"],
+  "context_fields": [],
+  "description": "Remove the specified quantity of a product from the shopping cart.",
+  "additional_mockdata": true
+}

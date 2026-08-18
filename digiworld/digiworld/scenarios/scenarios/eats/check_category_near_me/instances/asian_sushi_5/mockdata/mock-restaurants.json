@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Ocean Roll House",
+    "description": "Famous for its hand-pressed toro nigiri served on cedar planks.",
+    "address": "208 Peachtree Lane, Atlanta, GA 30303",
+    "latitude": 33.749,
+    "longitude": -84.388,
+    "logo": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.8,
+    "deliveryFee": 3.01,
+    "minOrder": 7.0,
+    "deliveryRadius": 8,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

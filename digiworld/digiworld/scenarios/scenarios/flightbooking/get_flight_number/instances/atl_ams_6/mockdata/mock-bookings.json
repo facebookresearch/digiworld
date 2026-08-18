@@ -1,0 +1,53 @@
+[
+  {
+    "booking_id": "BK-TEST-FN945NQ4",
+    "booking_reference": "FN945NQ4",
+    "user_id": "{{current_user_id}}",
+    "trip_type": "one_way",
+    "booking_date": "{{end_timestamp}}",
+    "status": "confirmed",
+    "payment_status": "paid",
+    "total_price": 1057.68,
+    "refund_amount": 0,
+    "amount_paid": 1057.68,
+    "currency": "USD",
+    "flights": [
+      {
+        "flight_id": "KL8962_2026-08-15",
+        "airline_code": "KL",
+        "flight_number": "KL8962",
+        "origin": "ATL",
+        "destination": "AMS",
+        "departure_time": "2026-08-15T07:15:00Z",
+        "arrival_time": "2026-08-15T16:12:00Z",
+        "duration_minutes": 537,
+        "fare": 1057.68,
+        "segment": "outbound",
+        "status": "confirmed"
+      }
+    ],
+    "passengers": [
+      {
+        "passenger_id": "P-FN945NQ4-273148",
+        "first_name": "Test",
+        "last_name": "Traveler",
+        "email": "test.traveler@example.com",
+        "phone": "+1-555-5342",
+        "date_of_birth": "1991-10-14",
+        "passport_number": "X38427073",
+        "seat_assignments": [
+          {
+            "flight_id": "KL8962_2026-08-15",
+            "seat_number": "30E",
+            "check_in_status": "not_checked_in",
+            "check_in_time": null
+          }
+        ],
+        "ticket_number": "TK-FN945NQ4-273148",
+        "created_at": "2026-01-01T00:00:00Z"
+      }
+    ],
+    "created_at": "{{end_timestamp}}",
+    "updated_at": "{{end_timestamp}}"
+  }
+]

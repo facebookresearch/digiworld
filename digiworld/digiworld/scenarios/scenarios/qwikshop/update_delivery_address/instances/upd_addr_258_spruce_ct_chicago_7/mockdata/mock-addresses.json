@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Amanda Martinez",
+    "street": "258 Spruce Ct",
+    "city": "Chicago",
+    "state": "IL",
+    "pincode": "60605",
+    "phone": "3125550123",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

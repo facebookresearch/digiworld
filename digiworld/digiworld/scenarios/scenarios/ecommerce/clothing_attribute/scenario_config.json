@@ -1,0 +1,8 @@
+{
+  "task_name": "What's the <attribute> for the <item> clothing item?",
+  "app_name": "ecommerce",
+  "scenario_class": "ClothingAttributeScenario",
+  "parameters": ["attribute", "item"],
+  "context_fields": [],
+  "description": "Retrieve a specific attribute (fit, size, color, pattern) for a clothing item"
+}

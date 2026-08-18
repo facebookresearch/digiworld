@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Jacob Davis",
+    "street": "4701 River Rd",
+    "city": "Miami",
+    "state": "FL",
+    "pincode": "33133",
+    "phone": "3055551122",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

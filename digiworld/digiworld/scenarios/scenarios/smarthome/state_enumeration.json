@@ -1,0 +1,64 @@
+{
+  "app_name": "smarthome",
+  "apk_name": "com.andojosmarthome.sbx",
+  "database_name": "default.db",
+  "home_route": "/(app)/home",
+  "routes": [
+    {
+      "id": "home",
+      "route": "/(app)/home",
+      "screen_name": "home",
+      "description": "Home screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "devices",
+      "route": "/(app)/devices",
+      "screen_name": "devices",
+      "description": "Devices screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "automations",
+      "route": "/(app)/automations",
+      "screen_name": "automations",
+      "description": "Automations screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "scenes",
+      "route": "/(app)/scenes",
+      "screen_name": "scenes",
+      "description": "Scenes screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "profile",
+      "route": "/(app)/profile",
+      "screen_name": "profile",
+      "description": "Profile screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "rooms",
+      "route": "/rooms",
+      "screen_name": "rooms",
+      "description": "Rooms screen",
+      "back_route": "/(app)/home",
+      "context_variations": []
+    },
+    {
+      "id": "notifications",
+      "route": "/notifications",
+      "screen_name": "notifications",
+      "description": "Notifications screen",
+      "back_route": "/(app)/home",
+      "context_variations": []
+    }
+  ]
+}

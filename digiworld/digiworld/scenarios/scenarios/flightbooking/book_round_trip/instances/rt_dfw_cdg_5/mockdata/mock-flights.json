@@ -1,0 +1,36 @@
+[
+  {
+    "flight_id": "AF4752_2026-08-15",
+    "airline_id": "airline_af",
+    "airline_code": "AF",
+    "flight_number": "AF4752",
+    "origin": "DFW",
+    "destination": "CDG",
+    "departure_time": "2026-08-15T06:30:00Z",
+    "arrival_time": "2026-08-15T15:30:00Z",
+    "duration_minutes": 540,
+    "fare": 548.06,
+    "currency": "USD",
+    "seats_available": 64,
+    "aircraft_type": "Airbus A350-900",
+    "date": "2026-08-15",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "flight_id": "AF6155_2026-08-22",
+    "airline_id": "airline_af",
+    "airline_code": "AF",
+    "flight_number": "AF6155",
+    "origin": "CDG",
+    "destination": "DFW",
+    "departure_time": "2026-08-22T20:45:00Z",
+    "arrival_time": "2026-08-23T00:33:00Z",
+    "duration_minutes": 228,
+    "fare": 385.73,
+    "currency": "USD",
+    "seats_available": 45,
+    "aircraft_type": "Airbus A320neo",
+    "date": "2026-08-22",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

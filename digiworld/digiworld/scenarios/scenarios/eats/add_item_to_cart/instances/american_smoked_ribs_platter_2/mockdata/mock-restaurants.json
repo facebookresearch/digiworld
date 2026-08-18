@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Grill Masters",
+    "description": "Grill Masters specializes in dry-rubbed, slow-smoked BBQ ribs that fall off the bone.",
+    "address": "118 Riverside Avenue, Minneapolis, MN 55401",
+    "latitude": 44.9778,
+    "longitude": -93.265,
+    "logo": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.5,
+    "deliveryFee": 4.65,
+    "minOrder": 12.0,
+    "deliveryRadius": 6,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

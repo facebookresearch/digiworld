@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Laura Thompson",
+    "street": "741 Willow Pl",
+    "city": "New York",
+    "state": "NY",
+    "pincode": "10001",
+    "phone": "2125558910",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

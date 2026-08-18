@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Space Colony Sim: Frontier (PC)",
+    "description": "Space Colony Sim: Frontier (PC) challenges players to build and manage a self\u2011sustaining colony on a distant planet, balancing resources, research, and colonist needs. The simulation offers deep strategic layers and mod support for endless replayability.",
+    "shortDescription": "Space Colony Sim tasks you with building a thriving off\u2011world settlement on PC.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Frontier Simulations",
+    "price": 1863.7,
+    "discountedPrice": 987.76,
+    "discountPercent": 47,
+    "categoryId": 7,
+    "categoryName": "Toys & Games",
+    "subcategoryId": 56,
+    "subcategoryName": "Video Games",
+    "inStock": true,
+    "stockCount": 134,
+    "imageUrl": "/224_1",
+    "specs": "{\"ageRange\": \"12+ years\", \"material\": \"Digital download\", \"dimensions\": \"N/A\", \"batteryRequired\": \"N/A\", \"warranty\": \"30-day refund\", \"safetyRating\": \"ESRB: Teen (T)\"}",
+    "tags": "[\"video\", \"games\", \"toys\", \"best\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

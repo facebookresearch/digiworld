@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "user_id": "{{current_user_id}}",
+    "full_name": "Emily J. Harper",
+    "street": "7422 Oakridge Dr",
+    "city": "Riverton",
+    "state": "CA",
+    "pincode": "94027",
+    "phone": "+1-555-1042",
+    "country": "United States",
+    "delivery_instructions": "",
+    "is_default": 0,
+    "created_at": "2025-06-15 12:00:00.000",
+    "updated_at": "2025-06-15 12:00:00.000"
+  }
+]

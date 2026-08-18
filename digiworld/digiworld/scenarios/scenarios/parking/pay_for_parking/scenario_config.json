@@ -1,0 +1,9 @@
+{
+  "task_name": "Pay for a parking spot at <zone_code> for <vehicle> for <minutes> minutes",
+  "app_name": "parking",
+  "scenario_class": "PayForParkingScenario",
+  "parameters": ["zone_code", "vehicle", "minutes"],
+  "context_fields": [],
+  "additional_mockdata": true,
+  "description": "Pay for a parking spot at a specific zone for a specific vehicle for a given duration."
+}

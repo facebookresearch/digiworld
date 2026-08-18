@@ -1,0 +1,16 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "driverId": 4,
+    "pickupLocation": "{\"lat\": 40.733571, \"lng\": -73.967623, \"placename\": \"Santo Domingo Bakery & Coffee Shop, Clinton Street, USA\"}",
+    "dropLocation": "{\"lat\": 40.71026, \"lng\": -73.967767, \"placename\": \"1177, Broadway, NoMad, Manhattan, USA\"}",
+    "status": "completed",
+    "startTime": "{{middle_ride_time}}",
+    "endTime": "{{recent_ride_time}}",
+    "distanceKm": 4.07,
+    "fareAmount": 7.33,
+    "feedbackSubmitted": 0,
+    "paymentMode": "cash"
+  }
+]

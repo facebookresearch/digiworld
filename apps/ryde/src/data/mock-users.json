@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "email": "alice@example.com",
+    "password": "hashedpassword1",
+    "firstName": "Alice",
+    "lastName": "Smith",
+    "phoneNumber": "+1234567890",
+    "createdAt": "2024-06-01T12:00:00Z",
+    "updatedAt": "2024-06-01T12:00:00Z",
+    "settings": "{}",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "email": "bob@example.com",
+    "password": "hashedpassword2",
+    "firstName": "Bob",
+    "lastName": "Johnson",
+    "phoneNumber": "+1987654321",
+    "createdAt": "2024-06-01T12:05:00Z",
+    "updatedAt": "2024-06-01T12:05:00Z",
+    "settings": "{}",
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "email": "carol@example.com",
+    "password": "hashedpassword3",
+    "firstName": "Carol",
+    "lastName": "Williams",
+    "phoneNumber": "+1123456789",
+    "createdAt": "2024-06-01T12:10:00Z",
+    "updatedAt": "2024-06-01T12:10:00Z",
+    "settings": "{}",
+    "status": "inactive"
+  },
+  {
+    "id": 4,
+    "email": "dave@example.com",
+    "password": "hashedpassword4",
+    "firstName": "Dave",
+    "lastName": "Brown",
+    "phoneNumber": "+1098765432",
+    "createdAt": "2024-06-01T12:15:00Z",
+    "updatedAt": "2024-06-01T12:15:00Z",
+    "settings": "{}",
+    "status": "banned"
+  },
+  {
+    "id": 5,
+    "email": "eve@example.com",
+    "password": "hashedpassword5",
+    "firstName": "Eve",
+    "lastName": "Davis",
+    "phoneNumber": "+1222333444",
+    "createdAt": "2024-06-01T12:20:00Z",
+    "updatedAt": "2024-06-01T12:20:00Z",
+    "settings": "{}",
+    "status": "active"
+  }
+] 

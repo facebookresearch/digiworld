@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Indoor Volleyball Net Kit",
+    "description": "The kit includes a 9 ft x 9 ft net, adjustable steel poles, and a tensioning system for quick setup in gyms or community halls. The net mesh is UV-treated for durability, and the pole bases feature non-slip pads. Ideal for recreational play and training.",
+    "shortDescription": "Complete indoor volleyball net system with adjustable poles.",
+    "rating": 2.0,
+    "reviewCount": 1,
+    "seller": "CourtMaster Supplies",
+    "price": 396.37,
+    "discountedPrice": 396.37,
+    "discountPercent": 0,
+    "categoryId": 4,
+    "categoryName": "Sports & Outdoors",
+    "subcategoryId": 29,
+    "subcategoryName": "Team Sports",
+    "inStock": true,
+    "stockCount": 33,
+    "imageUrl": "/115_1",
+    "specs": "{\"material\": \"Steel poles with nylon net\", \"weight\": \"4 lbs\", \"dimensions\": \"Net 7ft x 8ft, pole height 7ft\", \"warranty\": \"1-year warranty\", \"color\": \"White net, black poles\", \"suitableFor\": \"Indoor volleyball, recreation\"}",
+    "tags": "[\"sports\", \"outdoors\", \"team\", \"high-quality\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

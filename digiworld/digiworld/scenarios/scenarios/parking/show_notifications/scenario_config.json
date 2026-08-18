@@ -1,0 +1,20 @@
+{
+  "task_name": "Show me my notifications",
+  "app_name": "parking",
+  "scenario_class": "ShowNotificationsScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Navigate to the notifications screen.",
+  "compatible_profiles": [
+    "active_sessions",
+    "budget_zones",
+    "default",
+    "electric_vehicles",
+    "expired_sessions",
+    "high_parking_volume",
+    "many_vehicles",
+    "new_user",
+    "premium_zones",
+    "zone_full"
+  ]
+}

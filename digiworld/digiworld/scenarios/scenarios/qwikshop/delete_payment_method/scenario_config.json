@@ -1,0 +1,9 @@
+{
+  "task_name": "Delete payment method with \"<cardNumber>\"",
+  "app_name": "qwikshop",
+  "scenario_class": "DeletePaymentMethodScenario",
+  "parameters": ["cardNumber"],
+  "context_fields": [],
+  "description": "Delete a payment method identified by its card number.",
+  "additional_mockdata": true
+}

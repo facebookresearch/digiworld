@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Plant-Powered Kitchen: Vegan Meals Made Simple",
+    "description": "Over 120 easy-to-follow vegan recipes showcase the versatility of vegetables, legumes, and grains. The book emphasizes nutrition, flavor balance, and quick weeknight meals, with pantry staples lists and meal-prep guides. Ideal for newcomers and seasoned vegans alike.",
+    "shortDescription": "A simple, nutritious vegan cookbook with over 120 recipes.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Vegan Kitchen Press",
+    "price": 34.89,
+    "discountedPrice": 34.89,
+    "discountPercent": 0,
+    "categoryId": 5,
+    "categoryName": "Books",
+    "subcategoryId": 40,
+    "subcategoryName": "Cookbooks",
+    "inStock": true,
+    "stockCount": 30,
+    "imageUrl": "/160_1",
+    "specs": "{\"author\": \"Sofia Martinez\", \"publisher\": \"GreenLeaf Books\", \"pages\": \"240\", \"language\": \"English\", \"isbn\": \"978-2-010-78901-3\", \"format\": \"Paperback\"}",
+    "tags": "[\"books\", \"cookbooks\", \"premium\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

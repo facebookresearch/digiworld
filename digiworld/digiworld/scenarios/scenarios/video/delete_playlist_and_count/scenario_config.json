@@ -1,0 +1,11 @@
+{
+  "task_name": "Delete the playlist titled \"<playlist_name>\", then tell me how many playlists I have",
+  "app_name": "video",
+  "scenario_class": "DeletePlaylistAndCountScenario",
+  "parameters": [
+    "playlist_name"
+  ],
+  "context_fields": [],
+  "description": "Delete a specified playlist and then report the remaining playlist count",
+  "additional_mockdata": true
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 9990,
+    "categoryId": 4,
+    "title": "Ultimate Retro Game Tournament 2024",
+    "description": "Top gamers compete in classic arcade challenges, from Pac\u2011Man to Street Fighter, with prizes and epic fails.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 1202,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 7459,
+    "likeCount": 80,
+    "commentCount": 17,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

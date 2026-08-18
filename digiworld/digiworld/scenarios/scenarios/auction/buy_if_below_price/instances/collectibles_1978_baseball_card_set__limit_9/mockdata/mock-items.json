@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754810146,
+    "title": "1978 Baseball Card Set \u2013 Limited Run, PSA 9 Certified",
+    "description": "This 1978 baseball card collection includes ten key rookie cards, all graded PSA 9 and kept in pristine sleeves, a rare find for serious hobbyists.",
+    "categoryId": 8,
+    "sellerId": 2,
+    "price": 73.55,
+    "auctionFlag": 0,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/1978-baseball-card-set-\u2013-limited-run,-psa-9-certified.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": null,
+    "currentBid": null,
+    "bidIncrement": null,
+    "endTime": null,
+    "expired": 0
+  }
+]

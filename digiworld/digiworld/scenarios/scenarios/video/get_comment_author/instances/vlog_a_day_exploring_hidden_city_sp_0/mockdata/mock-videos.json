@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 1,
+    "categoryId": 7,
+    "title": "A Day Exploring Hidden City Spots",
+    "description": "Join me as I wander through lesser\u2011known neighborhoods, discovering street art and local caf\u00e9s.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 2718,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 7012,
+    "likeCount": 9,
+    "commentCount": 2,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

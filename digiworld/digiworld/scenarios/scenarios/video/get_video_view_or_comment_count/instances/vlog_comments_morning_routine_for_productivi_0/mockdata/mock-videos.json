@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 1,
+    "categoryId": 7,
+    "title": "Morning Routine for Productivity",
+    "description": "Get a head start on your day with my morning routine that boosts productivity and energy. Watch to learn my top tips and tricks.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 430,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 588,
+    "likeCount": 16,
+    "commentCount": 13,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

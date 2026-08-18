@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Patterned Silk Pocket Square",
+    "description": "Luxurious patterned silk pocket square with intricate detailing, adding a dash of color to formal attire.",
+    "shortDescription": "Silk pocket square with intricate pattern for formal accents.",
+    "rating": 3.7,
+    "reviewCount": 3,
+    "seller": "Royal Silk Textiles",
+    "price": 297.5,
+    "discountedPrice": 282.62,
+    "discountPercent": 5,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 15,
+    "subcategoryName": "Accessories",
+    "inStock": true,
+    "stockCount": 31,
+    "imageUrl": "/60_1",
+    "specs": "{\"material\": \"100% silk\", \"careInstructions\": \"Dry clean only\", \"fit\": \"One size, fold-over style\", \"size\": \"One size\", \"color\": \"Emerald green\", \"pattern\": \"Patterned silk print\"}",
+    "tags": "[\"accessories\", \"clothing\", \"best\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

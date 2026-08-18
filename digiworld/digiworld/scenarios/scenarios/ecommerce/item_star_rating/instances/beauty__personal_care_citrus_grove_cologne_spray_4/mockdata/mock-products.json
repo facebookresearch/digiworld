@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Citrus Grove Cologne Spray",
+    "description": "A fresh, unisex cologne featuring bright citrus top notes of lemon and orange, complemented by herbal rosemary and a cedarwood base. Its crisp aroma is ideal for daytime occasions. Packaged in a recyclable glass spray.",
+    "shortDescription": "A vibrant citrus cologne with a clean, herbal finish.",
+    "rating": 4.7,
+    "reviewCount": 0,
+    "seller": "Citrus & Co.",
+    "price": 90.89,
+    "discountedPrice": 86.35,
+    "discountPercent": 5,
+    "categoryId": 6,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 44,
+    "subcategoryName": "Fragrances",
+    "inStock": true,
+    "stockCount": 75,
+    "imageUrl": "/174_1",
+    "specs": "{\"ingredients\": \"Alcohol Denat., Fragrance (Citrus, Bergamot), Limonene, Linalool, Citral, Phenoxyethanol\", \"skinType\": \"All skin types\", \"volume\": \"50 ml\", \"fragrance\": \"Citrus Grove\", \"madeIn\": \"USA\", \"expiryPeriod\": \"36 months unopened\"}",
+    "tags": "[\"personal\", \"fragrances\", \"beauty\", \"care\", \"premium\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

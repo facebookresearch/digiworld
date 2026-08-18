@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 1,
+    "categoryId": 3,
+    "title": "The Hidden Lives of Urban Foxes",
+    "description": "A close\u2011up look at how foxes adapt to city life, their nocturnal habits, and the challenges they face from humans.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 1856,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 1684,
+    "likeCount": 50,
+    "commentCount": 2,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

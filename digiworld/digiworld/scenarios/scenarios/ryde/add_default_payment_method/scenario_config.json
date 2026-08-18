@@ -1,0 +1,8 @@
+{
+  "task_name": "I want to add a <payment_type> payment method and make it my default payment method",
+  "app_name": "ryde",
+  "scenario_class": "AddDefaultPaymentMethodScenario",
+  "parameters": ["payment_type"],
+  "context_fields": [],
+  "description": "Add a new payment method and set it as the default"
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "title": "Original 1932 Oil on Canvas by Eleanor Hart \u2013 \u2018Evening Harbor\u2019",
+    "description": "A rare, well\u2011preserved work by early 20th\u2011century painter Eleanor Hart, showcasing luminous twilight tones that add a serene focal point to any collection.",
+    "categoryId": 5,
+    "sellerId": 1,
+    "price": 1486.47,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 7,
+    "imageUrl": "https://example.com/images/original-1932-oil-on-canvas-by-eleanor-hart-\u2013-\u2018evening-harbor\u2019.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 460.11,
+    "currentBid": 524.78,
+    "bidIncrement": 5.0,
+    "endTime": 1766138166,
+    "expired": 0
+  }
+]

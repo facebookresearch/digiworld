@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "nickname": "Chrome Rider",
+    "make": "Harley-Davidson",
+    "model": "Street 750",
+    "color": "Yellow",
+    "year": 2020,
+    "plateNumber": "RIDE1",
+    "vehicleTypeId": 6,
+    "isDefault": 0,
+    "createdAt": "{{end_timestamp}}",
+    "updatedAt": "{{end_timestamp}}",
+    "metadata": null
+  }
+]

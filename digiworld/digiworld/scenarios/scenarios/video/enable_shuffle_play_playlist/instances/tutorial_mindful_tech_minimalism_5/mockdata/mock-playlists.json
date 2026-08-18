@@ -1,0 +1,14 @@
+[
+  {
+    "id": 75820,
+    "userId": "{{current_user_id}}",
+    "name": "Mindful Tech Minimalism",
+    "description": "",
+    "isPublic": 0,
+    "shuffle": 0,
+    "shareUrl": null,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

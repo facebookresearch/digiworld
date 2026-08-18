@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "user_id": "{{current_user_id}}",
+    "full_name": "James L. O'Neil",
+    "street": "8775 Cedar Blvd",
+    "city": "Miami",
+    "state": "FL",
+    "pincode": "33133",
+    "phone": "+1-555-2345",
+    "country": "United States",
+    "delivery_instructions": "",
+    "is_default": 0,
+    "created_at": "2025-06-15 12:00:00.000",
+    "updated_at": "2025-06-15 12:00:00.000"
+  }
+]

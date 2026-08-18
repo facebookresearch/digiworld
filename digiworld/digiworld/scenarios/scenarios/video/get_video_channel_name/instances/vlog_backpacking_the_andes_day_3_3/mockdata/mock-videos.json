@@ -1,0 +1,21 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "channelId": 9990,
+    "categoryId": 7,
+    "title": "Backpacking the Andes: Day 3",
+    "description": "I trek high mountain passes, share breathtaking views, and talk about the challenges of altitude.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 3600,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 2715,
+    "likeCount": 94,
+    "commentCount": 27,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

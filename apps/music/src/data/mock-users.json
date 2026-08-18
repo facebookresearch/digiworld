@@ -1,0 +1,2726 @@
+[
+  {
+    "id": 1,
+    "username": "Matthew Garcia",
+    "email": "matthew.garcia@example.com",
+    "password": "football123",
+    "profilePicture": "avatars/user_1.jpg",
+    "favoriteCategories": [
+      "ambient",
+      "afternoon",
+      "night"
+    ],
+    "favoriteSongIds": [
+      252,
+      112,
+      159,
+      62,
+      92,
+      93,
+      35
+    ],
+    "recentlyPlayed": [
+      {
+        "songId": 172,
+        "playedAt": "2025-05-23T22:27:27.365393Z"
+      },
+      {
+        "songId": 394,
+        "playedAt": "2025-05-23T22:27:27.365386Z"
+      },
+      {
+        "songId": 311,
+        "playedAt": "2025-05-20T22:27:27.365388Z"
+      },
+      {
+        "songId": 286,
+        "playedAt": "2025-05-19T22:27:27.365394Z"
+      },
+      {
+        "songId": 50,
+        "playedAt": "2025-05-18T22:27:27.365407Z"
+      },
+      {
+        "songId": 314,
+        "playedAt": "2025-05-18T22:27:27.365403Z"
+      },
+      {
+        "songId": 254,
+        "playedAt": "2025-05-16T22:27:27.365389Z"
+      },
+      {
+        "songId": 231,
+        "playedAt": "2025-05-13T22:27:27.365405Z"
+      },
+      {
+        "songId": 179,
+        "playedAt": "2025-05-11T22:27:27.365385Z"
+      },
+      {
+        "songId": 63,
+        "playedAt": "2025-05-09T22:27:27.365396Z"
+      },
+      {
+        "songId": 24,
+        "playedAt": "2025-05-07T22:27:27.365383Z"
+      },
+      {
+        "songId": 291,
+        "playedAt": "2025-05-01T22:27:27.365400Z"
+      },
+      {
+        "songId": 120,
+        "playedAt": "2025-04-30T22:27:27.365380Z"
+      },
+      {
+        "songId": 209,
+        "playedAt": "2025-04-29T22:27:27.365397Z"
+      },
+      {
+        "songId": 368,
+        "playedAt": "2025-04-28T22:27:27.365392Z"
+      },
+      {
+        "songId": 385,
+        "playedAt": "2025-04-26T22:27:27.365401Z"
+      },
+      {
+        "songId": 347,
+        "playedAt": "2025-04-26T22:27:27.365390Z"
+      },
+      {
+        "songId": 17,
+        "playedAt": "2025-04-25T22:27:27.365404Z"
+      }
+    ],
+    "createdAt": "2020-08-18T00:00:00Z",
+    "updatedAt": "2020-08-18T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "username": "Peter Johnson",
+    "email": "peter.johnson@example.com",
+    "password": "baseball123",
+    "profilePicture": "avatars/user_2.jpg",
+    "favoriteCategories": [
+      "afternoon",
+      "travel",
+      "jazz"
+    ],
+    "favoriteSongIds": [
+      163,
+      330,
+      154,
+      322,
+      333,
+      235,
+      81,
+      365,
+      339,
+      153,
+      268,
+      221,
+      254,
+      303,
+      364,
+      219,
+      236,
+      39,
+      391
+    ],
+    "recentlyPlayed": [
+      {
+        "songId": 128,
+        "playedAt": "2025-05-24T22:27:27.365420Z"
+      },
+      {
+        "songId": 314,
+        "playedAt": "2025-05-23T22:27:27.365422Z"
+      },
+      {
+        "songId": 218,
+        "playedAt": "2025-05-22T22:27:27.365430Z"
+      },
+      {
+        "songId": 259,
+        "playedAt": "2025-05-13T22:27:27.365417Z"
+      },
+      {
+        "songId": 333,
+        "playedAt": "2025-05-07T22:27:27.365424Z"
+      },
+      {
+        "songId": 377,
+        "playedAt": "2025-05-06T22:27:27.365419Z"
+      },
+      {
+        "songId": 367,
+        "playedAt": "2025-05-04T22:27:27.365428Z"
+      },
+      {
+        "songId": 98,
+        "playedAt": "2025-05-02T22:27:27.365431Z"
+      },
+      {
+        "songId": 357,
+        "playedAt": "2025-05-01T22:27:27.365427Z"
+      },
+      {
+        "songId": 153,
+        "playedAt": "2025-05-01T22:27:27.365426Z"
+      },
+      {
+        "songId": 26,
+        "playedAt": "2025-04-29T22:27:27.365423Z"
+      },
+      {
+        "songId": 66,
+        "playedAt": "2025-04-25T22:27:27.365432Z"
+      }
+    ],
+    "createdAt": "2022-01-09T00:00:00Z",
+    "updatedAt": "2022-01-09T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "username": "Teresa Soto",
+    "email": "teresa.soto@example.com",
+    "password": "abc123",
+    "profilePicture": "avatars/user_3.jpg",
+    "favoriteCategories": [
+      "rock",
+      "workout",
+      "night"
+    ],
+    "favoriteSongIds": [
+      318,
+      107,
+      308,
+      169,
+      325,
+      109,
+      118,
+      61,
+      371,
+      70,
+      338,
+      248,
+      122,
+      342,
+      178
+    ],
+    "recentlyPlayed": [
+      {
+        "songId": 382,
+        "playedAt": "2025-05-23T22:27:27.365454Z"
+      },
+      {
+        "songId": 132,
+        "playedAt": "2025-05-21T22:27:27.365468Z"
+      },
+      {
+        "songId": 334,
+        "playedAt": "2025-05-21T22:27:27.365450Z"
+      },
+      {
+        "songId": 282,
+        "playedAt": "2025-05-20T22:27:27.365446Z"
+      },
+      {
+        "songId": 131,
+        "playedAt": "2025-05-20T22:27:27.365445Z"
+      },
+      {
+        "songId": 241,
+        "playedAt": "2025-05-18T22:27:27.365465Z"
+      },
+      {
+        "songId": 109,
+        "playedAt": "2025-05-17T22:27:27.365467Z"
+      },
+      {
+        "songId": 384,
+        "playedAt": "2025-05-17T22:27:27.365449Z"
+      },
+      {
+        "songId": 33,
+        "playedAt": "2025-05-12T22:27:27.365469Z"
+      },
+      {
+        "songId": 287,
+        "playedAt": "2025-05-12T22:27:27.365442Z"
+      },
+      {
+        "songId": 196,
+        "playedAt": "2025-05-11T22:27:27.365458Z"
+      },
+      {
+        "songId": 219,
+        "playedAt": "2025-05-10T22:27:27.365460Z"
+      },
+      {
+        "songId": 387,
+        "playedAt": "2025-05-09T22:27:27.365453Z"
+      },
+      {
+        "songId": 99,
+        "playedAt": "2025-05-07T22:27:27.365459Z"
+      },
+      {
+        "songId": 317,
+        "playedAt": "2025-05-07T22:27:27.365447Z"
+      },
+      {
+        "songId": 380,
+        "playedAt": "2025-05-06T22:27:27.365451Z"
+      },
+      {
+        "songId": 378,
+        "playedAt": "2025-05-02T22:27:27.365470Z"
+      },
+      {
+        "songId": 252,
+        "playedAt": "2025-05-02T22:27:27.365463Z"
+      },
+      {
+        "songId": 93,
+        "playedAt": "2025-05-02T22:27:27.365462Z"
+      },
+      {
+        "songId": 325,
+        "playedAt": "2025-05-01T22:27:27.365464Z"
+      },
+      {
+        "songId": 117,
+        "playedAt": "2025-04-28T22:27:27.365456Z"
+      },
+      {
+        "songId": 344,
+        "playedAt": "2025-04-28T22:27:27.365443Z"
+      },
+      {
+        "songId": 294,
+        "playedAt": "2025-04-25T22:27:27.365455Z"
+      }
+    ],
+    "createdAt": "2022-10-25T00:00:00Z",
+    "updatedAt": "2022-10-25T00:00:00Z"
+  },
+  {
+    "id": 4,
+    "username": "Suzanne Gould",
+    "email": "suzanne.gould@example.com",
+    "password": "password123",
+    "profilePicture": "avatars/user_4.jpg",
+    "favoriteCategories": [
+      "study",
+      "experimental",
+      "energetic"
+    ],
+    "favoriteSongIds": [
+      266,
+      243,
+      254,
+      356,
+      186,
+      88,
+      359,
+      35,
+      136,
+      363,
+      357,
+      271,
+      11,
+      206,
+      62
+    ],
+    "recentlyPlayed": [
+      {
+        "songId": 318,
+        "playedAt": "2025-05-23T22:27:27.365486Z"
+      },
+      {
+        "songId": 331,
+        "playedAt": "2025-05-20T22:27:27.365497Z"
+      },
+      {
+        "songId": 296,
+        "playedAt": "2025-05-19T22:27:27.365500Z"
+      },
+      {
+        "songId": 186,
+        "playedAt": "2025-05-18T22:27:27.365506Z"
+      },
+      {
+        "songId": 272,
+        "playedAt": "2025-05-18T22:27:27.365488Z"
+      },
+      {
+        "songId": 201,
+        "playedAt": "2025-05-12T22:27:27.365503Z"
+      },
+      {
+        "songId": 204,
+        "playedAt": "2025-05-12T22:27:27.365483Z"
+      },
+      {
+        "songId": 360,
+        "playedAt": "2025-05-10T22:27:27.365490Z"
+      },
+      {
+        "songId": 93,
+        "playedAt": "2025-05-09T22:27:27.365499Z"
+      },
+      {
+        "songId": 99,
+        "playedAt": "2025-05-09T22:27:27.365480Z"
+      },
+      {
+        "songId": 143,
+        "playedAt": "2025-05-08T22:27:27.365501Z"
+      },
+      {
+        "songId": 214,
+        "playedAt": "2025-05-07T22:27:27.365491Z"
+      },
+      {
+        "songId": 142,
+        "playedAt": "2025-05-05T22:27:27.365492Z"
+      },
+      {
+        "songId": 373,
+        "playedAt": "2025-05-04T22:27:27.365487Z"
+      },
+      {
+        "songId": 178,
+        "playedAt": "2025-05-03T22:27:27.365495Z"
+      },
+      {
+        "songId": 26,
+        "playedAt": "2025-05-03T22:27:27.365494Z"
+      },
+      {
+        "songId": 367,
+        "playedAt": "2025-05-02T22:27:27.365496Z"
+      },
+      {
+        "songId": 225,
+        "playedAt": "2025-04-28T22:27:27.365504Z"
+      },
+      {
+        "songId": 21,
+        "playedAt": "2025-04-27T22:27:27.365505Z"
+      },
+      {
+        "songId": 35,
+        "playedAt": "2025-04-26T22:27:27.365482Z"
+      },
+      {
+        "songId": 23,
+        "playedAt": "2025-04-25T22:27:27.365484Z"
+      }
+    ],
+    "createdAt": "2021-01-29T00:00:00Z",
+    "updatedAt": "2021-01-29T00:00:00Z"
+  },
+  {
+    "id": 5,
+    "username": "Jennifer Clark",
+    "email": "jennifer.clark@example.com",
+    "password": "letmein123",
+    "profilePicture": "avatars/user_5.jpg",
+    "favoriteCategories": [
+      "experimental",
+      "afternoon",
+      "melancholic"
+    ],
+    "favoriteSongIds": [
+      394,
+      376,
+      275,
+      66,
+      224,
+      154,
+      330,
+      320,
+      342
+    ],
+    "recentlyPlayed": [
+      {
+        "songId": 16,
+        "playedAt": "2025-05-17T22:27:27.365530Z"
+      },
+      {
+        "songId": 297,
+        "playedAt": "2025-05-14T22:27:27.365522Z"
+      },
+      {
+        "songId": 55,
+        "playedAt": "2025-05-13T22:27:27.365524Z"
+      },
+      {
+        "songId": 187,
+        "playedAt": "2025-05-13T22:27:27.365520Z"
+      },
+      {
+        "songId": 382,
+        "playedAt": "2025-05-10T22:27:27.365516Z"
+      },
+      {
+        "songId": 129,
+        "playedAt": "2025-05-08T22:27:27.365529Z"
+      },
+      {
+        "songId": 346,
+        "playedAt": "2025-05-08T22:27:27.365519Z"
+      },
+      {
+        "songId": 58,
+        "playedAt": "2025-05-05T22:27:27.365515Z"
+      },
+      {
+        "songId": 326,
+        "playedAt": "2025-04-27T22:27:27.365523Z"
+      },
+      {
+        "songId": 64,
+        "playedAt": "2025-04-26T22:27:27.365518Z"
+      },
+      {
+        "songId": 112,
+        "playedAt": "2025-04-24T22:27:27.365513Z"
+      }
+    ],
+    "createdAt": "2020-01-13T00:00:00Z",
+    "updatedAt": "2020-01-13T00:00:00Z"
+  },
+  {
+    "id": 6,
+    "username": "Katie Williamson",
+    "email": "katie.williamson@example.com",
+    "password": "monkey123",
+    "profilePicture": "avatars/user_6.jpg",
+    "favoriteCategories": [
+      "travel",
+      "experimental",
+      "focus"
+    ],
+    "favoriteSongIds": [
+      75,
+      161,
+      135,
+      164,
+      152,
+      363
+    ],
+    "recentlyPlayed": [
+      {
+        "songId": 296,
+        "playedAt": "2025-05-24T22:27:27.365541Z"
+      },
+      {
+        "songId": 77,
+        "playedAt": "2025-05-23T22:27:27.365549Z"
+      },
+      {
+        "songId": 282,
+        "playedAt": "2025-05-16T22:27:27.365547Z"
+      },
+      {
+        "songId": 14,
+        "playedAt": "2025-05-16T22:27:27.365539Z"
+      },
+      {
+        "songId": 337,
+        "playedAt": "2025-05-14T22:27:27.365545Z"
+      },
+      {
+        "songId": 194,
+        "playedAt": "2025-05-14T22:27:27.365543Z"
+      },
+      {
+        "songId": 115,
+        "playedAt": "2025-05-12T22:27:27.365548Z"
+      },
+      {
+        "songId": 227,
+        "playedAt": "2025-05-03T22:27:27.365540Z"
+      },
+      {
+        "songId": 335,
+        "playedAt": "2025-05-02T22:27:27.365536Z"
+      },
+      {
+        "songId": 11,
+        "playedAt": "2025-04-27T22:27:27.365538Z"
+      },
+      {
+        "songId": 151,
+        "playedAt": "2025-04-25T22:27:27.365544Z"
+      }
+    ],
+    "createdAt": "2022-06-17T00:00:00Z",
+    "updatedAt": "2022-06-17T00:00:00Z"
+  },
+  {
+    "id": 7,
+    "username": "Heather Wang",
+    "email": "heather.wang@example.com",
+    "password": "password123",
+    "profilePicture": "avatars/user_7.jpg",
+    "favoriteCategories": [
+      "chill",
+      "electronic",
+      "melancholic"
+    ],
+    "favoriteSongIds": [
+      294,
+      383,
+      207,
+      26,
+      227,
+      279,
+      307,
+      308,
+      57,
+      341
+    ],
+    "recentlyPlayed": [
+      {
+        "songId": 377,
+        "playedAt": "2025-05-23T22:27:27.365567Z"
+      },
+      {
+        "songId": 312,
+        "playedAt": "2025-05-23T22:27:27.365566Z"
+      },
+      {
+        "songId": 78,
+        "playedAt": "2025-05-21T22:27:27.365569Z"
+      },
+      {
+        "songId": 34,
+        "playedAt": "2025-05-13T22:27:27.365570Z"
+      },
+      {
+        "songId": 359,
+        "playedAt": "2025-05-13T22:27:27.365562Z"
+      },
+      {
+        "songId": 33,
+        "playedAt": "2025-05-08T22:27:27.365565Z"
+      },
+      {
+        "songId": 378,
+        "playedAt": "2025-05-06T22:27:27.365563Z"
+      },
+      {
+        "songId": 367,
+        "playedAt": "2025-04-28T22:27:27.365558Z"
+      },
+      {
+        "songId": 295,
+        "playedAt": "2025-04-28T22:27:27.365557Z"
+      },
+      {
+        "songId": 265,
+        "playedAt": "2025-04-27T22:27:27.365559Z"
+      },
+      {
+        "songId": 370,
+        "playedAt": "2025-04-25T22:27:27.365555Z"
+      },
+      {
+        "songId": 101,
+        "playedAt": "2025-04-24T22:27:27.365561Z"
+      }
+    ],
+    "createdAt": "2023-01-29T00:00:00Z",
+    "updatedAt": "2023-01-29T00:00:00Z"
+  },
+  {
+    "id": 8,
+    "username": "Donald Rice",
+    "email": "donald.rice@example.com",
+    "password": "admin123",
+    "profilePicture": "avatars/user_8.jpg",
+    "favoriteCategories": [
+      "energetic",
+      "jazz",
+      "study"
+    ],
+    "favoriteSongIds": [
+      37,
+      28,
+      20,
+      248,
+      278,
+      299,
+      209,
+      347,
+      225,
+      214,
+      96,
+      100,
+      148,
+      239,
+      377,
+      119,
+      92
+    ],
+    "recentlyPlayed": [
+      {
+        "songId": 319,
+        "playedAt": "2025-05-24T22:27:27.365585Z"
+      },
+      {
+        "songId": 325,
+        "playedAt": "2025-05-18T22:27:27.365591Z"
+      },
+      {
+        "songId": 366,
+        "playedAt": "2025-05-18T22:27:27.365581Z"
+      },
+      {
+        "songId": 152,
+        "playedAt": "2025-05-17T22:27:27.365592Z"
+      },
+      {
+        "songId": 134,
+        "playedAt": "2025-05-15T22:27:27.365590Z"
+      },
+      {
+        "songId": 37,
+        "playedAt": "2025-05-14T22:27:27.365587Z"
+      },
+      {
+        "songId": 19,
+        "playedAt": "2025-05-11T22:27:27.365594Z"
+      },
+      {
+        "songId": 21,
+        "playedAt": "2025-05-11T22:27:27.365579Z"
+      },
+      {
+        "songId": 173,
+        "playedAt": "2025-05-09T22:27:27.365582Z"
+      },
+      {
+        "songId": 286,
+        "playedAt": "2025-05-02T22:27:27.365578Z"
+      },
+      {
+        "songId": 270,
+        "playedAt": "2025-04-29T22:27:27.365586Z"
+      },
+      {
+        "songId": 137,
+        "playedAt": "2025-04-29T22:27:27.365583Z"
+      },
+      {
+        "songId": 150,
+        "playedAt": "2025-04-25T22:27:27.365588Z"
+      }
+    ],
+    "createdAt": "2025-05-04T00:00:00Z",
+    "updatedAt": "2025-05-04T00:00:00Z"
+  },
+  {
+    "id": 9,
+    "username": "Matthew Joseph",
+    "email": "matthew.joseph@example.com",
+    "password": "baseball123",
+    "profilePicture": "avatars/user_9.jpg",
+    "favoriteCategories": [
+      "night",
+      "rock",
+      "jazz"
+    ],
+    "favoriteSongIds": [
+      225,
+      145,
+      137,
+      159,
+      143,
+      308,
+      265,
+      244,
+      241,
+      139,
+      376,
+      255,
+      352,
+      292,
+      364,
+      44,
+      267
+    ],
+    "recentlyPlayed": [
+      {
+        "songId": 238,
+        "playedAt": "2025-05-24T22:27:27.365618Z"
+      },
+      {
+        "songId": 5,
+        "playedAt": "2025-05-24T22:27:27.365613Z"
+      },
+      {
+        "songId": 313,
+        "playedAt": "2025-05-24T22:27:27.365606Z"
+      },
+      {
+        "songId": 100,
+        "playedAt": "2025-05-23T22:27:27.365608Z"
+      },
+      {
+        "songId": 290,
+        "playedAt": "2025-05-19T22:27:27.365617Z"
+      },
+      {
+        "songId": 303,
+        "playedAt": "2025-05-18T22:27:27.365616Z"
+      },
+      {
+        "songId": 183,
+        "playedAt": "2025-05-11T22:27:27.365609Z"
+      },
+      {
+        "songId": 246,
+        "playedAt": "2025-05-09T22:27:27.365607Z"
+      },
+      {
+        "songId": 329,
+        "playedAt": "2025-05-08T22:27:27.365615Z"
+      },
+      {
+        "songId": 46,
+        "playedAt": "2025-05-08T22:27:27.365604Z"
+      },
+      {
+        "songId": 63,
+        "playedAt": "2025-05-04T22:27:27.365611Z"
+      },
+      {
+        "songId": 180,
+        "playedAt": "2025-04-28T22:27:27.365601Z"
+      },
+      {
+        "songId": 298,
+        "playedAt": "2025-04-27T22:27:27.365603Z"
+      },
+      {
+        "songId": 247,
+        "playedAt": "2025-04-25T22:27:27.365612Z"
+      }
+    ],
+    "createdAt": "2020-06-30T00:00:00Z",
+    "updatedAt": "2020-06-30T00:00:00Z"
+  },
+  {
+    "id": 10,
+    "username": "Melvin Black",
+    "email": "melvin.black@example.com",
+    "password": "password123",
+    "profilePicture": "avatars/user_10.jpg",
+    "favoriteCategories": [
+      "experimental",
+      "workout",
+      "electronic"
+    ],
+    "favoriteSongIds": [
+      235,
+      245,
+      97,
+      83,
+      187,
+      160,
+      242,
+      363,
+      101,
+      296,
+      59,
+      30,
+      15
+    ],
+    "recentlyPlayed": [
+      {
+        "songId": 384,
+        "playedAt": "2025-05-22T22:27:27.365729Z"
+      },
+      {
+        "songId": 334,
+        "playedAt": "2025-05-22T22:27:27.365726Z"
+      },
+      {
+        "songId": 246,
+        "playedAt": "2025-05-20T22:27:27.365748Z"
+      },
+      {
+        "songId": 55,
+        "playedAt": "2025-05-19T22:27:27.365739Z"
+      },
+      {
+        "songId": 31,
+        "playedAt": "2025-05-19T22:27:27.365724Z"
+      },
+      {
+        "songId": 142,
+        "playedAt": "2025-05-19T22:27:27.365721Z"
+      },
+      {
+        "songId": 2,
+        "playedAt": "2025-05-17T22:27:27.365725Z"
+      },
+      {
+        "songId": 254,
+        "playedAt": "2025-05-16T22:27:27.365732Z"
+      },
+      {
+        "songId": 113,
+        "playedAt": "2025-05-15T22:27:27.365714Z"
+      },
+      {
+        "songId": 272,
+        "playedAt": "2025-05-14T22:27:27.365743Z"
+      },
+      {
+        "songId": 87,
+        "playedAt": "2025-05-14T22:27:27.365734Z"
+      },
+      {
+        "songId": 44,
+        "playedAt": "2025-05-12T22:27:27.365737Z"
+      },
+      {
+        "songId": 286,
+        "playedAt": "2025-05-12T22:27:27.365716Z"
+      },
+      {
+        "songId": 200,
+        "playedAt": "2025-05-11T22:27:27.365747Z"
+      },
+      {
+        "songId": 232,
+        "playedAt": "2025-05-11T22:27:27.365746Z"
+      },
+      {
+        "songId": 60,
+        "playedAt": "2025-05-05T22:27:27.365723Z"
+      },
+      {
+        "songId": 154,
+        "playedAt": "2025-05-04T22:27:27.365744Z"
+      },
+      {
+        "songId": 233,
+        "playedAt": "2025-05-04T22:27:27.365742Z"
+      },
+      {
+        "songId": 19,
+        "playedAt": "2025-05-04T22:27:27.365741Z"
+      },
+      {
+        "songId": 352,
+        "playedAt": "2025-05-04T22:27:27.365738Z"
+      },
+      {
+        "songId": 80,
+        "playedAt": "2025-05-04T22:27:27.365728Z"
+      },
+      {
+        "songId": 135,
+        "playedAt": "2025-05-02T22:27:27.365733Z"
+      },
+      {
+        "songId": 78,
+        "playedAt": "2025-04-29T22:27:27.365735Z"
+      },
+      {
+        "songId": 350,
+        "playedAt": "2025-04-29T22:27:27.365717Z"
+      },
+      {
+        "songId": 138,
+        "playedAt": "2025-04-25T22:27:27.365719Z"
+      },
+      {
+        "songId": 347,
+        "playedAt": "2025-04-24T22:27:27.365730Z"
+      },
+      {
+        "songId": 260,
+        "playedAt": "2025-04-24T22:27:27.365720Z"
+      }
+    ],
+    "createdAt": "2024-04-22T00:00:00Z",
+    "updatedAt": "2024-04-22T00:00:00Z"
+  },
+  {
+    "id": 11,
+    "username": "Wanda Williamson",
+    "email": "wanda.williamson@example.com",
+    "password": "dragon123",
+    "profilePicture": "avatars/user_11.jpg",
+    "favoriteCategories": [
+      "jazz",
+      "focus",
+      "night"
+    ],
+    "favoriteSongIds": [
+      311,
+      115,
+      62,
+      59,
+      357
+    ],
+    "recentlyPlayed": [
+      {
+        "songId": 217,
+        "playedAt": "2025-05-23T22:27:27.365759Z"
+      },
+      {
+        "songId": 2,
+        "playedAt": "2025-05-21T22:27:27.365778Z"
+      },
+      {
+        "songId": 55,
+        "playedAt": "2025-05-19T22:27:27.365780Z"
+      },
+      {
+        "songId": 38,
+        "playedAt": "2025-05-19T22:27:27.365775Z"
+      },
+      {
+        "songId": 392,
+        "playedAt": "2025-05-19T22:27:27.365769Z"
+      },
+      {
+        "songId": 20,
+        "playedAt": "2025-05-18T22:27:27.365761Z"
+      },
+      {
+        "songId": 376,
+        "playedAt": "2025-05-17T22:27:27.365766Z"
+      },
+      {
+        "songId": 296,
+        "playedAt": "2025-05-16T22:27:27.365782Z"
+      },
+      {
+        "songId": 121,
+        "playedAt": "2025-05-15T22:27:27.365779Z"
+      },
+      {
+        "songId": 136,
+        "playedAt": "2025-05-11T22:27:27.365787Z"
+      },
+      {
+        "songId": 107,
+        "playedAt": "2025-05-10T22:27:27.365777Z"
+      },
+      {
+        "songId": 323,
+        "playedAt": "2025-05-10T22:27:27.365773Z"
+      },
+      {
+        "songId": 50,
+        "playedAt": "2025-05-08T22:27:27.365774Z"
+      },
+      {
+        "songId": 353,
+        "playedAt": "2025-05-05T22:27:27.365785Z"
+      },
+      {
+        "songId": 247,
+        "playedAt": "2025-05-05T22:27:27.365760Z"
+      },
+      {
+        "songId": 256,
+        "playedAt": "2025-05-04T22:27:27.365788Z"
+      },
+      {
+        "songId": 138,
+        "playedAt": "2025-05-02T22:27:27.365784Z"
+      },
+      {
+        "songId": 381,
+        "playedAt": "2025-04-28T22:27:27.365765Z"
+      },
+      {
+        "songId": 332,
+        "playedAt": "2025-04-27T22:27:27.365783Z"
+      },
+      {
+        "songId": 197,
+        "playedAt": "2025-04-27T22:27:27.365768Z"
+      },
+      {
+        "songId": 283,
+        "playedAt": "2025-04-27T22:27:27.365757Z"
+      },
+      {
+        "songId": 248,
+        "playedAt": "2025-04-26T22:27:27.365770Z"
+      },
+      {
+        "songId": 114,
+        "playedAt": "2025-04-25T22:27:27.365771Z"
+      },
+      {
+        "songId": 106,
+        "playedAt": "2025-04-24T22:27:27.365764Z"
+      },
+      {
+        "songId": 342,
+        "playedAt": "2025-04-24T22:27:27.365762Z"
+      }
+    ],
+    "createdAt": "2024-10-21T00:00:00Z",
+    "updatedAt": "2024-10-21T00:00:00Z"
+  },
+  {
+    "id": 12,
+    "username": "Sandra Bailey",
+    "email": "sandra.bailey@example.com",
+    "password": "abc123",
+    "profilePicture": "avatars/user_12.jpg",
+    "favoriteCategories": [
+      "rock",
+      "ambient",
+      "experimental"
+    ],
+    "favoriteSongIds": [
+      278,
+      113,
+      188,
+      166,
+      377,
+      344,
+      93,
+      11,
+      180,
+      269,
+      68,
+      234,
+      265,
+      123,
+      26
+    ],
+    "recentlyPlayed": [
+      {
+        "songId": 102,
+        "playedAt": "2025-05-23T22:27:27.365815Z"
+      },
+      {
+        "songId": 75,
+        "playedAt": "2025-05-23T22:27:27.365813Z"
+      },
+      {
+        "songId": 14,
+        "playedAt": "2025-05-22T22:27:27.365810Z"
+      },
+      {
+        "songId": 234,
+        "playedAt": "2025-05-18T22:27:27.365827Z"
+      },
+      {
+        "songId": 158,
+        "playedAt": "2025-05-17T22:27:27.365820Z"
+      },
+      {
+        "songId": 343,
+        "playedAt": "2025-05-17T22:27:27.365800Z"
+      },
+      {
+        "songId": 314,
+        "playedAt": "2025-05-15T22:27:27.365805Z"
+      },
+      {
+        "songId": 68,
+        "playedAt": "2025-05-14T22:27:27.365825Z"
+      },
+      {
+        "songId": 324,
+        "playedAt": "2025-05-14T22:27:27.365811Z"
+      },
+      {
+        "songId": 330,
+        "playedAt": "2025-05-13T22:27:27.365833Z"
+      },
+      {
+        "songId": 293,
+        "playedAt": "2025-05-13T22:27:27.365823Z"
+      },
+      {
+        "songId": 110,
+        "playedAt": "2025-05-12T22:27:27.365836Z"
+      },
+      {
+        "songId": 182,
+        "playedAt": "2025-05-11T22:27:27.365828Z"
+      },
+      {
+        "songId": 357,
+        "playedAt": "2025-05-11T22:27:27.365822Z"
+      },
+      {
+        "songId": 43,
+        "playedAt": "2025-05-08T22:27:27.365814Z"
+      },
+      {
+        "songId": 111,
+        "playedAt": "2025-05-07T22:27:27.365804Z"
+      },
+      {
+        "songId": 45,
+        "playedAt": "2025-05-03T22:27:27.365824Z"
+      },
+      {
+        "songId": 156,
+        "playedAt": "2025-05-03T22:27:27.365819Z"
+      },
+      {
+        "songId": 181,
+        "playedAt": "2025-05-02T22:27:27.365831Z"
+      },
+      {
+        "songId": 236,
+        "playedAt": "2025-05-02T22:27:27.365802Z"
+      },
+      {
+        "songId": 194,
+        "playedAt": "2025-04-30T22:27:27.365808Z"
+      },
+      {
+        "songId": 125,
+        "playedAt": "2025-04-29T22:27:27.365834Z"
+      },
+      {
+        "songId": 299,
+        "playedAt": "2025-04-28T22:27:27.365801Z"
+      },
+      {
+        "songId": 108,
+        "playedAt": "2025-04-28T22:27:27.365798Z"
+      },
+      {
+        "songId": 361,
+        "playedAt": "2025-04-27T22:27:27.365806Z"
+      },
+      {
+        "songId": 389,
+        "playedAt": "2025-04-26T22:27:27.365829Z"
+      },
+      {
+        "songId": 148,
+        "playedAt": "2025-04-26T22:27:27.365817Z"
+      },
+      {
+        "songId": 306,
+        "playedAt": "2025-04-26T22:27:27.365809Z"
+      }
+    ],
+    "createdAt": "2021-02-25T00:00:00Z",
+    "updatedAt": "2021-02-25T00:00:00Z"
+  },
+  {
+    "id": 13,
+    "username": "David Wells",
+    "email": "david.wells@example.com",
+    "password": "dragon123",
+    "profilePicture": "avatars/user_13.jpg",
+    "favoriteCategories": [
+      "electronic",
+      "morning",
+      "meditation"
+    ],
+    "favoriteSongIds": [
+      20,
+      350,
+      363,
+      365,
+      194,
+      41,
+      226,
+      312,
+      264,
+      248,
+      213
+    ],
+    "recentlyPlayed": [
+      {
+        "songId": 234,
+        "playedAt": "2025-05-23T22:27:27.365850Z"
+      },
+      {
+        "songId": 156,
+        "playedAt": "2025-05-18T22:27:27.365849Z"
+      },
+      {
+        "songId": 226,
+        "playedAt": "2025-05-15T22:27:27.365845Z"
+      },
+      {
+        "songId": 366,
+        "playedAt": "2025-05-13T22:27:27.365855Z"
+      },
+      {
+        "songId": 365,
+        "playedAt": "2025-05-11T22:27:27.365853Z"
+      },
+      {
+        "songId": 302,
+        "playedAt": "2025-05-10T22:27:27.365857Z"
+      },
+      {
+        "songId": 227,
+        "playedAt": "2025-05-05T22:27:27.365848Z"
+      },
+      {
+        "songId": 274,
+        "playedAt": "2025-05-04T22:27:27.365858Z"
+      },
+      {
+        "songId": 10,
+        "playedAt": "2025-05-02T22:27:27.365854Z"
+      },
+      {
+        "songId": 269,
+        "playedAt": "2025-05-02T22:27:27.365852Z"
+      },
+      {
+        "songId": 277,
+        "playedAt": "2025-04-29T22:27:27.365846Z"
+      },
+      {
+        "songId": 25,
+        "playedAt": "2025-04-24T22:27:27.365859Z"
+      }
+    ],
+    "createdAt": "2020-11-26T00:00:00Z",
+    "updatedAt": "2020-11-26T00:00:00Z"
+  },
+  {
+    "id": 14,
+    "username": "Cameron Austin",
+    "email": "cameron.austin@example.com",
+    "password": "welcome123",
+    "profilePicture": "avatars/user_14.jpg",
+    "favoriteCategories": [
+      "ambient",
+      "travel",
+      "pop"
+    ],
+    "favoriteSongIds": [
+      1,
+      364,
+      341,
+      80,
+      250,
+      362,
+      307,
+      317,
+      56
+    ],
+    "recentlyPlayed": [
+      {
+        "songId": 289,
+        "playedAt": "2025-05-24T22:27:27.365876Z"
+      },
+      {
+        "songId": 186,
+        "playedAt": "2025-05-21T22:27:27.365890Z"
+      },
+      {
+        "songId": 336,
+        "playedAt": "2025-05-20T22:27:27.365877Z"
+      },
+      {
+        "songId": 115,
+        "playedAt": "2025-05-17T22:27:27.365884Z"
+      },
+      {
+        "songId": 153,
+        "playedAt": "2025-05-16T22:27:27.365868Z"
+      },
+      {
+        "songId": 133,
+        "playedAt": "2025-05-13T22:27:27.365888Z"
+      },
+      {
+        "songId": 130,
+        "playedAt": "2025-05-11T22:27:27.365873Z"
+      },
+      {
+        "songId": 348,
+        "playedAt": "2025-05-11T22:27:27.365869Z"
+      },
+      {
+        "songId": 181,
+        "playedAt": "2025-05-11T22:27:27.365867Z"
+      },
+      {
+        "songId": 272,
+        "playedAt": "2025-05-10T22:27:27.365872Z"
+      },
+      {
+        "songId": 268,
+        "playedAt": "2025-05-09T22:27:27.365889Z"
+      },
+      {
+        "songId": 358,
+        "playedAt": "2025-05-08T22:27:27.365885Z"
+      },
+      {
+        "songId": 54,
+        "playedAt": "2025-05-08T22:27:27.365882Z"
+      },
+      {
+        "songId": 10,
+        "playedAt": "2025-05-05T22:27:27.365886Z"
+      },
+      {
+        "songId": 208,
+        "playedAt": "2025-05-04T22:27:27.365880Z"
+      },
+      {
+        "songId": 20,
+        "playedAt": "2025-05-01T22:27:27.365875Z"
+      },
+      {
+        "songId": 390,
+        "playedAt": "2025-04-25T22:27:27.365881Z"
+      },
+      {
+        "songId": 34,
+        "playedAt": "2025-04-24T22:27:27.365879Z"
+      },
+      {
+        "songId": 266,
+        "playedAt": "2025-04-24T22:27:27.365871Z"
+      }
+    ],
+    "createdAt": "2023-12-30T00:00:00Z",
+    "updatedAt": "2023-12-30T00:00:00Z"
+  },
+  {
+    "id": 15,
+    "username": "Elaine Young",
+    "email": "elaine.young@example.com",
+    "password": "welcome123",
+    "profilePicture": "avatars/user_15.jpg",
+    "favoriteCategories": [
+      "workout",
+      "morning",
+      "meditation"
+    ],
+    "favoriteSongIds": [
+      18,
+      279,
+      94,
+      350,
+      103,
+      214,
+      292,
+      41,
+      203,
+      251,
+      44,
+      240,
+      339,
+      124,
+      324,
+      5,
+      206,
+      274
+    ],
+    "recentlyPlayed": [
+      {
+        "songId": 81,
+        "playedAt": "2025-05-22T22:27:27.365905Z"
+      },
+      {
+        "songId": 137,
+        "playedAt": "2025-05-21T22:27:27.365902Z"
+      },
+      {
+        "songId": 321,
+        "playedAt": "2025-05-20T22:27:27.365917Z"
+      },
+      {
+        "songId": 204,
+        "playedAt": "2025-05-14T22:27:27.365911Z"
+      },
+      {
+        "songId": 352,
+        "playedAt": "2025-05-13T22:27:27.365909Z"
+      },
+      {
+        "songId": 132,
+        "playedAt": "2025-05-11T22:27:27.365898Z"
+      },
+      {
+        "songId": 266,
+        "playedAt": "2025-05-10T22:27:27.365910Z"
+      },
+      {
+        "songId": 267,
+        "playedAt": "2025-05-06T22:27:27.365908Z"
+      },
+      {
+        "songId": 335,
+        "playedAt": "2025-05-04T22:27:27.365906Z"
+      },
+      {
+        "songId": 351,
+        "playedAt": "2025-05-04T22:27:27.365904Z"
+      },
+      {
+        "songId": 258,
+        "playedAt": "2025-05-02T22:27:27.365914Z"
+      },
+      {
+        "songId": 188,
+        "playedAt": "2025-04-30T22:27:27.365918Z"
+      },
+      {
+        "songId": 183,
+        "playedAt": "2025-04-30T22:27:27.365915Z"
+      },
+      {
+        "songId": 244,
+        "playedAt": "2025-04-29T22:27:27.365913Z"
+      },
+      {
+        "songId": 150,
+        "playedAt": "2025-04-29T22:27:27.365900Z"
+      },
+      {
+        "songId": 103,
+        "playedAt": "2025-04-24T22:27:27.365901Z"
+      }
+    ],
+    "createdAt": "2020-11-30T00:00:00Z",
+    "updatedAt": "2020-11-30T00:00:00Z"
+  },
+  {
+    "id": 16,
+    "username": "Alexis Torres",
+    "email": "alexis.torres@example.com",
+    "password": "dragon123",
+    "profilePicture": "avatars/user_16.jpg",
+    "favoriteCategories": [
+      "night",
+      "meditation",
+      "pop"
+    ],
+    "favoriteSongIds": [
+      23,
+      101,
+      28,
+      346,
+      186,
+      37,
+      197,
+      105
+    ],
+    "recentlyPlayed": [
+      {
+        "songId": 181,
+        "playedAt": "2025-05-24T22:27:27.365934Z"
+      },
+      {
+        "songId": 266,
+        "playedAt": "2025-05-24T22:27:27.365933Z"
+      },
+      {
+        "songId": 353,
+        "playedAt": "2025-05-20T22:27:27.365928Z"
+      },
+      {
+        "songId": 212,
+        "playedAt": "2025-05-17T22:27:27.365931Z"
+      },
+      {
+        "songId": 129,
+        "playedAt": "2025-05-10T22:27:27.365936Z"
+      },
+      {
+        "songId": 239,
+        "playedAt": "2025-05-09T22:27:27.365924Z"
+      },
+      {
+        "songId": 211,
+        "playedAt": "2025-05-05T22:27:27.365932Z"
+      },
+      {
+        "songId": 63,
+        "playedAt": "2025-04-30T22:27:27.365925Z"
+      },
+      {
+        "songId": 240,
+        "playedAt": "2025-04-26T22:27:27.365929Z"
+      },
+      {
+        "songId": 232,
+        "playedAt": "2025-04-26T22:27:27.365927Z"
+      }
+    ],
+    "createdAt": "2024-04-11T00:00:00Z",
+    "updatedAt": "2024-04-11T00:00:00Z"
+  },
+  {
+    "id": 17,
+    "username": "Steven Soto",
+    "email": "steven.soto@example.com",
+    "password": "monkey123",
+    "profilePicture": "avatars/user_17.jpg",
+    "favoriteCategories": [
+      "rock",
+      "electronic",
+      "chill"
+    ],
+    "favoriteSongIds": [
+      285,
+      170,
+      154,
+      130,
+      55,
+      231,
+      246,
+      364,
+      386,
+      160,
+      248,
+      366,
+      3,
+      163,
+      237,
+      133,
+      374
+    ],
+    "recentlyPlayed": [
+      {
+        "songId": 185,
+        "playedAt": "2025-05-23T22:27:27.365960Z"
+      },
+      {
+        "songId": 211,
+        "playedAt": "2025-05-23T22:27:27.365946Z"
+      },
+      {
+        "songId": 392,
+        "playedAt": "2025-05-22T22:27:27.365954Z"
+      },
+      {
+        "songId": 272,
+        "playedAt": "2025-05-21T22:27:27.365955Z"
+      },
+      {
+        "songId": 75,
+        "playedAt": "2025-05-21T22:27:27.365950Z"
+      },
+      {
+        "songId": 203,
+        "playedAt": "2025-05-19T22:27:27.365957Z"
+      },
+      {
+        "songId": 16,
+        "playedAt": "2025-05-18T22:27:27.365966Z"
+      },
+      {
+        "songId": 310,
+        "playedAt": "2025-05-18T22:27:27.365948Z"
+      },
+      {
+        "songId": 58,
+        "playedAt": "2025-05-16T22:27:27.365959Z"
+      },
+      {
+        "songId": 261,
+        "playedAt": "2025-05-15T22:27:27.365969Z"
+      },
+      {
+        "songId": 115,
+        "playedAt": "2025-05-15T22:27:27.365963Z"
+      },
+      {
+        "songId": 178,
+        "playedAt": "2025-05-15T22:27:27.365956Z"
+      },
+      {
+        "songId": 209,
+        "playedAt": "2025-05-14T22:27:27.365944Z"
+      },
+      {
+        "songId": 177,
+        "playedAt": "2025-05-12T22:27:27.365947Z"
+      },
+      {
+        "songId": 78,
+        "playedAt": "2025-05-11T22:27:27.365965Z"
+      },
+      {
+        "songId": 264,
+        "playedAt": "2025-05-11T22:27:27.365952Z"
+      },
+      {
+        "songId": 160,
+        "playedAt": "2025-05-09T22:27:27.365951Z"
+      },
+      {
+        "songId": 242,
+        "playedAt": "2025-05-05T22:27:27.365961Z"
+      },
+      {
+        "songId": 164,
+        "playedAt": "2025-05-03T22:27:27.365964Z"
+      },
+      {
+        "songId": 158,
+        "playedAt": "2025-04-30T22:27:27.365968Z"
+      },
+      {
+        "songId": 109,
+        "playedAt": "2025-04-29T22:27:27.365970Z"
+      }
+    ],
+    "createdAt": "2022-05-26T00:00:00Z",
+    "updatedAt": "2022-05-26T00:00:00Z"
+  },
+  {
+    "id": 18,
+    "username": "Amanda Rowe",
+    "email": "amanda.rowe@example.com",
+    "password": "baseball123",
+    "profilePicture": "avatars/user_18.jpg",
+    "favoriteCategories": [
+      "jazz",
+      "melancholic",
+      "electronic"
+    ],
+    "favoriteSongIds": [
+      6,
+      363,
+      366,
+      243,
+      256,
+      391,
+      212,
+      77,
+      7,
+      355,
+      225,
+      16,
+      308
+    ],
+    "recentlyPlayed": [
+      {
+        "songId": 81,
+        "playedAt": "2025-05-24T22:27:27.366017Z"
+      },
+      {
+        "songId": 342,
+        "playedAt": "2025-05-24T22:27:27.365996Z"
+      },
+      {
+        "songId": 318,
+        "playedAt": "2025-05-21T22:27:27.366000Z"
+      },
+      {
+        "songId": 170,
+        "playedAt": "2025-05-21T22:27:27.365981Z"
+      },
+      {
+        "songId": 39,
+        "playedAt": "2025-05-18T22:27:27.366007Z"
+      },
+      {
+        "songId": 235,
+        "playedAt": "2025-05-17T22:27:27.366001Z"
+      },
+      {
+        "songId": 14,
+        "playedAt": "2025-05-17T22:27:27.365998Z"
+      },
+      {
+        "songId": 120,
+        "playedAt": "2025-05-16T22:27:27.366015Z"
+      },
+      {
+        "songId": 149,
+        "playedAt": "2025-05-13T22:27:27.365980Z"
+      },
+      {
+        "songId": 339,
+        "playedAt": "2025-05-12T22:27:27.365993Z"
+      },
+      {
+        "songId": 210,
+        "playedAt": "2025-05-11T22:27:27.365991Z"
+      },
+      {
+        "songId": 23,
+        "playedAt": "2025-05-08T22:27:27.365985Z"
+      },
+      {
+        "songId": 311,
+        "playedAt": "2025-05-07T22:27:27.366010Z"
+      },
+      {
+        "songId": 362,
+        "playedAt": "2025-05-06T22:27:27.366012Z"
+      },
+      {
+        "songId": 346,
+        "playedAt": "2025-05-06T22:27:27.366006Z"
+      },
+      {
+        "songId": 347,
+        "playedAt": "2025-05-06T22:27:27.365997Z"
+      },
+      {
+        "songId": 98,
+        "playedAt": "2025-05-06T22:27:27.365983Z"
+      },
+      {
+        "songId": 16,
+        "playedAt": "2025-05-04T22:27:27.366002Z"
+      },
+      {
+        "songId": 232,
+        "playedAt": "2025-05-04T22:27:27.365984Z"
+      },
+      {
+        "songId": 277,
+        "playedAt": "2025-05-03T22:27:27.366014Z"
+      },
+      {
+        "songId": 147,
+        "playedAt": "2025-05-01T22:27:27.366011Z"
+      },
+      {
+        "songId": 167,
+        "playedAt": "2025-05-01T22:27:27.366003Z"
+      },
+      {
+        "songId": 272,
+        "playedAt": "2025-05-01T22:27:27.365989Z"
+      },
+      {
+        "songId": 279,
+        "playedAt": "2025-05-01T22:27:27.365987Z"
+      },
+      {
+        "songId": 234,
+        "playedAt": "2025-04-30T22:27:27.366008Z"
+      },
+      {
+        "songId": 266,
+        "playedAt": "2025-04-30T22:27:27.365992Z"
+      },
+      {
+        "songId": 276,
+        "playedAt": "2025-04-29T22:27:27.366016Z"
+      },
+      {
+        "songId": 218,
+        "playedAt": "2025-04-28T22:27:27.365994Z"
+      },
+      {
+        "songId": 46,
+        "playedAt": "2025-04-28T22:27:27.365988Z"
+      },
+      {
+        "songId": 69,
+        "playedAt": "2025-04-24T22:27:27.366005Z"
+      }
+    ],
+    "createdAt": "2022-06-30T00:00:00Z",
+    "updatedAt": "2022-06-30T00:00:00Z"
+  },
+  {
+    "id": 19,
+    "username": "Zachary Harris",
+    "email": "zachary.harris@example.com",
+    "password": "password123",
+    "profilePicture": "avatars/user_19.jpg",
+    "favoriteCategories": [
+      "experimental",
+      "evening",
+      "energetic"
+    ],
+    "favoriteSongIds": [
+      199,
+      373,
+      175,
+      247,
+      369,
+      79,
+      375,
+      120,
+      179
+    ],
+    "recentlyPlayed": [
+      {
+        "songId": 247,
+        "playedAt": "2025-05-23T22:27:27.366045Z"
+      },
+      {
+        "songId": 120,
+        "playedAt": "2025-05-23T22:27:27.366038Z"
+      },
+      {
+        "songId": 208,
+        "playedAt": "2025-05-21T22:27:27.366061Z"
+      },
+      {
+        "songId": 363,
+        "playedAt": "2025-05-19T22:27:27.366057Z"
+      },
+      {
+        "songId": 90,
+        "playedAt": "2025-05-19T22:27:27.366030Z"
+      },
+      {
+        "songId": 173,
+        "playedAt": "2025-05-18T22:27:27.366043Z"
+      },
+      {
+        "songId": 71,
+        "playedAt": "2025-05-17T22:27:27.366059Z"
+      },
+      {
+        "songId": 142,
+        "playedAt": "2025-05-14T22:27:27.366053Z"
+      },
+      {
+        "songId": 40,
+        "playedAt": "2025-05-13T22:27:27.366050Z"
+      },
+      {
+        "songId": 229,
+        "playedAt": "2025-05-11T22:27:27.366044Z"
+      },
+      {
+        "songId": 338,
+        "playedAt": "2025-05-11T22:27:27.366036Z"
+      },
+      {
+        "songId": 15,
+        "playedAt": "2025-05-10T22:27:27.366042Z"
+      },
+      {
+        "songId": 255,
+        "playedAt": "2025-05-09T22:27:27.366033Z"
+      },
+      {
+        "songId": 167,
+        "playedAt": "2025-05-07T22:27:27.366058Z"
+      },
+      {
+        "songId": 18,
+        "playedAt": "2025-05-07T22:27:27.366034Z"
+      },
+      {
+        "songId": 210,
+        "playedAt": "2025-05-06T22:27:27.366055Z"
+      },
+      {
+        "songId": 195,
+        "playedAt": "2025-05-06T22:27:27.366040Z"
+      },
+      {
+        "songId": 342,
+        "playedAt": "2025-05-05T22:27:27.366062Z"
+      },
+      {
+        "songId": 80,
+        "playedAt": "2025-05-02T22:27:27.366028Z"
+      },
+      {
+        "songId": 314,
+        "playedAt": "2025-04-29T22:27:27.366039Z"
+      },
+      {
+        "songId": 102,
+        "playedAt": "2025-04-27T22:27:27.366054Z"
+      },
+      {
+        "songId": 140,
+        "playedAt": "2025-04-27T22:27:27.366035Z"
+      },
+      {
+        "songId": 113,
+        "playedAt": "2025-04-25T22:27:27.366047Z"
+      },
+      {
+        "songId": 60,
+        "playedAt": "2025-04-25T22:27:27.366031Z"
+      },
+      {
+        "songId": 309,
+        "playedAt": "2025-04-24T22:27:27.366052Z"
+      },
+      {
+        "songId": 177,
+        "playedAt": "2025-04-24T22:27:27.366049Z"
+      },
+      {
+        "songId": 161,
+        "playedAt": "2025-04-24T22:27:27.366048Z"
+      }
+    ],
+    "createdAt": "2020-04-09T00:00:00Z",
+    "updatedAt": "2020-04-09T00:00:00Z"
+  },
+  {
+    "id": 20,
+    "username": "Corey Carlson",
+    "email": "corey.carlson@example.com",
+    "password": "letmein123",
+    "profilePicture": "avatars/user_20.jpg",
+    "favoriteCategories": [
+      "afternoon",
+      "morning",
+      "electronic"
+    ],
+    "favoriteSongIds": [
+      46,
+      186,
+      361,
+      371,
+      123,
+      171,
+      101,
+      239,
+      10,
+      23,
+      167,
+      313,
+      137,
+      259,
+      56,
+      250,
+      241
+    ],
+    "recentlyPlayed": [
+      {
+        "songId": 29,
+        "playedAt": "2025-05-24T22:27:27.366082Z"
+      },
+      {
+        "songId": 20,
+        "playedAt": "2025-05-23T22:27:27.366087Z"
+      },
+      {
+        "songId": 241,
+        "playedAt": "2025-05-23T22:27:27.366084Z"
+      },
+      {
+        "songId": 195,
+        "playedAt": "2025-05-23T22:27:27.366076Z"
+      },
+      {
+        "songId": 177,
+        "playedAt": "2025-05-21T22:27:27.366091Z"
+      },
+      {
+        "songId": 2,
+        "playedAt": "2025-05-21T22:27:27.366077Z"
+      },
+      {
+        "songId": 258,
+        "playedAt": "2025-05-19T22:27:27.366100Z"
+      },
+      {
+        "songId": 145,
+        "playedAt": "2025-05-19T22:27:27.366085Z"
+      },
+      {
+        "songId": 254,
+        "playedAt": "2025-05-18T22:27:27.366081Z"
+      },
+      {
+        "songId": 262,
+        "playedAt": "2025-05-14T22:27:27.366096Z"
+      },
+      {
+        "songId": 170,
+        "playedAt": "2025-05-13T22:27:27.366086Z"
+      },
+      {
+        "songId": 354,
+        "playedAt": "2025-05-12T22:27:27.366106Z"
+      },
+      {
+        "songId": 90,
+        "playedAt": "2025-05-11T22:27:27.366104Z"
+      },
+      {
+        "songId": 223,
+        "playedAt": "2025-05-11T22:27:27.366073Z"
+      },
+      {
+        "songId": 356,
+        "playedAt": "2025-05-08T22:27:27.366105Z"
+      },
+      {
+        "songId": 52,
+        "playedAt": "2025-05-08T22:27:27.366075Z"
+      },
+      {
+        "songId": 162,
+        "playedAt": "2025-05-04T22:27:27.366089Z"
+      },
+      {
+        "songId": 21,
+        "playedAt": "2025-05-02T22:27:27.366099Z"
+      },
+      {
+        "songId": 192,
+        "playedAt": "2025-04-30T22:27:27.366095Z"
+      },
+      {
+        "songId": 48,
+        "playedAt": "2025-04-30T22:27:27.366090Z"
+      },
+      {
+        "songId": 81,
+        "playedAt": "2025-04-29T22:27:27.366103Z"
+      },
+      {
+        "songId": 179,
+        "playedAt": "2025-04-29T22:27:27.366080Z"
+      },
+      {
+        "songId": 203,
+        "playedAt": "2025-04-27T22:27:27.366098Z"
+      },
+      {
+        "songId": 124,
+        "playedAt": "2025-04-27T22:27:27.366093Z"
+      },
+      {
+        "songId": 56,
+        "playedAt": "2025-04-24T22:27:27.366101Z"
+      },
+      {
+        "songId": 14,
+        "playedAt": "2025-04-24T22:27:27.366094Z"
+      },
+      {
+        "songId": 99,
+        "playedAt": "2025-04-24T22:27:27.366078Z"
+      },
+      {
+        "songId": 302,
+        "playedAt": "2025-04-24T22:27:27.366072Z"
+      }
+    ],
+    "createdAt": "2024-06-18T00:00:00Z",
+    "updatedAt": "2024-06-18T00:00:00Z"
+  },
+  {
+    "id": 21,
+    "username": "Curtis Carroll",
+    "email": "curtis.carroll@example.com",
+    "password": "football123",
+    "profilePicture": "avatars/user_21.jpg",
+    "favoriteCategories": [
+      "meditation",
+      "energetic",
+      "evening"
+    ],
+    "favoriteSongIds": [
+      256,
+      58,
+      78,
+      80,
+      219,
+      201,
+      236,
+      189,
+      123,
+      34,
+      393
+    ],
+    "recentlyPlayed": [
+      {
+        "songId": 137,
+        "playedAt": "2025-05-19T22:27:27.366134Z"
+      },
+      {
+        "songId": 45,
+        "playedAt": "2025-05-19T22:27:27.366127Z"
+      },
+      {
+        "songId": 319,
+        "playedAt": "2025-05-18T22:27:27.366132Z"
+      },
+      {
+        "songId": 195,
+        "playedAt": "2025-05-17T22:27:27.366126Z"
+      },
+      {
+        "songId": 315,
+        "playedAt": "2025-05-15T22:27:27.366131Z"
+      },
+      {
+        "songId": 157,
+        "playedAt": "2025-05-15T22:27:27.366115Z"
+      },
+      {
+        "songId": 200,
+        "playedAt": "2025-05-13T22:27:27.366136Z"
+      },
+      {
+        "songId": 92,
+        "playedAt": "2025-05-12T22:27:27.366121Z"
+      },
+      {
+        "songId": 352,
+        "playedAt": "2025-05-10T22:27:27.366116Z"
+      },
+      {
+        "songId": 72,
+        "playedAt": "2025-05-05T22:27:27.366122Z"
+      },
+      {
+        "songId": 126,
+        "playedAt": "2025-05-02T22:27:27.366120Z"
+      },
+      {
+        "songId": 325,
+        "playedAt": "2025-04-28T22:27:27.366130Z"
+      },
+      {
+        "songId": 64,
+        "playedAt": "2025-04-27T22:27:27.366117Z"
+      },
+      {
+        "songId": 77,
+        "playedAt": "2025-04-26T22:27:27.366135Z"
+      },
+      {
+        "songId": 19,
+        "playedAt": "2025-04-25T22:27:27.366129Z"
+      },
+      {
+        "songId": 160,
+        "playedAt": "2025-04-25T22:27:27.366124Z"
+      },
+      {
+        "songId": 338,
+        "playedAt": "2025-04-24T22:27:27.366125Z"
+      },
+      {
+        "songId": 152,
+        "playedAt": "2025-04-24T22:27:27.366119Z"
+      }
+    ],
+    "createdAt": "2023-11-27T00:00:00Z",
+    "updatedAt": "2023-11-27T00:00:00Z"
+  },
+  {
+    "id": 22,
+    "username": "Luke Vang",
+    "email": "luke.vang@example.com",
+    "password": "letmein123",
+    "profilePicture": "avatars/user_22.jpg",
+    "favoriteCategories": [
+      "experimental",
+      "night",
+      "chill"
+    ],
+    "favoriteSongIds": [
+      253,
+      129,
+      53,
+      244,
+      22,
+      26,
+      336,
+      351,
+      313,
+      12,
+      152,
+      316,
+      382,
+      74,
+      111,
+      236
+    ],
+    "recentlyPlayed": [
+      {
+        "songId": 222,
+        "playedAt": "2025-05-23T22:27:27.366175Z"
+      },
+      {
+        "songId": 358,
+        "playedAt": "2025-05-20T22:27:27.366165Z"
+      },
+      {
+        "songId": 202,
+        "playedAt": "2025-05-20T22:27:27.366162Z"
+      },
+      {
+        "songId": 313,
+        "playedAt": "2025-05-19T22:27:27.366174Z"
+      },
+      {
+        "songId": 42,
+        "playedAt": "2025-05-17T22:27:27.366166Z"
+      },
+      {
+        "songId": 28,
+        "playedAt": "2025-05-17T22:27:27.366145Z"
+      },
+      {
+        "songId": 342,
+        "playedAt": "2025-05-16T22:27:27.366169Z"
+      },
+      {
+        "songId": 322,
+        "playedAt": "2025-05-16T22:27:27.366157Z"
+      },
+      {
+        "songId": 389,
+        "playedAt": "2025-05-15T22:27:27.366179Z"
+      },
+      {
+        "songId": 195,
+        "playedAt": "2025-05-15T22:27:27.366164Z"
+      },
+      {
+        "songId": 180,
+        "playedAt": "2025-05-15T22:27:27.366150Z"
+      },
+      {
+        "songId": 33,
+        "playedAt": "2025-05-12T22:27:27.366147Z"
+      },
+      {
+        "songId": 18,
+        "playedAt": "2025-05-11T22:27:27.366177Z"
+      },
+      {
+        "songId": 266,
+        "playedAt": "2025-05-11T22:27:27.366156Z"
+      },
+      {
+        "songId": 66,
+        "playedAt": "2025-05-10T22:27:27.366171Z"
+      },
+      {
+        "songId": 323,
+        "playedAt": "2025-05-10T22:27:27.366151Z"
+      },
+      {
+        "songId": 192,
+        "playedAt": "2025-05-10T22:27:27.366148Z"
+      },
+      {
+        "songId": 306,
+        "playedAt": "2025-05-09T22:27:27.366167Z"
+      },
+      {
+        "songId": 55,
+        "playedAt": "2025-05-09T22:27:27.366161Z"
+      },
+      {
+        "songId": 30,
+        "playedAt": "2025-05-07T22:27:27.366160Z"
+      },
+      {
+        "songId": 321,
+        "playedAt": "2025-05-05T22:27:27.366173Z"
+      },
+      {
+        "songId": 232,
+        "playedAt": "2025-05-03T22:27:27.366152Z"
+      },
+      {
+        "songId": 256,
+        "playedAt": "2025-04-30T22:27:27.366170Z"
+      },
+      {
+        "songId": 270,
+        "playedAt": "2025-04-30T22:27:27.366153Z"
+      },
+      {
+        "songId": 44,
+        "playedAt": "2025-04-28T22:27:27.366155Z"
+      },
+      {
+        "songId": 81,
+        "playedAt": "2025-04-24T22:27:27.366159Z"
+      }
+    ],
+    "createdAt": "2023-11-30T00:00:00Z",
+    "updatedAt": "2023-11-30T00:00:00Z"
+  },
+  {
+    "id": 23,
+    "username": "Samuel Miller",
+    "email": "samuel.miller@example.com",
+    "password": "abc123",
+    "profilePicture": "avatars/user_23.jpg",
+    "favoriteCategories": [
+      "afternoon",
+      "melancholic",
+      "jazz"
+    ],
+    "favoriteSongIds": [
+      251,
+      55,
+      286,
+      394,
+      381,
+      81,
+      258,
+      380,
+      126,
+      9,
+      155,
+      384
+    ],
+    "recentlyPlayed": [
+      {
+        "songId": 384,
+        "playedAt": "2025-05-22T22:27:27.366211Z"
+      },
+      {
+        "songId": 267,
+        "playedAt": "2025-05-21T22:27:27.366209Z"
+      },
+      {
+        "songId": 257,
+        "playedAt": "2025-05-19T22:27:27.366191Z"
+      },
+      {
+        "songId": 136,
+        "playedAt": "2025-05-17T22:27:27.366206Z"
+      },
+      {
+        "songId": 355,
+        "playedAt": "2025-05-17T22:27:27.366201Z"
+      },
+      {
+        "songId": 205,
+        "playedAt": "2025-05-17T22:27:27.366195Z"
+      },
+      {
+        "songId": 234,
+        "playedAt": "2025-05-16T22:27:27.366202Z"
+      },
+      {
+        "songId": 30,
+        "playedAt": "2025-05-11T22:27:27.366207Z"
+      },
+      {
+        "songId": 77,
+        "playedAt": "2025-05-11T22:27:27.366199Z"
+      },
+      {
+        "songId": 105,
+        "playedAt": "2025-05-11T22:27:27.366188Z"
+      },
+      {
+        "songId": 81,
+        "playedAt": "2025-05-10T22:27:27.366215Z"
+      },
+      {
+        "songId": 167,
+        "playedAt": "2025-05-10T22:27:27.366212Z"
+      },
+      {
+        "songId": 50,
+        "playedAt": "2025-05-09T22:27:27.366200Z"
+      },
+      {
+        "songId": 124,
+        "playedAt": "2025-05-08T22:27:27.366193Z"
+      },
+      {
+        "songId": 130,
+        "playedAt": "2025-05-04T22:27:27.366214Z"
+      },
+      {
+        "songId": 329,
+        "playedAt": "2025-05-04T22:27:27.366192Z"
+      },
+      {
+        "songId": 129,
+        "playedAt": "2025-05-03T22:27:27.366196Z"
+      },
+      {
+        "songId": 332,
+        "playedAt": "2025-05-01T22:27:27.366205Z"
+      },
+      {
+        "songId": 292,
+        "playedAt": "2025-05-01T22:27:27.366197Z"
+      },
+      {
+        "songId": 211,
+        "playedAt": "2025-04-30T22:27:27.366189Z"
+      },
+      {
+        "songId": 26,
+        "playedAt": "2025-04-27T22:27:27.366204Z"
+      },
+      {
+        "songId": 317,
+        "playedAt": "2025-04-24T22:27:27.366210Z"
+      }
+    ],
+    "createdAt": "2023-07-30T00:00:00Z",
+    "updatedAt": "2023-07-30T00:00:00Z"
+  },
+  {
+    "id": 24,
+    "username": "Joshua Wells",
+    "email": "joshua.wells@example.com",
+    "password": "football123",
+    "profilePicture": "avatars/user_24.jpg",
+    "favoriteCategories": [
+      "night",
+      "focus",
+      "meditation"
+    ],
+    "favoriteSongIds": [
+      261,
+      162,
+      160,
+      176,
+      228,
+      223,
+      277,
+      215,
+      16,
+      383
+    ],
+    "recentlyPlayed": [
+      {
+        "songId": 145,
+        "playedAt": "2025-05-24T22:27:27.366260Z"
+      },
+      {
+        "songId": 347,
+        "playedAt": "2025-05-24T22:27:27.366245Z"
+      },
+      {
+        "songId": 14,
+        "playedAt": "2025-05-23T22:27:27.366254Z"
+      },
+      {
+        "songId": 55,
+        "playedAt": "2025-05-20T22:27:27.366262Z"
+      },
+      {
+        "songId": 178,
+        "playedAt": "2025-05-19T22:27:27.366238Z"
+      },
+      {
+        "songId": 204,
+        "playedAt": "2025-05-19T22:27:27.366230Z"
+      },
+      {
+        "songId": 185,
+        "playedAt": "2025-05-16T22:27:27.366246Z"
+      },
+      {
+        "songId": 308,
+        "playedAt": "2025-05-16T22:27:27.366242Z"
+      },
+      {
+        "songId": 348,
+        "playedAt": "2025-05-13T22:27:27.366252Z"
+      },
+      {
+        "songId": 382,
+        "playedAt": "2025-05-12T22:27:27.366258Z"
+      },
+      {
+        "songId": 97,
+        "playedAt": "2025-05-12T22:27:27.366257Z"
+      },
+      {
+        "songId": 69,
+        "playedAt": "2025-05-12T22:27:27.366243Z"
+      },
+      {
+        "songId": 136,
+        "playedAt": "2025-05-12T22:27:27.366236Z"
+      },
+      {
+        "songId": 199,
+        "playedAt": "2025-05-09T22:27:27.366247Z"
+      },
+      {
+        "songId": 324,
+        "playedAt": "2025-05-09T22:27:27.366233Z"
+      },
+      {
+        "songId": 255,
+        "playedAt": "2025-05-08T22:27:27.366256Z"
+      },
+      {
+        "songId": 332,
+        "playedAt": "2025-05-04T22:27:27.366234Z"
+      },
+      {
+        "songId": 358,
+        "playedAt": "2025-05-03T22:27:27.366251Z"
+      },
+      {
+        "songId": 270,
+        "playedAt": "2025-05-02T22:27:27.366237Z"
+      },
+      {
+        "songId": 39,
+        "playedAt": "2025-05-02T22:27:27.366228Z"
+      },
+      {
+        "songId": 277,
+        "playedAt": "2025-05-01T22:27:27.366240Z"
+      },
+      {
+        "songId": 254,
+        "playedAt": "2025-04-30T22:27:27.366263Z"
+      },
+      {
+        "songId": 235,
+        "playedAt": "2025-04-30T22:27:27.366250Z"
+      },
+      {
+        "songId": 294,
+        "playedAt": "2025-04-30T22:27:27.366232Z"
+      },
+      {
+        "songId": 44,
+        "playedAt": "2025-04-28T22:27:27.366261Z"
+      },
+      {
+        "songId": 374,
+        "playedAt": "2025-04-27T22:27:27.366248Z"
+      },
+      {
+        "songId": 31,
+        "playedAt": "2025-04-27T22:27:27.366229Z"
+      },
+      {
+        "songId": 156,
+        "playedAt": "2025-04-26T22:27:27.366241Z"
+      },
+      {
+        "songId": 87,
+        "playedAt": "2025-04-26T22:27:27.366226Z"
+      },
+      {
+        "songId": 175,
+        "playedAt": "2025-04-24T22:27:27.366224Z"
+      }
+    ],
+    "createdAt": "2021-04-18T00:00:00Z",
+    "updatedAt": "2021-04-18T00:00:00Z"
+  },
+  {
+    "id": 25,
+    "username": "Seth Berger",
+    "email": "seth.berger@example.com",
+    "password": "football123",
+    "profilePicture": "avatars/user_25.jpg",
+    "favoriteCategories": [
+      "study",
+      "meditation",
+      "rock"
+    ],
+    "favoriteSongIds": [
+      45,
+      262,
+      344,
+      141,
+      248,
+      210,
+      367,
+      204,
+      301,
+      100,
+      12,
+      40,
+      76,
+      393,
+      62,
+      291,
+      356,
+      221,
+      187
+    ],
+    "recentlyPlayed": [
+      {
+        "songId": 211,
+        "playedAt": "2025-05-21T22:27:27.366285Z"
+      },
+      {
+        "songId": 202,
+        "playedAt": "2025-05-21T22:27:27.366283Z"
+      },
+      {
+        "songId": 392,
+        "playedAt": "2025-05-20T22:27:27.366279Z"
+      },
+      {
+        "songId": 199,
+        "playedAt": "2025-05-09T22:27:27.366288Z"
+      },
+      {
+        "songId": 192,
+        "playedAt": "2025-05-08T22:27:27.366278Z"
+      },
+      {
+        "songId": 112,
+        "playedAt": "2025-05-07T22:27:27.366284Z"
+      },
+      {
+        "songId": 276,
+        "playedAt": "2025-05-06T22:27:27.366275Z"
+      },
+      {
+        "songId": 388,
+        "playedAt": "2025-05-05T22:27:27.366286Z"
+      },
+      {
+        "songId": 167,
+        "playedAt": "2025-05-05T22:27:27.366280Z"
+      },
+      {
+        "songId": 217,
+        "playedAt": "2025-05-04T22:27:27.366291Z"
+      },
+      {
+        "songId": 195,
+        "playedAt": "2025-05-03T22:27:27.366289Z"
+      },
+      {
+        "songId": 304,
+        "playedAt": "2025-04-27T22:27:27.366281Z"
+      },
+      {
+        "songId": 20,
+        "playedAt": "2025-04-27T22:27:27.366276Z"
+      },
+      {
+        "songId": 323,
+        "playedAt": "2025-04-27T22:27:27.366273Z"
+      },
+      {
+        "songId": 251,
+        "playedAt": "2025-04-24T22:27:27.366290Z"
+      }
+    ],
+    "createdAt": "2022-01-25T00:00:00Z",
+    "updatedAt": "2022-01-25T00:00:00Z"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "FlexFit Yoga Mat with Alignment Marks",
+    "description": "Eco\u2011friendly TPE yoga mat featuring printed alignment guides for perfect posture.",
+    "shortDescription": "Yoga mat with guides",
+    "price": 23.0,
+    "discountedPrice": 23.0,
+    "discountPercent": 0,
+    "rating": 4.2,
+    "reviewCount": 370,
+    "seller": "ActiveLife Co.",
+    "categoryName": "Sports & Outdoors",
+    "subcategoryName": "Fitness Equipment",
+    "inStock": 1,
+    "stockCount": 27,
+    "imageUrl": "/product_1750",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

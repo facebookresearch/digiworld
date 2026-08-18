@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "user_id": "{{current_user_id}}",
+    "full_name": "Marcus D. Thompson",
+    "street": "2765 Pine Hollow Blvd",
+    "city": "Fort Lauderdale",
+    "state": "FL",
+    "pincode": "33301",
+    "phone": "+1-555-5812",
+    "country": "United States",
+    "delivery_instructions": "",
+    "is_default": 0,
+    "created_at": "2025-06-15 12:00:00.000",
+    "updated_at": "2025-06-15 12:00:00.000"
+  }
+]

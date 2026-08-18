@@ -1,0 +1,43 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "jsx": "react-native",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "strict": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "sourceMap": true,
+    "target": "esnext",
+    "lib": ["esnext", "dom"],
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"],
+      "assets/*": ["./assets/*"],
+      "@andojo/shared-theme": ["packages/shared-theme/src"],
+      "@andojo/shared-interaction-tracking": [
+        "packages/shared-interaction-tracking/src"
+      ],
+      "@andojo/shared-asset-management": [
+        "packages/shared-asset-management/dist"
+      ],
+      "@andojo/shared-mock-reader": [
+        "packages/shared-mock-reader/src"
+      ]
+    },
+    "typeRoots": ["./node_modules/@types", "./types"]
+  },
+  "extends": "expo/tsconfig.base",
+  "ts-node": {
+    "compilerOptions": {
+      "module": "commonjs"
+    }
+  },
+  "include": ["**/*.ts", "**/*.tsx", ".expo/types/**/*.ts", "expo-env.d.ts"],
+  "exclude": ["node_modules", "test/**/*"]
+}

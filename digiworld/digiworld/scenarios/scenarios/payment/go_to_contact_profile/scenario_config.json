@@ -1,0 +1,9 @@
+{
+  "task_name": "Go to <contact_name>'s profile",
+  "app_name": "payment",
+  "scenario_class": "GoToContactProfileScenario",
+  "parameters": ["contact_name"],
+  "context_fields": [],
+  "description": "Verify the user navigated to the specified contact's profile page.",
+  "additional_mockdata": true
+}

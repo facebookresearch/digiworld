@@ -1,0 +1,18 @@
+[
+  {
+    "flight_id": "FC_LA1750",
+    "airline_id": "airline_la",
+    "airline_code": "LA",
+    "flight_number": "LA1750",
+    "origin": "GRU",
+    "destination": "BOG",
+    "departure_time": "12:30",
+    "arrival_time": "20:08",
+    "duration_minutes": 458,
+    "fare": 1311.91,
+    "currency": "USD",
+    "seats_available": 35,
+    "aircraft_type": "Boeing 777-300ER",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

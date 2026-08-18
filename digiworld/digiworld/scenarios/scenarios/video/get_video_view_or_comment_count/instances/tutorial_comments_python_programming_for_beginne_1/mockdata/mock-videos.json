@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 1,
+    "categoryId": 3,
+    "title": "Python Programming for Beginners Tutorial",
+    "description": "Learn the basics of Python programming in this step-by-step tutorial designed for beginners. By the end of this video, you'll be writing your own Python code.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 1252,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 8379,
+    "likeCount": 82,
+    "commentCount": 1,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "task_name": "Add my three latest messaged contacts to a group named \"<group_name>\", with the description \"<group_description>\", then send a message in the \"<group_name>\" chat: \"<message_content>\"",
+  "app_name": "message",
+  "scenario_class": "CreateGroupAndSendMessageScenario",
+  "parameters": ["group_name", "group_description", "message_content"],
+  "context_fields": [],
+  "description": "Create a group with the three latest messaged contacts and send a message in the group chat.",
+  "additional_mockdata": false
+}

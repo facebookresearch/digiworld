@@ -1,0 +1,20 @@
+{
+  "parameters": {
+    "video_1": "Adventure Log: Hiking the Crimson Ridge Trail",
+    "video_2": "Travel Tides: Kayaking the Azure Coast of Loria",
+    "playlist_name": "Silent Film Scores"
+  },
+  "compatible_profiles": [
+    "comments_disabled"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:01:01.486616+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

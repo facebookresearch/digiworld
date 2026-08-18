@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "nickname": "City Slicker",
+    "make": "Harmony",
+    "model": "Civic LX",
+    "color": "Pearl White",
+    "year": 2021,
+    "plateNumber": "CITSLC",
+    "vehicleTypeId": 7,
+    "isDefault": 0,
+    "createdAt": "{{end_timestamp}}",
+    "updatedAt": "{{end_timestamp}}",
+    "metadata": null
+  }
+]

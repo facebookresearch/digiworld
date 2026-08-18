@@ -1,0 +1,157 @@
+name: Quality Check
+
+on:
+  pull_request:
+    branches:
+      - '**'
+
+permissions:
+  contents: read
+  pull-requests: read
+
+concurrency:
+  group: quality-${{ github.head_ref }}
+  cancel-in-progress: true
+
+jobs:
+  preflight:
+    runs-on: ubuntu-latest
+    outputs:
+      js_changed: ${{ steps.changes.outputs.js }}
+      python_changed: ${{ steps.changes.outputs.python }}
+    steps:
+      - name: Enforce Branch Naming Convention
+        run: |
+          BRANCH_NAME="${{ github.head_ref }}"
+          TYPES="feature|task|bugfix|hotfix|chore|patch|fix|refactor|docs|test|ci"
+          if [[ ! "$BRANCH_NAME" =~ ^(app-[^/]+/($TYPES)/|multi/[^/]+/($TYPES)/|multi/all/($TYPES)/|infra/|($TYPES)/).+ ]]; then
+            echo "❌ Branch name '$BRANCH_NAME' does not follow the required convention."
+            echo "Expected formats:"
+            echo "  - {type}/{description}"
+            echo "  - app-{appname}/{type}/{description}"
+            echo "  - multi/{app1}-{app2}/{type}/{description}"
+            echo "  - multi/all/{type}/{description}"
+            echo "  - infra/{description}"
+            echo "Where type is one of: feature, task, bugfix, hotfix, chore, patch, fix, refactor, docs, test, ci"
+            exit 1
+          fi
+
+      - name: Fail if package-lock.json exists
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: package-lock.json
+          sparse-checkout-cone-mode: false
+      - run: |
+          if [ -f package-lock.json ]; then
+            echo "❌ package-lock.json found. Please use only yarn.lock for dependency management." >&2
+            exit 1
+          fi
+
+      - name: Checkout for change detection
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Detect changed file types
+        id: changes
+        run: |
+          git fetch origin ${{ github.base_ref }} --depth=1 2>/dev/null || true
+          JS_CHANGED=$(git diff --name-only origin/${{ github.base_ref }}...HEAD -- '*.ts' '*.tsx' '*.js' '*.jsx' | head -1)
+          PY_CHANGED=$(git diff --name-only origin/${{ github.base_ref }}...HEAD -- '*.py' | head -1)
+          echo "js=$( [ -n "$JS_CHANGED" ] && echo true || echo false )" >> $GITHUB_OUTPUT
+          echo "python=$( [ -n "$PY_CHANGED" ] && echo true || echo false )" >> $GITHUB_OUTPUT
+
+  check-js:
+    needs: preflight
+    if: needs.preflight.outputs.js_changed == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'yarn'
+
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
+
+      - name: Check formatting
+        run: yarn format:check
+
+      - name: Lint changed files
+        run: |
+          CHANGED_FILES=$(git diff --name-only --diff-filter=d origin/${{ github.base_ref }}...HEAD -- '*.ts' '*.tsx' '*.js' '*.jsx')
+          if [ -n "$CHANGED_FILES" ]; then
+            echo "Linting $(echo "$CHANGED_FILES" | wc -l) changed files..."
+            echo "$CHANGED_FILES" | xargs npx eslint --no-error-on-unmatched-pattern
+          fi
+
+      - name: Run tests
+        run: yarn test
+
+  check-python:
+    needs: preflight
+    if: needs.preflight.outputs.python_changed == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: digiworld/requirements.txt
+
+      - name: Install Python dependencies
+        run: |
+          cd digiworld
+          python3 -m venv script_env
+          source script_env/bin/activate
+          pip install -r requirements.txt
+
+      - name: Check Python formatting
+        run: |
+          cd digiworld
+          source script_env/bin/activate
+          black --check .
+          isort --check-only .
+
+      - name: Lint Python
+        run: |
+          cd digiworld
+          source script_env/bin/activate
+          flake8 . --ignore=E501
+
+      - name: Run Python tests
+        run: |
+          cd digiworld
+          source script_env/bin/activate
+          python -m pytest
+
+  commit-messages:
+    needs: preflight
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'yarn'
+
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
+
+      - name: Validate commit messages
+        run: npx commitlint --from origin/${{ github.base_ref }} --to HEAD

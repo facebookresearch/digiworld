@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Mesh Panel Sports Bra",
+    "description": "A supportive sports bra featuring a front mesh panel for breathability and a molded cup for shape. Adjustable straps and a hook-and-eye closure ensure a personalized fit, while the silicone grip at the back prevents slipping. Ideal for high-impact workouts.",
+    "shortDescription": "Supportive sports bra with breathable mesh and adjustable fit.",
+    "rating": 4.0,
+    "reviewCount": 1,
+    "seller": "Peak Performance Gear",
+    "price": 117.16,
+    "discountedPrice": 111.3,
+    "discountPercent": 5,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 13,
+    "subcategoryName": "Activewear",
+    "inStock": true,
+    "stockCount": 168,
+    "imageUrl": "/50_1",
+    "specs": "{\"material\": \"75% polyester, 25% elastane with mesh inserts\", \"careInstructions\": \"Hand wash, line dry\", \"fit\": \"Supportive\", \"size\": \"S-XXL\", \"color\": \"Rose pink\", \"pattern\": \"Mesh\"}",
+    "tags": "[\"activewear\", \"clothing\", \"high-quality\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

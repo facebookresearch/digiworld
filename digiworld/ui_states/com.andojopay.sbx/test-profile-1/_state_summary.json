@@ -1,0 +1,263 @@
+[
+  {
+    "filename": "phone_login_var0.json",
+    "route_id": "phone_login",
+    "route": "/screens/auth/phone-login",
+    "screen_name": "PhoneLogin",
+    "context": {},
+    "metadata": {
+      "generated_at": "2025-10-04T02:20:12.900215",
+      "session_id": "state-phone_login-0"
+    }
+  },
+  {
+    "filename": "verify_otp_var0.json",
+    "route_id": "verify_otp",
+    "route": "/screens/auth/verify-otp",
+    "screen_name": "VerifyOTP",
+    "context": {},
+    "metadata": {
+      "generated_at": "2025-10-04T02:20:12.900220",
+      "session_id": "state-verify_otp-0"
+    }
+  },
+  {
+    "filename": "create_profile_var0.json",
+    "route_id": "create_profile",
+    "route": "/screens/auth/create-profile",
+    "screen_name": "CreateProfile",
+    "context": {},
+    "metadata": {
+      "generated_at": "2025-10-04T02:20:12.900223",
+      "session_id": "state-create_profile-0"
+    }
+  },
+  {
+    "filename": "user_list_var0.json",
+    "route_id": "user_list",
+    "route": "/screens/auth/users-list",
+    "screen_name": "UsersList",
+    "context": {},
+    "metadata": {
+      "generated_at": "2025-10-04T02:20:12.900225",
+      "session_id": "state-user_list-0"
+    }
+  },
+  {
+    "filename": "home_var0.json",
+    "route_id": "home",
+    "route": "/(tabs)/home",
+    "screen_name": "home",
+    "context": {},
+    "metadata": {
+      "generated_at": "2025-10-04T02:20:12.900229",
+      "session_id": "state-home-0"
+    }
+  },
+  {
+    "filename": "contacts_var0.json",
+    "route_id": "contacts",
+    "route": "/(tabs)/contacts",
+    "screen_name": "contacts",
+    "context": {},
+    "metadata": {
+      "generated_at": "2025-10-04T02:20:12.900232",
+      "session_id": "state-contacts-0"
+    }
+  },
+  {
+    "filename": "contact_detail_beginning_var0.json",
+    "route_id": "contact_detail_beginning",
+    "route": "/screens/contact/75",
+    "screen_name": "contactDetail",
+    "context": {
+      "messageID": "75",
+      "position": "beginning"
+    },
+    "metadata": {
+      "generated_at": "2025-10-04T02:20:12.901412",
+      "session_id": "state-contact_detail_beginning-0",
+      "position": "beginning",
+      "record_id": 75
+    }
+  },
+  {
+    "filename": "contact_detail_middle_var0.json",
+    "route_id": "contact_detail_middle",
+    "route": "/screens/contact/38",
+    "screen_name": "contactDetail",
+    "context": {
+      "messageID": "38",
+      "position": "middle"
+    },
+    "metadata": {
+      "generated_at": "2025-10-04T02:20:12.901850",
+      "session_id": "state-contact_detail_middle-0",
+      "position": "middle",
+      "record_id": 38
+    }
+  },
+  {
+    "filename": "contact_detail_end_var0.json",
+    "route_id": "contact_detail_end",
+    "route": "/screens/contact/1",
+    "screen_name": "contactDetail",
+    "context": {
+      "messageID": "1",
+      "position": "end"
+    },
+    "metadata": {
+      "generated_at": "2025-10-04T02:20:12.902168",
+      "session_id": "state-contact_detail_end-0",
+      "position": "end",
+      "record_id": 1
+    }
+  },
+  {
+    "filename": "transactions_var0.json",
+    "route_id": "transactions",
+    "route": "/(tabs)/transactions",
+    "screen_name": "transactions",
+    "context": {},
+    "metadata": {
+      "generated_at": "2025-10-04T02:20:12.902173",
+      "session_id": "state-transactions-0"
+    }
+  },
+  {
+    "filename": "transaction_detail_beginning_var0.json",
+    "route_id": "transaction_detail_beginning",
+    "route": "/screens/transaction/300",
+    "screen_name": "transactionDetail",
+    "context": {
+      "messageID": "300",
+      "position": "beginning"
+    },
+    "metadata": {
+      "generated_at": "2025-10-04T02:20:12.902679",
+      "session_id": "state-transaction_detail_beginning-0",
+      "position": "beginning",
+      "record_id": 300
+    }
+  },
+  {
+    "filename": "transaction_detail_middle_var0.json",
+    "route_id": "transaction_detail_middle",
+    "route": "/screens/transaction/151",
+    "screen_name": "transactionDetail",
+    "context": {
+      "messageID": "151",
+      "position": "middle"
+    },
+    "metadata": {
+      "generated_at": "2025-10-04T02:20:12.903020",
+      "session_id": "state-transaction_detail_middle-0",
+      "position": "middle",
+      "record_id": 151
+    }
+  },
+  {
+    "filename": "transaction_detail_end_var0.json",
+    "route_id": "transaction_detail_end",
+    "route": "/screens/transaction/1",
+    "screen_name": "transactionDetail",
+    "context": {
+      "messageID": "1",
+      "position": "end"
+    },
+    "metadata": {
+      "generated_at": "2025-10-04T02:20:12.903384",
+      "session_id": "state-transaction_detail_end-0",
+      "position": "end",
+      "record_id": 1
+    }
+  },
+  {
+    "filename": "profile_var0.json",
+    "route_id": "profile",
+    "route": "/(tabs)/profile",
+    "screen_name": "profile",
+    "context": {},
+    "metadata": {
+      "generated_at": "2025-10-04T02:20:12.903388",
+      "session_id": "state-profile-0"
+    }
+  },
+  {
+    "filename": "scan_var0.json",
+    "route_id": "scan",
+    "route": "/screens/scan",
+    "screen_name": "scan",
+    "context": {},
+    "metadata": {
+      "generated_at": "2025-10-04T02:20:12.903391",
+      "session_id": "state-scan-0"
+    }
+  },
+  {
+    "filename": "add_money_var0.json",
+    "route_id": "add_money",
+    "route": "/screens/payment/add-money",
+    "screen_name": "addMoney",
+    "context": {},
+    "metadata": {
+      "generated_at": "2025-10-04T02:20:12.903393",
+      "session_id": "state-add_money-0"
+    }
+  },
+  {
+    "filename": "deposit_success_var0.json",
+    "route_id": "deposit_success",
+    "route": "/screens/payment/deposit-success",
+    "screen_name": "depositSuccess",
+    "context": {},
+    "metadata": {
+      "generated_at": "2025-10-04T02:20:12.903395",
+      "session_id": "state-deposit_success-0"
+    }
+  },
+  {
+    "filename": "withdraw_var0.json",
+    "route_id": "withdraw",
+    "route": "/screens/payment/withdraw",
+    "screen_name": "withdraw",
+    "context": {},
+    "metadata": {
+      "generated_at": "2025-10-04T02:20:12.903397",
+      "session_id": "state-withdraw-0"
+    }
+  },
+  {
+    "filename": "withdrawal_success_var0.json",
+    "route_id": "withdrawal_success",
+    "route": "/screens/payment/withdrawal-success",
+    "screen_name": "withdrawalSuccess",
+    "context": {},
+    "metadata": {
+      "generated_at": "2025-10-04T02:20:12.903400",
+      "session_id": "state-withdrawal_success-0"
+    }
+  },
+  {
+    "filename": "change_pin_var0.json",
+    "route_id": "change_pin",
+    "route": "/screens/settings/change-pin",
+    "screen_name": "changePin",
+    "context": {},
+    "metadata": {
+      "generated_at": "2025-10-04T02:20:12.903402",
+      "session_id": "state-change_pin-0"
+    }
+  },
+  {
+    "filename": "transaction_limits_var0.json",
+    "route_id": "transaction_limits",
+    "route": "/screens/settings/TransactionLimits",
+    "screen_name": "transactionLimits",
+    "context": {},
+    "metadata": {
+      "generated_at": "2025-10-04T02:20:12.903404",
+      "session_id": "state-transaction_limits-0"
+    }
+  }
+]

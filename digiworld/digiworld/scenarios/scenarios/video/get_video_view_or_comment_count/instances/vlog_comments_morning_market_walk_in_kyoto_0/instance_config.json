@@ -1,0 +1,28 @@
+{
+  "parameters": {
+    "metric": "comments",
+    "title": "Morning Market Walk in Kyoto"
+  },
+  "compatible_profiles": [
+    "comments_disabled",
+    "default",
+    "high_engagement",
+    "high_view_count",
+    "inactive_users",
+    "long_videos",
+    "low_engagement",
+    "many_videos",
+    "new_content",
+    "short_videos"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:00:37.031423+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "saved-city-center-commuter",
+    "userId": 1,
+    "name": "City Center Commuter",
+    "originStopId": "stop-2",
+    "destinationStopId": "stop-8",
+    "preferredMode": "bus",
+    "remindersEnabled": false,
+    "departureReminderMinutes": 20,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}"
+  }
+]

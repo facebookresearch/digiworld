@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Velvet Lip Color \u2013 Classic Red",
+    "description": "A rich, velvety lipstick in a classic red shade that stays comfortable for up to 8 hours. Enriched with vitamin E and jojoba oil to keep lips moisturised. The sleek bullet design makes precise application easy.",
+    "shortDescription": "Velvet lipstick in classic red with moisturizing vitamins.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Classic Color Cosmetics",
+    "price": 1912.4,
+    "discountedPrice": 1109.19,
+    "discountPercent": 42,
+    "categoryId": 6,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 42,
+    "subcategoryName": "Makeup",
+    "inStock": true,
+    "stockCount": 191,
+    "imageUrl": "/168_1",
+    "specs": "{\"ingredients\": \"Synthetic Wax, Vitamin E, Red 40 Lake, Jojoba Oil, Shea Butter\", \"skinType\": \"All skin types\", \"volume\": \"0.2oz (6g)\", \"fragrance\": \"Classic Red\", \"madeIn\": \"Italy\", \"expiryPeriod\": \"24 months\"}",
+    "tags": "[\"personal\", \"beauty\", \"makeup\", \"care\", \"top-rated\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

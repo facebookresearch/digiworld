@@ -1,0 +1,10 @@
+{
+  "task_name": "What is the operating frequency of <line_name>?",
+  "app_name": "transit",
+  "scenario_class": "OperatingFrequencyOfLineScenario",
+  "parameters": [
+    "line_name"
+  ],
+  "context_fields": [],
+  "description": "Retrieve the operating frequency in minutes of a specific transit line."
+}

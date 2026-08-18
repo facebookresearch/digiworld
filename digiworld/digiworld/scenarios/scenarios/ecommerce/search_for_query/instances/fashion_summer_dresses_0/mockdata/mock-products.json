@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Breezy Bloom Summer Dress",
+    "description": "The Breezy Bloom Summer Dress is crafted from lightweight 100% rayon with a floral print pattern. Features a relaxed fit with adjustable spaghetti straps, a smocked bodice, and a flowy midi-length skirt. Breathable fabric keeps you cool all day. Perfect for beach trips, picnics, and casual outings.",
+    "shortDescription": "Lightweight floral rayon summer dress with smocked bodice and midi length.",
+    "rating": 4.3,
+    "reviewCount": 67,
+    "seller": "Breezy Bloom Fashion",
+    "price": 1499.00,
+    "discountedPrice": 1199.20,
+    "discountPercent": 20,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 10,
+    "subcategoryName": "Women's Dresses",
+    "inStock": true,
+    "stockCount": 40,
+    "imageUrl": "/10_1",
+    "specs": "{\"material\": \"100% Rayon\", \"pattern\": \"Floral Print\", \"fit\": \"Relaxed\", \"length\": \"Midi\", \"straps\": \"Adjustable spaghetti straps\", \"careInstructions\": \"Machine wash cold\"}",
+    "tags": "[\"dress\", \"summer\", \"floral\", \"women\", \"clothing\", \"casual\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

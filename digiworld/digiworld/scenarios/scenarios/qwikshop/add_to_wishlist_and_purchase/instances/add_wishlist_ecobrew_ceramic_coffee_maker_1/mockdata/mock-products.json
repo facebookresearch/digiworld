@@ -1,0 +1,24 @@
+[
+  {
+    "id": 9900,
+    "name": "EcoBrew Ceramic Coffee Maker",
+    "description": "Brew barista\u2011quality coffee at home with the EcoBrew Ceramic Coffee Maker, which combines a programmable timer with a thermal carafe for lasting heat.",
+    "shortDescription": "Ceramic coffee maker with programmable timer and thermal carafe.",
+    "price": 260.1,
+    "discountedPrice": 260.1,
+    "discountPercent": 0,
+    "rating": 3.1,
+    "reviewCount": 111,
+    "seller": "BrewMaster Co.",
+    "categoryName": "Home & Kitchen",
+    "subcategoryName": "Small Appliances",
+    "inStock": 1,
+    "stockCount": 193,
+    "imageUrl": "/product_9928",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0,
+    "categoryId": 3,
+    "subcategoryId": 0
+  }
+]

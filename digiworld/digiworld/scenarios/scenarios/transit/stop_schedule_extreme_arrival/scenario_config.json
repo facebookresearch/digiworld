@@ -1,0 +1,11 @@
+{
+  "task_name": "Show me arrivals for the <stop_name> stop, and tell me when the <extreme_type> arrival in a full day's schedule is",
+  "app_name": "transit",
+  "scenario_class": "StopScheduleExtremeArrivalScenario",
+  "parameters": [
+    "stop_name",
+    "extreme_type"
+  ],
+  "context_fields": [],
+  "description": "Find the earliest or latest arrival across all vehicles at a given stop for a full day."
+}

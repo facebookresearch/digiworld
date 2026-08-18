@@ -1,0 +1,14 @@
+[
+  {
+    "id": 9990,
+    "userId": 9998,
+    "name": "Channel 266",
+    "description": "",
+    "banner": null,
+    "avatar": null,
+    "subscriberCount": 24360,
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{past_timestamp}}",
+    "deletedAt": null
+  }
+]

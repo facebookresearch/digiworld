@@ -1,0 +1,32 @@
+{
+  "parameters": {
+    "scene_name": "Sunset Vibe",
+    "scene_description": "Warm ambient lighting for evenings",
+    "icon": "flame",
+    "device_type": "Smart Bulb",
+    "device_name": "Mood Glow Bulb"
+  },
+  "compatible_profiles": [
+    "default",
+    "high_priority_alerts",
+    "large_home",
+    "low_battery_devices",
+    "many_automations",
+    "many_devices",
+    "new_user",
+    "offline_devices",
+    "security_focused",
+    "unread_notifications",
+    "weak_signal"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T04:01:03.248997+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

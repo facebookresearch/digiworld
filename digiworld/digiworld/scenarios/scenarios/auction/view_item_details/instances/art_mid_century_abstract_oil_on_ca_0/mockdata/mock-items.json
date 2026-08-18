@@ -1,0 +1,22 @@
+[
+  {
+    "id": 751840010,
+    "title": "Mid-Century Abstract Oil on Canvas, 1957",
+    "description": "This vibrant abstract oil painting, created in 1957, shows excellent preservation with original varnish intact, making it a striking centerpiece for mid\u2011century modern interiors.",
+    "categoryId": 9,
+    "sellerId": "{{current_user_id}}",
+    "price": 1486.47,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 7,
+    "imageUrl": "https://example.com/images/mid-century-abstract-oil-on-canvas,-1957.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 460.11,
+    "currentBid": 494.6,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

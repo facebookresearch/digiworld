@@ -1,0 +1,9 @@
+{
+  "task_name": "Take me to the Service Alerts page and filter by <severity_filter>, then tell me what priority is the service alert for \"<alert_title>\"",
+  "app_name": "transit",
+  "scenario_class": "FilterAlertsAndCheckPriorityScenario",
+  "parameters": ["severity_filter", "alert_title"],
+  "context_fields": [],
+  "description": "Navigate to Service Alerts with a severity filter, then report the priority of a specific alert.",
+  "additional_mockdata": true
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "alert-weekend-schedule-change",
+    "severity": "low",
+    "title": "Weekend Schedule Change",
+    "description": "Weekend service schedule is in effect. Frequency is reduced on all lines. Last trains depart 1 hour earlier than weekday schedule.",
+    "icon": "warning",
+    "recommendedAlternatives": "Check the updated timetable in the app. Night bus service runs hourly after last train departure.",
+    "createdAt": "{{past_timestamp}}",
+    "expiresAt": null,
+    "isActive": 1,
+    "affectedStopIds": [
+      "stop-1",
+      "stop-10",
+      "stop-11",
+      "stop-12",
+      "stop-2"
+    ]
+  }
+]

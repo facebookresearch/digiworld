@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754070047,
+    "title": "Luxury 5\u2011Night Maldives Resort Package \u2013 All\u2011Inclusive, Ocean View Suite",
+    "description": "Stay at the exclusive Coral Reef Resort, includes private transfer, gourmet meals, and scuba diving excursion.",
+    "categoryId": 10,
+    "sellerId": "{{current_user_id}}",
+    "price": 1519.22,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 3,
+    "imageUrl": "https://example.com/images/luxury-5\u2011night-maldives-resort-package-\u2013-all\u2011inclusive,-ocean-view-suite.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 823.63,
+    "currentBid": 1304.45,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

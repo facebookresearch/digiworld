@@ -1,0 +1,21 @@
+{
+  "task_name": "View My Transactions",
+  "app_name": "banking",
+  "scenario_class": "ViewMyTransactionsScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Navigate to view the full list of transactions.",
+  "compatible_profiles": [
+    "default",
+    "failed_transactions",
+    "high_balance",
+    "high_credit_limit",
+    "high_transaction_volume",
+    "low_balance",
+    "many_beneficiaries",
+    "many_zelle_contacts",
+    "maxed_out_cards",
+    "overdue_bills",
+    "premium_users"
+  ]
+}

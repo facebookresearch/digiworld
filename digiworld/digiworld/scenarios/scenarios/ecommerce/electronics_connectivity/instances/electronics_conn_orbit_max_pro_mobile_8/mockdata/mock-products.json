@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Orbit Max Pro Mobile",
+    "description": "Orbit Max Pro Mobile offers a rugged design with IP68 water and dust resistance. Its 6.9\u2011inch Full HD+ display is protected by Corning Gorilla Glass 5. Equipped with a 108\u202fMP AI camera system and 5,000\u202fmAh battery, it\u2019s built for adventure photography. Supports dual\u2011SIM and expandable storage.",
+    "shortDescription": "Rugged 6.9\u2011inch mobile device built for adventure photography.",
+    "rating": 2.0,
+    "reviewCount": 5,
+    "seller": "FutureTech Supplies",
+    "price": 1856.41,
+    "discountedPrice": 946.77,
+    "discountPercent": 49,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 1,
+    "subcategoryName": "Smartphones",
+    "inStock": true,
+    "stockCount": 186,
+    "imageUrl": "/4_1",
+    "specs": "{\"display\": \"6.8-inch Super AMOLED, 1440x3200, 144Hz\", \"processor\": \"Exonar 2400\", \"ram\": \"12 GB LPDDR5\", \"storage\": \"512 GB UFS 3.1\", \"battery\": \"5500 mAh\", \"os\": \"Nimbus OS 13\", \"connectivity\": \"5G, Wi-Fi 6E, Bluetooth 5.3, NFC, Dual SIM\"}",
+    "tags": "[\"electronics\", \"smartphones\", \"premium\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

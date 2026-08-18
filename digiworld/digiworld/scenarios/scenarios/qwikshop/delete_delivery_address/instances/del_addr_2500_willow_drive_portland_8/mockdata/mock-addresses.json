@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Ava Wilson",
+    "street": "2500 Willow Drive",
+    "city": "Portland",
+    "state": "OR",
+    "pincode": "97201",
+    "phone": "5035554567",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

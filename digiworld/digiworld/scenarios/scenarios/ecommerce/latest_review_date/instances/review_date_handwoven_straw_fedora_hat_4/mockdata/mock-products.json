@@ -1,0 +1,62 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Handwoven Straw Fedora Hat",
+    "description": "Handwoven straw fedora hat with a wide brim and a thin leather band. The breathable material keeps you cool, and the classic shape adds a touch of summer elegance. Perfect for beach outings or garden parties.",
+    "shortDescription": "Handwoven straw fedora with wide brim.",
+    "rating": 2.2,
+    "reviewCount": 5,
+    "seller": "Sunset Straw Hats",
+    "price": 1566.0,
+    "discountedPrice": 955.26,
+    "discountPercent": 39,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 15,
+    "subcategoryName": "Accessories",
+    "inStock": true,
+    "stockCount": 109,
+    "imageUrl": "/58_1",
+    "specs": "{\"material\": \"100% natural straw with silk band\", \"careInstructions\": \"Spot clean with damp cloth, store in breathable bag\", \"fit\": \"One size fits most\", \"size\": \"One size\", \"color\": \"Natural straw\", \"pattern\": \"Solid\"}",
+    "tags": "[\"clothing\", \"accessories\", \"best\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000",
+    "reviews": [
+      {
+        "userName": "Reviewer",
+        "rating": 1,
+        "title": "Disappointed with flimsy straw",
+        "comment": "The handwoven straw felt cheap and fell apart after one wear. The fedora brim was misshapen and offered no sun protection.",
+        "reviewDate": "2025-10-26T00:03:57.814612Z"
+      },
+      {
+        "userName": "Reviewer",
+        "rating": 1,
+        "title": "Poor quality, not worth price",
+        "comment": "The straw material was brittle and the hat lost its shape quickly. The stitching came undone after a short walk.",
+        "reviewDate": "2026-03-24T23:36:00.814617Z"
+      },
+      {
+        "userName": "Reviewer",
+        "rating": 3,
+        "title": "Average hat, decent but flawed",
+        "comment": "The handwoven straw gives a nice rustic look, but the brim is a bit too narrow for full coverage. It feels comfortable but the size runs slightly small.",
+        "reviewDate": "2025-08-02T18:29:22.814622Z"
+      },
+      {
+        "userName": "Reviewer",
+        "rating": 5,
+        "title": "Perfect summer accessory, love it!",
+        "comment": "The handwoven straw fedora is lightweight and fits just right, providing great shade on sunny days. The craftsmanship is impressive and the natural color complements my outfits beautifully.",
+        "reviewDate": "2026-03-24T04:32:37.814627Z"
+      },
+      {
+        "userName": "Reviewer",
+        "rating": 1,
+        "title": "Terrible hat, fell apart instantly",
+        "comment": "The straw fibers were already frayed when I opened the package, and the fedora collapsed after I tried it on. I expected better durability for the price.",
+        "reviewDate": "2026-02-08T17:21:28.814632Z"
+      }
+    ]
+  }
+]

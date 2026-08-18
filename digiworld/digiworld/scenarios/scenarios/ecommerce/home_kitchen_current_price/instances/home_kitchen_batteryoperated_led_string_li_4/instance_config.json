@@ -1,0 +1,18 @@
+{
+  "parameters": {
+    "item": "Battery\u2011Operated LED String Lights, 30\u2011ft"
+  },
+  "compatible_profiles": [
+    "premium_products"
+  ],
+  "metadata": {
+    "created_at": "2026-03-13T03:59:46.536947+00:00"
+  },
+  "additional_mockdata": true,
+  "validation": {
+    "validated": false,
+    "last_validated": null,
+    "validation_notes": "Generated automatically - requires validation",
+    "validated_by": null
+  }
+}

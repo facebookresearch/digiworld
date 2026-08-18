@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754200089,
+    "title": "Limited\u2011Run 1995 Monstacard Card \u2013 Charizard Holo #4",
+    "description": "1995 Monstacard Charizard holographic card, #4 in the base set, graded PSA 9; rare and highly prized by collectors, kept in a protective sleeve.",
+    "categoryId": 8,
+    "sellerId": "{{current_user_id}}",
+    "price": 1938.34,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 3,
+    "imageUrl": "https://example.com/images/limited\u2011run-1995-pok\u00e9mon-card-\u2013-charizard-holo-#4.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 1154.41,
+    "currentBid": 1944.32,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

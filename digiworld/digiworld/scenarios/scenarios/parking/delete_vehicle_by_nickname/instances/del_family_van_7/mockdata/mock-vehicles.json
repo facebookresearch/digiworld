@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "nickname": "Family Van",
+    "make": "Tolimar",
+    "model": "Sienna LE",
+    "color": "Sky Blue",
+    "year": 2026,
+    "plateNumber": "FMLYVN",
+    "vehicleTypeId": 4,
+    "isDefault": 0,
+    "createdAt": "{{end_timestamp}}",
+    "updatedAt": "{{end_timestamp}}",
+    "metadata": null
+  }
+]

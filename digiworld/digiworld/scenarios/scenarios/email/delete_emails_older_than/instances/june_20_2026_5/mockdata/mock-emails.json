@@ -1,0 +1,90 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "natalie.bennett@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Invoice processing delay explanation",
+    "preview": "Hi team. There has been a delay in processing invo...",
+    "body": "Hi team. There has been a delay in processing invoices due to system upgrades. We expect normal processing to resume by next week.",
+    "timestamp": "2026-05-21T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_natalie_bennett_invoice_processing_delay",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "jacob.foster@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Website redesign progress update",
+    "preview": "Hello. The website redesign is on track and the ne...",
+    "body": "Hello. The website redesign is on track and the new layout is in the testing phase. Provide any final comments before launch.",
+    "timestamp": "2026-06-13T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_jacob_foster_website_redesign_progress_u",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "leah.graham@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Training session availability notice",
+    "preview": "Hi. New training sessions on project management ar...",
+    "body": "Hi. New training sessions on project management are now available. Register for the slots that fit your schedule.",
+    "timestamp": "2026-06-27T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_leah_graham_training_session_availabilit",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "michael.hayes@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Performance appraisal timeline",
+    "preview": "Hello. The timeline for the upcoming performance a...",
+    "body": "Hello. The timeline for the upcoming performance appraisals has been released. Complete self assessments by the stated dates.",
+    "timestamp": "2026-07-20T12:00:00.000Z",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_michael_hayes_performance_appraisal_time",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

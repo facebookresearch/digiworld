@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754230095,
+    "title": "Gold Plated Hoop Earrings - 1.5in",
+    "description": "Elegant hoop earrings with hypoallergenic coating, includes gift box.",
+    "categoryId": 10,
+    "sellerId": "{{current_user_id}}",
+    "price": 220.03,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 11,
+    "imageUrl": "https://example.com/images/gold-plated-hoop-earrings---1.5in.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 85.36,
+    "currentBid": 128.29,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

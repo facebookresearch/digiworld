@@ -1,0 +1,16 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "driverId": 1,
+    "pickupLocation": "{\"lat\": 40.736451, \"lng\": -73.969077, \"placename\": \"1177, Broadway, NoMad, Manhattan, USA\"}",
+    "dropLocation": "{\"lat\": 40.749409, \"lng\": -73.965787, \"placename\": \"Manor Community Church, 348, West 26th Street Manhattan, USA\"}",
+    "status": "completed",
+    "startTime": "{{middle_ride_time}}",
+    "endTime": "{{recent_ride_time}}",
+    "distanceKm": 1.61,
+    "fareAmount": 1.93,
+    "feedbackSubmitted": 0,
+    "paymentMode": "cash"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Magnetic Dashboard Organizer Tray",
+    "description": "Keep your coins, keys, and small gadgets organized with this magnetic tray that sticks to any metal surface on the dashboard. The raised edges prevent items from sliding during sudden stops, and the sleek black finish blends with most interiors. It's lightweight and removable without leaving residue.",
+    "shortDescription": "Magnetic tray for securing small items on the dashboard.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "CleanRide Accessories",
+    "price": 1721.56,
+    "discountedPrice": 981.29,
+    "discountPercent": 43,
+    "categoryId": 8,
+    "categoryName": "Automotive",
+    "subcategoryId": 57,
+    "subcategoryName": "Car Accessories",
+    "inStock": true,
+    "stockCount": 178,
+    "imageUrl": "/228_1",
+    "specs": "{\"material\": \"Aluminum alloy tray with rubberized non\\u2011slip base\", \"compatibility\": \"Universal dashboard fit for cars, trucks and SUVs\", \"dimensions\": \"8\\u202fin \\u00d7 5\\u202fin \\u00d7 0.5\\u202fin\", \"weight\": \"0.50 lbs\", \"warranty\": \"2\\u2011year warranty\", \"madeIn\": \"China\"}",
+    "tags": "[\"automotive\", \"accessories\", \"car\", \"high-quality\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

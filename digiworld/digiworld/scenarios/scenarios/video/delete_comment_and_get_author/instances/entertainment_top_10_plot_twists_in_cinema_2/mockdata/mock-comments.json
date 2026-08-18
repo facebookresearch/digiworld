@@ -1,0 +1,15 @@
+[
+  {
+    "id": 7777,
+    "videoId": 9999,
+    "userId": "{{current_user_id}}",
+    "parentId": null,
+    "content": "I didn't see that last twist coming at all!",
+    "status": "visible",
+    "isEdited": 0,
+    "replyCount": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

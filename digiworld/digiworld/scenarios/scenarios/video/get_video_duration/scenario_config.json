@@ -1,0 +1,9 @@
+{
+  "task_name": "How long is the video \"<title>\"?",
+  "app_name": "video",
+  "scenario_class": "GetVideoDurationScenario",
+  "parameters": ["title"],
+  "context_fields": [],
+  "description": "Report the duration of a specified video",
+  "additional_mockdata": true
+}

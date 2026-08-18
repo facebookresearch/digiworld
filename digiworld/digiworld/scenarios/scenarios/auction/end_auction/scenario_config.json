@@ -1,0 +1,9 @@
+{
+  "task_name": "End the auction for my listed item titled \"<title>\"",
+  "app_name": "auction",
+  "scenario_class": "EndAuctionScenario",
+  "parameters": ["title"],
+  "context_fields": [],
+  "additional_mockdata": true,
+  "description": "End an active auction for a listed item by its title."
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Christopher Hernandez",
+    "street": "7775 Oak St",
+    "city": "Dallas",
+    "state": "TX",
+    "pincode": "75201",
+    "phone": "2145552266",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Koi Ramen House",
+    "description": "Rich tonkotsu broth simmered for 18 hours, topped with hand-made noodles.",
+    "address": "630 Harbor Drive, San Diego, CA 92101",
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "logo": "https://images.unsplash.com/photo-1537047902294-62a40c20a6ae?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.4,
+    "deliveryFee": 2.27,
+    "minOrder": 20.0,
+    "deliveryRadius": 6,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

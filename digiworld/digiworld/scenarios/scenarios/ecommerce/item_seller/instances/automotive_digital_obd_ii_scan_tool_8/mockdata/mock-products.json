@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Digital OBD-II Scan Tool",
+    "description": "A plug\u2011and\u2011play OBD\u2011II scanner that reads diagnostic trouble codes, displays live sensor data, and clears error lights. The handheld device features a backlit LCD screen and works with most cars sold after 1996.",
+    "shortDescription": "Plug\u2011and\u2011play OBD\u2011II scanner with live data and code clearing.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Diagnostic Tools Direct",
+    "price": 677.77,
+    "discountedPrice": 677.77,
+    "discountPercent": 0,
+    "categoryId": 8,
+    "categoryName": "Automotive",
+    "subcategoryId": 59,
+    "subcategoryName": "Tools & Equipment",
+    "inStock": true,
+    "stockCount": 114,
+    "imageUrl": "/233_1",
+    "specs": "{\"material\": \"Polycarbonate housing with LCD display\", \"compatibility\": \"Supports OBD\\u2011II protocols for 1996+ vehicles, compatible with gasoline, diesel, hybrid\", \"dimensions\": \"80 mm L x 55 mm W x 25 mm H\", \"weight\": \"150 g\", \"warranty\": \"2 years\", \"madeIn\": \"USA\"}",
+    "tags": "[\"tools\", \"automotive\", \"equipment\", \"popular\", \"high-quality\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

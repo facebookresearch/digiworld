@@ -1,0 +1,18 @@
+[
+  {
+    "code": "MIA",
+    "name": "MIA International Airport",
+    "city": "MIA",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "code": "BOS",
+    "name": "BOS International Airport",
+    "city": "BOS",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

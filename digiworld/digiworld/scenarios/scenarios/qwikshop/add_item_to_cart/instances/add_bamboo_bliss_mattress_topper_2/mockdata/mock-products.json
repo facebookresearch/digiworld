@@ -1,0 +1,22 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Bamboo Bliss Mattress Topper",
+    "description": "A 2\u2011inch thick, breathable bamboo mattress topper that adds plush comfort and natural temperature regulation to any bed.",
+    "shortDescription": "Bamboo comfort topper",
+    "price": 299.34,
+    "discountedPrice": 299.34,
+    "discountPercent": 0,
+    "rating": 4.6,
+    "reviewCount": 13,
+    "seller": "SleepWell Co.",
+    "categoryName": "Home & Kitchen",
+    "subcategoryName": "Bedding",
+    "inStock": 1,
+    "stockCount": 50,
+    "imageUrl": "/product_7924",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

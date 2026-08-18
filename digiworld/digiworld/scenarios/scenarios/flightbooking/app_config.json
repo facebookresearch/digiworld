@@ -1,0 +1,7 @@
+{
+  "app_name": "flightbooking",
+  "apk_name": "com.andojofly.sbx",
+  "bundle_id": "com.andojofly.sbx",
+  "database_doc_path": "../../../../../apps/flightbooking/docs/database.md",
+  "feature_scope_path": "../../../../../apps/flightbooking/docs/flightbooking-feature-scope.md"
+}

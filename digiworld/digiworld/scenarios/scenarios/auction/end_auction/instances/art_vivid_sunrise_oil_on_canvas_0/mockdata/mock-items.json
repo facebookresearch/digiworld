@@ -1,0 +1,22 @@
+[
+  {
+    "id": 751820006,
+    "title": "Vivid Sunrise Oil on Canvas \u2013 Limited Edition Print",
+    "description": "A vibrant oil painting capturing a sunrise over a coastal town, printed on high\u2011grade canvas and sealed for protection; excellent condition with no visible flaws.",
+    "categoryId": 9,
+    "sellerId": "{{current_user_id}}",
+    "price": 1486.47,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 7,
+    "imageUrl": "https://example.com/images/vivid-sunrise-oil-on-canvas-\u2013-limited-edition-print.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 460.11,
+    "currentBid": 494.6,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

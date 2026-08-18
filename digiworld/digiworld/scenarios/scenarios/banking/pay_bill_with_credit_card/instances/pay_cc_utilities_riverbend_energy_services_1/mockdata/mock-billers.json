@@ -1,0 +1,24 @@
+[
+  {
+    "id": 9998,
+    "code": "riverbend_energy",
+    "name": "Riverbend Energy Services",
+    "category": "utilities",
+    "subcategory": null,
+    "description": "Payment to Riverbend Energy Services",
+    "logoUrl": null,
+    "website": null,
+    "phone": "{{random_phone}}",
+    "address": null,
+    "isSearchable": 1,
+    "searchSuccessRate": 1.0,
+    "requiresAccountNumber": 1,
+    "acceptsCreditCard": 1,
+    "acceptsBankAccount": 1,
+    "minPaymentAmount": 1.0,
+    "averageBillAmount": 92.16,
+    "paymentProcessingDays": 1,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

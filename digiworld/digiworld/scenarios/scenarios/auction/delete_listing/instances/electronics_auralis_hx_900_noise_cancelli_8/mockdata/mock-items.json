@@ -1,0 +1,22 @@
+[
+  {
+    "id": 754580116,
+    "title": "Auralis WH-1000XM5 Noise-Cancelling Headphones \u2013 Like New",
+    "description": "Auralis WH-1000XM5 over\u2011ear noise\u2011cancelling headphones, like new condition, includes original case and charging cable; battery holds full charge.",
+    "categoryId": 1,
+    "sellerId": "{{current_user_id}}",
+    "price": 1453.95,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 7,
+    "imageUrl": "https://example.com/images/sony-wh-1000xm5-noise-cancelling-headphones-\u2013-like-new.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 743.51,
+    "currentBid": 770.77,
+    "bidIncrement": 5.0,
+    "endTime": "{{future_end_time}}",
+    "expired": 0
+  }
+]

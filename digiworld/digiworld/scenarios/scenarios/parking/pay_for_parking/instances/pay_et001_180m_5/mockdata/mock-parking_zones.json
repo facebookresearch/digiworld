@@ -1,0 +1,19 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Executive Tower",
+    "description": "Parking zone ET001",
+    "latitude": 40.730725,
+    "longitude": -73.973538,
+    "zoneCode": "ET001",
+    "operator": "City Parking Authority",
+    "zoneType": "street",
+    "capacity": 70,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.55,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

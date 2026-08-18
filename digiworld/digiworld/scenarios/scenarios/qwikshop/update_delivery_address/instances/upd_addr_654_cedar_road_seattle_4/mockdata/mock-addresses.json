@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "David Nguyen",
+    "street": "654 Cedar Road",
+    "city": "Seattle",
+    "state": "WA",
+    "pincode": "98101",
+    "phone": "2065550890",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

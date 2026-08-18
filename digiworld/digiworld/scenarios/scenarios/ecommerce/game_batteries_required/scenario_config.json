@@ -1,0 +1,8 @@
+{
+  "task_name": "I need to know if I need batteries for the <item> game",
+  "app_name": "ecommerce",
+  "scenario_class": "GameBatteriesRequiredScenario",
+  "parameters": ["item"],
+  "context_fields": [],
+  "description": "Check if batteries are required for a game product"
+}

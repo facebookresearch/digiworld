@@ -1,0 +1,72 @@
+{
+  "app_name": "auction",
+  "apk_name": "com.andojoauction.sbx",
+  "database_name": "default.db",
+  "home_route": "/(app)/home",
+  "routes": [
+    {
+      "id": "home",
+      "route": "/(app)/home",
+      "screen_name": "home",
+      "description": "Home screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "browse",
+      "route": "/(app)/browse",
+      "screen_name": "browse",
+      "description": "Browse screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "cards",
+      "route": "/(app)/cards",
+      "screen_name": "cards",
+      "description": "Cards screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "history",
+      "route": "/(app)/history",
+      "screen_name": "history",
+      "description": "History screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "profile",
+      "route": "/(app)/profile",
+      "screen_name": "profile",
+      "description": "Profile screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "search",
+      "route": "/search",
+      "screen_name": "search",
+      "description": "Search screen",
+      "back_route": "/(app)/home",
+      "context_variations": []
+    },
+    {
+      "id": "my_bids",
+      "route": "/my-bids",
+      "screen_name": "myBids",
+      "description": "My bids screen",
+      "back_route": "/(app)/home",
+      "context_variations": []
+    },
+    {
+      "id": "notifications",
+      "route": "/notifications/notifications",
+      "screen_name": "notifications",
+      "description": "Notifications screen",
+      "back_route": "/(app)/home",
+      "context_variations": []
+    }
+  ]
+}

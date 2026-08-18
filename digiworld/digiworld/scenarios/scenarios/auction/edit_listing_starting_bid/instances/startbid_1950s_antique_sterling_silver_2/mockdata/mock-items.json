@@ -1,0 +1,22 @@
+[
+  {
+    "id": 182560032,
+    "title": "1950s Antique Sterling Silver and Turquoise Native American Necklace",
+    "description": "A stunning example of Native American craftsmanship, this necklace features intricate silverwork and a large, high-quality turquoise stone.",
+    "categoryId": 12,
+    "sellerId": "{{current_user_id}}",
+    "price": 517.12,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 7,
+    "imageUrl": "https://example.com/images/1950s-antique-sterling-silver-and-turquoise-native-american-necklace.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 255.96,
+    "currentBid": 367.55,
+    "bidIncrement": 5.0,
+    "endTime": 1773281256,
+    "expired": 0
+  }
+]

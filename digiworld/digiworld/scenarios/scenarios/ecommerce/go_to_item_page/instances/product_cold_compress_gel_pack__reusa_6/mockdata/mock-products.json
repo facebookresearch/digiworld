@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Cold Compress Gel Pack \u2013 Reusable",
+    "description": "Cold Compress Gel Pack is a reusable, non\u2011toxic gel that stays cold for up to 30 minutes and can also be warmed for heat therapy. The flexible design conforms to joints, muscles, and head injuries for targeted relief. Comes with a zip\u2011lock bag for easy storage.",
+    "shortDescription": "Reusable cold compress gel pack provides fast cooling or soothing heat therapy.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "ChillPack Solutions",
+    "price": 170.59,
+    "discountedPrice": 145.0,
+    "discountPercent": 15,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 65,
+    "subcategoryName": "First Aid",
+    "inStock": true,
+    "stockCount": 163,
+    "imageUrl": "/259_1",
+    "specs": "{\"ingredients\": \"Hydrogel (polyacrylamide), water, antimicrobial additive\", \"dosage\": \"Apply to area for 15-20 minutes; repeat every 2 hours\", \"weight\": \"300 g (single pack)\", \"expiryPeriod\": \"5 years from manufacture\", \"madeIn\": \"South Korea\", \"certifications\": \"ISO 13485, FDA 510(k) cleared, CE\"}",
+    "tags": "[\"first\", \"wellness\", \"aid\", \"health\", \"high-quality\", \"premium\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

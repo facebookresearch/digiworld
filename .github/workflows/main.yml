@@ -1,0 +1,584 @@
+name: Main CI/CD
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+    inputs:
+      app_name:
+        description: 'App to build'
+        required: true
+        type: choice
+        # NOTE: GitHub requires static options for choice inputs. When adding
+        # a new app, add it here. The actual validation is dynamic (see
+        # ALLOWED_APPS below) so a missing entry only affects the dropdown UI.
+        options:
+          - eats
+          - music
+          - ecommerce
+          - email
+          - payment
+          - ryde
+          - video
+          - message
+          - smarthome
+          - flightbooking
+          - qwikshop
+          - banking
+          - transit
+          - auction
+          - parking
+          - all
+      release_type:
+        description: 'Release type (QA, hotfix, etc.)'
+        required: false
+        type: string
+
+env:
+  NODE_VERSION: '20'
+  JAVA_VERSION: '17'
+
+jobs:
+  detect-app:
+    runs-on: ubuntu-latest
+    outputs:
+      app_name: ${{ steps.set-app.outputs.app_name }}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          lfs: false
+      
+      - name: Install GitHub CLI and jq
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y gh jq
+      
+      - name: Extract merged branch name and app(s) to build
+        id: set-app
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            APP_NAME="${{ github.event.inputs.app_name }}"
+            echo "Manual run, app_name: $APP_NAME"
+          else
+            # Get the last merged PR to main
+            PR_JSON=$(gh pr list --state merged --base main --limit 1 --json headRefName,number | jq '.[0]')
+            MERGED_BRANCH=$(echo "$PR_JSON" | jq -r '.headRefName')
+            echo "Merged branch: $MERGED_BRANCH"
+            
+            ALLOWED_APPS=$(ls -d apps/*/ 2>/dev/null | xargs -I{} basename {} | tr '\n' ' ')
+            ALLOWED_APPS="${ALLOWED_APPS}all"
+            
+            if [[ "$MERGED_BRANCH" == app-* ]]; then
+              CANDIDATE_APP=$(echo "$MERGED_BRANCH" | sed -E 's|^app-([^/]+)/.*$|\1|')
+              echo "Extracted app name: $CANDIDATE_APP"
+              if echo " $ALLOWED_APPS " | grep -q " $CANDIDATE_APP "; then
+                APP_NAME="$CANDIDATE_APP"
+                echo "Valid app name: $APP_NAME"
+              else
+                echo "ERROR: Invalid app name extracted: $CANDIDATE_APP" >&2
+                echo "Allowed apps: $ALLOWED_APPS" >&2
+                exit 1
+              fi
+            elif [[ "$MERGED_BRANCH" == multi/all/* ]]; then
+              APP_NAME="all"
+            elif [[ "$MERGED_BRANCH" == multi/* ]]; then
+              APPS=$(echo "$MERGED_BRANCH" | sed -E 's|^multi/([^/]+)/.*$|\1|')
+              APP_LIST=$(echo "$APPS" | tr '-' ' ')
+              ALLOWED_APPS=$(ls -d apps/*/ 2>/dev/null | xargs -I{} basename {} | tr '\n' ' ')
+              for app in $APP_LIST; do
+                if ! echo " $ALLOWED_APPS " | grep -q " $app "; then
+                  echo "ERROR: Invalid app name in multi-app branch: $app" >&2
+                  exit 1
+                fi
+              done
+              APP_NAME="$APP_LIST"
+            elif [[ "$MERGED_BRANCH" == infra/* ]]; then
+              echo "Infra branch merged, skipping build."
+              exit 0
+            else
+              echo "ERROR: Merged branch name must follow one of: app-{appname}/{type}/..., multi/{app1}-{app2}/{type}/..., multi/all/{type}/..., infra/{type}/..." >&2
+              exit 1
+            fi
+          fi
+          echo "app_name=$APP_NAME" >> $GITHUB_OUTPUT
+
+  set-matrix:
+    needs: detect-app
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          lfs: false
+          fetch-depth: 1
+          sparse-checkout: apps
+
+      - name: Set matrix for selected apps
+        id: set-matrix
+        run: |
+          APPS="${{ needs.detect-app.outputs.app_name }}"
+          if [ "$APPS" = "all" ]; then
+            APPS=$(ls -d apps/*/ 2>/dev/null | xargs -I{} basename {} | tr '\n' ' ' | sed 's/ $//')
+          fi
+          APPS_JSON=$(echo "$APPS" | jq -cR 'split(" ")')
+          echo "matrix={\"app\":$APPS_JSON}" >> $GITHUB_OUTPUT
+
+  build:
+    needs: [detect-app, set-matrix]
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      max-parallel: 15
+      matrix: ${{ fromJson(needs.set-matrix.outputs.matrix) }}
+    
+    steps:
+      - name: Check disk space (initial)
+        run: |
+          echo "═══════════════════════════════════════════════════════════"
+          echo "📊 RUNNER: ${{ runner.name }} | APP: ${{ matrix.app }}"
+          echo "═══════════════════════════════════════════════════════════"
+          echo ""
+          echo "💾 Disk space BEFORE cleanup:"
+          df -h | grep -E "Filesystem|/dev/|/run/"
+          echo ""
+          AVAILABLE=$(df -h . | tail -1 | awk '{print $4}')
+          USED=$(df -h . | tail -1 | awk '{print $3}')
+          TOTAL=$(df -h . | tail -1 | awk '{print $2}')
+          USAGE=$(df -h . | tail -1 | awk '{print $5}')
+          echo "📈 Summary: Used: $USED / Total: $TOTAL (Available: $AVAILABLE, Usage: $USAGE)"
+          echo ""
+      
+      - name: Free up disk space
+        run: |
+          echo "🧹 Removing .NET SDK (not needed for React Native builds)..."
+          sudo rm -rf /usr/share/dotnet
+          echo "✅ Cleanup complete!"
+          echo ""
+          echo "💾 Disk space AFTER cleanup:"
+          df -h | grep -E "Filesystem|/dev/|/run/"
+          echo ""
+          AVAILABLE=$(df -h . | tail -1 | awk '{print $4}')
+          USAGE=$(df -h . | tail -1 | awk '{print $5}')
+          echo "📈 Freed up space! Available: $AVAILABLE | Usage: $USAGE"
+          echo ""
+      
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          lfs: false
+          fetch-depth: 1
+      
+      - name: Check disk space (after checkout)
+        run: |
+          echo "💾 Disk space AFTER checkout:"
+          df -h | grep -E "Filesystem|/dev/|/run/"
+          echo ""
+          REPO_SIZE=$(du -sh . 2>/dev/null | cut -f1 || echo "unknown")
+          echo "📦 Repository size: $REPO_SIZE"
+          echo ""
+          echo "📁 Largest directories in repo:"
+          du -sh apps/*/android 2>/dev/null | sort -h | tail -5 || echo "No android directories found"
+          echo ""
+          AVAILABLE=$(df -h . | tail -1 | awk '{print $4}')
+          USAGE=$(df -h . | tail -1 | awk '{print $5}')
+          echo "📈 Available: $AVAILABLE | Usage: $USAGE"
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'yarn'
+      
+      - name: Setup JDK
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: ${{ env.JAVA_VERSION }}
+      
+      - name: Cache Gradle dependencies
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.gradle/caches
+            ~/.gradle/wrapper
+            apps/${{ matrix.app }}/android/.gradle
+          key: gradle-${{ matrix.app }}-${{ runner.os }}-${{ hashFiles('**/*.gradle*', '**/gradle-wrapper.properties') }}
+          restore-keys: |
+            gradle-${{ matrix.app }}-${{ runner.os }}-
+            gradle-${{ runner.os }}-
+      
+      - name: Pull LFS files (optional)
+        continue-on-error: true
+        run: |
+          git lfs pull || echo "⚠️ LFS fetch failed - continuing without LFS files"
+      
+      - name: Install root dependencies
+        run: yarn install --frozen-lockfile --prefer-offline
+      
+      - name: Check disk space (after root deps)
+        run: |
+          echo "💾 Disk space AFTER installing root dependencies:"
+          df -h | grep -E "Filesystem|/dev/|/run/"
+          echo ""
+          if [ -d "node_modules" ]; then
+            ROOT_NM_SIZE=$(du -sh node_modules 2>/dev/null | cut -f1 || echo "unknown")
+            echo "📦 Root node_modules size: $ROOT_NM_SIZE"
+          fi
+          AVAILABLE=$(df -h . | tail -1 | awk '{print $4}')
+          USAGE=$(df -h . | tail -1 | awk '{print $5}')
+          echo "📈 Available: $AVAILABLE | Usage: $USAGE"
+      
+      - name: Update shared theme
+        run: |
+          if [[ "${{ matrix.app }}" == "video" || "${{ matrix.app }}" == "music" ]]; then
+            APP_NAME=${{ matrix.app }} THEME_MODE=dark yarn workspace @andojo/shared-theme update-theme
+          else
+            APP_NAME=${{ matrix.app }} yarn workspace @andojo/shared-theme update-theme
+          fi
+      
+      - name: Install app dependencies
+        run: |
+          cd apps/${{ matrix.app }}
+          yarn install --frozen-lockfile --prefer-offline
+          cd ../..
+      
+      - name: Check disk space (after app deps)
+        run: |
+          echo "💾 Disk space AFTER installing app dependencies:"
+          df -h | grep -E "Filesystem|/dev/|/run/"
+          echo ""
+          if [ -d "apps/${{ matrix.app }}/node_modules" ]; then
+            APP_NM_SIZE=$(du -sh "apps/${{ matrix.app }}/node_modules" 2>/dev/null | cut -f1 || echo "unknown")
+            echo "📦 App node_modules size: $APP_NM_SIZE"
+          fi
+          AVAILABLE=$(df -h . | tail -1 | awk '{print $4}')
+          USAGE=$(df -h . | tail -1 | awk '{print $5}')
+          echo "📈 Available: $AVAILABLE | Usage: $USAGE"
+      
+      - name: Clean previous build artifacts (if any)
+        run: |
+          echo "🧹 Cleaning any previous build artifacts for ${{ matrix.app }}..."
+          
+          # Clean up any leftover build directories
+          if [ -d "apps/${{ matrix.app }}/android/app/build" ]; then
+            PREV_SIZE=$(du -sh "apps/${{ matrix.app }}/android/app/build" 2>/dev/null | cut -f1 || echo "unknown")
+            rm -rf "apps/${{ matrix.app }}/android/app/build"
+            echo "✅ Removed previous build directory (~$PREV_SIZE)"
+          fi
+          
+          # Clean up app-specific Gradle cache
+          if [ -d "apps/${{ matrix.app }}/android/.gradle" ]; then
+            GRADLE_SIZE=$(du -sh "apps/${{ matrix.app }}/android/.gradle" 2>/dev/null | cut -f1 || echo "unknown")
+            rm -rf "apps/${{ matrix.app }}/android/.gradle"
+            echo "✅ Removed previous Gradle cache (~$GRADLE_SIZE)"
+          fi
+          
+          # Clean up any leftover APKs from previous runs
+          find "apps/${{ matrix.app }}/android" -name "*.apk" -type f -delete 2>/dev/null || true
+          
+          echo ""
+          echo "💾 Disk space BEFORE prebuild:"
+          df -h | grep -E "Filesystem|/dev/|/run/"
+          echo ""
+          echo "💾 Current app directory size:"
+          du -sh "apps/${{ matrix.app }}" 2>/dev/null || echo "App directory not found"
+          AVAILABLE=$(df -h . | tail -1 | awk '{print $4}')
+          USAGE=$(df -h . | tail -1 | awk '{print $5}')
+          echo "📈 Available: $AVAILABLE | Usage: $USAGE"
+      
+      - name: Determine version
+        id: get_version
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          BASE_VERSION=$(jq -r '.expo.version' apps/${{ matrix.app }}/app.json)
+          TAG="${{ matrix.app }}-${BASE_VERSION}"
+          echo "Base version from app.json: ${BASE_VERSION}"
+          
+          if ! gh release view "$TAG" >/dev/null 2>&1; then
+            echo "No existing release for ${TAG}, using base version"
+            echo "version=${BASE_VERSION}" >> $GITHUB_OUTPUT
+          else
+            echo "Release ${TAG} already exists, auto-incrementing patch"
+            MAJOR_MINOR=$(echo "$BASE_VERSION" | sed 's/\.[0-9]*$//')
+            LATEST_PATCH=$(gh release list --limit 200 | \
+              grep -oP "${{ matrix.app }}-${MAJOR_MINOR}\.\K[0-9]+" | \
+              sort -n | tail -1)
+            NEXT_PATCH=$((LATEST_PATCH + 1))
+            echo "Auto-patched version: ${MAJOR_MINOR}.${NEXT_PATCH}"
+            echo "version=${MAJOR_MINOR}.${NEXT_PATCH}" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Verify version is unique
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TAG="${{ matrix.app }}-${{ steps.get_version.outputs.version }}"
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            echo "ERROR: Release $TAG already exists. Bump the version in apps/${{ matrix.app }}/app.json"
+            exit 1
+          fi
+          echo "Version ${{ steps.get_version.outputs.version }} is unique for ${{ matrix.app }}"
+      
+      - name: Prebuild Android project
+        env:
+          APP_VERSION: ${{ steps.get_version.outputs.version }}
+          APP_BUILD_NUMBER: ${{ github.run_number }}
+        run: |
+          cd apps/${{ matrix.app }}
+          yarn prebuild:android
+          cd ../..
+      
+      - name: Check disk space (after prebuild)
+        run: |
+          echo "💾 Disk space AFTER prebuild:"
+          df -h | grep -E "Filesystem|/dev/|/run/"
+          echo ""
+          if [ -d "apps/${{ matrix.app }}/android" ]; then
+            ANDROID_SIZE=$(du -sh "apps/${{ matrix.app }}/android" 2>/dev/null | cut -f1 || echo "unknown")
+            echo "📦 Android directory size: $ANDROID_SIZE"
+          fi
+          AVAILABLE=$(df -h . | tail -1 | awk '{print $4}')
+          USAGE=$(df -h . | tail -1 | awk '{print $5}')
+          echo "📈 Available: $AVAILABLE | Usage: $USAGE"
+      
+      - name: Copy web assets (eats only)
+        if: matrix.app == 'eats'
+        run: |
+          cd apps/eats
+          yarn ts-node scripts/copy-web-assets.ts
+          cd ../..
+      
+      - name: Build Android APK
+        run: |
+          cd apps/${{ matrix.app }}/android
+          ./gradlew assembleRelease \
+            --no-daemon \
+            --max-workers=3 \
+            -Dorg.gradle.jvmargs="-Xmx4096m -XX:MaxMetaspaceSize=512m"
+          cd ../../..
+      
+      - name: Check disk space (after build)
+        run: |
+          echo "💾 Disk space AFTER build:"
+          df -h | grep -E "Filesystem|/dev/|/run/"
+          echo ""
+          if [ -d "apps/${{ matrix.app }}/android/app/build" ]; then
+            BUILD_SIZE=$(du -sh "apps/${{ matrix.app }}/android/app/build" 2>/dev/null | cut -f1 || echo "unknown")
+            echo "📦 Build directory size: $BUILD_SIZE"
+          fi
+          if [ -f "apps/${{ matrix.app }}/android/app/build/outputs/apk/release/app-release.apk" ]; then
+            APK_SIZE=$(du -h "apps/${{ matrix.app }}/android/app/build/outputs/apk/release/app-release.apk" 2>/dev/null | cut -f1 || echo "unknown")
+            echo "📱 APK size: $APK_SIZE"
+          fi
+          AVAILABLE=$(df -h . | tail -1 | awk '{print $4}')
+          USAGE=$(df -h . | tail -1 | awk '{print $5}')
+          echo "📈 Available: $AVAILABLE | Usage: $USAGE"
+      
+      - name: Verify APK exists
+        id: verify_apk
+        run: |
+          APK_PATH="apps/${{ matrix.app }}/android/app/build/outputs/apk/release/app-release.apk"
+          CODE_PATH="apps/${{ matrix.app }}"
+          if [ -f "$APK_PATH" ]; then
+            echo "APK found: $APK_PATH"
+            echo "size=$(stat -f%z "$APK_PATH" 2>/dev/null || stat -c%s "$APK_PATH" 2>/dev/null || echo 0)" >> $GITHUB_OUTPUT
+            echo "exists=true" >> $GITHUB_OUTPUT
+          else
+            echo "❌ APK not found at: $APK_PATH"
+            echo "exists=false" >> $GITHUB_OUTPUT
+            exit 1
+          fi
+      
+      - name: Upload APK artifact
+        if: steps.verify_apk.outputs.exists == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: apk-${{ matrix.app }}-${{ github.run_number }}
+          path: apps/${{ matrix.app }}/android/app/build/outputs/apk/release/app-release.apk
+          retention-days: 30
+          compression-level: 6
+      
+      - name: Log artifact size
+        if: steps.verify_apk.outputs.exists == 'true'
+        run: |
+          APK_PATH="apps/${{ matrix.app }}/android/app/build/outputs/apk/release/app-release.apk"
+          if [ -f "$APK_PATH" ]; then
+            APK_SIZE=$(du -h "$APK_PATH" 2>/dev/null | cut -f1 || echo "unknown")
+            APK_SIZE_BYTES=$(stat -f%z "$APK_PATH" 2>/dev/null || stat -c%s "$APK_PATH" 2>/dev/null || echo "0")
+            APK_SIZE_MB=$((APK_SIZE_BYTES / 1024 / 1024))
+            echo "═══════════════════════════════════════════════════════════"
+            echo "📦 ARTIFACT UPLOADED:"
+            echo "   App: ${{ matrix.app }}"
+            echo "   APK Size: $APK_SIZE ($APK_SIZE_MB MB)"
+            echo "   Artifact Name: apk-${{ matrix.app }}-${{ github.run_number }}"
+            echo "═══════════════════════════════════════════════════════════"
+          fi
+      
+      - name: Clean up build artifacts
+        if: always()
+        run: |
+          echo "🧹 Cleaning up build artifacts to free disk space..."
+          
+          # Remove entire Android build directory (can be 1-4GB per app)
+          if [ -d "apps/${{ matrix.app }}/android/app/build" ]; then
+            BUILD_SIZE=$(du -sh "apps/${{ matrix.app }}/android/app/build" | cut -f1)
+            rm -rf "apps/${{ matrix.app }}/android/app/build"
+            echo "✅ Removed Android build directory (~$BUILD_SIZE)"
+          fi
+          
+          # Remove Android .gradle cache (per-app, can be 100-500MB)
+          if [ -d "apps/${{ matrix.app }}/android/.gradle" ]; then
+            GRADLE_SIZE=$(du -sh "apps/${{ matrix.app }}/android/.gradle" | cut -f1)
+            rm -rf "apps/${{ matrix.app }}/android/.gradle"
+            echo "✅ Removed app-specific Gradle cache (~$GRADLE_SIZE)"
+          fi
+          
+          # Remove app node_modules (can be 100-700MB per app)
+          if [ -d "apps/${{ matrix.app }}/node_modules" ]; then
+            NODE_SIZE=$(du -sh "apps/${{ matrix.app }}/node_modules" | cut -f1)
+            rm -rf "apps/${{ matrix.app }}/node_modules"
+            echo "✅ Removed app node_modules (~$NODE_SIZE)"
+          fi
+          
+          # Clean up prebuild generated files
+          if [ -d "apps/${{ matrix.app }}/android/app/src/main/java" ]; then
+            # Prebuild generates Java files, but we can't safely remove them
+            # as they might be needed if build fails and retries
+            echo "ℹ️ Keeping prebuild files for potential retry"
+          fi
+          
+          # Clean up root node_modules only if we're not building all apps
+          # (to avoid interfering with other parallel builds)
+          if [ "${{ needs.detect-app.outputs.app_name }}" != "all" ]; then
+            echo "ℹ️ Keeping root node_modules for other parallel builds"
+          else
+            # If building all apps, we can clean root node_modules after last build
+            # But this is tricky with parallel builds, so we'll keep it for now
+            echo "ℹ️ Building all apps - keeping root node_modules"
+          fi
+          
+          echo ""
+          echo "💾 Disk space AFTER cleanup:"
+          df -h | grep -E "Filesystem|/dev/|/run/"
+          echo ""
+          echo "💾 Remaining app directory size:"
+          du -sh "apps/${{ matrix.app }}" 2>/dev/null || echo "App directory cleaned"
+          echo ""
+          AVAILABLE=$(df -h . | tail -1 | awk '{print $4}')
+          USED=$(df -h . | tail -1 | awk '{print $3}')
+          TOTAL=$(df -h . | tail -1 | awk '{print $2}')
+          USAGE=$(df -h . | tail -1 | awk '{print $5}')
+          echo "📈 Final Summary:"
+          echo "   Used: $USED"
+          echo "   Total: $TOTAL"
+          echo "   Available: $AVAILABLE"
+          echo "   Usage: $USAGE"
+          echo ""
+          
+          # Final check - if disk is still >90% full, warn
+          DISK_USAGE=$(df -h . | tail -1 | awk '{print $5}' | sed 's/%//')
+          if [ "$DISK_USAGE" -gt 90 ]; then
+            echo "⚠️ WARNING: Disk usage is ${DISK_USAGE}% - consider sequential builds"
+          fi
+          
+          echo "═══════════════════════════════════════════════════════════"
+          echo "✅ CLEANUP COMPLETE FOR: ${{ matrix.app }}"
+          echo "═══════════════════════════════════════════════════════════"
+
+  release:
+    needs: [build, detect-app, set-matrix]
+    runs-on: ubuntu-latest
+    if: always() && (needs.build.result == 'success' || needs.build.result == 'failure')
+    strategy:
+      fail-fast: false
+      matrix: ${{ fromJson(needs.set-matrix.outputs.matrix) }}
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Download APK artifact
+        id: download_apk
+        continue-on-error: true
+        uses: actions/download-artifact@v4
+        with:
+          name: apk-${{ matrix.app }}-${{ github.run_number }}
+          path: ./artifacts
+      
+      - name: Check artifact exists
+        id: check_artifact
+        run: |
+          if [ -f "./artifacts/app-release.apk" ]; then
+            echo "✅ Artifact found for ${{ matrix.app }}"
+            echo "exists=true" >> $GITHUB_OUTPUT
+          else
+            echo "⚠️ Artifact not found for ${{ matrix.app }} - build may have failed"
+            echo "exists=false" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Determine release version
+        if: steps.check_artifact.outputs.exists == 'true'
+        id: get_release_version
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          BASE_VERSION=$(jq -r '.expo.version' apps/${{ matrix.app }}/app.json)
+          TAG="${{ matrix.app }}-${BASE_VERSION}"
+          
+          if ! gh release view "$TAG" >/dev/null 2>&1; then
+            echo "version=${BASE_VERSION}" >> $GITHUB_OUTPUT
+          else
+            MAJOR_MINOR=$(echo "$BASE_VERSION" | sed 's/\.[0-9]*$//')
+            LATEST_PATCH=$(gh release list --limit 200 | \
+              grep -oP "${{ matrix.app }}-${MAJOR_MINOR}\.\K[0-9]+" | \
+              sort -n | tail -1)
+            NEXT_PATCH=$((LATEST_PATCH + 1))
+            echo "version=${MAJOR_MINOR}.${NEXT_PATCH}" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Create release tag
+        if: steps.check_artifact.outputs.exists == 'true'
+        id: create_tag
+        run: |
+          TAG="${{ matrix.app }}-${{ steps.get_release_version.outputs.version }}"
+          echo "tag=$TAG" >> $GITHUB_OUTPUT
+          echo "Release tag: $TAG"
+      
+      - name: Create GitHub Release
+        if: steps.check_artifact.outputs.exists == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TAG="${{ steps.create_tag.outputs.tag }}"
+          VERSION="${{ steps.get_release_version.outputs.version }}"
+          if gh release view "$TAG" >/dev/null 2>&1; then
+            echo "Release $TAG already exists"
+          else
+            gh release create "$TAG" \
+              --title "${{ matrix.app }} v${VERSION} (Android APK)" \
+              --notes "Automated release from CI/CD pipeline. Version: ${VERSION}"
+          fi
+      
+      - name: Upload APK to release
+        if: steps.check_artifact.outputs.exists == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TAG="${{ steps.create_tag.outputs.tag }}"
+          APK_FILE="./artifacts/app-release.apk"
+          gh release upload "$TAG" "$APK_FILE" --clobber
+          echo "✅ Uploaded $APK_FILE to release $TAG"
+      
+      - name: Fail if no artifact
+        if: steps.check_artifact.outputs.exists != 'true'
+        run: |
+          echo "❌ Build failed for ${{ matrix.app }} - no APK to release"
+          exit 1

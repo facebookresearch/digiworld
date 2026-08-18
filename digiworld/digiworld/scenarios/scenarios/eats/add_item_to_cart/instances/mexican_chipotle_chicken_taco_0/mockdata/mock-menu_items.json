@@ -1,0 +1,15 @@
+[
+  {
+    "id": 90001,
+    "restaurantId": 90001,
+    "categoryId": 90001,
+    "name": "Chipotle Chicken Taco",
+    "description": "Grilled chicken, chipotle mayo, and fresh cilantro in a warm corn tortilla.",
+    "price": 9.99,
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=600&q=80",
+    "calories": 450,
+    "isPopular": 0,
+    "isActive": 1,
+    "position": 1
+  }
+]

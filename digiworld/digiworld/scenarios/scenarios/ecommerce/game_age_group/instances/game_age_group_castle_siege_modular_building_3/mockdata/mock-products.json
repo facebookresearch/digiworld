@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Castle Siege Modular Building Set",
+    "description": "Design towering fortresses and siege engines with this modular castle building set, featuring brick-style pieces, battlements, and catapult accessories. The system supports both defensive and offensive play scenarios. Ideal for imaginative medieval battles.",
+    "shortDescription": "A modular set for constructing castles and siege equipment.",
+    "rating": 2.6,
+    "reviewCount": 0,
+    "seller": "Castle Builders Co.",
+    "price": 958.91,
+    "discountedPrice": 652.06,
+    "discountPercent": 32,
+    "categoryId": 7,
+    "categoryName": "Toys & Games",
+    "subcategoryId": 52,
+    "subcategoryName": "Building Sets",
+    "inStock": true,
+    "stockCount": 30,
+    "imageUrl": "/208_1",
+    "specs": "{\"ageRange\": \"7-12 years\", \"material\": \"Plastic, cardboard\", \"dimensions\": \"22 x 18 x 12 inches\", \"batteryRequired\": \"No\", \"warranty\": \"2 years\", \"safetyRating\": \"ASTM F963\"}",
+    "tags": "[\"sets\", \"building\", \"toys\", \"games\", \"top-rated\", \"popular\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

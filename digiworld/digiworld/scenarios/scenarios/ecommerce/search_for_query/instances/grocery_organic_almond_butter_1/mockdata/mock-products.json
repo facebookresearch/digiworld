@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "HarvestRoast Organic Almond Butter",
+    "description": "HarvestRoast Organic Almond Butter is made from 100% USDA Certified Organic dry-roasted almonds with no added salt, sugar, or oils. Stone-ground for a smooth, creamy texture. Rich in healthy monounsaturated fats, Vitamin E, and magnesium. Stir before use as natural separation may occur. Great on toast, in smoothies, and as a dip.",
+    "shortDescription": "100% organic almond butter, stone-ground with no added sugar, salt, or oils.",
+    "rating": 4.5,
+    "reviewCount": 73,
+    "seller": "HarvestRoast Naturals",
+    "price": 599.00,
+    "discountedPrice": 479.20,
+    "discountPercent": 20,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 64,
+    "subcategoryName": "Supplements",
+    "inStock": true,
+    "stockCount": 55,
+    "imageUrl": "/64_3",
+    "specs": "{\"weight\": \"340g\", \"ingredients\": \"Organic Dry Roasted Almonds\", \"certification\": \"USDA Organic, Non-GMO\", \"protein\": \"6g per serving\", \"fat\": \"18g healthy fats per serving\", \"allergens\": \"Contains Tree Nuts (Almonds)\"}",
+    "tags": "[\"organic\", \"almond butter\", \"nut butter\", \"health\", \"vegan\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

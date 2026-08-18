@@ -1,0 +1,9 @@
+{
+  "task_name": "Stop parking session for <vehicle> at <zone_code>",
+  "app_name": "parking",
+  "scenario_class": "StopParkingSessionScenario",
+  "parameters": ["vehicle", "zone_code"],
+  "context_fields": [],
+  "additional_mockdata": true,
+  "description": "Stop an active parking session for a specific vehicle at a specific zone."
+}

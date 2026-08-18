@@ -1,0 +1,9 @@
+{
+  "task_name": "How many <metric> are there on the video \"<title>\"?",
+  "app_name": "video",
+  "scenario_class": "GetVideoViewOrCommentCountScenario",
+  "parameters": ["metric", "title"],
+  "context_fields": [],
+  "description": "Report the view count or comment count of a specified video",
+  "additional_mockdata": true
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": 1,
+    "fullName": "Lily Garcia",
+    "street": "789 Oak Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "pincode": "94111",
+    "phone": "4153456789",
+    "country": "United States",
+    "isDefault": 0
+  }
+]

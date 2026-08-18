@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Smooth Bike Route</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="leaflet.css" />
+    <style>
+      html,
+      body,
+      #map {
+        height: 100%;
+        width: 100%;
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="map"></div>
+
+    <script src="leaflet.js"></script>
+
+    <script>
+      let map = null;
+      let bikeMarker = null;
+      let redLine = null;
+      let grayLine = null;
+      let currentAnimation = null;
+      let startTimestamp = null;
+
+      function cleanupMap() {
+        if (currentAnimation) {
+          cancelAnimationFrame(currentAnimation);
+          currentAnimation = null;
+        }
+        if (map) {
+          map.remove();
+          map = null;
+        }
+        bikeMarker = null;
+        redLine = null;
+        grayLine = null;
+      }
+
+      function initMap(startPoint, endPoint, status, bikePosition, deliveryRoute, startTimestamp) {
+       
+        // Clean up existing map
+        cleanupMap();
+
+        // Initialize new map
+        map = L.map('map', {
+          zoomControl: false,
+          zoom: 17,
+        }).setView([startPoint.lat, startPoint.lng], 17);
+
+        const basePath = window.location.pathname.replace(/\/[^/]+$/, '/');
+        const tileLayer = L.tileLayer(basePath + 'tiles/{z}/{x}/{y}.png', {
+          maxZoom: 17,
+          minZoom: 15,
+          tileSize: 256,
+          attribution: '&copy; OpenStreetMap',
+        }).addTo(map);
+
+        L.control
+          .zoom({
+            position: 'bottomright',
+          })
+          .addTo(map);
+
+        // Add markers for start and end points
+        const restaurantIcon = L.icon({
+          iconUrl: 'images/restaurant.png',
+          iconSize: [36, 36],
+          iconAnchor: [18, 36],
+        });
+        const homeIcon = L.icon({
+          iconUrl: 'images/home.png',
+          iconSize: [36, 36],
+          iconAnchor: [18, 36],
+        });
+        L.marker([startPoint.lat, startPoint.lng], { icon: restaurantIcon }).addTo(map).bindPopup('Restaurant')
+        L.marker([endPoint.lat, endPoint.lng], { icon: homeIcon }).addTo(map).bindPopup('Home');
+
+        if (status === 'pending' || status === 'preparing') {
+         
+          // Draw dashed line for pending/preparing states (no bike yet)
+          const dashedLine = L.polyline(
+            [[startPoint.lat, startPoint.lng], [endPoint.lat, endPoint.lng]],
+            {
+              color: '#FF6B00',
+              weight: 4,
+              dashArray: '10, 10',
+              opacity: 0.8
+            }
+          ).addTo(map);
+          map.fitBounds(dashedLine.getBounds());
+        } else if (status === 'assigned' && bikePosition) {
+         
+          // Show bike at bikePosition, dashed line from bike to startPoint, and animate bike in map
+          const bikeIcon = L.icon({
+            iconUrl: 'images/bike.png',
+            iconSize: [32, 32],
+            iconAnchor: [16, 16],
+          });
+          bikeMarker = L.marker([bikePosition.lat, bikePosition.lng], { icon: bikeIcon }).addTo(map);
+          
+          // Dashed line from start to end
+          L.polyline(
+            [[startPoint.lat, startPoint.lng], [endPoint.lat, endPoint.lng]],
+            {
+              color: '#FF6B00',
+              weight: 4,
+              dashArray: '10, 10',
+              opacity: 0.8
+            }
+          ).addTo(map);
+
+          // Only call fitBounds on the start-to-end line
+          map.fitBounds([[startPoint.lat, startPoint.lng], [endPoint.lat, endPoint.lng]]);
+
+          // Animate the bike from bikePosition to startPoint
+          const duration = 10000; // 30 seconds
+          const elapsed = startTimestamp ? (Date.now() - startTimestamp) : 0;
+          const t = Math.min(elapsed / duration, 1);
+
+          function animateBike() {
+            const elapsed = startTimestamp ? (Date.now() - startTimestamp) : 0;
+            const t = Math.min(elapsed / duration, 1);
+            const lat = bikePosition.lat + (startPoint.lat - bikePosition.lat) * t;
+            const lng = bikePosition.lng + (startPoint.lng - bikePosition.lng) * t;
+            bikeMarker.setLatLng([lat, lng]);
+           
+            if (t < 1) {
+              currentAnimation = requestAnimationFrame(animateBike);
+            } else {
+              if (window.ReactNativeWebView) {
+                window.ReactNativeWebView.postMessage(JSON.stringify({ type: 'bikeArrivedAtStart' }));
+              }
+            }
+          }
+
+          if (t < 1) {
+            currentAnimation = requestAnimationFrame(animateBike);
+          } else {
+            bikeMarker.setLatLng([startPoint.lat, startPoint.lng]);
+          }
+        } else if (status === 'out_for_delivery' && deliveryRoute) {
+          
+          // Animate bike along the provided deliveryRoute
+          const points = deliveryRoute.map(p => [p.lat, p.lng]);
+          redLine = L.polyline(points, { color: '#FF6B00', weight: 4 }).addTo(map);
+          grayLine = L.polyline([], { color: 'gray', weight: 4 }).addTo(map);
+
+          const bikeIcon = L.icon({
+            iconUrl: 'images/bike.png',
+            iconSize: [32, 32],
+            iconAnchor: [16, 16],
+          });
+          bikeMarker = L.marker(points[0], { icon: bikeIcon }).addTo(map);
+
+          map.fitBounds(redLine.getBounds());
+
+          const segmentDuration = 10000; // 30 seconds per segment
+          const totalSegments = points.length - 1;
+          const totalTime = segmentDuration * totalSegments;
+          const elapsed = startTimestamp ? (Date.now() - startTimestamp) : 0;
+          let progress = Math.min(elapsed / totalTime, 1);
+          let currentSegment = Math.floor(progress * totalSegments);
+          let segmentElapsed = elapsed - (currentSegment * segmentDuration);
+          let t = Math.min(segmentElapsed / segmentDuration, 1);
+
+          function animateSegment() {
+            const elapsed = startTimestamp ? (Date.now() - startTimestamp) : 0;
+            let progress = Math.min(elapsed / totalTime, 1);
+            let currentSegment = Math.floor(progress * totalSegments);
+            let segmentElapsed = elapsed - (currentSegment * segmentDuration);
+            let t = Math.min(segmentElapsed / segmentDuration, 1);
+            const from = points[currentSegment];
+            const to = points[currentSegment + 1];
+            const lat = from[0] + (to[0] - from[0]) * t;
+            const lng = from[1] + (to[1] - from[1]) * t;
+            bikeMarker.setLatLng([lat, lng]);
+            const traveled = points.slice(0, currentSegment + 1);
+            traveled.push([lat, lng]);
+            grayLine.setLatLngs(traveled);
+            const remaining = [[lat, lng], ...points.slice(currentSegment + 1)];
+            redLine.setLatLngs(remaining);
+            if (progress < 1) {
+              currentAnimation = requestAnimationFrame(animateSegment);
+            } else {
+              bikeMarker.setLatLng(points[points.length - 1]);
+              grayLine.setLatLngs(points);
+              redLine.setLatLngs([]);
+              L.popup()
+                .setLatLng(points[points.length - 1])
+                .setContent('✅ Delivery partner has reached your location.')
+                .openOn(map);
+              if (window.ReactNativeWebView) {
+                window.ReactNativeWebView.postMessage(JSON.stringify({ type: 'bikeArrivedAtEnd' }));
+              }
+            }
+          }
+
+          // On initial render, if already at end, show final state
+          if (progress >= 1) {
+            bikeMarker.setLatLng(points[points.length - 1]);
+            grayLine.setLatLngs(points);
+            redLine.setLatLngs([]);
+            L.popup()
+              .setLatLng(points[points.length - 1])
+              .setContent('✅ Delivery partner has reached your location.')
+              .openOn(map);
+            if (window.ReactNativeWebView) {
+              window.ReactNativeWebView.postMessage(JSON.stringify({ type: 'bikeArrivedAtEnd' }));
+            }
+          } else {
+            currentAnimation = requestAnimationFrame(animateSegment);
+          }
+        }
+      }
+    </script>
+  </body>
+</html>
+
+

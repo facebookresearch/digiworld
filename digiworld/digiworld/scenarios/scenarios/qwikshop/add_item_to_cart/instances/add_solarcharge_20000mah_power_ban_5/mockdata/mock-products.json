@@ -1,0 +1,22 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "SolarCharge 20000mAh Power Bank",
+    "description": "High\u2011capacity portable charger with solar panel and dual USB\u2011C outputs for rapid charging.",
+    "shortDescription": "Solar power bank",
+    "price": 352.09,
+    "discountedPrice": 352.09,
+    "discountPercent": 0,
+    "rating": 3.6,
+    "reviewCount": 335,
+    "seller": "EcoCharge",
+    "categoryName": "Home & Kitchen",
+    "subcategoryName": "Small Appliances",
+    "inStock": 1,
+    "stockCount": 103,
+    "imageUrl": "/product_3664",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

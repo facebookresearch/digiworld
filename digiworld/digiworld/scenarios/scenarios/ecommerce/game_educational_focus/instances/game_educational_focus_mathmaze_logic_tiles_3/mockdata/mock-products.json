@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "MathMaze Logic Tiles",
+    "description": "Product: MathMaze Logic Tiles",
+    "shortDescription": "MathMaze Logic Tiles",
+    "rating": 4.0,
+    "reviewCount": 0,
+    "seller": "Test Seller",
+    "price": 29.99,
+    "discountedPrice": 29.99,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Toys & Games",
+    "subcategoryId": 1,
+    "subcategoryName": "Educational",
+    "inStock": true,
+    "stockCount": 50,
+    "imageUrl": "/test_1",
+    "specs": "{\"educational\": \"Mathematics - problem solving and logical reasoning\"}",
+    "tags": "[\"toys & games\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

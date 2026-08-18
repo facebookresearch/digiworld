@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "nickname": "GreenGiant",
+    "make": "Camdon",
+    "model": "Silverpeak",
+    "color": "Forest Green",
+    "year": 2022,
+    "plateNumber": "TRK777",
+    "vehicleTypeId": 3,
+    "isDefault": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

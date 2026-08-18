@@ -1,0 +1,8 @@
+{
+    "task_name": "Send an email to \"<recipient_email>\" with the subject as \"<email_subject>\", saying \"<email_body>\"",
+    "app_name": "email",
+    "scenario_class": "SendEmailWithDetails",
+    "parameters": ["recipient_email", "email_subject", "email_body"],
+    "context_fields": [],
+    "description": "Send an email to a specific recipient with a specific subject and body"
+}

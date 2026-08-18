@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "ava.moreno@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Weekend Plans",
+    "preview": "Hi, are you free to grab brunch on Saturday or Sun...",
+    "body": "Hi, are you free to grab brunch on Saturday or Sunday?",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_ava_moreno_weekend_plans",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "ava.moreno@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Dinner Tonight",
+    "preview": "Hi, want to try that new Italian place downtown fo...",
+    "body": "Hi, want to try that new Italian place downtown for dinner?",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_ava_moreno_dinner_tonight",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

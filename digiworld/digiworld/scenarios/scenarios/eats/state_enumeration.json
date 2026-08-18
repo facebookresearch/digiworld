@@ -1,0 +1,48 @@
+{
+  "app_name": "eats",
+  "apk_name": "com.andojoeats.sbx",
+  "database_name": "default.db",
+  "home_route": "/(tabs)/home",
+  "routes": [
+    {
+      "id": "home",
+      "route": "/(tabs)/home",
+      "screen_name": "home",
+      "description": "Home screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "orders",
+      "route": "/(tabs)/orders",
+      "screen_name": "orders",
+      "description": "Orders screen",
+      "back_route": null,
+      "context_variations": []
+    },
+    {
+      "id": "search",
+      "route": "/screens/search",
+      "screen_name": "search",
+      "description": "Search screen",
+      "back_route": "/(tabs)/home",
+      "context_variations": []
+    },
+    {
+      "id": "profile",
+      "route": "/screens/profile",
+      "screen_name": "profile",
+      "description": "Profile screen",
+      "back_route": "/(tabs)/home",
+      "context_variations": []
+    },
+    {
+      "id": "address_list",
+      "route": "/screens/address/address-list",
+      "screen_name": "addressList",
+      "description": "Address list screen",
+      "back_route": "/(tabs)/home",
+      "context_variations": []
+    }
+  ]
+}

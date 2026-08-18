@@ -1,0 +1,36 @@
+[
+  {
+    "flight_id": "BA1106_2026-08-15",
+    "airline_id": "airline_ba",
+    "airline_code": "BA",
+    "flight_number": "BA1106",
+    "origin": "ORD",
+    "destination": "LHR",
+    "departure_time": "2026-08-15T10:45:00Z",
+    "arrival_time": "2026-08-15T19:13:00Z",
+    "duration_minutes": 508,
+    "fare": 561.23,
+    "currency": "USD",
+    "seats_available": 65,
+    "aircraft_type": "Airbus A350-900",
+    "date": "2026-08-15",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "flight_id": "BA6514_2026-08-22",
+    "airline_id": "airline_ba",
+    "airline_code": "BA",
+    "flight_number": "BA6514",
+    "origin": "LHR",
+    "destination": "ORD",
+    "departure_time": "2026-08-22T07:45:00Z",
+    "arrival_time": "2026-08-22T10:37:00Z",
+    "duration_minutes": 172,
+    "fare": 666.67,
+    "currency": "USD",
+    "seats_available": 98,
+    "aircraft_type": "Boeing 737-800",
+    "date": "2026-08-22",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

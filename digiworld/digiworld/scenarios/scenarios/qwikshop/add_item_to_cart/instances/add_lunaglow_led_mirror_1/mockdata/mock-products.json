@@ -1,0 +1,22 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "LunaGlow LED Mirror",
+    "description": "A wall\u2011mountable LED mirror with adjustable brightness, anti\u2011fog technology, and Bluetooth speakers for a modern bathroom experience.",
+    "shortDescription": "LED bathroom mirror",
+    "price": 341.58,
+    "discountedPrice": 290.34,
+    "discountPercent": 15,
+    "rating": 3.8,
+    "reviewCount": 239,
+    "seller": "Luna Home",
+    "categoryName": "Home & Kitchen",
+    "subcategoryName": "Bathroom",
+    "inStock": 1,
+    "stockCount": 160,
+    "imageUrl": "/product_5557",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

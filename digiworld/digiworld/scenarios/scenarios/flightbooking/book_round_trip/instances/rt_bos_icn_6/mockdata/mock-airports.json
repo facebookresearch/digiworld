@@ -1,0 +1,18 @@
+[
+  {
+    "code": "BOS",
+    "name": "BOS International Airport",
+    "city": "BOS",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  },
+  {
+    "code": "ICN",
+    "name": "ICN International Airport",
+    "city": "ICN",
+    "country": "Unknown",
+    "timezone": "UTC",
+    "created_at": "2026-01-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Vertex PlayCore",
+    "description": "Vertex PlayCore is a next\u2011gen home console with an 8\u2011core CPU and 12\u202fGB GDDR6 memory. Supports ray\u2011traced graphics up to 8K resolution and includes a 1\u202fTB SSD for fast load times. Comes with a wireless controller featuring haptic feedback. Integrated streaming apps for on\u2011demand entertainment.",
+    "shortDescription": "Next\u2011gen home console featuring ray\u2011traced graphics and fast SSD storage.",
+    "rating": 3.0,
+    "reviewCount": 3,
+    "seller": "NextGen Console Shop",
+    "price": 1680.75,
+    "discountedPrice": 873.99,
+    "discountPercent": 48,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 8,
+    "subcategoryName": "Gaming Consoles",
+    "inStock": true,
+    "stockCount": 4,
+    "imageUrl": "/32_1",
+    "specs": "{\"display\": \"HDMI 2.1 up to 8K\", \"processor\": \"Custom Radiant Zen 2 + RDNX 2\", \"ram\": \"16 GB GDDR6\", \"storage\": \"1 TB SSD\", \"battery\": \"N/A (AC power)\", \"os\": \"PlayCore OS\", \"connectivity\": \"Wi-Fi 6, Bluetooth 5.2, Ethernet\"}",
+    "tags": "[\"gaming\", \"electronics\", \"consoles\", \"top-rated\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

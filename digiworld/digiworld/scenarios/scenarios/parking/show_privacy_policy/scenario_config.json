@@ -1,0 +1,20 @@
+{
+  "task_name": "Show me the Privacy Policy",
+  "app_name": "parking",
+  "scenario_class": "ShowPrivacyPolicyScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Navigate to the Privacy Policy screen.",
+  "compatible_profiles": [
+    "active_sessions",
+    "budget_zones",
+    "default",
+    "electric_vehicles",
+    "expired_sessions",
+    "high_parking_volume",
+    "many_vehicles",
+    "new_user",
+    "premium_zones",
+    "zone_full"
+  ]
+}

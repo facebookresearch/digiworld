@@ -1,0 +1,9 @@
+{
+  "task_name": "What's the channel name of the uploader for the video \"<title>\"?",
+  "app_name": "video",
+  "scenario_class": "GetVideoChannelNameScenario",
+  "parameters": ["title"],
+  "context_fields": [],
+  "description": "Report the channel name of the video's uploader",
+  "additional_mockdata": true
+}

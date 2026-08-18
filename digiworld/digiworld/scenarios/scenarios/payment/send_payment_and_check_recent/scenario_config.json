@@ -1,0 +1,14 @@
+{
+  "task_name": "Send $<amount> to <nickname>, then tell me who I last transacted with",
+  "app_name": "payment",
+  "scenario_class": "SendPaymentAndCheckRecentScenario",
+  "parameters": [
+    "amount",
+    "nickname"
+  ],
+  "context_fields": [
+    "current_user_pin"
+  ],
+  "description": "Send a payment to a contact by nickname and then report who the most recent transaction was with",
+  "additional_mockdata": true
+}

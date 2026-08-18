@@ -1,0 +1,21 @@
+[
+  {
+    "id": 9999,
+    "channelId": 1,
+    "categoryId": 3,
+    "title": "Master Photoshop Layers in 10 Minutes",
+    "description": "A quick step\u2011by\u2011step guide to using layers for seamless photo edits.",
+    "videoUrl": "/videos/test_video.mp4",
+    "thumbnailUrl": "/thumbnails/test_thumb.jpg",
+    "duration": 1195,
+    "visibility": "public",
+    "status": "active",
+    "viewCount": 3911,
+    "likeCount": 69,
+    "commentCount": 2,
+    "isCommentsEnabled": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

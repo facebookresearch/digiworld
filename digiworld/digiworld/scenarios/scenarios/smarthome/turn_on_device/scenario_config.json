@@ -1,0 +1,11 @@
+{
+  "task_name": "Turn on <device_name>",
+  "app_name": "smarthome",
+  "scenario_class": "TurnOnDeviceScenario",
+  "parameters": [
+    "device_name"
+  ],
+  "context_fields": [],
+  "description": "Turn on a specific device in the smart home",
+  "additional_mockdata": true
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Apex Fusion Pro Mobile",
+    "description": "Apex Fusion Pro Mobile combines a 6.7-inch high\u2011refresh-rate display with a Stormcore\u2011compatible chipset for smooth performance. It features a triple\u2011camera system, including a 64MP main sensor, for detailed photography. The device includes 5G connectivity and a fast\u2011charging 4,500mAh battery.",
+    "shortDescription": "A 6.7-inch 5G phone featuring a triple\u2011camera system and fast charging.",
+    "rating": 3.8,
+    "reviewCount": 4,
+    "seller": "GadgetHub",
+    "price": 487.94,
+    "discountedPrice": 390.35,
+    "discountPercent": 20,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 1,
+    "subcategoryName": "Smartphones",
+    "inStock": true,
+    "stockCount": 110,
+    "imageUrl": "/2_1",
+    "specs": "{\"display\": \"6.7\\\" AMOLED, 1440x3216, 525 ppi, 120Hz\", \"processor\": \"NovaSil Dimensia 9200, Octa-core\", \"ram\": \"12 GB LPDDR5X\", \"storage\": \"256 GB UFS 3.1\", \"battery\": \"5,000 mAh, 65W fast charge\", \"os\": \"Nimbus OS 13, ApexOS 2.0\", \"connectivity\": \"5G, Wi\u2011Fi 6E, Bluetooth 5.3, NFC, eSIM\"}",
+    "tags": "[\"electronics\", \"smartphones\", \"high-quality\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

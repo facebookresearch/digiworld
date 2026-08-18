@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "evelyn.wallace@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Summer Sale - Up to 50% Off",
+    "preview": "Hi team, we've got an exciting summer sale coming ...",
+    "body": "Hi team, we've got an exciting summer sale coming up with discounts on our best-selling products. Don't miss out on this amazing opportunity to save big. Check out our website for more details.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_evelyn_wallace_summer_sale_up_to_50_o",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

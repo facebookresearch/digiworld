@@ -1,0 +1,15 @@
+[
+  {
+    "id": 90001,
+    "restaurantId": 90001,
+    "categoryId": 90001,
+    "name": "Lamb Roganjosh",
+    "description": "Tender lamb simmered in a rich tomato and aromatic spice gravy, finished with cardamom.",
+    "price": 16.25,
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=600&q=80",
+    "calories": 610,
+    "isPopular": 0,
+    "isActive": 1,
+    "position": 1
+  }
+]

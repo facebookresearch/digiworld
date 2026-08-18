@@ -1,0 +1,739 @@
+// Copyright (c) Meta Platforms, Inc. and affiliates.
+import { useEffect, useRef, useState, useMemo } from 'react'
+import {
+  View,
+  StyleSheet,
+  Image,
+  TextInput,
+  TouchableOpacity,
+  ScrollView,
+  KeyboardAvoidingView,
+  Platform,
+  ActivityIndicator,
+  Animated,
+  Dimensions,
+  TouchableWithoutFeedback,
+} from 'react-native'
+import { useLocalSearchParams, useRouter } from 'expo-router'
+import { StatusBar } from 'expo-status-bar'
+import { useInteractionTracking } from '@andojo/shared-interaction-tracking'
+import {
+  useAppTheme,
+  Text,
+  LoadingOverlay,
+  type Theme,
+} from '@andojo/shared-theme'
+import { Ionicons } from '@expo/vector-icons'
+import { observer } from 'mobx-react-lite'
+import LinearGradient from 'react-native-linear-gradient'
+import { SafeAreaView } from 'react-native-safe-area-context'
+
+import { translate } from '@/i18n/translate'
+import { useStores } from '@/models'
+import { SuccessDialog } from '@/components'
+
+const { height: SCREEN_HEIGHT } = Dimensions.get('window')
+
+const SignupScreen = observer(() => {
+  const router = useRouter()
+  const { userStore, authStore } = useStores()
+  const { signupState } = authStore
+  const { trackScreenMount } = useInteractionTracking('Signup', '/signup')
+  const { sessionId, sessionTimeStamp } = useLocalSearchParams()
+  const nameRef = useRef<TextInput>(null)
+  const emailRef = useRef<TextInput>(null)
+  const passwordRef = useRef<TextInput>(null)
+  const [showSuccessDialog, setShowSuccessDialog] = useState(false)
+  const { theme } = useAppTheme()
+  const styles = useMemo(() => createStyles(theme), [theme])
+
+  // Animation values
+  const slideAnim = useRef(new Animated.Value(SCREEN_HEIGHT)).current
+  const fadeAnim = useRef(new Animated.Value(0)).current
+  const [animationComplete, setAnimationComplete] = useState(false)
+
+  const handleSignup = async () => {
+    try {
+      const success = await authStore.signup()
+      if (success) {
+        setShowSuccessDialog(true)
+        // Navigate after dialog closes
+        setTimeout(() => {
+          router.replace('/(app)/home')
+        }, 2000)
+      }
+    } catch (error) {
+      console.error('Signup error:', error)
+    }
+  }
+
+  useEffect(() => {
+    trackScreenMount()
+    authStore.loginState.reset()
+    authStore.setCurrentScreen('signup')
+
+    // Animate in the bottom sheet
+    Animated.parallel([
+      Animated.timing(slideAnim, {
+        toValue: 0,
+        duration: 400,
+        useNativeDriver: true,
+      }),
+      Animated.timing(fadeAnim, {
+        toValue: 1,
+        duration: 300,
+        useNativeDriver: true,
+      }),
+    ]).start(() => {
+      // Animation complete callback
+      setAnimationComplete(true)
+    })
+
+    return () => {
+      signupState.reset()
+      authStore.reset()
+      userStore.clearErrors()
+    }
+  }, [])
+
+  useEffect(() => {
+    if (sessionTimeStamp) {
+      console.log('Session ID:', sessionId)
+      const focusedElement = signupState.currentFocused
+      console.log('Focused element:', focusedElement)
+      if (focusedElement === 'name') {
+        setTimeout(() => {
+          nameRef.current?.focus()
+          nameRef.current?.setSelection(
+            signupState.name.length,
+            signupState.name.length,
+          )
+        }, 100)
+      } else if (focusedElement === 'email') {
+        setTimeout(() => {
+          emailRef.current?.focus()
+          emailRef.current?.setSelection(
+            signupState.email.length,
+            signupState.email.length,
+          )
+        }, 100)
+      } else if (focusedElement === 'password') {
+        setTimeout(() => {
+          passwordRef.current?.focus()
+          passwordRef.current?.setSelection(
+            signupState.password.length,
+            signupState.password.length,
+          )
+        }, 100)
+      }
+    }
+  }, [sessionTimeStamp])
+
+  const nameError = authStore.getValidationError('name')
+  const emailError = authStore.getValidationError('email')
+  const passwordError = authStore.getValidationError('password')
+
+  const hasNameError = !!nameError
+  const hasEmailError = !!emailError
+  const hasPasswordError = !!passwordError
+
+  // Handle input focus with animation check
+  const handleInputFocus = (
+    ref: React.RefObject<TextInput>,
+    fieldName: string,
+  ) => {
+    if (animationComplete) {
+      ref.current?.focus()
+      signupState.setFocused(fieldName)
+    }
+  }
+
+  return (
+    <View style={styles.container}>
+      <StatusBar style="light" backgroundColor={theme.colors.background} />
+
+      {/* Background with gradient */}
+      <LinearGradient
+        colors={[
+          theme.colors.palette.primary500,
+          theme.colors.palette.accent500,
+        ]}
+        style={styles.backgroundGradient}
+        start={{ x: 0, y: 0 }}
+        end={{ x: 1, y: 1 }}
+      >
+        <Animated.View
+          style={[styles.backgroundOverlay, { opacity: fadeAnim }]}
+        />
+      </LinearGradient>
+
+      <SafeAreaView style={styles.safeArea}>
+        {/* Header with logo - Fixed height to prevent overlap */}
+        <Animated.View
+          style={[
+            styles.header,
+            {
+              opacity: fadeAnim,
+              transform: [
+                {
+                  translateY: fadeAnim.interpolate({
+                    inputRange: [0, 1],
+                    outputRange: [-50, 0],
+                  }),
+                },
+              ],
+            },
+          ]}
+        >
+          <View style={styles.logoContainer}>
+            <Image
+              source={require('../../../assets/images/app-icon-all.png')}
+              style={styles.logo}
+              resizeMode="contain"
+            />
+          </View>
+          <Text style={styles.welcomeText}>
+            {translate('auth.createAccount')}
+          </Text>
+          <Text style={styles.subtitleText}>
+            {translate('auth.signUpToStart')}
+          </Text>
+        </Animated.View>
+
+        {/* Bottom Sheet - Adjusted to not overlap with header */}
+        <Animated.View
+          style={[
+            styles.bottomSheet,
+            {
+              transform: [{ translateY: slideAnim }],
+            },
+          ]}
+        >
+          <KeyboardAvoidingView
+            behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
+            style={styles.keyboardView}
+            keyboardVerticalOffset={Platform.OS === 'ios' ? 0 : 20}
+          >
+            {/* Handle bar */}
+            <View style={styles.handleBar} />
+
+            <ScrollView
+              contentContainerStyle={styles.scrollContent}
+              bounces={false}
+              showsVerticalScrollIndicator={false}
+              keyboardShouldPersistTaps="handled" // Important for fixing double-tap issue
+            >
+              {/* Error Message */}
+              {userStore.authError && (
+                <View style={styles.errorContainer}>
+                  <Ionicons
+                    name="warning"
+                    size={20}
+                    color={theme.colors.error}
+                  />
+                  <Text style={styles.errorText}>
+                    {userStore.authError.message}
+                  </Text>
+                </View>
+              )}
+
+              {/* Input Fields */}
+              <View style={styles.inputGroup}>
+                {/* Name Input */}
+                <View style={styles.inputWrapper}>
+                  <TouchableWithoutFeedback
+                    onPress={() => handleInputFocus(nameRef, 'name')}
+                  >
+                    <View
+                      style={[
+                        styles.inputContainer,
+                        hasNameError && styles.inputError,
+                        signupState.currentFocused === 'name' &&
+                          styles.inputFocused,
+                      ]}
+                    >
+                      <Ionicons
+                        name="person-outline"
+                        size={20}
+                        color={
+                          signupState.currentFocused === 'name'
+                            ? theme.colors.tint
+                            : theme.colors.textDim
+                        }
+                        style={styles.inputIcon}
+                      />
+                      <TextInput
+                        ref={nameRef}
+                        placeholder={translate('auth.namePlaceholder')}
+                        placeholderTextColor={theme.colors.textDim}
+                        style={styles.input}
+                        autoCapitalize="words"
+                        value={signupState.name}
+                        onChangeText={signupState.setName}
+                        onFocus={() => signupState.setFocused('name')}
+                        onBlur={() => signupState.setFocused(null)}
+                        testID="name-input"
+                      />
+                    </View>
+                  </TouchableWithoutFeedback>
+                  {nameError && (
+                    <Text style={styles.fieldError}>{nameError}</Text>
+                  )}
+                </View>
+
+                {/* Email Input */}
+                <View style={styles.inputWrapper}>
+                  <TouchableWithoutFeedback
+                    onPress={() => handleInputFocus(emailRef, 'email')}
+                  >
+                    <View
+                      style={[
+                        styles.inputContainer,
+                        hasEmailError && styles.inputError,
+                        signupState.currentFocused === 'email' &&
+                          styles.inputFocused,
+                      ]}
+                    >
+                      <Ionicons
+                        name="mail-outline"
+                        size={20}
+                        color={
+                          signupState.currentFocused === 'email'
+                            ? theme.colors.tint
+                            : theme.colors.textDim
+                        }
+                        style={styles.inputIcon}
+                      />
+                      <TextInput
+                        ref={emailRef}
+                        placeholder={translate('auth.emailPlaceholder')}
+                        placeholderTextColor={theme.colors.textDim}
+                        style={styles.input}
+                        autoCapitalize="none"
+                        keyboardType="email-address"
+                        value={signupState.email}
+                        onChangeText={signupState.setEmail}
+                        onFocus={() => signupState.setFocused('email')}
+                        onBlur={() => signupState.setFocused(null)}
+                        testID="email-input"
+                      />
+                    </View>
+                  </TouchableWithoutFeedback>
+                  {emailError && (
+                    <Text style={styles.fieldError}>{emailError}</Text>
+                  )}
+                </View>
+
+                {/* Password Input */}
+                <View style={styles.inputWrapper}>
+                  <TouchableWithoutFeedback
+                    onPress={() => handleInputFocus(passwordRef, 'password')}
+                  >
+                    <View
+                      style={[
+                        styles.inputContainer,
+                        hasPasswordError && styles.inputError,
+                        signupState.currentFocused === 'password' &&
+                          styles.inputFocused,
+                      ]}
+                    >
+                      <Ionicons
+                        name="lock-closed-outline"
+                        size={20}
+                        color={
+                          signupState.currentFocused === 'password'
+                            ? theme.colors.tint
+                            : theme.colors.textDim
+                        }
+                        style={styles.inputIcon}
+                      />
+                      <TextInput
+                        ref={passwordRef}
+                        placeholder={translate('auth.passwordPlaceholder')}
+                        placeholderTextColor={theme.colors.textDim}
+                        style={styles.input}
+                        secureTextEntry
+                        value={signupState.password}
+                        onChangeText={signupState.setPassword}
+                        onFocus={() => signupState.setFocused('password')}
+                        onBlur={() => signupState.setFocused(null)}
+                        testID="password-input"
+                      />
+                    </View>
+                  </TouchableWithoutFeedback>
+                  {passwordError && (
+                    <Text style={styles.fieldError}>{passwordError}</Text>
+                  )}
+                </View>
+              </View>
+
+              {/* Signup Button */}
+              <TouchableOpacity
+                style={[
+                  styles.signupButton,
+                  signupState.isLoading && styles.buttonDisabled,
+                ]}
+                onPress={handleSignup}
+                disabled={signupState.isLoading}
+                activeOpacity={0.8}
+              >
+                <LinearGradient
+                  colors={[
+                    theme.colors.palette.primary500,
+                    theme.colors.palette.accent500,
+                  ]}
+                  start={{ x: 0, y: 0 }}
+                  end={{ x: 1, y: 0 }}
+                  style={styles.buttonGradient}
+                >
+                  {signupState.isLoading ? (
+                    <ActivityIndicator
+                      color={theme.colors.palette.neutral100}
+                      size="small"
+                    />
+                  ) : (
+                    <Text style={styles.signupButtonText}>
+                      {translate('auth.signUp')}
+                    </Text>
+                  )}
+                </LinearGradient>
+              </TouchableOpacity>
+
+              {/* Login Link */}
+              <View style={styles.loginContainer}>
+                <Text style={styles.loginText}>
+                  {translate('auth.hasAccount')}
+                </Text>
+                <TouchableOpacity
+                  onPress={() => {
+                    signupState.clearValidationErrors()
+                    router.push('/login')
+                  }}
+                  activeOpacity={0.7}
+                >
+                  <Text style={styles.loginLink}>
+                    {translate('auth.logIn')}
+                  </Text>
+                </TouchableOpacity>
+              </View>
+
+              {/* Footer */}
+              <View style={styles.footer}>
+                <Text style={styles.footerText}>
+                  {translate('auth.bySigningUpYouAgreeTo') + ' '}
+                  <TouchableOpacity
+                    onPress={() => router.push('/(legal)/terms')}
+                  >
+                    <Text style={styles.footerLink}>
+                      {translate('auth.termsOfService')}
+                    </Text>
+                  </TouchableOpacity>
+                  <Text style={styles.footerText}>
+                    {' ' + translate('auth.and') + ' '}
+                  </Text>
+                  <TouchableOpacity
+                    onPress={() => router.push('/(legal)/privacy')}
+                  >
+                    <Text style={styles.footerLink}>
+                      {translate('auth.privacyPolicy')}
+                    </Text>
+                  </TouchableOpacity>
+                </Text>
+              </View>
+            </ScrollView>
+          </KeyboardAvoidingView>
+        </Animated.View>
+      </SafeAreaView>
+
+      <LoadingOverlay
+        visible={signupState.isLoading}
+        message="Creating your account..."
+      />
+      <SuccessDialog
+        visible={showSuccessDialog}
+        onClose={() => setShowSuccessDialog(false)}
+        isSuccess={true}
+        message="Account Created!"
+        subMessage="Welcome to the community"
+      />
+    </View>
+  )
+})
+
+const createStyles = (theme: Theme) =>
+  StyleSheet.create({
+    // Main container
+    container: {
+      flex: 1,
+    },
+
+    // Background gradient
+    backgroundGradient: {
+      position: 'absolute',
+      top: 0,
+      left: 0,
+      right: 0,
+      bottom: 0,
+    },
+
+    // Background overlay
+    backgroundOverlay: {
+      flex: 1,
+      backgroundColor: theme.colors.palette.overlay20,
+    },
+
+    // Safe area
+    safeArea: {
+      flex: 1,
+    },
+
+    // Header section - Fixed height to prevent overlap
+    header: {
+      alignItems: 'center',
+      zIndex: 1,
+      height: SCREEN_HEIGHT * 0.35, // Fixed height instead of flex: 1
+      justifyContent: 'center',
+      paddingTop: 20, // Add some padding at the top
+    },
+
+    // Logo container
+    logoContainer: {
+      marginBottom: 20, // Add space between logo and text
+    },
+
+    // Logo image
+    logo: {
+      width: 100, // Slightly smaller
+      height: 100,
+    },
+
+    // Welcome text
+    welcomeText: {
+      fontSize: 28,
+      fontWeight: '700',
+      color: theme.colors.palette.neutral100,
+      textAlign: 'center',
+      marginBottom: 8,
+      letterSpacing: -0.5,
+    },
+
+    // Subtitle text
+    subtitleText: {
+      fontSize: 16,
+      fontWeight: '400',
+      color: theme.colors.palette.neutral200,
+      textAlign: 'center',
+      opacity: 0.9,
+    },
+
+    // Bottom sheet - Adjusted to not overlap with header
+    bottomSheet: {
+      position: 'absolute',
+      bottom: 0,
+      left: 0,
+      right: 0,
+      backgroundColor: theme.colors.palette.neutral100,
+      borderTopLeftRadius: 24,
+      borderTopRightRadius: 24,
+      height: SCREEN_HEIGHT * 0.65, // Increased height to fill remaining space
+      shadowColor: theme.colors.palette.neutral900,
+      shadowOffset: { width: 0, height: -4 },
+      shadowOpacity: 0.08,
+      shadowRadius: 16,
+      elevation: 8,
+    },
+
+    // Handle bar
+    handleBar: {
+      width: 40,
+      height: 4,
+      backgroundColor: theme.colors.palette.neutral300,
+      borderRadius: 2,
+      alignSelf: 'center',
+      marginTop: 12,
+      marginBottom: 8,
+    },
+
+    // Keyboard view
+    keyboardView: {
+      flex: 1,
+    },
+
+    // Scroll content
+    scrollContent: {
+      paddingHorizontal: 24,
+      paddingTop: 16,
+      paddingBottom: 40,
+      flexGrow: 1,
+    },
+
+    // Error container
+    errorContainer: {
+      flexDirection: 'row',
+      alignItems: 'center',
+      backgroundColor: theme.colors.palette.angry100,
+      borderRadius: 12,
+      padding: 12,
+      marginBottom: 16,
+      borderWidth: 1,
+      borderColor: theme.colors.palette.angry200,
+      opacity: 0.9,
+    },
+
+    // Error text
+    errorText: {
+      flex: 1,
+      fontSize: 14,
+      fontWeight: '500',
+      color: theme.colors.palette.angry500,
+      marginLeft: 8,
+    },
+
+    // Input group
+    inputGroup: {
+      marginBottom: 32,
+    },
+
+    // Input wrapper
+    inputWrapper: {
+      marginBottom: 16,
+    },
+
+    // Input container
+    inputContainer: {
+      flexDirection: 'row',
+      alignItems: 'center',
+      backgroundColor: theme.colors.palette.neutral200,
+      borderRadius: 16,
+      borderWidth: 2,
+      borderColor: theme.colors.palette.neutral300,
+      paddingHorizontal: 20,
+      paddingVertical: 16,
+      minHeight: 56,
+    },
+
+    // Input focused state
+    inputFocused: {
+      borderColor: theme.colors.palette.primary500,
+      backgroundColor: theme.colors.palette.neutral100,
+      shadowColor: theme.colors.palette.primary500,
+      shadowOffset: { width: 0, height: 2 },
+      shadowOpacity: 0.1,
+      shadowRadius: 4,
+      elevation: 2,
+    },
+
+    // Input error state
+    inputError: {
+      borderColor: theme.colors.palette.angry500,
+      backgroundColor: theme.colors.palette.angry100,
+    },
+
+    // Input icon
+    inputIcon: {
+      marginRight: 12,
+    },
+
+    // Input field
+    input: {
+      flex: 1,
+      fontSize: 16,
+      fontWeight: '400',
+      color: theme.colors.palette.neutral800,
+    },
+
+    // Field error
+    fieldError: {
+      fontSize: 12,
+      fontWeight: '500',
+      color: theme.colors.palette.angry500,
+      marginTop: 6,
+      marginLeft: 4,
+      opacity: 0.8,
+    },
+
+    // Signup button
+    signupButton: {
+      borderRadius: 16,
+      marginBottom: 24,
+      shadowColor: theme.colors.palette.neutral900,
+      shadowOffset: { width: 0, height: 4 },
+      shadowOpacity: 0.15,
+      shadowRadius: 8,
+      elevation: 4,
+    },
+
+    // Button gradient
+    buttonGradient: {
+      alignItems: 'center',
+      justifyContent: 'center',
+      paddingVertical: 18,
+      paddingHorizontal: 24,
+      borderRadius: 16,
+      minHeight: 56,
+    },
+
+    // Button disabled
+    buttonDisabled: {
+      opacity: 0.6,
+    },
+
+    // Signup button text
+    signupButtonText: {
+      fontSize: 18,
+      fontWeight: '700',
+      color: theme.colors.palette.neutral100,
+      letterSpacing: 0.5,
+    },
+
+    // Login container
+    loginContainer: {
+      alignItems: 'center',
+      flexDirection: 'row',
+      justifyContent: 'center',
+      flexWrap: 'wrap',
+      marginBottom: 24,
+    },
+
+    // Login text
+    loginText: {
+      fontSize: 16,
+      fontWeight: '400',
+      color: theme.colors.palette.neutral600,
+    },
+
+    // Login link
+    loginLink: {
+      fontSize: 16,
+      fontWeight: '600',
+      color: theme.colors.palette.primary500,
+      textDecorationLine: 'underline',
+      marginLeft: 4,
+    },
+
+    // Footer
+    footer: {
+      alignItems: 'center',
+      paddingHorizontal: 16,
+      paddingTop: 16,
+    },
+
+    // Footer text
+    footerText: {
+      fontSize: 12,
+      fontWeight: '400',
+      color: theme.colors.palette.neutral600,
+      textAlign: 'center',
+      lineHeight: 18,
+    },
+
+    // Footer link
+    footerLink: {
+      fontSize: 12,
+      fontWeight: '500',
+      color: theme.colors.palette.primary500,
+      textDecorationLine: 'underline',
+    },
+  })
+
+export default SignupScreen

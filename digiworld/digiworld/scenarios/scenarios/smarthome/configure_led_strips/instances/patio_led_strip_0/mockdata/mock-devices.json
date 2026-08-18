@@ -1,0 +1,18 @@
+[
+  {
+    "userId": "{{current_user_id}}",
+    "name": "Patio LED Strip",
+    "deviceTypeId": "{{device_type_id_by_name:LED Strips}}",
+    "roomId": "{{first_room_id}}",
+    "status": "online",
+    "isOn": false,
+    "properties": "{\"brightness\": 80, \"color\": \"#ffffff\", \"color_mode\": \"white\", \"effects\": true, \"music_sync\": false}",
+    "battery": 100,
+    "signalStrength": 95,
+    "firmwareVersion": "1.0.0",
+    "lastSeen": "{{recent_timestamp}}",
+    "createdAt": "{{past_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

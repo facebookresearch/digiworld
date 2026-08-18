@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "cartId": 1,
+    "userId": 1,
+    "productId": 9902,
+    "productName": "TrailMaster Pro 12-Speed Mountain Bike",
+    "productImage": "/product_9902",
+    "shortDescription": "12-speed mountain bike",
+    "seller": "AdventureGear Co.",
+    "quantity": 4,
+    "price": 25.57,
+    "discountedPrice": 25.57,
+    "total": 102.28,
+    "inStock": 1
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "task_name": "Check my <account_name> account's available balance",
+  "app_name": "banking",
+  "scenario_class": "CheckAccountBalanceScenario",
+  "parameters": [
+    "account_name"
+  ],
+  "additional_mockdata": true,
+  "context_fields": [],
+  "description": "Check the available balance for a specific account by name."
+}

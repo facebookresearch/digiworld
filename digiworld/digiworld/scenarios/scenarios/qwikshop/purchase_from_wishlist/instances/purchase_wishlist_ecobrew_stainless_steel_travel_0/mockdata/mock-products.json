@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9900,
+    "name": "EcoBrew Stainless Steel Travel Mug",
+    "description": "The EcoBrew Stainless Steel Travel Mug keeps beverages hot for up to 8 hours and cold for up to 12, featuring a leak-proof lid and a sleek matte finish.",
+    "shortDescription": "Keeps drinks hot or cold for hours with a leak-proof design.",
+    "price": 133.77,
+    "discountedPrice": 133.77,
+    "discountPercent": 0,
+    "rating": 3.3,
+    "reviewCount": 62,
+    "seller": "EcoGear Co.",
+    "categoryName": "Home & Kitchen",
+    "subcategoryName": "Kitchen Tools",
+    "inStock": 1,
+    "stockCount": 183,
+    "imageUrl": "/product_9935",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

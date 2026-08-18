@@ -1,0 +1,30 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "linkedCheckingAccountId": null,
+    "cardNumber": "4532018276939935",
+    "lastFourDigits": "9935",
+    "cardholderName": "{{current_user_name}}",
+    "expiryMonth": 12,
+    "expiryYear": 2028,
+    "cvv": "321",
+    "creditLimit": 10000.0,
+    "currentBalance": 89.12,
+    "availableCredit": 9910.88,
+    "apr": 19.99,
+    "annualFee": 0.0,
+    "cashAdvanceFeePercent": 5.0,
+    "latePaymentFee": 35.0,
+    "paymentDueDay": 15,
+    "minimumPaymentPercent": 2.0,
+    "statementClosingDay": 1,
+    "autopayEnabled": 0,
+    "autopayAmount": "minimum",
+    "status": "active",
+    "openedDate": "{{past_timestamp}}",
+    "lastPaymentDate": null,
+    "lastStatementDate": null,
+    "createdAt": "{{past_timestamp}}"
+  }
+]

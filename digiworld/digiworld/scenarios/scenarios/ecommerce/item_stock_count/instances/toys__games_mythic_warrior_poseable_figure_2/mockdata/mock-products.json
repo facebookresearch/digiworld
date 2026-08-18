@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Mythic Warrior Poseable Figure",
+    "description": "This Mythic Warrior figure captures the spirit of ancient legends with a sturdy armor set and removable weaponry. Its flexible limbs allow dynamic battle poses, and the textured finish adds realism. Ideal for collectors and role-play enthusiasts.",
+    "shortDescription": "A detailed warrior figure with removable armor and weapons.",
+    "rating": 3.7,
+    "reviewCount": 0,
+    "seller": "Heroic Playthings Ltd.",
+    "price": 898.96,
+    "discountedPrice": 575.33,
+    "discountPercent": 36,
+    "categoryId": 7,
+    "categoryName": "Toys & Games",
+    "subcategoryId": 50,
+    "subcategoryName": "Action Figures",
+    "inStock": false,
+    "stockCount": 0,
+    "imageUrl": "/198_1",
+    "specs": "{\"ageRange\": \"5-12 years\", \"material\": \"PVC, die-cast metal accessories\", \"dimensions\": \"8 x 3 x 3 inches\", \"batteryRequired\": \"No\", \"warranty\": \"6 months\", \"safetyRating\": \"ASTM F963\"}",
+    "tags": "[\"action\", \"figures\", \"toys\", \"games\", \"popular\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

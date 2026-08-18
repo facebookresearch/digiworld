@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Renewal Vitamin C Serum",
+    "description": "This brightening serum combines 15% stabilized vitamin C with ferulic acid to even skin tone and reduce the appearance of dark spots. Lightweight and fast-absorbing, it delivers antioxidant protection throughout the day. Ideal for dull or uneven complexion.",
+    "shortDescription": "A brightening vitamin C serum that evens tone and fights discoloration.",
+    "rating": 4.7,
+    "reviewCount": 0,
+    "seller": "PureRadiance Organics",
+    "price": 162.43,
+    "discountedPrice": 154.31,
+    "discountPercent": 5,
+    "categoryId": 6,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 41,
+    "subcategoryName": "Skincare",
+    "inStock": true,
+    "stockCount": 177,
+    "imageUrl": "/162_1",
+    "specs": "{\"ingredients\": \"Aqua, Ascorbic Acid (Vitamin C), Ferulic Acid, Hyaluronic Acid, Vitamin E, Glycerin, Propylene Glycol, Phenoxyethanol\", \"skinType\": \"Normal to dry\", \"volume\": \"30 ml\", \"fragrance\": \"Light citrus\", \"madeIn\": \"USA\", \"expiryPeriod\": \"12 months after opening\"}",
+    "tags": "[\"personal\", \"beauty\", \"skincare\", \"care\", \"best\", \"high-quality\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

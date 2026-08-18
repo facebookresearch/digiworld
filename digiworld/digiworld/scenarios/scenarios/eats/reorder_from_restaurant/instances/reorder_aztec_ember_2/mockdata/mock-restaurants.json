@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Aztec Ember",
+    "description": "Renowned for its fire-roasted tomatillo salsa verde enchiladas.",
+    "address": "630 Harbor Drive, San Diego, CA 92101",
+    "latitude": 32.7157,
+    "longitude": -117.1611,
+    "logo": "https://images.unsplash.com/photo-1537047902294-62a40c20a6ae?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 4.1,
+    "deliveryFee": 2.75,
+    "minOrder": 7.0,
+    "deliveryRadius": 6,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

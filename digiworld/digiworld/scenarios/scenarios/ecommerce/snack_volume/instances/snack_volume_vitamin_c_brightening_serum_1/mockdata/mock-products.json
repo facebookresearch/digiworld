@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Vitamin C Brightening Serum",
+    "description": "Formulated with 15% stabilized vitamin C, ferulic acid, and hyaluronic acid, this serum targets dullness and uneven tone. It helps reduce the appearance of dark spots while boosting collagen for a radiant complexion. Use morning and night for best results.",
+    "shortDescription": "A potent vitamin C serum that brightens and evens skin tone.",
+    "rating": 1.8,
+    "reviewCount": 0,
+    "seller": "Pure Essence Co.",
+    "price": 1492.48,
+    "discountedPrice": 850.71,
+    "discountPercent": 43,
+    "categoryId": 6,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 41,
+    "subcategoryName": "Skincare",
+    "inStock": true,
+    "stockCount": 121,
+    "imageUrl": "/162_1",
+    "specs": "{\"ingredients\": \"15% L-ascorbic acid, ferulic acid, vitamin E, hyaluronic acid, niacinamide, botanical extracts\", \"skinType\": \"Normal, Dull, Uneven tone\", \"volume\": \"30ml\", \"fragrance\": \"Unscented\", \"madeIn\": \"USA\", \"expiryPeriod\": \"18 months\"}",
+    "tags": "[\"skincare\", \"personal\", \"care\", \"beauty\", \"premium\", \"best\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

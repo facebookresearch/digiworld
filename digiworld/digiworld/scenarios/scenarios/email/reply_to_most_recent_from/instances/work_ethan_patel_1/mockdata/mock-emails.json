@@ -1,0 +1,46 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "sender": "ethan.patel@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Project Update",
+    "preview": "Hello, the project is on track to meet the deadlin...",
+    "body": "Hello, the project is on track to meet the deadline.",
+    "timestamp": "{{beginning_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_ethan_patel_project_update",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  },
+  {
+    "id": "{{auto_id}}",
+    "sender": "ethan.patel@example.com",
+    "receiver": [
+      "{{current_user_email}}"
+    ],
+    "subject": "Task Assignment",
+    "preview": "Hi, I've assigned the tasks for the next phase of ...",
+    "body": "Hi, I've assigned the tasks for the next phase of the project.",
+    "timestamp": "{{end_timestamp}}",
+    "unread": 1,
+    "read": 0,
+    "status": "received",
+    "attachments": [],
+    "labels": [],
+    "isDraft": 0,
+    "threadId": "thread_ethan_patel_task_assignment",
+    "folder": "inbox",
+    "priority": "normal",
+    "cc": [],
+    "bcc": []
+  }
+]

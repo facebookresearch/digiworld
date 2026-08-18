@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Sakura Umami",
+    "description": "Known for its miso-glazed black cod served on a bed of shiso rice.",
+    "address": "900 Magnolia Blvd, Nashville, TN 37203",
+    "latitude": 36.1627,
+    "longitude": -86.7816,
+    "logo": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 3.7,
+    "deliveryFee": 5.64,
+    "minOrder": 7.0,
+    "deliveryRadius": 10,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

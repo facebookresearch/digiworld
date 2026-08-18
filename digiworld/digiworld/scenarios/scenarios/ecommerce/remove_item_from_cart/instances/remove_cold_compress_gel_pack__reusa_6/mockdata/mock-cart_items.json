@@ -1,0 +1,24 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "cart_id": "{{current_user_cart_id}}",
+    "user_id": "{{current_user_id}}",
+    "product_id": 259,
+    "product_name": "Cold Compress Gel Pack \u2013 Reusable",
+    "product_image": "https://picsum.photos/seed/mock/600/400",
+    "short_description": "Mock product",
+    "seller": "ChillPack Solutions",
+    "quantity": 1,
+    "price": 170.59,
+    "discounted_price": 145.0,
+    "total": 145.0,
+    "saved_amount": 25.59,
+    "in_stock": 1,
+    "category_name": "Health & Wellness",
+    "subcategory_name": "First Aid",
+    "sku": "",
+    "added_at": "2025-06-15 12:00:00.000",
+    "created_at": "2025-06-15 12:00:00.000",
+    "updated_at": "2025-06-15 12:00:00.000"
+  }
+]

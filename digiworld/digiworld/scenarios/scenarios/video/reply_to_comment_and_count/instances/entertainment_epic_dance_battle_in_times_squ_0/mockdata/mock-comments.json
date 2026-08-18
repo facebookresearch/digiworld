@@ -1,0 +1,15 @@
+[
+  {
+    "id": 7777,
+    "videoId": 9999,
+    "userId": 9998,
+    "parentId": null,
+    "content": "That dance battle was insane! The synchronization was flawless.",
+    "status": "visible",
+    "isEdited": 0,
+    "replyCount": 0,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "deletedAt": null
+  }
+]

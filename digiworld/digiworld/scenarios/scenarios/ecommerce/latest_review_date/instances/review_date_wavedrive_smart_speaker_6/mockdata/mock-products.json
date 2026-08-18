@@ -1,0 +1,62 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "WaveDrive Smart Speaker",
+    "description": "WaveDrive Smart Speaker incorporates an LED display that shows time, weather, and song info. Supports Wi\u2011Fi and Bluetooth streaming, plus voice\u2011controlled smart home integration. Features a 360\u00b0 tweeter array for balanced audio. Up to 18 hours of continuous playback.",
+    "shortDescription": "Smart speaker with LED display, Wi\u2011Fi streaming, and multi\u2011room audio.",
+    "rating": 2.4,
+    "reviewCount": 5,
+    "seller": "SmartHome Audio",
+    "price": 1431.76,
+    "discountedPrice": 873.37,
+    "discountPercent": 39,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 7,
+    "subcategoryName": "Speakers",
+    "inStock": true,
+    "stockCount": 168,
+    "imageUrl": "/27_1",
+    "specs": "{\"display\": \"7-inch touch screen\", \"processor\": \"Quad-core ARC Cortix-A55\", \"ram\": \"2 GB LPDDR4\", \"storage\": \"8 GB eMMC\", \"battery\": \"N/A (plug-in)\", \"os\": \"Corvex Assistant OS\", \"connectivity\": \"Wi-Fi 6, Bluetooth 5.2, Zigbee\"}",
+    "tags": "[\"speakers\", \"electronics\", \"high-quality\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000",
+    "reviews": [
+      {
+        "userName": "Reviewer",
+        "rating": 3,
+        "title": "Decent sound but connectivity hiccups",
+        "comment": "The WaveDrive Smart Speaker delivers clear mids and decent bass for its size, and the voice assistant responds quickly most of the time. However, I\u2019ve experienced occasional Bluetooth dropouts that interrupt my music playback.",
+        "reviewDate": "2025-06-15T10:00:00.000Z"
+      },
+      {
+        "userName": "Reviewer",
+        "rating": 3,
+        "title": "Good features, but battery drains fast",
+        "comment": "I appreciate the built\u2011in Wi\u2011Fi and the intuitive touch controls on the WaveDrive, which make streaming from the app a breeze. The downside is the battery life, which barely lasts five hours on a full charge.",
+        "reviewDate": "2025-06-15T10:00:00.000Z"
+      },
+      {
+        "userName": "Reviewer",
+        "rating": 2,
+        "title": "Disappointing audio quality and lag",
+        "comment": "The speaker\u2019s sound feels tinny and lacks the depth I expected from a smart speaker. In addition, voice commands often lag, making the assistant feel unresponsive.",
+        "reviewDate": "2025-06-15T10:00:00.000Z"
+      },
+      {
+        "userName": "Reviewer",
+        "rating": 2,
+        "title": "Unreliable Wi\u2011Fi and flimsy build",
+        "comment": "Connecting the WaveDrive to my home network is frustrating; it drops the Wi\u2011Fi signal frequently. The plastic housing also feels cheap and rattles when I move it.",
+        "reviewDate": "2025-06-15T10:00:00.000Z"
+      },
+      {
+        "userName": "Reviewer",
+        "rating": 2,
+        "title": "Limited EQ and poor app integration",
+        "comment": "There are only a few preset EQ settings, which don\u2019t let me personalize the sound. The companion app frequently crashes, preventing me from adjusting volume or playlists reliably.",
+        "reviewDate": "2025-06-15T10:00:00.000Z"
+      }
+    ]
+  }
+]

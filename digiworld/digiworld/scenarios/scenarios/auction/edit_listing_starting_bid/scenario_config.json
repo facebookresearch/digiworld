@@ -1,0 +1,12 @@
+{
+  "task_name": "Edit the listing for \"<title>\", change the starting bid to \"<startbid2>\"",
+  "app_name": "auction",
+  "scenario_class": "EditListingStartingBidScenario",
+  "parameters": [
+    "title",
+    "startbid2"
+  ],
+  "context_fields": [],
+  "additional_mockdata": true,
+  "description": "Edit an auction listing to change its starting bid amount."
+}

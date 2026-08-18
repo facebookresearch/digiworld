@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Apex Pro Carbon Road Bike",
+    "description": "Product: Apex Pro Carbon Road Bike",
+    "shortDescription": "Apex Pro Carbon Road Bike",
+    "rating": 4.0,
+    "reviewCount": 0,
+    "seller": "Test Seller",
+    "price": 29.99,
+    "discountedPrice": 29.99,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Sports & Outdoors",
+    "subcategoryId": 1,
+    "subcategoryName": "Equipment",
+    "inStock": true,
+    "stockCount": 50,
+    "imageUrl": "/test_1",
+    "specs": "{\"features\": \"Lightweight carbon fiber frame with adjustable tension\"}",
+    "tags": "[\"sports & outdoors\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

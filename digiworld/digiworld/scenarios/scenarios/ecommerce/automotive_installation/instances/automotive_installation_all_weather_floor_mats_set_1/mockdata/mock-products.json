@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "All-Weather Floor Mats Set",
+    "description": "Product: All-Weather Floor Mats Set",
+    "shortDescription": "All-Weather Floor Mats Set",
+    "rating": 4.0,
+    "reviewCount": 0,
+    "seller": "Test Seller",
+    "price": 29.99,
+    "discountedPrice": 29.99,
+    "discountPercent": 0,
+    "categoryId": 1,
+    "categoryName": "Automotive",
+    "subcategoryId": 1,
+    "subcategoryName": "Accessories",
+    "inStock": true,
+    "stockCount": 50,
+    "imageUrl": "/test_1",
+    "specs": "{\"installation\": \"No tools required - snap-on fit for quick installation.\"}",
+    "tags": "[\"automotive\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

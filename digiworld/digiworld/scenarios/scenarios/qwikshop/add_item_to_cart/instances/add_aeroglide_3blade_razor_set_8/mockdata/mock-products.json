@@ -1,0 +1,22 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "AeroGlide 3\u2011Blade Razor Set",
+    "description": "Premium shaving system with ergonomic handle, three precision blades, and a moisturizing strip.",
+    "shortDescription": "Premium razor set",
+    "price": 425.27,
+    "discountedPrice": 361.48,
+    "discountPercent": 15,
+    "rating": 4.2,
+    "reviewCount": 97,
+    "seller": "GroomPro",
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryName": "Men's Grooming",
+    "inStock": 1,
+    "stockCount": 146,
+    "imageUrl": "/product_5010",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

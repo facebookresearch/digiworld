@@ -1,0 +1,370 @@
+[
+  {
+    "id": "1",
+    "email": "brian.miller@example.com",
+    "password": "password123",
+    "firstName": "Brian",
+    "lastName": "Miller",
+    "displayName": "Brian Miller",
+    "avatar": "https://i.pravatar.cc/150?u=brian",
+    "role": "admin",
+    "settings": {
+      "theme": "light",
+      "language": "en",
+      "notifications": true,
+      "twoFactorEnabled": false
+    },
+    "emailSettings": {
+      "emailsPerPage": 40,
+      "autoReadReceipts": true,
+      "vacationAutoReplyEnabled": true,
+      "defaultReplyTo": "brian.miller@example.com",
+      "vacationAutoReplyMessage": "I am currently on vacation until next week."
+    },
+    "createdAt": "2024-08-03T10:20:29.153614Z"
+  },
+  {
+    "id": "2",
+    "email": "daniel.santana@example.com",
+    "password": "password456",
+    "firstName": "Daniel",
+    "lastName": "Santana",
+    "displayName": "Daniel Santana",
+    "avatar": "https://i.pravatar.cc/150?u=daniel",
+    "role": "user",
+    "settings": {
+      "theme": "system",
+      "language": "en",
+      "notifications": false,
+      "twoFactorEnabled": false
+    },
+    "emailSettings": {
+      "emailsPerPage": 30,
+      "autoReadReceipts": true,
+      "vacationAutoReplyEnabled": true,
+      "defaultReplyTo": "daniel.santana@example.com",
+      "vacationAutoReplyMessage": "I am currently on vacation until next week."
+    },
+    "createdAt": "2024-01-21T04:23:56.201406Z",
+    "dateOfBirth": "1973-08-03"
+  },
+  {
+    "id": "3",
+    "email": "martin.christian@example.com",
+    "password": "123456",
+    "firstName": "Martin",
+    "lastName": "Christian",
+    "displayName": "Martin Christian",
+    "avatar": "https://i.pravatar.cc/150?u=martin",
+    "role": "user",
+    "settings": {
+      "theme": "system",
+      "language": "en",
+      "notifications": false,
+      "twoFactorEnabled": false
+    },
+    "emailSettings": {
+      "emailsPerPage": 25,
+      "autoReadReceipts": true,
+      "vacationAutoReplyEnabled": true,
+      "signature": "Best regards,\nMartin Christian",
+      "vacationAutoReplyMessage": "I am currently on vacation until next week."
+    },
+    "createdAt": "2024-03-25T11:04:25.639616Z",
+    "phoneNumber": "385-232-0619x61057",
+    "dateOfBirth": "1941-03-21"
+  },
+  {
+    "id": "4",
+    "email": "douglas.tyler@example.com",
+    "password": "password654",
+    "firstName": "Douglas",
+    "lastName": "Tyler",
+    "displayName": "Douglas Tyler",
+    "avatar": "https://i.pravatar.cc/150?u=douglas",
+    "role": "user",
+    "settings": {
+      "theme": "dark",
+      "language": "fr",
+      "notifications": false,
+      "twoFactorEnabled": false
+    },
+    "emailSettings": {
+      "emailsPerPage": 50,
+      "autoReadReceipts": true,
+      "vacationAutoReplyEnabled": false,
+      "signature": "Best regards,\nDouglas Tyler"
+    },
+    "createdAt": "2024-01-12T05:36:42.970595Z"
+  },
+  {
+    "id": "5",
+    "email": "rhonda.berry@example.com",
+    "password": "password123",
+    "firstName": "Rhonda",
+    "lastName": "Berry",
+    "displayName": "Rhonda Berry",
+    "avatar": "https://i.pravatar.cc/150?u=rhonda",
+    "role": "user",
+    "settings": {
+      "theme": "light",
+      "language": "en",
+      "notifications": false,
+      "twoFactorEnabled": false
+    },
+    "emailSettings": {
+      "emailsPerPage": 100,
+      "autoReadReceipts": false,
+      "vacationAutoReplyEnabled": false,
+      "signature": "Best regards,\nRhonda Berry"
+    },
+    "createdAt": "2024-05-20T08:31:27.732003Z",
+    "phoneNumber": "7452873989",
+    "dateOfBirth": "1963-07-09"
+  },
+  {
+    "id": "6",
+    "email": "kayla.hunt@example.com",
+    "password": "password321",
+    "firstName": "Kayla",
+    "lastName": "Hunt",
+    "displayName": "Kayla Hunt",
+    "avatar": "https://i.pravatar.cc/150?u=kayla",
+    "role": "user",
+    "settings": {
+      "theme": "system",
+      "language": "en",
+      "notifications": false,
+      "twoFactorEnabled": false
+    },
+    "emailSettings": {
+      "emailsPerPage": 100,
+      "autoReadReceipts": false,
+      "vacationAutoReplyEnabled": true,
+      "defaultReplyTo": "kayla.hunt@example.com",
+      "vacationAutoReplyMessage": "I am currently on vacation until next week."
+    },
+    "createdAt": "2024-12-28T06:41:35.981232Z"
+  },
+  {
+    "id": "7",
+    "email": "danielle.estrada@example.com",
+    "password": "password456",
+    "firstName": "Danielle",
+    "lastName": "Estrada",
+    "displayName": "Danielle Estrada",
+    "avatar": "https://i.pravatar.cc/150?u=danielle",
+    "role": "user",
+    "settings": {
+      "theme": "dark",
+      "language": "en",
+      "notifications": true,
+      "twoFactorEnabled": false
+    },
+    "emailSettings": {
+      "emailsPerPage": 25,
+      "autoReadReceipts": false,
+      "vacationAutoReplyEnabled": true,
+      "vacationAutoReplyMessage": "I am currently on vacation until next week."
+    },
+    "createdAt": "2025-04-15T20:41:29.225531Z",
+    "dateOfBirth": "1969-12-07"
+  },
+  {
+    "id": "8",
+    "email": "elizabeth.brooks@example.com",
+    "password": "password456",
+    "firstName": "Elizabeth",
+    "lastName": "Brooks",
+    "displayName": "Elizabeth Brooks",
+    "avatar": "https://i.pravatar.cc/150?u=elizabeth",
+    "role": "user",
+    "settings": {
+      "theme": "dark",
+      "language": "en",
+      "notifications": false,
+      "twoFactorEnabled": true
+    },
+    "emailSettings": {
+      "emailsPerPage": 30,
+      "autoReadReceipts": false,
+      "vacationAutoReplyEnabled": false,
+      "signature": "Best regards,\nElizabeth Brooks",
+      "defaultReplyTo": "elizabeth.brooks@example.com"
+    },
+    "createdAt": "2024-01-17T20:15:26.029386Z",
+    "dateOfBirth": "1989-07-02"
+  },
+  {
+    "id": "9",
+    "email": "howard.wilkins@example.com",
+    "password": "password654",
+    "firstName": "Howard",
+    "lastName": "Wilkins",
+    "displayName": "Howard Wilkins",
+    "avatar": "https://i.pravatar.cc/150?u=howard",
+    "role": "user",
+    "settings": {
+      "theme": "system",
+      "language": "en",
+      "notifications": true,
+      "twoFactorEnabled": false
+    },
+    "emailSettings": {
+      "emailsPerPage": 40,
+      "autoReadReceipts": false,
+      "vacationAutoReplyEnabled": false,
+      "signature": "Best regards,\nHoward Wilkins",
+      "defaultReplyTo": "howard.wilkins@example.com"
+    },
+    "createdAt": "2025-04-28T07:38:54.589302Z",
+    "dateOfBirth": "1982-06-27"
+  },
+  {
+    "id": "10",
+    "email": "george.rogers@example.com",
+    "password": "password321",
+    "firstName": "George",
+    "lastName": "Rogers",
+    "displayName": "George Rogers",
+    "avatar": "https://i.pravatar.cc/150?u=george",
+    "role": "user",
+    "settings": {
+      "theme": "dark",
+      "language": "en",
+      "notifications": true,
+      "twoFactorEnabled": true
+    },
+    "emailSettings": {
+      "emailsPerPage": 50,
+      "autoReadReceipts": true,
+      "vacationAutoReplyEnabled": false,
+      "signature": "Best regards,\nGeorge Rogers"
+    },
+    "createdAt": "2024-07-25T22:35:24.815678Z",
+    "phoneNumber": "776-295-0391"
+  },
+  {
+    "id": "11",
+    "email": "paula.bright@example.com",
+    "password": "password321",
+    "firstName": "Paula",
+    "lastName": "Bright",
+    "displayName": "Paula Bright",
+    "avatar": "https://i.pravatar.cc/150?u=paula",
+    "role": "user",
+    "settings": {
+      "theme": "light",
+      "language": "en",
+      "notifications": true,
+      "twoFactorEnabled": false
+    },
+    "emailSettings": {
+      "emailsPerPage": 50,
+      "autoReadReceipts": false,
+      "vacationAutoReplyEnabled": true,
+      "signature": "Best regards,\nPaula Bright",
+      "defaultReplyTo": "paula.bright@example.com",
+      "vacationAutoReplyMessage": "I am currently on vacation until next week."
+    },
+    "createdAt": "2024-08-02T15:00:23.565305Z",
+    "phoneNumber": "204.473.8722x87670"
+  },
+  {
+    "id": "12",
+    "email": "stephen.smith@example.com",
+    "password": "password321",
+    "firstName": "Stephen",
+    "lastName": "Smith",
+    "displayName": "Stephen Smith",
+    "avatar": "https://i.pravatar.cc/150?u=stephen",
+    "role": "user",
+    "settings": {
+      "theme": "dark",
+      "language": "en",
+      "notifications": true,
+      "twoFactorEnabled": true
+    },
+    "emailSettings": {
+      "emailsPerPage": 25,
+      "autoReadReceipts": false,
+      "vacationAutoReplyEnabled": false
+    },
+    "createdAt": "2025-02-26T14:41:35.578058Z",
+    "phoneNumber": "+1-846-360-1918x51160"
+  },
+  {
+    "id": "13",
+    "email": "amy.reid@example.com",
+    "password": "password456",
+    "firstName": "Amy",
+    "lastName": "Reid",
+    "displayName": "Amy Reid",
+    "avatar": "https://i.pravatar.cc/150?u=amy",
+    "role": "user",
+    "settings": {
+      "theme": "dark",
+      "language": "en",
+      "notifications": false,
+      "twoFactorEnabled": true
+    },
+    "emailSettings": {
+      "emailsPerPage": 30,
+      "autoReadReceipts": false,
+      "vacationAutoReplyEnabled": false,
+      "defaultReplyTo": "amy.reid@example.com"
+    },
+    "createdAt": "2024-01-16T09:55:18.293327Z",
+    "phoneNumber": "547-308-5650x26125",
+    "dateOfBirth": "1994-08-27"
+  },
+  {
+    "id": "14",
+    "email": "courtney.chang@example.com",
+    "password": "password321",
+    "firstName": "Courtney",
+    "lastName": "Chang",
+    "displayName": "Courtney Chang",
+    "avatar": "https://i.pravatar.cc/150?u=courtney",
+    "role": "user",
+    "settings": {
+      "theme": "light",
+      "language": "en",
+      "notifications": false,
+      "twoFactorEnabled": false
+    },
+    "emailSettings": {
+      "emailsPerPage": 50,
+      "autoReadReceipts": true,
+      "vacationAutoReplyEnabled": true,
+      "defaultReplyTo": "courtney.chang@example.com",
+      "vacationAutoReplyMessage": "I am currently on vacation until next week."
+    },
+    "createdAt": "2024-07-23T20:00:00.701466Z",
+    "dateOfBirth": "1956-10-18"
+  },
+  {
+    "id": "15",
+    "email": "robin.barton@example.com",
+    "password": "password321",
+    "firstName": "Robin",
+    "lastName": "Barton",
+    "displayName": "Robin Barton",
+    "avatar": "https://i.pravatar.cc/150?u=robin",
+    "role": "user",
+    "settings": {
+      "theme": "system",
+      "language": "en",
+      "notifications": false,
+      "twoFactorEnabled": true
+    },
+    "emailSettings": {
+      "emailsPerPage": 40,
+      "autoReadReceipts": true,
+      "vacationAutoReplyEnabled": true,
+      "defaultReplyTo": "robin.barton@example.com",
+      "vacationAutoReplyMessage": "I am currently on vacation until next week."
+    },
+    "createdAt": "2024-06-03T01:00:36.563385Z"
+  }
+]

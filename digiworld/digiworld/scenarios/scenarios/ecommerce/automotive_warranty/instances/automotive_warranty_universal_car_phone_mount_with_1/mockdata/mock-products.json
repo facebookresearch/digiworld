@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Universal Car Phone Mount with Dashboard Adhesive",
+    "description": "This universal phone mount attaches securely to any dashboard using a high-strength adhesive pad. Its 360-degree swivel arm lets you position your device for optimal viewing while driving. Made from ABS plastic, it resists heat and UV exposure for long-lasting performance.",
+    "shortDescription": "Secure dashboard phone mount with 360\u00b0 swivel and heat-resistant ABS.",
+    "rating": 3.0,
+    "reviewCount": 0,
+    "seller": "AutoGear Supplies",
+    "price": 1494.72,
+    "discountedPrice": 1031.36,
+    "discountPercent": 31,
+    "categoryId": 8,
+    "categoryName": "Automotive",
+    "subcategoryId": 57,
+    "subcategoryName": "Car Accessories",
+    "inStock": true,
+    "stockCount": 37,
+    "imageUrl": "/225_1",
+    "specs": "{\"material\": \"ABS plastic with silicone pad\", \"compatibility\": \"Universal smartphones up to 6.7 inches, LumaMobile and Nimbus OS\", \"dimensions\": \"2.8 x 2.5 x 1.2 inches\", \"weight\": \"0.15 lbs (68 g)\", \"warranty\": \"1-year limited\", \"madeIn\": \"China\"}",
+    "tags": "[\"car\", \"accessories\", \"automotive\", \"premium\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

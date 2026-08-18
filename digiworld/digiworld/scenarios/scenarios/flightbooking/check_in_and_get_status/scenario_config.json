@@ -1,0 +1,9 @@
+{
+  "task_name": "Check into my flight to \"<destination>\", then tell me the status of my flight to \"<destination>\"",
+  "app_name": "flightbooking",
+  "scenario_class": "CheckInAndGetStatusScenario",
+  "parameters": ["destination"],
+  "context_fields": [],
+  "description": "Check into a flight and then report its status.",
+  "additional_mockdata": true
+}

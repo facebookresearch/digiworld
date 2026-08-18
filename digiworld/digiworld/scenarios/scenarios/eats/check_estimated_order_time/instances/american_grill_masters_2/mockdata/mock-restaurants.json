@@ -1,0 +1,16 @@
+[
+  {
+    "id": 90001,
+    "name": "Grill Masters",
+    "description": "Enjoy our slow-smoked BBQ ribs slathered in our secret sweet and tangy sauce.",
+    "address": "118 Riverside Avenue, Minneapolis, MN 55401",
+    "latitude": 44.9778,
+    "longitude": -93.265,
+    "logo": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?auto=format&fit=facearea&w=128&h=128&facepad=2&q=80",
+    "rating": 3.8,
+    "deliveryFee": 3.77,
+    "minOrder": 7.0,
+    "deliveryRadius": 10,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

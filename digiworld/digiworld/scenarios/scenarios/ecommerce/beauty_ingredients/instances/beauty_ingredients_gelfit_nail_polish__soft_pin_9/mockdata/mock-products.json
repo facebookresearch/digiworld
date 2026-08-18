@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Gel\u2011Fit Nail Polish \u2013 Soft Pink",
+    "description": "A soft\u2011pink gel polish that offers a glossy finish and chip\u2011resistant wear for up to 7 days. Enriched with calcium to help protect natural nails. Comes with a quick\u2011dry top coat.",
+    "shortDescription": "Soft\u2011pink gel nail polish with chip\u2011resistant shine.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Polish Pro Studios",
+    "price": 677.59,
+    "discountedPrice": 494.64,
+    "discountPercent": 27,
+    "categoryId": 6,
+    "categoryName": "Beauty & Personal Care",
+    "subcategoryId": 46,
+    "subcategoryName": "Nail Care",
+    "inStock": true,
+    "stockCount": 190,
+    "imageUrl": "/182_1",
+    "specs": "{\"ingredients\": \"Butyl Acetate, Nitrocellulose, Pigments, Plasticizers, UV Filter\", \"skinType\": \"All\", \"volume\": \"10ml\", \"fragrance\": \"Soft Pink\", \"madeIn\": \"South Korea\", \"expiryPeriod\": \"24 months\"}",
+    "tags": "[\"personal\", \"nail\", \"beauty\", \"care\", \"popular\", \"top-rated\"]",
+    "isFeatured": false,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

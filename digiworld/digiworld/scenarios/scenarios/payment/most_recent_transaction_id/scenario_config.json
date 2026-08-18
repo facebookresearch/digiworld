@@ -1,0 +1,21 @@
+{
+  "task_name": "What is the transaction ID of my most recent transaction?",
+  "app_name": "payment",
+  "scenario_class": "MostRecentTransactionIdScenario",
+  "parameters": [],
+  "context_fields": [],
+  "description": "Verify the agent correctly reports the reference ID of the most recent transaction.",
+  "compatible_profiles": [
+    "big_spender",
+    "default",
+    "frozen_wallets",
+    "high_deposit",
+    "high_failure_rate",
+    "low_transfer",
+    "micro_payments",
+    "mostly_pending",
+    "recent_activity",
+    "savings_mode",
+    "sparse_contacts"
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "userId": "{{current_user_id}}",
+    "contactName": "Kaidaira Vespera",
+    "contactEmail": "kaidaira.vespera@nexuspay.com",
+    "contactPhone": "+13181241943",
+    "isEnrolled": 1,
+    "isFavorite": 0,
+    "lastSentAmount": null,
+    "lastSentDate": null,
+    "createdAt": "{{recent_timestamp}}"
+  }
+]

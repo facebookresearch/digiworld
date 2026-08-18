@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Satin Slip Evening Dress",
+    "description": "Elegant satin slip dress with a subtle sheen, featuring a deep V-neck and adjustable spaghetti straps. Ideal for evening events, the flowing silhouette drapes beautifully over the figure.",
+    "shortDescription": "Elegant satin slip dress with a deep V-neck.",
+    "rating": 4.0,
+    "reviewCount": 2,
+    "seller": "Velvet Orchid Designs",
+    "price": 247.04,
+    "discountedPrice": 222.34,
+    "discountPercent": 10,
+    "categoryId": 2,
+    "categoryName": "Clothing",
+    "subcategoryId": 10,
+    "subcategoryName": "Women's Dresses",
+    "inStock": true,
+    "stockCount": 124,
+    "imageUrl": "/38_1",
+    "specs": "{\"material\": \"100% satin\", \"careInstructions\": \"Dry clean only\", \"fit\": \"Fitted\", \"size\": \"S-XXL\", \"color\": \"Midnight black\", \"pattern\": \"Solid\"}",
+    "tags": "[\"clothing\", \"dresses\", \"womens\", \"top-rated\", \"high-quality\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

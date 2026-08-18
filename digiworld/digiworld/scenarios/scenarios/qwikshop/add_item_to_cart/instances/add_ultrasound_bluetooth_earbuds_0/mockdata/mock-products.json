@@ -1,0 +1,22 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "UltraSound Bluetooth Earbuds",
+    "description": "Compact true wireless earbuds delivering crystal\u2011clear sound and up to 24 hours of battery life.",
+    "shortDescription": "Wireless earbuds",
+    "price": 216.74,
+    "discountedPrice": 216.74,
+    "discountPercent": 0,
+    "rating": 3.9,
+    "reviewCount": 73,
+    "seller": "SoundWave Store",
+    "categoryName": "Electronics",
+    "subcategoryName": "Headphones",
+    "inStock": 1,
+    "stockCount": 106,
+    "imageUrl": "/product_2291",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

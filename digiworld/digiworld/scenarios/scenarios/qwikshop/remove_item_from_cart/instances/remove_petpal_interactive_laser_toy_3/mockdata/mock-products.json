@@ -1,0 +1,22 @@
+[
+  {
+    "id": 9903,
+    "name": "PetPal Interactive Laser Toy",
+    "description": "Automatic laser pointer that randomly moves to keep cats entertained for hours.",
+    "shortDescription": "Cat laser toy",
+    "price": 257.62,
+    "discountedPrice": 257.62,
+    "discountPercent": 0,
+    "rating": 3.2,
+    "reviewCount": 204,
+    "seller": "HappyPaws",
+    "categoryName": "Pet Supplies",
+    "subcategoryName": "Aquarium Supplies",
+    "inStock": 1,
+    "stockCount": 34,
+    "imageUrl": "/product_6881",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

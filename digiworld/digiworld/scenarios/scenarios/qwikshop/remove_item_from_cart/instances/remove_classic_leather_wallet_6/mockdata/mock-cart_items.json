@@ -1,0 +1,17 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "cartId": 1,
+    "userId": 1,
+    "productId": 9906,
+    "productName": "Classic Leather Wallet",
+    "productImage": "/product_9906",
+    "shortDescription": "Leather wallet",
+    "seller": "UrbanCraft",
+    "quantity": 2,
+    "price": 60.08,
+    "discountedPrice": 54.07,
+    "total": 108.14,
+    "inStock": 1
+  }
+]

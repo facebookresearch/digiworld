@@ -1,0 +1,42 @@
+[
+  {
+    "id": 754680120,
+    "title": "Gold 22k 18k Mixed Metal Art Deco Cocktail Ring with Emerald",
+    "description": "Art Deco cocktail ring set with a central emerald, crafted from 22k gold and 18k mixed metals, gently worn.",
+    "categoryId": 10,
+    "sellerId": "{{current_user_id}}",
+    "price": 977.3,
+    "auctionFlag": 1,
+    "status": "expired",
+    "quantity": 1,
+    "bidCount": 8,
+    "imageUrl": "https://example.com/images/gold-22k-18k-mixed-metal-art-deco-cocktail-ring-with-emerald.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 467.9,
+    "currentBid": 643.1,
+    "bidIncrement": 5.0,
+    "endTime": 1772424068,
+    "expired": 1
+  },
+  {
+    "id": 754680121,
+    "title": "Signed Original Sketch by Hayao Miyazaki \u2013 'Spirited Away' Concept Art",
+    "description": "Original sketch by Hayao Miyazaki for 'Spirited Away', signed on the back, framed under glass.",
+    "categoryId": 9,
+    "sellerId": "{{current_user_id}}",
+    "price": 1708.7,
+    "auctionFlag": 1,
+    "status": "expired",
+    "quantity": 1,
+    "bidCount": 8,
+    "imageUrl": "https://example.com/images/signed-original-sketch-by-hayao-miyazaki-\u2013-'spirited-away'-concept-art.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 571.33,
+    "currentBid": 975.73,
+    "bidIncrement": 5.0,
+    "endTime": 1772769668,
+    "expired": 1
+  }
+]

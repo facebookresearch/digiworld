@@ -1,0 +1,22 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "PetSafe Automatic Feeder",
+    "description": "A programmable, portion-controlled feeder that delivers fresh meals to your pet on a customizable schedule.",
+    "shortDescription": "Smart pet feeder",
+    "price": 55.91,
+    "discountedPrice": 55.91,
+    "discountPercent": 0,
+    "rating": 3.7,
+    "reviewCount": 89,
+    "seller": "Pawsome Products",
+    "categoryName": "Pet Supplies",
+    "subcategoryName": "Pet Health",
+    "inStock": 1,
+    "stockCount": 65,
+    "imageUrl": "/product_6514",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": 0
+  }
+]

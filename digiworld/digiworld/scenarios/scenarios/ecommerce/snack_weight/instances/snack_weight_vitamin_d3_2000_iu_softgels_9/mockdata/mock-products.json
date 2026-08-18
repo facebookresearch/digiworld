@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Vitamin D3 2000 IU Softgels",
+    "description": "Vitamin D3 softgels deliver 2000\u202fIU of cholecalciferol sourced from sustainable lanolin. Supports bone health, calcium absorption, and immune function, especially during low\u2011sunlight months. The softgels are gelatin\u2011free and suitable for vegetarians.",
+    "shortDescription": "High\u2011strength Vitamin D3 softgels for bone and immune health.",
+    "rating": 0,
+    "reviewCount": 0,
+    "seller": "Sunrise Wellness Co.",
+    "price": 1689.88,
+    "discountedPrice": 1166.02,
+    "discountPercent": 31,
+    "categoryId": 9,
+    "categoryName": "Health & Wellness",
+    "subcategoryId": 63,
+    "subcategoryName": "Vitamins",
+    "inStock": true,
+    "stockCount": 39,
+    "imageUrl": "/251_1",
+    "specs": "{\"ingredients\": \"Vitamin D3 (Cholecalciferol) 2000 IU, Olive Oil, Gelatin, Vitamin E\", \"dosage\": \"1 softgel daily with meal\", \"weight\": \"90 softgels (45g)\", \"expiryPeriod\": \"30 months\", \"madeIn\": \"Canada\", \"certifications\": \"Non-GMO, GMP, USP Verified\"}",
+    "tags": "[\"wellness\", \"health\", \"vitamins\", \"best\", \"popular\"]",
+    "isFeatured": true,
+    "dateAdded": "2025-06-15 12:00:00.000"
+  }
+]

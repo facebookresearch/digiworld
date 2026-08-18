@@ -1,0 +1,19 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "Riverside Garage",
+    "description": "Parking zone C3D4E",
+    "latitude": 40.721739,
+    "longitude": -73.984562,
+    "zoneCode": "C3D4E",
+    "operator": "City Parking Authority",
+    "zoneType": "metered",
+    "capacity": 73,
+    "rateCurrency": "USD",
+    "rateMultiplier": 1.22,
+    "isActive": 1,
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "metadata": null
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "task_name": "What's the material of the <item> automotive item?",
+  "app_name": "ecommerce",
+  "scenario_class": "AutomotiveMaterialScenario",
+  "parameters": ["item"],
+  "context_fields": [],
+  "description": "Retrieve the material of an automotive product"
+}

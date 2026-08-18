@@ -1,0 +1,25 @@
+[
+  {
+    "id": "{{auto_id}}",
+    "name": "FitPulse Pro Smartwatch",
+    "description": "FitPulse Pro Smartwatch - premium quality product.",
+    "shortDescription": "FitPulse Pro Smartwatch.",
+    "rating": 4.3,
+    "reviewCount": 0,
+    "seller": "MockSeller",
+    "price": 149.99,
+    "discountedPrice": 119.99,
+    "discountPercent": 20,
+    "categoryId": 1,
+    "categoryName": "Electronics",
+    "subcategoryId": 0,
+    "subcategoryName": "Smartwatches",
+    "inStock": true,
+    "stockCount": 100,
+    "imageUrl": "/mock_darkcart_smartwatch_3_0",
+    "specs": "{}",
+    "tags": "[]",
+    "isFeatured": false,
+    "dateAdded": "2025-01-01 12:00:00.000"
+  }
+]
