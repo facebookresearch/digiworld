@@ -1,6 +1,6 @@
 # Copyright (c) Meta Platforms, Inc. and affiliates.
 from digiworld.scenarios.verification import ComposableScenario
-from digiworld.scenarios.scenarios.ryde.base_scenario import RydeScenario
+from digiworld.scenarios.scenarios.ryde.base_scenario import RydeScenario, canonical_payment_name
 
 _TYPE_MAP = {
     "paypal": "digital_wallet",
@@ -12,7 +12,7 @@ class AddDefaultPaymentMethodScenario(RydeScenario, ComposableScenario):
     """Verify a new payment method was added and set as default."""
 
     def _get_checks(self, state_path):
-        expected_type = _TYPE_MAP.get(self.payment_type.lower())
+        expected_type = _TYPE_MAP.get(canonical_payment_name(self.payment_type))
         if not expected_type:
             raise ValueError(f"Unknown payment_type: {self.payment_type}")
 

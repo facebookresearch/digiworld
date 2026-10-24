@@ -65,6 +65,19 @@ class TestAddPaymentMethod(unittest.TestCase):
             self.assertTrue(checks["payment_method_added"])
             self.assertTrue(checks["correct_type"])
 
+    def test_pass_add_paylink_alias(self):
+        # instances name the wallet "PayLink"; the app stores its own provider name
+        with tempfile.TemporaryDirectory() as init_dir, tempfile.TemporaryDirectory() as final_dir:
+            _make_db(init_dir, [])
+            _make_db(final_dir, [
+                ("INSERT INTO user_payment_methods (user_id, type, provider) VALUES (?, ?, ?)",
+                 (1, "digital_wallet", "PayPal")),
+            ])
+            scenario = self._make_scenario("PayLink", init_dir)
+            checks = scenario._get_checks(final_dir)
+            self.assertTrue(checks["payment_method_added"])
+            self.assertTrue(checks["correct_type"])
+
     def test_pass_add_credit_card(self):
         with tempfile.TemporaryDirectory() as init_dir, tempfile.TemporaryDirectory() as final_dir:
             _make_db(init_dir, [
