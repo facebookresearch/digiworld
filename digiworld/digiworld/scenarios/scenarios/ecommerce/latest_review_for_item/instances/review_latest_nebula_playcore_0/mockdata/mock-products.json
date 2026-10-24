@@ -23,6 +23,7 @@
     "dateAdded": "2025-06-15 12:00:00.000",
     "reviews": [
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 5,
         "title": "Stunning Graphics and Seamless Performance",
@@ -30,6 +31,7 @@
         "reviewDate": "2025-08-05T21:25:11.544524Z"
       },
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 5,
         "title": "Best Console Experience Ever",

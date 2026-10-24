@@ -23,6 +23,7 @@
     "dateAdded": "2025-06-15 12:00:00.000",
     "reviews": [
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 3,
         "title": "Solid Coverage, But Some Flaws",

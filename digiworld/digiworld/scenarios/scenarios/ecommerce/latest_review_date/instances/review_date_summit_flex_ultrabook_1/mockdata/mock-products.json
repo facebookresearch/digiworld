@@ -23,6 +23,7 @@
     "dateAdded": "2025-06-15 12:00:00.000",
     "reviews": [
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 3,
         "title": "Decent performance but some quirks",
@@ -30,6 +31,7 @@
         "reviewDate": "2025-06-15T10:00:00.000Z"
       },
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 1,
         "title": "Disappointing build quality and speed",
@@ -37,6 +39,7 @@
         "reviewDate": "2025-06-15T10:00:00.000Z"
       },
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 4,
         "title": "Sleek design and solid speed",

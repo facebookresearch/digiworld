@@ -23,6 +23,7 @@
     "dateAdded": "2025-06-15 12:00:00.000",
     "reviews": [
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 3,
         "title": "Decent toaster but uneven browning",
@@ -30,6 +31,7 @@
         "reviewDate": "2025-09-11T22:39:31.814865Z"
       },
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 5,
         "title": "Perfect compact toaster for daily use",
@@ -37,6 +39,7 @@
         "reviewDate": "2026-01-04T11:26:37.814870Z"
       },
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 2,
         "title": "Disappointing performance and flimsy construction",
@@ -44,6 +47,7 @@
         "reviewDate": "2025-05-04T11:06:24.814875Z"
       },
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 5,
         "title": "Reliable toast every morning, highly recommend",
@@ -51,6 +55,7 @@
         "reviewDate": "2025-07-26T15:26:23.814880Z"
       },
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 3,
         "title": "Good looks but average toasting",

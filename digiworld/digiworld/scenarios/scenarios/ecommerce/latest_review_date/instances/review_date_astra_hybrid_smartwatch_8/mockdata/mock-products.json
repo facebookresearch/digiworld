@@ -23,6 +23,7 @@
     "dateAdded": "2025-06-15 12:00:00.000",
     "reviews": [
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 5,
         "title": "Sleek Design, Powerful Hybrid Features",
@@ -30,6 +31,7 @@
         "reviewDate": "2025-06-15T10:00:00.000Z"
       },
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 5,
         "title": "All-Day Battery and Accurate Tracking",
@@ -37,6 +39,7 @@
         "reviewDate": "2025-06-15T10:00:00.000Z"
       },
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 2,
         "title": "Disappointed by Inconsistent Syncing",

@@ -23,6 +23,7 @@
     "dateAdded": "2025-06-15 12:00:00.000",
     "reviews": [
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 5,
         "title": "Stunning Performance and Sleek Design",
@@ -30,6 +31,7 @@
         "reviewDate": "2025-05-08T16:13:34.814031Z"
       },
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 2,
         "title": "Disappointing Battery Life and Lag",
@@ -37,6 +39,7 @@
         "reviewDate": "2026-02-16T09:23:11.814037Z"
       },
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 4,
         "title": "Great Graphics, Minor UI Quirks",
@@ -44,6 +47,7 @@
         "reviewDate": "2026-03-02T15:50:32.814043Z"
       },
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 4,
         "title": "Fast Load Times, Immersive Audio",
