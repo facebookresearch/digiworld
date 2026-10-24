@@ -11,12 +11,8 @@
   },
   "compatible_profiles": [
     "bulk_quantity",
-    "default",
     "heavy_discounts",
-    "high_order_volume",
-    "large_orders",
-    "new_user",
-    "premium_products"
+    "new_user"
   ],
   "metadata": {
     "created_at": "2026-04-01T21:19:59.676340+00:00"

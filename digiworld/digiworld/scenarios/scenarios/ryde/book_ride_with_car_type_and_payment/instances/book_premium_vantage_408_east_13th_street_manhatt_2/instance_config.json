@@ -6,10 +6,7 @@
     "payment_method": "CardNetwork"
   },
   "compatible_profiles": [
-    "default",
-    "high_rated_drivers",
-    "inactive_users",
-    "new_user"
+    "inactive_users"
   ],
   "metadata": {
     "created_at": "2026-03-02T02:13:42.696680+00:00"

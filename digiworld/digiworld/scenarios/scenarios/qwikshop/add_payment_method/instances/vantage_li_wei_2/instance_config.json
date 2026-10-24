@@ -6,10 +6,6 @@
     "expirationYear": "28"
   },
   "compatible_profiles": [
-    "bulk_quantity",
-    "empty_cart",
-    "full_cart",
-    "low_stock",
     "new_user"
   ],
   "metadata": {

@@ -3,10 +3,6 @@
     "transactionType": "bid_win"
   },
   "compatible_profiles": [
-    "auction_heavy",
-    "budget_items",
-    "high_bid_volume",
-    "new_seller",
     "power_seller"
   ],
   "metadata": {

@@ -1875,6 +1875,37 @@
             }
           },
           {
+            "instance_name": "play_hip_hop_4",
+            "config": {
+              "parameters": {
+                "genre": "Hip-Hop"
+              },
+              "compatible_profiles": [
+                "default",
+                "genre_focused",
+                "high_rated_content",
+                "large_playlists",
+                "low_engagement",
+                "minimal_playlists",
+                "new_user",
+                "playlist_heavy",
+                "power_listener",
+                "recent_activity",
+                "viral_songs"
+              ],
+              "metadata": {
+                "created_at": "2026-03-13T03:59:52.461259+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
             "instance_name": "play_jazz_3",
             "config": {
               "parameters": {
@@ -1926,68 +1957,6 @@
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:04.615215+00:00"
-              },
-              "additional_mockdata": false,
-              "validation": {
-                "validated": false,
-                "last_validated": null,
-                "validation_notes": "Generated automatically - requires validation",
-                "validated_by": null
-              }
-            }
-          },
-          {
-            "instance_name": "play_ambient_4",
-            "config": {
-              "parameters": {
-                "genre": "Ambient"
-              },
-              "compatible_profiles": [
-                "default",
-                "genre_focused",
-                "high_rated_content",
-                "large_playlists",
-                "low_engagement",
-                "minimal_playlists",
-                "new_user",
-                "playlist_heavy",
-                "power_listener",
-                "recent_activity",
-                "viral_songs"
-              ],
-              "metadata": {
-                "created_at": "2026-03-13T03:59:52.461259+00:00"
-              },
-              "additional_mockdata": false,
-              "validation": {
-                "validated": false,
-                "last_validated": null,
-                "validation_notes": "Generated automatically - requires validation",
-                "validated_by": null
-              }
-            }
-          },
-          {
-            "instance_name": "play_experimental_7",
-            "config": {
-              "parameters": {
-                "genre": "Experimental"
-              },
-              "compatible_profiles": [
-                "default",
-                "genre_focused",
-                "high_rated_content",
-                "large_playlists",
-                "low_engagement",
-                "minimal_playlists",
-                "new_user",
-                "playlist_heavy",
-                "power_listener",
-                "recent_activity",
-                "viral_songs"
-              ],
-              "metadata": {
-                "created_at": "2026-03-13T04:00:01.376910+00:00"
               },
               "additional_mockdata": false,
               "validation": {
@@ -2081,6 +2050,37 @@
               ],
               "metadata": {
                 "created_at": "2026-03-13T03:59:55.239758+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "play_classical_7",
+            "config": {
+              "parameters": {
+                "genre": "Classical"
+              },
+              "compatible_profiles": [
+                "default",
+                "genre_focused",
+                "high_rated_content",
+                "large_playlists",
+                "low_engagement",
+                "minimal_playlists",
+                "new_user",
+                "playlist_heavy",
+                "power_listener",
+                "recent_activity",
+                "viral_songs"
+              ],
+              "metadata": {
+                "created_at": "2026-03-13T04:00:01.376910+00:00"
               },
               "additional_mockdata": false,
               "validation": {
@@ -2571,11 +2571,11 @@
         "module": "digiworld.scenarios.scenarios.music.delete_playlist_and_play_genre.scenario",
         "instances": [
           {
-            "instance_name": "del_activity_yoga_flow_sessions_2_play_ambient",
+            "instance_name": "del_temporal_late_night_lounge_1_play_reggae",
             "config": {
               "parameters": {
-                "name": "Yoga Flow Sessions",
-                "genre": "Ambient"
+                "name": "Late Night Lounge",
+                "genre": "Reggae"
               },
               "compatible_profiles": [
                 "default",
@@ -2591,7 +2591,7 @@
                 "viral_songs"
               ],
               "metadata": {
-                "created_at": "2026-04-11T15:51:15.506711+00:00"
+                "created_at": "2026-04-11T15:51:15.524796+00:00"
               },
               "additional_mockdata": true,
               "validation": {
@@ -2731,6 +2731,38 @@
             }
           },
           {
+            "instance_name": "del_activity_yoga_flow_sessions_2_play_hip_hop",
+            "config": {
+              "parameters": {
+                "name": "Yoga Flow Sessions",
+                "genre": "Hip-Hop"
+              },
+              "compatible_profiles": [
+                "default",
+                "genre_focused",
+                "high_rated_content",
+                "large_playlists",
+                "low_engagement",
+                "minimal_playlists",
+                "new_user",
+                "playlist_heavy",
+                "power_listener",
+                "recent_activity",
+                "viral_songs"
+              ],
+              "metadata": {
+                "created_at": "2026-04-11T15:51:15.506711+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
             "instance_name": "del_personal_lenas_chill_mix_6_play_pop",
             "config": {
               "parameters": {
@@ -2827,38 +2859,6 @@
             }
           },
           {
-            "instance_name": "del_mood_rainy_day_reflections_9_play_experimental",
-            "config": {
-              "parameters": {
-                "name": "Rainy Day Reflections",
-                "genre": "Experimental"
-              },
-              "compatible_profiles": [
-                "default",
-                "genre_focused",
-                "high_rated_content",
-                "large_playlists",
-                "low_engagement",
-                "minimal_playlists",
-                "new_user",
-                "playlist_heavy",
-                "power_listener",
-                "recent_activity",
-                "viral_songs"
-              ],
-              "metadata": {
-                "created_at": "2026-04-11T15:51:15.516148+00:00"
-              },
-              "additional_mockdata": true,
-              "validation": {
-                "validated": false,
-                "last_validated": null,
-                "validation_notes": "Generated automatically - requires validation",
-                "validated_by": null
-              }
-            }
-          },
-          {
             "instance_name": "del_genre_retro_disco_nights_4_play_electronic",
             "config": {
               "parameters": {
@@ -2923,6 +2923,38 @@
             }
           },
           {
+            "instance_name": "del_mood_rainy_day_reflections_9_play_classical",
+            "config": {
+              "parameters": {
+                "name": "Rainy Day Reflections",
+                "genre": "Classical"
+              },
+              "compatible_profiles": [
+                "default",
+                "genre_focused",
+                "high_rated_content",
+                "large_playlists",
+                "low_engagement",
+                "minimal_playlists",
+                "new_user",
+                "playlist_heavy",
+                "power_listener",
+                "recent_activity",
+                "viral_songs"
+              ],
+              "metadata": {
+                "created_at": "2026-04-11T15:51:15.516148+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
             "instance_name": "del_temporal_golden_hour_glow_3_play_jazz",
             "config": {
               "parameters": {
@@ -2944,38 +2976,6 @@
               ],
               "metadata": {
                 "created_at": "2026-04-11T15:51:15.521648+00:00"
-              },
-              "additional_mockdata": true,
-              "validation": {
-                "validated": false,
-                "last_validated": null,
-                "validation_notes": "Generated automatically - requires validation",
-                "validated_by": null
-              }
-            }
-          },
-          {
-            "instance_name": "del_temporal_late_night_lounge_1_play_ambient",
-            "config": {
-              "parameters": {
-                "name": "Late Night Lounge",
-                "genre": "Ambient"
-              },
-              "compatible_profiles": [
-                "default",
-                "genre_focused",
-                "high_rated_content",
-                "large_playlists",
-                "low_engagement",
-                "minimal_playlists",
-                "new_user",
-                "playlist_heavy",
-                "power_listener",
-                "recent_activity",
-                "viral_songs"
-              ],
-              "metadata": {
-                "created_at": "2026-04-11T15:51:15.524796+00:00"
               },
               "additional_mockdata": true,
               "validation": {
@@ -5039,7 +5039,7 @@
             "instance_name": "review_lumen_vista_pro_first_impress_6",
             "config": {
               "parameters": {
-                "title": "Apple Vista Pro First Impressions & Hands\u2011On",
+                "title": "Lumen Vista Pro First Impressions & Hands\u2011On",
                 "reply_text": "Battery lasts about 2 hours with mixed use; hope that helps."
               },
               "compatible_profiles": [
@@ -6810,7 +6810,7 @@
             "config": {
               "parameters": {
                 "metric": "comments",
-                "title": "Apple LumaBuds Pro 2 In\u2011Depth Review"
+                "title": "Lumen LumaBuds Pro 2 In\u2011Depth Review"
               },
               "compatible_profiles": [
                 "comments_disabled",
@@ -9029,7 +9029,7 @@
             "instance_name": "review_lumen_lumabuds_pro_2_honest_fi_3",
             "config": {
               "parameters": {
-                "title": "Apple LumaBuds Pro 2: Honest First\u2011Week Review",
+                "title": "Lumen LumaBuds Pro 2: Honest First\u2011Week Review",
                 "order": "latest"
               },
               "compatible_profiles": [
@@ -9317,7 +9317,7 @@
             "instance_name": "review_lumen_lumabuds_pro_2_honest_fi_6",
             "config": {
               "parameters": {
-                "title": "Apple LumaBuds Pro 2: Honest First\u2011Impression Review"
+                "title": "Lumen LumaBuds Pro 2: Honest First\u2011Impression Review"
               },
               "compatible_profiles": [
                 "comments_disabled",
@@ -9745,7 +9745,7 @@
             "instance_name": "review_lumen_vista_pro_first_impress_6",
             "config": {
               "parameters": {
-                "title": "Apple Vista Pro First Impressions & Hands\u2011On",
+                "title": "Lumen Vista Pro First Impressions & Hands\u2011On",
                 "reply_text": "Battery lasts about 2 hours with mixed use; hope that helps."
               },
               "compatible_profiles": [
@@ -15143,10 +15143,6 @@
                 "transactionType": "bid_win"
               },
               "compatible_profiles": [
-                "auction_heavy",
-                "budget_items",
-                "high_bid_volume",
-                "new_seller",
                 "power_seller"
               ],
               "metadata": {
@@ -15168,7 +15164,6 @@
                 "transactionType": "purchase"
               },
               "compatible_profiles": [
-                "budget_items",
                 "buy_now_focus",
                 "default",
                 "failed_payments",
@@ -15195,7 +15190,6 @@
                 "transactionType": "purchase"
               },
               "compatible_profiles": [
-                "budget_items",
                 "buy_now_focus",
                 "default",
                 "failed_payments",
@@ -15222,7 +15216,6 @@
                 "transactionType": "purchase"
               },
               "compatible_profiles": [
-                "budget_items",
                 "buy_now_focus",
                 "default",
                 "failed_payments",
@@ -15249,10 +15242,6 @@
                 "transactionType": "bid_win"
               },
               "compatible_profiles": [
-                "auction_heavy",
-                "budget_items",
-                "high_bid_volume",
-                "new_seller",
                 "power_seller"
               ],
               "metadata": {
@@ -15274,10 +15263,6 @@
                 "transactionType": "bid_win"
               },
               "compatible_profiles": [
-                "auction_heavy",
-                "budget_items",
-                "high_bid_volume",
-                "new_seller",
                 "power_seller"
               ],
               "metadata": {
@@ -15299,10 +15284,6 @@
                 "transactionType": "bid_win"
               },
               "compatible_profiles": [
-                "auction_heavy",
-                "budget_items",
-                "high_bid_volume",
-                "new_seller",
                 "power_seller"
               ],
               "metadata": {
@@ -15324,10 +15305,6 @@
                 "transactionType": "bid_win"
               },
               "compatible_profiles": [
-                "auction_heavy",
-                "budget_items",
-                "high_bid_volume",
-                "new_seller",
                 "power_seller"
               ],
               "metadata": {
@@ -15349,7 +15326,6 @@
                 "transactionType": "purchase"
               },
               "compatible_profiles": [
-                "budget_items",
                 "buy_now_focus",
                 "default",
                 "failed_payments",
@@ -15376,7 +15352,6 @@
                 "transactionType": "purchase"
               },
               "compatible_profiles": [
-                "budget_items",
                 "buy_now_focus",
                 "default",
                 "failed_payments",
@@ -15403,7 +15378,6 @@
                 "transactionType": "purchase"
               },
               "compatible_profiles": [
-                "budget_items",
                 "buy_now_focus",
                 "default",
                 "failed_payments",
@@ -15884,9 +15858,7 @@
                 "auction_heavy",
                 "budget_items",
                 "buy_now_focus",
-                "default",
                 "ending_soon",
-                "failed_payments",
                 "high_bid_volume",
                 "new_seller",
                 "power_seller",
@@ -15916,9 +15888,7 @@
                 "auction_heavy",
                 "budget_items",
                 "buy_now_focus",
-                "default",
                 "ending_soon",
-                "failed_payments",
                 "high_bid_volume",
                 "new_seller",
                 "power_seller",
@@ -15948,9 +15918,7 @@
                 "auction_heavy",
                 "budget_items",
                 "buy_now_focus",
-                "default",
                 "ending_soon",
-                "failed_payments",
                 "high_bid_volume",
                 "new_seller",
                 "power_seller",
@@ -15980,9 +15948,7 @@
                 "auction_heavy",
                 "budget_items",
                 "buy_now_focus",
-                "default",
                 "ending_soon",
-                "failed_payments",
                 "high_bid_volume",
                 "new_seller",
                 "power_seller",
@@ -16012,9 +15978,7 @@
                 "auction_heavy",
                 "budget_items",
                 "buy_now_focus",
-                "default",
                 "ending_soon",
-                "failed_payments",
                 "high_bid_volume",
                 "new_seller",
                 "power_seller",
@@ -16044,9 +16008,7 @@
                 "auction_heavy",
                 "budget_items",
                 "buy_now_focus",
-                "default",
                 "ending_soon",
-                "failed_payments",
                 "high_bid_volume",
                 "new_seller",
                 "power_seller",
@@ -16790,7 +16752,7 @@
             "instance_name": "bidincr_historic_1903_model_t_fairmont__f_7",
             "config": {
               "parameters": {
-                "title": "Historic 1903 Model T Ford \u2013 Fully Restored, Running Condition",
+                "title": "Historic 1903 Model T Fairmont \u2013 Fully Restored, Running Condition",
                 "BidIncrement": "10.0"
               },
               "compatible_profiles": [
@@ -17021,7 +16983,7 @@
             "config": {
               "parameters": {
                 "category": "Electronics",
-                "title": "Apple LumaPhone 15 Pro Max \u2013 256GB \u2013 Pacific Blue, Unlocked",
+                "title": "Lumen LumaPhone 15 Pro Max \u2013 256GB \u2013 Pacific Blue, Unlocked",
                 "startbid": "359.43",
                 "days": "12"
               },
@@ -17560,7 +17522,7 @@
             "config": {
               "parameters": {
                 "category": "Electronics",
-                "title": "Apple LumaPhone 15 Pro Max \u2013 256GB \u2013 Pacific Blue, Unlocked",
+                "title": "Lumen LumaPhone 15 Pro Max \u2013 256GB \u2013 Pacific Blue, Unlocked",
                 "startbid": "359.43",
                 "days": "12"
               },
@@ -17902,8 +17864,7 @@
                 "auction_heavy",
                 "default",
                 "ending_soon",
-                "high_bid_volume",
-                "power_seller"
+                "high_bid_volume"
               ],
               "metadata": {
                 "created_at": "2026-04-11T12:00:00.000000+00:00"
@@ -17927,8 +17888,7 @@
                 "auction_heavy",
                 "default",
                 "ending_soon",
-                "high_bid_volume",
-                "power_seller"
+                "high_bid_volume"
               ],
               "metadata": {
                 "created_at": "2026-04-11T12:00:00.000000+00:00"
@@ -17952,8 +17912,7 @@
                 "auction_heavy",
                 "default",
                 "ending_soon",
-                "high_bid_volume",
-                "power_seller"
+                "high_bid_volume"
               ],
               "metadata": {
                 "created_at": "2026-04-11T12:00:00.000000+00:00"
@@ -17977,8 +17936,7 @@
                 "auction_heavy",
                 "default",
                 "ending_soon",
-                "high_bid_volume",
-                "power_seller"
+                "high_bid_volume"
               ],
               "metadata": {
                 "created_at": "2026-04-11T12:00:00.000000+00:00"
@@ -18002,8 +17960,7 @@
                 "auction_heavy",
                 "default",
                 "ending_soon",
-                "high_bid_volume",
-                "power_seller"
+                "high_bid_volume"
               ],
               "metadata": {
                 "created_at": "2026-04-11T12:00:00.000000+00:00"
@@ -18027,8 +17984,7 @@
                 "auction_heavy",
                 "default",
                 "ending_soon",
-                "high_bid_volume",
-                "power_seller"
+                "high_bid_volume"
               ],
               "metadata": {
                 "created_at": "2026-04-11T12:00:00.000000+00:00"
@@ -20174,7 +20130,7 @@
             "instance_name": "to_auction_lumen_lumaphone_13_pro_max_256gb_1",
             "config": {
               "parameters": {
-                "title": "Apple LumaPhone 13 Pro Max 256GB \u2013 Unlocked \u2013 $799",
+                "title": "Lumen LumaPhone 13 Pro Max 256GB \u2013 Unlocked \u2013 $799",
                 "startBid": "19.75"
               },
               "compatible_profiles": [
@@ -24245,16 +24201,11 @@
                 "phone_number": "+1-555-234-5678"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -24283,16 +24234,11 @@
                 "phone_number": "+1-555-0198"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -24321,16 +24267,11 @@
                 "phone_number": "+1-555-0123"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -24359,16 +24300,11 @@
                 "phone_number": "+1-555-2743"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -24397,16 +24333,11 @@
                 "phone_number": "+1-555-123-4567"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -24435,16 +24366,11 @@
                 "phone_number": "+1-555-334-7890"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -24473,16 +24399,11 @@
                 "phone_number": "+1-555-5678"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -24511,16 +24432,11 @@
                 "phone_number": "+1-555-1617"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -24549,16 +24465,11 @@
                 "phone_number": "+1-555-6382"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -24587,16 +24498,11 @@
                 "phone_number": "+1-555-1415"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -24625,16 +24531,11 @@
                 "phone_number": "+1-555-345-6789"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -24663,16 +24564,11 @@
                 "phone_number": "+1-555-1213"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -24701,16 +24597,11 @@
                 "phone_number": "+1-555-0789"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -24739,16 +24630,11 @@
                 "phone_number": "+1-555-678-9012"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -24777,16 +24663,11 @@
                 "phone_number": "+1-555-567-8901"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -24815,16 +24696,11 @@
                 "phone_number": "+1-555-2021"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -24853,16 +24729,11 @@
                 "phone_number": "+1-555-1011"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -24891,16 +24762,11 @@
                 "phone_number": "+1-555-9012"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -24929,16 +24795,11 @@
                 "phone_number": "+1-555-1819"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -24967,16 +24828,11 @@
                 "phone_number": "+1-555-456-7890"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -25005,16 +24861,11 @@
                 "phone_number": "+1-555-890-3456"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -25043,16 +24894,11 @@
                 "phone_number": "+1-555-2223"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -27663,16 +27509,11 @@
                 "phone_number": "(555) 234-5678"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -27701,16 +27542,11 @@
                 "phone_number": "(555) 100-0198"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -27739,16 +27575,11 @@
                 "phone_number": "(555) 100-0123"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -27777,16 +27608,11 @@
                 "phone_number": "(555) 100-2743"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -27815,16 +27641,11 @@
                 "phone_number": "(555) 123-4567"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -27853,16 +27674,11 @@
                 "phone_number": "(555) 334-7890"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -27891,16 +27707,11 @@
                 "phone_number": "(555) 100-5678"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -27929,16 +27740,11 @@
                 "phone_number": "(555) 100-1617"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -27967,16 +27773,11 @@
                 "phone_number": "(555) 100-6382"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -28005,16 +27806,11 @@
                 "phone_number": "(555) 100-1415"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -28043,16 +27839,11 @@
                 "phone_number": "(555) 345-6789"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -28081,16 +27872,11 @@
                 "phone_number": "(555) 100-1213"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -28119,16 +27905,11 @@
                 "phone_number": "(555) 100-0789"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -28157,16 +27938,11 @@
                 "phone_number": "(555) 678-9012"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -28195,16 +27971,11 @@
                 "phone_number": "(555) 567-8901"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -28233,16 +28004,11 @@
                 "phone_number": "(555) 100-2021"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -28271,16 +28037,11 @@
                 "phone_number": "(555) 100-1011"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -28309,16 +28070,11 @@
                 "phone_number": "(555) 100-9012"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -28347,16 +28103,11 @@
                 "phone_number": "(555) 100-1819"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -28385,16 +28136,11 @@
                 "phone_number": "(555) 456-7890"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -28423,16 +28169,11 @@
                 "phone_number": "(555) 890-3456"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -28461,16 +28202,11 @@
                 "phone_number": "(555) 100-2223"
               },
               "compatible_profiles": [
-                "bulk_quantity",
                 "default",
                 "empty_cart",
                 "full_cart",
-                "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
-                "low_stock",
                 "new_user",
-                "power_shopper",
                 "premium_products"
               ],
               "metadata": {
@@ -28887,17 +28623,11 @@
                 "expiry_year": "30"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-02T02:08:40.269405+00:00"
@@ -28921,17 +28651,11 @@
                 "expiry_year": "27"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:27.130891+00:00"
@@ -28955,17 +28679,11 @@
                 "expiry_year": "30"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:52.718537+00:00"
@@ -28989,17 +28707,11 @@
                 "expiry_year": "28"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:46.499242+00:00"
@@ -29023,17 +28735,11 @@
                 "expiry_year": "2030"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T04:09:29.789221+00:00"
@@ -29057,17 +28763,11 @@
                 "expiry_year": "30"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:33.534750+00:00"
@@ -29091,17 +28791,11 @@
                 "expiry_year": "27"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-02T02:09:15.249845+00:00"
@@ -29125,17 +28819,11 @@
                 "expiry_year": "30"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T03:59:50.420829+00:00"
@@ -29159,17 +28847,11 @@
                 "expiry_year": "2027"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T04:10:50.306635+00:00"
@@ -29193,17 +28875,11 @@
                 "expiry_year": "27"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:39.970957+00:00"
@@ -29227,17 +28903,11 @@
                 "expiry_year": "28"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:17.446979+00:00"
@@ -29261,17 +28931,11 @@
                 "expiry_year": "2027"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T04:15:03.720309+00:00"
@@ -29295,17 +28959,11 @@
                 "expiry_year": "2028"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T02:18:09.700734+00:00"
@@ -29329,17 +28987,11 @@
                 "expiry_year": "29"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:57.858937+00:00"
@@ -29363,17 +29015,11 @@
                 "expiry_year": "2028"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T04:12:12.488500+00:00"
@@ -29397,17 +29043,11 @@
                 "expiry_year": "27"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T03:59:58.609131+00:00"
@@ -29431,17 +29071,11 @@
                 "expiry_year": "28"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-02T02:09:50.713376+00:00"
@@ -29465,17 +29099,11 @@
                 "expiry_year": "2028"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T02:17:51.469606+00:00"
@@ -29499,17 +29127,11 @@
                 "expiry_year": "2027"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T02:17:32.488419+00:00"
@@ -29533,17 +29155,11 @@
                 "expiry_year": "28"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:07.956554+00:00"
@@ -29567,17 +29183,11 @@
                 "expiry_year": "2028"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T04:13:34.901661+00:00"
@@ -29601,17 +29211,11 @@
                 "expiry_year": "2027"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T02:18:28.414938+00:00"
@@ -45534,17 +45138,11 @@
                 "setting": "Notifications"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-11T00:00:00.000000+00:00"
@@ -45570,17 +45168,11 @@
                 "setting": "Notifications"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-11T00:00:00.000000+00:00"
@@ -45606,17 +45198,11 @@
                 "setting": "Notifications"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-11T00:00:00.000000+00:00"
@@ -45642,17 +45228,11 @@
                 "setting": "Dark Mode"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-11T00:00:00.000000+00:00"
@@ -45678,17 +45258,11 @@
                 "setting": "Dark Mode"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-11T00:00:00.000000+00:00"
@@ -45714,17 +45288,11 @@
                 "setting": "Dark Mode"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "default",
                 "empty_cart",
-                "full_cart",
                 "heavy_discounts",
                 "high_order_volume",
-                "large_orders",
                 "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-11T00:00:00.000000+00:00"
@@ -53215,8 +52783,7 @@
                 "many_devices",
                 "new_user",
                 "offline_devices",
-                "security_focused",
-                "unread_notifications"
+                "security_focused"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:37.112781+00:00"
@@ -53270,7 +52837,6 @@
                 "info_type": "status"
               },
               "compatible_profiles": [
-                "default",
                 "high_priority_alerts",
                 "large_home",
                 "low_battery_devices",
@@ -54676,13 +54242,11 @@
                 "room_name": "Media Room"
               },
               "compatible_profiles": [
-                "default",
                 "high_priority_alerts",
                 "low_battery_devices",
                 "many_automations",
                 "many_devices",
                 "new_user",
-                "offline_devices",
                 "security_focused",
                 "unread_notifications",
                 "weak_signal"
@@ -54706,13 +54270,11 @@
                 "room_name": "Nursery"
               },
               "compatible_profiles": [
-                "default",
                 "high_priority_alerts",
                 "low_battery_devices",
                 "many_automations",
                 "many_devices",
                 "new_user",
-                "offline_devices",
                 "security_focused",
                 "unread_notifications",
                 "weak_signal"
@@ -54736,13 +54298,11 @@
                 "room_name": "Media Room"
               },
               "compatible_profiles": [
-                "default",
                 "high_priority_alerts",
                 "low_battery_devices",
                 "many_automations",
                 "many_devices",
                 "new_user",
-                "offline_devices",
                 "security_focused",
                 "unread_notifications",
                 "weak_signal"
@@ -54766,13 +54326,11 @@
                 "room_name": "Sunroom"
               },
               "compatible_profiles": [
-                "default",
                 "high_priority_alerts",
                 "low_battery_devices",
                 "many_automations",
                 "many_devices",
                 "new_user",
-                "offline_devices",
                 "security_focused",
                 "unread_notifications",
                 "weak_signal"
@@ -54796,13 +54354,11 @@
                 "room_name": "Workshop"
               },
               "compatible_profiles": [
-                "default",
                 "high_priority_alerts",
                 "low_battery_devices",
                 "many_automations",
                 "many_devices",
                 "new_user",
-                "offline_devices",
                 "security_focused",
                 "unread_notifications",
                 "weak_signal"
@@ -54826,13 +54382,11 @@
                 "room_name": "Playroom"
               },
               "compatible_profiles": [
-                "default",
                 "high_priority_alerts",
                 "low_battery_devices",
                 "many_automations",
                 "many_devices",
                 "new_user",
-                "offline_devices",
                 "security_focused",
                 "unread_notifications",
                 "weak_signal"
@@ -54856,13 +54410,11 @@
                 "room_name": "Study Room"
               },
               "compatible_profiles": [
-                "default",
                 "high_priority_alerts",
                 "low_battery_devices",
                 "many_automations",
                 "many_devices",
                 "new_user",
-                "offline_devices",
                 "security_focused",
                 "unread_notifications",
                 "weak_signal"
@@ -54886,13 +54438,11 @@
                 "room_name": "Study Room"
               },
               "compatible_profiles": [
-                "default",
                 "high_priority_alerts",
                 "low_battery_devices",
                 "many_automations",
                 "many_devices",
                 "new_user",
-                "offline_devices",
                 "security_focused",
                 "unread_notifications",
                 "weak_signal"
@@ -54916,13 +54466,11 @@
                 "room_name": "Nursery"
               },
               "compatible_profiles": [
-                "default",
                 "high_priority_alerts",
                 "low_battery_devices",
                 "many_automations",
                 "many_devices",
                 "new_user",
-                "offline_devices",
                 "security_focused",
                 "unread_notifications",
                 "weak_signal"
@@ -54946,13 +54494,11 @@
                 "room_name": "Playroom"
               },
               "compatible_profiles": [
-                "default",
                 "high_priority_alerts",
                 "low_battery_devices",
                 "many_automations",
                 "many_devices",
                 "new_user",
-                "offline_devices",
                 "security_focused",
                 "unread_notifications",
                 "weak_signal"
@@ -55760,62 +55306,12 @@
                 "item_type": "scenes"
               },
               "compatible_profiles": [
-                "high_priority_alerts",
                 "many_automations",
                 "new_user",
-                "security_focused",
-                "unread_notifications"
+                "security_focused"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:30.299602+00:00"
-              },
-              "additional_mockdata": false,
-              "validation": {
-                "validated": false,
-                "last_validated": null,
-                "validation_notes": "Generated automatically - requires validation",
-                "validated_by": null
-              }
-            }
-          },
-          {
-            "instance_name": "enable_automations_4",
-            "config": {
-              "parameters": {
-                "action": "Enable",
-                "item_type": "automations"
-              },
-              "compatible_profiles": [
-                "high_priority_alerts",
-                "many_automations",
-                "unread_notifications"
-              ],
-              "metadata": {
-                "created_at": "2026-03-13T04:00:57.109781+00:00"
-              },
-              "additional_mockdata": false,
-              "validation": {
-                "validated": false,
-                "last_validated": null,
-                "validation_notes": "Generated automatically - requires validation",
-                "validated_by": null
-              }
-            }
-          },
-          {
-            "instance_name": "enable_automations_2",
-            "config": {
-              "parameters": {
-                "action": "Enable",
-                "item_type": "automations"
-              },
-              "compatible_profiles": [
-                "high_priority_alerts",
-                "many_automations",
-                "unread_notifications"
-              ],
-              "metadata": {
-                "created_at": "2026-03-02T02:15:13.508778+00:00"
               },
               "additional_mockdata": false,
               "validation": {
@@ -55834,13 +55330,11 @@
                 "item_type": "devices"
               },
               "compatible_profiles": [
-                "default",
                 "high_priority_alerts",
                 "low_battery_devices",
                 "many_automations",
                 "many_devices",
                 "new_user",
-                "offline_devices",
                 "security_focused",
                 "unread_notifications",
                 "weak_signal"
@@ -55865,13 +55359,11 @@
                 "item_type": "devices"
               },
               "compatible_profiles": [
-                "default",
                 "high_priority_alerts",
                 "low_battery_devices",
                 "many_automations",
                 "many_devices",
                 "new_user",
-                "offline_devices",
                 "security_focused",
                 "unread_notifications",
                 "weak_signal"
@@ -55896,13 +55388,11 @@
                 "item_type": "automations"
               },
               "compatible_profiles": [
-                "default",
                 "high_priority_alerts",
                 "low_battery_devices",
                 "many_automations",
                 "many_devices",
                 "new_user",
-                "offline_devices",
                 "security_focused",
                 "unread_notifications",
                 "weak_signal"
@@ -55927,12 +55417,10 @@
                 "item_type": "scenes"
               },
               "compatible_profiles": [
-                "default",
                 "high_priority_alerts",
                 "low_battery_devices",
                 "many_automations",
                 "many_devices",
-                "offline_devices",
                 "security_focused",
                 "weak_signal"
               ],
@@ -55956,12 +55444,10 @@
                 "item_type": "scenes"
               },
               "compatible_profiles": [
-                "default",
                 "high_priority_alerts",
                 "low_battery_devices",
                 "many_automations",
                 "many_devices",
-                "offline_devices",
                 "security_focused",
                 "weak_signal"
               ],
@@ -55985,19 +55471,61 @@
                 "item_type": "devices"
               },
               "compatible_profiles": [
-                "default",
                 "high_priority_alerts",
                 "low_battery_devices",
                 "many_automations",
                 "many_devices",
                 "new_user",
-                "offline_devices",
                 "security_focused",
                 "unread_notifications",
                 "weak_signal"
               ],
               "metadata": {
                 "created_at": "2026-03-02T02:14:36.398210+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "enable_scenes_4",
+            "config": {
+              "parameters": {
+                "action": "Enable",
+                "item_type": "scenes"
+              },
+              "compatible_profiles": [
+                "many_automations"
+              ],
+              "metadata": {
+                "created_at": "2026-03-13T04:00:57.109781+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "enable_scenes_2",
+            "config": {
+              "parameters": {
+                "action": "Enable",
+                "item_type": "scenes"
+              },
+              "compatible_profiles": [
+                "many_automations"
+              ],
+              "metadata": {
+                "created_at": "2026-03-02T02:15:13.508778+00:00"
               },
               "additional_mockdata": false,
               "validation": {
@@ -56016,13 +55544,11 @@
                 "item_type": "devices"
               },
               "compatible_profiles": [
-                "default",
                 "high_priority_alerts",
                 "low_battery_devices",
                 "many_automations",
                 "many_devices",
                 "new_user",
-                "offline_devices",
                 "security_focused",
                 "unread_notifications",
                 "weak_signal"
@@ -56047,13 +55573,11 @@
                 "item_type": "automations"
               },
               "compatible_profiles": [
-                "default",
                 "high_priority_alerts",
                 "low_battery_devices",
                 "many_automations",
                 "many_devices",
                 "new_user",
-                "offline_devices",
                 "security_focused",
                 "unread_notifications",
                 "weak_signal"
@@ -56078,12 +55602,10 @@
                 "item_type": "scenes"
               },
               "compatible_profiles": [
-                "default",
                 "high_priority_alerts",
                 "low_battery_devices",
                 "many_automations",
                 "many_devices",
-                "offline_devices",
                 "security_focused",
                 "weak_signal"
               ],
@@ -56365,8 +55887,7 @@
                 "many_devices",
                 "new_user",
                 "offline_devices",
-                "security_focused",
-                "unread_notifications"
+                "security_focused"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:37.112781+00:00"
@@ -56418,7 +55939,6 @@
                 "device_name": "Living Room Bulb"
               },
               "compatible_profiles": [
-                "default",
                 "high_priority_alerts",
                 "large_home",
                 "low_battery_devices",
@@ -60569,7 +60089,6 @@
                 "default",
                 "frozen_wallets",
                 "high_deposit",
-                "high_failure_rate",
                 "low_transfer",
                 "micro_payments",
                 "mostly_pending",
@@ -60604,7 +60123,6 @@
                 "default",
                 "frozen_wallets",
                 "high_deposit",
-                "high_failure_rate",
                 "low_transfer",
                 "micro_payments",
                 "mostly_pending",
@@ -60639,7 +60157,6 @@
                 "default",
                 "frozen_wallets",
                 "high_deposit",
-                "high_failure_rate",
                 "low_transfer",
                 "micro_payments",
                 "mostly_pending",
@@ -60744,7 +60261,6 @@
                 "default",
                 "frozen_wallets",
                 "high_deposit",
-                "high_failure_rate",
                 "low_transfer",
                 "micro_payments",
                 "mostly_pending",
@@ -61489,7 +61005,6 @@
                 "default",
                 "frozen_wallets",
                 "high_deposit",
-                "high_failure_rate",
                 "low_transfer",
                 "micro_payments",
                 "mostly_pending",
@@ -61524,7 +61039,6 @@
                 "default",
                 "frozen_wallets",
                 "high_deposit",
-                "high_failure_rate",
                 "low_transfer",
                 "micro_payments",
                 "mostly_pending",
@@ -61559,7 +61073,6 @@
                 "default",
                 "frozen_wallets",
                 "high_deposit",
-                "high_failure_rate",
                 "low_transfer",
                 "micro_payments",
                 "mostly_pending",
@@ -61664,7 +61177,6 @@
                 "default",
                 "frozen_wallets",
                 "high_deposit",
-                "high_failure_rate",
                 "low_transfer",
                 "micro_payments",
                 "mostly_pending",
@@ -66802,7 +66314,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -66833,7 +66344,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -66864,7 +66374,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -66895,7 +66404,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -66926,7 +66434,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -66957,7 +66464,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -66988,7 +66494,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -67019,7 +66524,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -67050,7 +66554,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -67081,7 +66584,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -67112,7 +66614,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -67143,7 +66644,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -67598,7 +67098,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -67630,7 +67129,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -67662,7 +67160,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -67694,7 +67191,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -67726,7 +67222,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -67758,7 +67253,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -67790,7 +67284,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -67822,7 +67315,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -67854,7 +67346,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -67886,7 +67377,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -67918,7 +67408,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -67950,7 +67439,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -67982,7 +67470,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -69965,9 +69452,7 @@
               },
               "compatible_profiles": [
                 "default",
-                "large_groups",
                 "many_groups",
-                "missed_calls",
                 "recent_activity"
               ],
               "metadata": {
@@ -69990,9 +69475,7 @@
               },
               "compatible_profiles": [
                 "default",
-                "large_groups",
                 "many_groups",
-                "missed_calls",
                 "recent_activity"
               ],
               "metadata": {
@@ -70015,9 +69498,7 @@
               },
               "compatible_profiles": [
                 "default",
-                "large_groups",
                 "many_groups",
-                "missed_calls",
                 "recent_activity"
               ],
               "metadata": {
@@ -70039,13 +69520,8 @@
                 "wallpaper": "space"
               },
               "compatible_profiles": [
-                "default",
-                "high_message_volume",
-                "inactive_groups",
                 "large_groups",
-                "long_calls",
                 "media_heavy",
-                "new_user",
                 "unread_messages"
               ],
               "metadata": {
@@ -70067,13 +69543,8 @@
                 "wallpaper": "space"
               },
               "compatible_profiles": [
-                "default",
-                "high_message_volume",
-                "inactive_groups",
                 "large_groups",
-                "long_calls",
                 "media_heavy",
-                "new_user",
                 "unread_messages"
               ],
               "metadata": {
@@ -70095,13 +69566,8 @@
                 "wallpaper": "space"
               },
               "compatible_profiles": [
-                "default",
-                "high_message_volume",
-                "inactive_groups",
                 "large_groups",
-                "long_calls",
                 "media_heavy",
-                "new_user",
                 "unread_messages"
               ],
               "metadata": {
@@ -70130,7 +69596,6 @@
                 "media_heavy",
                 "missed_calls",
                 "new_user",
-                "recent_activity",
                 "unread_messages"
               ],
               "metadata": {
@@ -70159,7 +69624,6 @@
                 "media_heavy",
                 "missed_calls",
                 "new_user",
-                "recent_activity",
                 "unread_messages"
               ],
               "metadata": {
@@ -70188,7 +69652,6 @@
                 "media_heavy",
                 "missed_calls",
                 "new_user",
-                "recent_activity",
                 "unread_messages"
               ],
               "metadata": {
@@ -70211,9 +69674,7 @@
               },
               "compatible_profiles": [
                 "default",
-                "large_groups",
                 "many_groups",
-                "missed_calls",
                 "recent_activity"
               ],
               "metadata": {
@@ -70660,7 +70121,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -70691,7 +70151,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -70722,7 +70181,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -70753,7 +70211,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -70784,7 +70241,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -70815,7 +70271,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -70846,7 +70301,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -70877,7 +70331,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -70908,7 +70361,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -70939,7 +70391,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -70970,7 +70421,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -71001,7 +70451,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -71032,7 +70481,6 @@
                 "many_groups",
                 "media_heavy",
                 "missed_calls",
-                "new_user",
                 "recent_activity",
                 "unread_messages"
               ],
@@ -71528,6 +70976,29 @@
             }
           },
           {
+            "instance_name": "international_liam_oconnor_2",
+            "config": {
+              "parameters": {
+                "new_name": "Liam O'Connor"
+              },
+              "compatible_profiles": [
+                "default",
+                "missed_calls",
+                "unread_messages"
+              ],
+              "metadata": {
+                "created_at": "2026-03-13T03:59:56.306756+00:00"
+              },
+              "additional_mockdata": false,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
             "instance_name": "professional_anika_schmidt_8",
             "config": {
               "parameters": {
@@ -71703,29 +71174,6 @@
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:07.635351+00:00"
-              },
-              "additional_mockdata": false,
-              "validation": {
-                "validated": false,
-                "last_validated": null,
-                "validation_notes": "Generated automatically - requires validation",
-                "validated_by": null
-              }
-            }
-          },
-          {
-            "instance_name": "international_aisha_patel_2",
-            "config": {
-              "parameters": {
-                "new_name": "Aisha Patel"
-              },
-              "compatible_profiles": [
-                "default",
-                "missed_calls",
-                "unread_messages"
-              ],
-              "metadata": {
-                "created_at": "2026-03-13T03:59:56.306756+00:00"
               },
               "additional_mockdata": false,
               "validation": {
@@ -79659,7 +79107,7 @@
             "instance_name": "alternatives_aurora_line_delays_3",
             "config": {
               "parameters": {
-                "alert_title": "Signal Delay"
+                "alert_title": "Aurora Line Delays"
               },
               "compatible_profiles": [
                 "default",
@@ -81693,9 +81141,6 @@
                 "info_type": "apr"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -81722,9 +81167,6 @@
                 "info_type": "cash advance fee"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -81751,9 +81193,6 @@
                 "info_type": "annual fee"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -81780,9 +81219,6 @@
                 "info_type": "annual fee"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -81809,9 +81245,6 @@
                 "info_type": "late payment fee"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -81838,9 +81271,6 @@
                 "info_type": "apr"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -82723,9 +82153,6 @@
                 "note": "Scheduled via credit card"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -82755,9 +82182,6 @@
                 "note": "Scheduled via credit card"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -82787,9 +82211,6 @@
                 "note": "Scheduled via credit card"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -82819,9 +82240,6 @@
                 "note": "Scheduled via credit card"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -82851,9 +82269,6 @@
                 "note": "Scheduled via credit card"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -82883,9 +82298,6 @@
                 "note": "Scheduled via credit card"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -82915,9 +82327,6 @@
                 "note": "Scheduled via credit card"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -82947,9 +82356,6 @@
                 "note": "Scheduled via credit card"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -82979,9 +82385,6 @@
                 "note": "Scheduled via credit card"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -83011,9 +82414,6 @@
                 "note": "Scheduled via credit card"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -83043,9 +82443,6 @@
                 "note": "Scheduled via credit card"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -83087,8 +82484,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-03-02T02:07:36.551251+00:00"
@@ -83118,8 +82514,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:07.370984+00:00"
@@ -83149,8 +82544,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-03-02T02:07:00.962707+00:00"
@@ -83180,8 +82574,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:16.629224+00:00"
@@ -83211,8 +82604,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:23.097877+00:00"
@@ -83242,8 +82634,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-02-24T01:08:04.059270+00:00"
@@ -83273,8 +82664,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:04.522812+00:00"
@@ -83304,8 +82694,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:12.667752+00:00"
@@ -83335,8 +82724,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-03-02T02:08:12.643740+00:00"
@@ -83366,8 +82754,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:19.979632+00:00"
@@ -83397,8 +82784,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-03-13T03:59:59.238324+00:00"
@@ -83428,8 +82814,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:09.991305+00:00"
@@ -83459,8 +82844,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:25.740871+00:00"
@@ -83490,8 +82874,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-02-24T01:08:04.080408+00:00"
@@ -83521,8 +82904,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:01.783011+00:00"
@@ -84848,11 +84230,7 @@
                 "info_type": "cash advance fee"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
-                "high_transaction_volume",
                 "low_balance",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -84878,11 +84256,7 @@
                 "info_type": "annual fee"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
-                "high_transaction_volume",
                 "low_balance",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -84908,11 +84282,7 @@
                 "info_type": "late payment fee"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
-                "high_transaction_volume",
                 "low_balance",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -89009,8 +88379,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-03-13T03:59:41.548772+00:00"
@@ -89041,8 +88410,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-03-13T03:59:57.047172+00:00"
@@ -89073,8 +88441,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-03-13T03:59:36.993774+00:00"
@@ -89105,8 +88472,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-03-13T03:59:32.884347+00:00"
@@ -89137,8 +88503,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-03-13T03:59:28.986829+00:00"
@@ -89169,8 +88534,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:33.791872+00:00"
@@ -89201,8 +88565,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:06.628083+00:00"
@@ -89233,8 +88596,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-03-02T02:07:30.167572+00:00"
@@ -89265,8 +88627,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:17.079986+00:00"
@@ -89297,8 +88658,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:26.930894+00:00"
@@ -89329,8 +88689,7 @@
                 "many_beneficiaries",
                 "many_zelle_contacts",
                 "maxed_out_cards",
-                "overdue_bills",
-                "premium_users"
+                "overdue_bills"
               ],
               "metadata": {
                 "created_at": "2026-03-13T03:59:48.797032+00:00"
@@ -89781,9 +89140,6 @@
                 "payee": "Summit Assurance Group"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -89809,9 +89165,6 @@
                 "payee": "Summit Assurance Group"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -89837,9 +89190,6 @@
                 "payee": "Summit Assurance Group"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -89865,9 +89215,6 @@
                 "payee": "Riverbend Energy Services"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -89893,9 +89240,6 @@
                 "payee": "Clearwave Communications"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -89921,9 +89265,6 @@
                 "payee": "Clearwave Communications"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -89949,9 +89290,6 @@
                 "payee": "Clearwave Communications"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -89977,9 +89315,6 @@
                 "payee": "Riverbend Energy Services"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -90005,9 +89340,6 @@
                 "payee": "Riverbend Energy Services"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -90033,9 +89365,6 @@
                 "payee": "Riverbend Energy Services"
               },
               "compatible_profiles": [
-                "default",
-                "failed_transactions",
-                "high_balance",
                 "high_credit_limit",
                 "many_beneficiaries",
                 "many_zelle_contacts",
@@ -98104,14 +97433,9 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "full_cart",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-02T02:12:24.223987+00:00"
@@ -98140,14 +97464,9 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "full_cart",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-02T02:13:35.944438+00:00"
@@ -98176,14 +97495,9 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "full_cart",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:23.514702+00:00"
@@ -98212,14 +97526,9 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "full_cart",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:41.535943+00:00"
@@ -98248,14 +97557,9 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "full_cart",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:35.998046+00:00"
@@ -98284,12 +97588,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-01T21:21:33.633893+00:00"
@@ -98318,12 +97618,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T23:47:29.052503+00:00"
@@ -98352,12 +97648,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T23:45:05.276314+00:00"
@@ -98386,14 +97678,9 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "full_cart",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:57.429399+00:00"
@@ -98422,12 +97709,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T23:35:52.690946+00:00"
@@ -98456,14 +97739,9 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "full_cart",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:01:02.004620+00:00"
@@ -98492,14 +97770,9 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "full_cart",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:01:05.044812+00:00"
@@ -98528,12 +97801,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-01T21:22:22.660137+00:00"
@@ -98562,12 +97831,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T23:46:41.135847+00:00"
@@ -98596,14 +97861,9 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "full_cart",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:52.673334+00:00"
@@ -98632,12 +97892,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-01T21:19:59.676340+00:00"
@@ -98666,12 +97922,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-01T21:19:14.460172+00:00"
@@ -98700,12 +97952,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T23:35:44.400489+00:00"
@@ -98734,12 +97982,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T23:48:15.417651+00:00"
@@ -98768,12 +98012,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T23:45:52.743171+00:00"
@@ -98802,12 +98042,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T23:35:37.848262+00:00"
@@ -98836,14 +98072,9 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "full_cart",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-02T02:12:59.167229+00:00"
@@ -98872,14 +98103,9 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "full_cart",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:47.140772+00:00"
@@ -98908,12 +98134,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-01T21:20:47.614927+00:00"
@@ -100345,10 +99567,6 @@
                 "expirationYear": "27"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "full_cart",
-                "low_stock",
                 "new_user"
               ],
               "metadata": {
@@ -100373,10 +99591,6 @@
                 "expirationYear": "30"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "full_cart",
-                "low_stock",
                 "new_user"
               ],
               "metadata": {
@@ -100401,13 +99615,7 @@
                 "expirationYear": "32"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "heavy_discounts",
-                "high_order_volume",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-01T21:19:55.265574+00:00"
@@ -100431,13 +99639,7 @@
                 "expirationYear": "31"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "heavy_discounts",
-                "high_order_volume",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-01T21:22:19.302977+00:00"
@@ -100461,10 +99663,6 @@
                 "expirationYear": "32"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "full_cart",
-                "low_stock",
                 "new_user"
               ],
               "metadata": {
@@ -100489,13 +99687,7 @@
                 "expirationYear": "32"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "heavy_discounts",
-                "high_order_volume",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T23:45:47.237686+00:00"
@@ -100519,10 +99711,6 @@
                 "expirationYear": "31"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "full_cart",
-                "low_stock",
                 "new_user"
               ],
               "metadata": {
@@ -100547,13 +99735,7 @@
                 "expirationYear": "32"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "heavy_discounts",
-                "high_order_volume",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T23:35:40.737106+00:00"
@@ -100577,13 +99759,7 @@
                 "expirationYear": "31"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "heavy_discounts",
-                "high_order_volume",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T23:35:56.761711+00:00"
@@ -100607,13 +99783,7 @@
                 "expirationYear": "31"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "heavy_discounts",
-                "high_order_volume",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T23:47:25.993160+00:00"
@@ -100637,10 +99807,6 @@
                 "expirationYear": "27"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "full_cart",
-                "low_stock",
                 "new_user"
               ],
               "metadata": {
@@ -100665,13 +99831,7 @@
                 "expirationYear": "28"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "heavy_discounts",
-                "high_order_volume",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T23:45:00.372586+00:00"
@@ -100695,10 +99855,6 @@
                 "expirationYear": "31"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "full_cart",
-                "low_stock",
                 "new_user"
               ],
               "metadata": {
@@ -100723,10 +99879,6 @@
                 "expirationYear": "28"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "full_cart",
-                "low_stock",
                 "new_user"
               ],
               "metadata": {
@@ -100751,10 +99903,6 @@
                 "expirationYear": "28"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "full_cart",
-                "low_stock",
                 "new_user"
               ],
               "metadata": {
@@ -100779,10 +99927,6 @@
                 "expirationYear": "28"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "full_cart",
-                "low_stock",
                 "new_user"
               ],
               "metadata": {
@@ -100807,13 +99951,7 @@
                 "expirationYear": "28"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "heavy_discounts",
-                "high_order_volume",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-01T21:19:08.832945+00:00"
@@ -100837,10 +99975,6 @@
                 "expirationYear": "32"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "full_cart",
-                "low_stock",
                 "new_user"
               ],
               "metadata": {
@@ -100865,13 +99999,7 @@
                 "expirationYear": "32"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "heavy_discounts",
-                "high_order_volume",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T23:35:48.327069+00:00"
@@ -100895,10 +100023,6 @@
                 "expirationYear": "31"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "full_cart",
-                "low_stock",
                 "new_user"
               ],
               "metadata": {
@@ -100923,10 +100047,6 @@
                 "expirationYear": "28"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "full_cart",
-                "low_stock",
                 "new_user"
               ],
               "metadata": {
@@ -100951,13 +100071,7 @@
                 "expirationYear": "32"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "heavy_discounts",
-                "high_order_volume",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-01T21:20:42.695974+00:00"
@@ -100981,13 +100095,7 @@
                 "expirationYear": "31"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "heavy_discounts",
-                "high_order_volume",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T23:48:13.426539+00:00"
@@ -101011,13 +100119,7 @@
                 "expirationYear": "31"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "heavy_discounts",
-                "high_order_volume",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-01T21:21:29.291493+00:00"
@@ -101041,10 +100143,6 @@
                 "expirationYear": "28"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "full_cart",
-                "low_stock",
                 "new_user"
               ],
               "metadata": {
@@ -101069,13 +100167,7 @@
                 "expirationYear": "32"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "heavy_discounts",
-                "high_order_volume",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T23:46:37.146175+00:00"
@@ -103608,14 +102700,9 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "full_cart",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-02T02:12:24.223987+00:00"
@@ -103644,14 +102731,9 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "full_cart",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-02T02:13:35.944438+00:00"
@@ -103680,14 +102762,9 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "full_cart",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:23.514702+00:00"
@@ -103716,14 +102793,9 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "full_cart",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:41.535943+00:00"
@@ -103752,14 +102824,9 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "full_cart",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:35.998046+00:00"
@@ -103788,12 +102855,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-01T21:21:33.633893+00:00"
@@ -103822,12 +102885,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T23:47:29.052503+00:00"
@@ -103856,12 +102915,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T23:45:05.276314+00:00"
@@ -103890,14 +102945,9 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "full_cart",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:57.429399+00:00"
@@ -103926,12 +102976,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T23:35:52.690946+00:00"
@@ -103960,14 +103006,9 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "full_cart",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:01:02.004620+00:00"
@@ -103996,14 +103037,9 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "full_cart",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:01:05.044812+00:00"
@@ -104032,12 +103068,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-01T21:22:22.660137+00:00"
@@ -104066,12 +103098,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T23:46:41.135847+00:00"
@@ -104100,14 +103128,9 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "full_cart",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:52.673334+00:00"
@@ -104136,12 +103159,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-01T21:19:59.676340+00:00"
@@ -104170,12 +103189,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-01T21:19:14.460172+00:00"
@@ -104204,12 +103219,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T23:35:44.400489+00:00"
@@ -104238,12 +103249,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T23:48:15.417651+00:00"
@@ -104272,12 +103279,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T23:45:52.743171+00:00"
@@ -104306,12 +103309,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-31T23:35:37.848262+00:00"
@@ -104340,14 +103339,9 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "full_cart",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-02T02:12:59.167229+00:00"
@@ -104376,14 +103370,9 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "full_cart",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:47.140772+00:00"
@@ -104412,12 +103401,8 @@
               },
               "compatible_profiles": [
                 "bulk_quantity",
-                "default",
                 "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-01T21:20:47.614927+00:00"
@@ -108816,13 +107801,7 @@
                 "phone": "2121234567"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "heavy_discounts",
-                "high_order_volume",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-11T00:00:00.000000+00:00"
@@ -108854,13 +107833,7 @@
                 "phone": "3055557890"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "heavy_discounts",
-                "high_order_volume",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-11T00:00:00.000000+00:00"
@@ -108892,13 +107865,7 @@
                 "phone": "5125554321"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "heavy_discounts",
-                "high_order_volume",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-11T00:00:00.000000+00:00"
@@ -108930,13 +107897,7 @@
                 "phone": "2065559876"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "heavy_discounts",
-                "high_order_volume",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-11T00:00:00.000000+00:00"
@@ -108968,13 +107929,7 @@
                 "phone": "3125551234"
               },
               "compatible_profiles": [
-                "bulk_quantity",
-                "empty_cart",
-                "heavy_discounts",
-                "high_order_volume",
-                "low_stock",
-                "new_user",
-                "premium_products"
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-04-11T00:00:00.000000+00:00"
@@ -122101,7 +121056,6 @@
                 "default",
                 "mixed",
                 "personal",
-                "spam_heavy",
                 "starred_important",
                 "work_related"
               ],
@@ -125525,7 +124479,6 @@
                 "50_inbox_emails",
                 "all_drafts",
                 "mixed",
-                "starred_important",
                 "work_related"
               ],
               "metadata": {
@@ -127598,8 +126551,6 @@
               },
               "compatible_profiles": [
                 "default",
-                "high_rated_drivers",
-                "inactive_users",
                 "new_user"
               ],
               "metadata": {
@@ -127624,10 +126575,7 @@
                 "payment_method": "WalletPay"
               },
               "compatible_profiles": [
-                "default",
-                "high_rated_drivers",
-                "inactive_users",
-                "new_user"
+                "inactive_users"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:06.735475+00:00"
@@ -127685,10 +126633,7 @@
                 "payment_method": "CardNetwork"
               },
               "compatible_profiles": [
-                "default",
-                "high_rated_drivers",
-                "inactive_users",
-                "new_user"
+                "inactive_users"
               ],
               "metadata": {
                 "created_at": "2026-03-02T02:13:42.696680+00:00"
@@ -127780,9 +126725,8 @@
                 "payment_method": "RegionalCard"
               },
               "compatible_profiles": [
-                "excellent_feedback",
-                "poor_feedback",
-                "premium_fares"
+                "budget_rides",
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:12.568667+00:00"
@@ -127806,9 +126750,7 @@
                 "payment_method": "WalletPay"
               },
               "compatible_profiles": [
-                "excellent_feedback",
-                "poor_feedback",
-                "premium_fares"
+                "poor_feedback"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:10.416741+00:00"
@@ -127866,10 +126808,7 @@
                 "payment_method": "CardNetwork"
               },
               "compatible_profiles": [
-                "default",
-                "high_rated_drivers",
-                "inactive_users",
-                "new_user"
+                "inactive_users"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:21.311812+00:00"
@@ -127893,9 +126832,8 @@
                 "payment_method": "RegionalCard"
               },
               "compatible_profiles": [
-                "excellent_feedback",
-                "poor_feedback",
-                "premium_fares"
+                "budget_rides",
+                "new_user"
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:15.124686+00:00"

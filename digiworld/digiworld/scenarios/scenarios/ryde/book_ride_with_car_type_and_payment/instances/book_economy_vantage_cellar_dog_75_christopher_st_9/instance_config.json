@@ -7,8 +7,6 @@
   },
   "compatible_profiles": [
     "default",
-    "high_rated_drivers",
-    "inactive_users",
     "new_user"
   ],
   "metadata": {

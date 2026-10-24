@@ -6,13 +6,7 @@
     "expirationYear": "31"
   },
   "compatible_profiles": [
-    "bulk_quantity",
-    "empty_cart",
-    "heavy_discounts",
-    "high_order_volume",
-    "low_stock",
-    "new_user",
-    "premium_products"
+    "new_user"
   ],
   "metadata": {
     "created_at": "2026-04-01T21:21:29.291493+00:00"

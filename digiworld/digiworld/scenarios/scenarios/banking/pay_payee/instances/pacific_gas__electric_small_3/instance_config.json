@@ -13,8 +13,7 @@
     "many_beneficiaries",
     "many_zelle_contacts",
     "maxed_out_cards",
-    "overdue_bills",
-    "premium_users"
+    "overdue_bills"
   ],
   "metadata": {
     "created_at": "2026-03-13T03:59:41.548772+00:00"

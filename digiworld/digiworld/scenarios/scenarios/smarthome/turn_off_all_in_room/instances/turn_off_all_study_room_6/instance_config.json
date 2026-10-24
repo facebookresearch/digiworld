@@ -3,13 +3,11 @@
     "room_name": "Study Room"
   },
   "compatible_profiles": [
-    "default",
     "high_priority_alerts",
     "low_battery_devices",
     "many_automations",
     "many_devices",
     "new_user",
-    "offline_devices",
     "security_focused",
     "unread_notifications",
     "weak_signal"

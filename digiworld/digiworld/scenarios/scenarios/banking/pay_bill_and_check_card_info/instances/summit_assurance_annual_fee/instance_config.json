@@ -4,9 +4,6 @@
     "info_type": "annual fee"
   },
   "compatible_profiles": [
-    "default",
-    "failed_transactions",
-    "high_balance",
     "high_credit_limit",
     "many_beneficiaries",
     "many_zelle_contacts",

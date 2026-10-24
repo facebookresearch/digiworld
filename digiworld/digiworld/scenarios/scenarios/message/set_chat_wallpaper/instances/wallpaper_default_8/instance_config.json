@@ -4,9 +4,7 @@
   },
   "compatible_profiles": [
     "default",
-    "large_groups",
     "many_groups",
-    "missed_calls",
     "recent_activity"
   ],
   "metadata": {

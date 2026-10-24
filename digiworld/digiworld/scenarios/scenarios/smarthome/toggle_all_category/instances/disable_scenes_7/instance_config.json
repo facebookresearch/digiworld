@@ -4,12 +4,10 @@
     "item_type": "scenes"
   },
   "compatible_profiles": [
-    "default",
     "high_priority_alerts",
     "low_battery_devices",
     "many_automations",
     "many_devices",
-    "offline_devices",
     "security_focused",
     "weak_signal"
   ],
