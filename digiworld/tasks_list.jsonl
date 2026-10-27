@@ -1304,7 +1304,7 @@
 {"task_id": "ecommerce__game_player_count__game_player_count_phantom_heist_8", "app_name": "ecommerce", "scenario_name": "game_player_count", "instance": "game_player_count_phantom_heist_8"}
 {"task_id": "ecommerce__game_player_count__game_player_count_realm_of_the_ancients_0", "app_name": "ecommerce", "scenario_name": "game_player_count", "instance": "game_player_count_realm_of_the_ancients_0"}
 {"task_id": "ecommerce__game_player_count__game_player_count_rift_raiders_3", "app_name": "ecommerce", "scenario_name": "game_player_count", "instance": "game_player_count_rift_raiders_3"}
-{"task_id": "ecommerce__game_player_count__game_player_count_solaris_syndicate_5", "app_name": "ecommerce", "scenario_name": "game_player_count", "instance": "game_player_count_solaris_syndicate_5"}
+{"task_id": "ecommerce__game_player_count__game_player_count_solmarren_syndicate_5", "app_name": "ecommerce", "scenario_name": "game_player_count", "instance": "game_player_count_solmarren_syndicate_5"}
 {"task_id": "ecommerce__game_player_count__game_player_count_ticket_to_ride_0", "app_name": "ecommerce", "scenario_name": "game_player_count", "instance": "game_player_count_ticket_to_ride_0"}
 {"task_id": "ecommerce__game_player_count__game_player_count_titanic_trade_routes_7", "app_name": "ecommerce", "scenario_name": "game_player_count", "instance": "game_player_count_titanic_trade_routes_7"}
 {"task_id": "ecommerce__game_player_count__game_player_count_verdant_realms_9", "app_name": "ecommerce", "scenario_name": "game_player_count", "instance": "game_player_count_verdant_realms_9"}
@@ -1451,7 +1451,7 @@
 {"task_id": "ecommerce__item_stock_count__electronics_echobass_wireless_headset_0", "app_name": "ecommerce", "scenario_name": "item_stock_count", "instance": "electronics_echobass_wireless_headset_0"}
 {"task_id": "ecommerce__item_stock_count__electronics_pulse_5g_ultra_smartphone_1", "app_name": "ecommerce", "scenario_name": "item_stock_count", "instance": "electronics_pulse_5g_ultra_smartphone_1"}
 {"task_id": "ecommerce__item_stock_count__electronics_pulse_edge_5g_phone_4", "app_name": "ecommerce", "scenario_name": "item_stock_count", "instance": "electronics_pulse_edge_5g_phone_4"}
-{"task_id": "ecommerce__item_stock_count__electronics_solaris_mini_slate_8", "app_name": "ecommerce", "scenario_name": "item_stock_count", "instance": "electronics_solaris_mini_slate_8"}
+{"task_id": "ecommerce__item_stock_count__electronics_solmarren_mini_slate_8", "app_name": "ecommerce", "scenario_name": "item_stock_count", "instance": "electronics_solmarren_mini_slate_8"}
 {"task_id": "ecommerce__item_stock_count__electronics_titan_x_gaming_console_6", "app_name": "ecommerce", "scenario_name": "item_stock_count", "instance": "electronics_titan_x_gaming_console_6"}
 {"task_id": "ecommerce__item_stock_count__electronics_wavedrive_smart_speaker_5", "app_name": "ecommerce", "scenario_name": "item_stock_count", "instance": "electronics_wavedrive_smart_speaker_5"}
 {"task_id": "ecommerce__item_stock_count__sports__outdoors_allterrain_hiking_boots__men_0", "app_name": "ecommerce", "scenario_name": "item_stock_count", "instance": "sports__outdoors_allterrain_hiking_boots__men_0"}

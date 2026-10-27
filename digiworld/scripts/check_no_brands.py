@@ -219,6 +219,8 @@ EXTENDED_TERMS += [
     "PS5", "Chromebook", "Acer Predator", "Predator X34", "Random House", "Super AMOLED", "Dynamic AMOLED",
     "Christopher Nolan", "Flyknit", "Zoom Air", "270 React", "Joyvale Switch", "Vertex Switch",
     "Quellix i3", "Quellix i5", "Quellix i7", "Quellix i9", "Mazda3",
+    # product names the original data used that are real products themselves
+    "HomeSync", "Old Harbor", "PlayCore", "GameBox", "Nimbus OS", "Solaris", "Sundara",
 ]
 CONTEXT_TERMS.update({
     "Galaxy": r"(?<=LumaPhone and )(Galaxy)(?= models)|(Galaxy)(?= and LumaPhone)|(?<=vs\. )(Galaxy)|(?<=vs )(Galaxy)|(Galaxy)(?= vs\b)"

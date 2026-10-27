@@ -129,3 +129,13 @@ def test_db_rows_keep_their_timestamps(tmp_path):
     assert con.execute("SELECT count(*) FROM sqlite_master WHERE type='trigger'").fetchone() == (2,)
     # the index trigger stayed on
     assert con.execute("SELECT title FROM items_index").fetchone() == ("Varenta gift card",)
+
+
+def test_pre_existing_product_names_are_renamed_with_their_structure():
+    assert _fix("Nimbus OS 1.0 (Linux\u2011based)") == "Velyn OS 1.0 (Linux\u2011based)"
+    assert _fix("Orion PlayCore Pro Gaming Console") == "Orion Plaixo Pro Gaming Console"
+    assert _fix("Old Harbor Co.") == "Old Anchorage Co."
+    # a brand that maps to an earlier invented name lands on the current one
+    assert _fix("Solterra") == "Solmarren"
+    # ordinary words used as names stay
+    assert _fix("Nimbus Tab 10.5\"") == "Nimbus Tab 10.5\""

@@ -217,7 +217,7 @@ NAMES_V2 = {
     'Meridia': 'Marzeno', 'Nimbus': 'Orvanne', 'Pinnacle': 'Polvane', 'Lucent': 'Luccaro',
     'Summit': 'Kerrowan', 'Grand Summit': 'Grand Kerrowan', 'Wanderer': 'Rambleon', 'Silverpeak': 'Silvarro',
     'Alterra': 'Altrevo', 'Ionis': 'Ionvara', 'Woodland': 'Glenmoor', 'Prisma': 'Privela',
-    'Backcountry': 'Bushvale', 'Solaris': 'Sundara', 'Civix': 'Cevora', 'Concord': 'Corriva',
+    'Backcountry': 'Bushvale', 'Solaris': 'Solmarren', 'Civix': 'Cevora', 'Concord': 'Corriva',
     'Fortis': 'Fornell', 'Voyager': 'Pathmere', 'Ranger': 'Rovalo', 'Strider': 'Stridell',
     'Ironhide': 'Hauler', 'EV9': 'KV-6', 'ES': 'Seren', 'ES Velocity': 'Seren Velocity',
     'E3': 'Quill', 'EY': 'Larkspur', 'EX': 'Heron', '912 GTS': 'Velocera GT',
@@ -285,8 +285,15 @@ for _brand, _name in {"Hyundai Sonata": "Halcyon Serenade", "Chevrolet Equinox":
         if _brand in _m:
             _m[_brand] = _name
 
+# Product names the original data already used (before the anonymisation pass)
+# that are real products or brands themselves: renamed everywhere they appear.
+# Ordinary words used as names (Nimbus, Summit, Titan, ...) are kept.
+PRE_EXISTING_RENAMES = {
+    "HomeSync": "HomeWeave", "Old Harbor": "Old Anchorage", "PlayCore": "Plaixo", "GameBox": "Gamvault",
+    "Nimbus OS": "Velyn OS", "Solaris": "Solmarren", "Sundara": "Solmarren",
+}
 MAP = {**REPLACEMENTS, **EXTRA_REPLACEMENTS, **OTHER_REPLACEMENTS, **EXTENDED_REPLACEMENTS, **FURTHER_REPLACEMENTS,
-       **V2_REPLACEMENTS}
+       **V2_REPLACEMENTS, **PRE_EXISTING_RENAMES}
 _V2_RE = re.compile(r"(?<![\w-])(" + "|".join(re.escape(k) for k in sorted(NAMES_V2, key=len, reverse=True)) + r")(?![\w-])")
 CONTEXT_NAMES = {"Galaxy": "Lyra", "Switch": "Joyvale", "Sonic": "Blitz Racer", "Nolan": "Ashdale",
                  "Model T": "Runabout", "Cortez": "Corlando", "Lucid": "Luccaro", "Mini": "Pixley", "Ram": "Ridge",

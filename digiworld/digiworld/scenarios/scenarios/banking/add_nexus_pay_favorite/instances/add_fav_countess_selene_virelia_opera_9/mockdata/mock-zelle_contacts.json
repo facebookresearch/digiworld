@@ -2,7 +2,7 @@
   {
     "id": "{{auto_id}}",
     "userId": "{{current_user_id}}",
-    "contactName": "Countess Selene Virelia, Operations Director, Solaris Guild",
+    "contactName": "Countess Selene Virelia, Operations Director, Solmarren Guild",
     "contactEmail": "countess.selene@example.com",
     "contactPhone": "{{random_phone}}",
     "isEnrolled": 1,

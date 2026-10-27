@@ -25522,6 +25522,37 @@
             }
           },
           {
+            "instance_name": "game_player_count_solmarren_syndicate_5",
+            "config": {
+              "parameters": {
+                "item": "Solmarren Syndicate"
+              },
+              "compatible_profiles": [
+                "bulk_quantity",
+                "default",
+                "empty_cart",
+                "full_cart",
+                "heavy_discounts",
+                "high_order_volume",
+                "large_orders",
+                "low_stock",
+                "new_user",
+                "power_shopper",
+                "premium_products"
+              ],
+              "metadata": {
+                "created_at": "2026-03-13T04:00:04.918705+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
             "instance_name": "game_player_count_rift_raiders_3",
             "config": {
               "parameters": {
@@ -25604,37 +25635,6 @@
               ],
               "metadata": {
                 "created_at": "2026-03-13T04:00:08.034689+00:00"
-              },
-              "additional_mockdata": true,
-              "validation": {
-                "validated": false,
-                "last_validated": null,
-                "validation_notes": "Generated automatically - requires validation",
-                "validated_by": null
-              }
-            }
-          },
-          {
-            "instance_name": "game_player_count_solaris_syndicate_5",
-            "config": {
-              "parameters": {
-                "item": "Solaris Syndicate"
-              },
-              "compatible_profiles": [
-                "bulk_quantity",
-                "default",
-                "empty_cart",
-                "full_cart",
-                "heavy_discounts",
-                "high_order_volume",
-                "large_orders",
-                "low_stock",
-                "new_user",
-                "power_shopper",
-                "premium_products"
-              ],
-              "metadata": {
-                "created_at": "2026-03-13T04:00:04.918705+00:00"
               },
               "additional_mockdata": true,
               "validation": {
@@ -38951,27 +38951,6 @@
             }
           },
           {
-            "instance_name": "electronics_solaris_mini_slate_8",
-            "config": {
-              "parameters": {
-                "item": "Solaris Mini Slate"
-              },
-              "compatible_profiles": [
-                "bulk_quantity"
-              ],
-              "metadata": {
-                "created_at": "2026-03-13T03:59:41.607960+00:00"
-              },
-              "additional_mockdata": true,
-              "validation": {
-                "validated": false,
-                "last_validated": null,
-                "validation_notes": "Generated automatically - requires validation",
-                "validated_by": null
-              }
-            }
-          },
-          {
             "instance_name": "sports__outdoors_midlevel_composite_hockey_sti_0",
             "config": {
               "parameters": {
@@ -39066,6 +39045,27 @@
               ],
               "metadata": {
                 "created_at": "2026-03-13T03:59:33.544078+00:00"
+              },
+              "additional_mockdata": true,
+              "validation": {
+                "validated": false,
+                "last_validated": null,
+                "validation_notes": "Generated automatically - requires validation",
+                "validated_by": null
+              }
+            }
+          },
+          {
+            "instance_name": "electronics_solmarren_mini_slate_8",
+            "config": {
+              "parameters": {
+                "item": "Solmarren Mini Slate"
+              },
+              "compatible_profiles": [
+                "bulk_quantity"
+              ],
+              "metadata": {
+                "created_at": "2026-03-13T03:59:41.607960+00:00"
               },
               "additional_mockdata": true,
               "validation": {
@@ -84127,7 +84127,7 @@
             "instance_name": "add_fav_countess_selene_virelia_opera_9",
             "config": {
               "parameters": {
-                "contact_name": "Countess Selene Virelia, Operations Director, Solaris Guild"
+                "contact_name": "Countess Selene Virelia, Operations Director, Solmarren Guild"
               },
               "compatible_profiles": [
                 "default",
