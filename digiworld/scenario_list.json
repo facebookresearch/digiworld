@@ -4691,7 +4691,7 @@
             "instance_name": "review_vertex_switch_oled_vs_lite_6",
             "config": {
               "parameters": {
-                "title": "Vertex Console OLED vs. Lite: Which Wins?",
+                "title": "Joyvale Console OLED vs. Lite: Which Wins?",
                 "order": "oldest"
               },
               "compatible_profiles": [
@@ -5039,7 +5039,7 @@
             "instance_name": "review_lumen_vista_pro_first_impress_6",
             "config": {
               "parameters": {
-                "title": "Lumen Vista Pro First Impressions & Hands\u2011On",
+                "title": "Ambrel Vista Pro First Impressions & Hands\u2011On",
                 "reply_text": "Battery lasts about 2 hours with mixed use; hope that helps."
               },
               "compatible_profiles": [
@@ -6810,7 +6810,7 @@
             "config": {
               "parameters": {
                 "metric": "comments",
-                "title": "Lumen LumaBuds Pro 2 In\u2011Depth Review"
+                "title": "Ambrel LumaBuds Pro 2 In\u2011Depth Review"
               },
               "compatible_profiles": [
                 "comments_disabled",
@@ -6872,7 +6872,7 @@
             "config": {
               "parameters": {
                 "metric": "views",
-                "title": "2024 Electra Model Y Long\u2011Range Review"
+                "title": "2024 Voltaine Model Y Long\u2011Range Review"
               },
               "compatible_profiles": [
                 "comments_disabled",
@@ -8812,7 +8812,7 @@
             "instance_name": "review_vertex_switch_oled_vs_lite_6",
             "config": {
               "parameters": {
-                "title": "Vertex Console OLED vs. Lite: Which Should You Buy?",
+                "title": "Joyvale Console OLED vs. Lite: Which Should You Buy?",
                 "order": "oldest"
               },
               "compatible_profiles": [
@@ -9029,7 +9029,7 @@
             "instance_name": "review_lumen_lumabuds_pro_2_honest_fi_3",
             "config": {
               "parameters": {
-                "title": "Lumen LumaBuds Pro 2: Honest First\u2011Week Review",
+                "title": "Ambrel LumaBuds Pro 2: Honest First\u2011Week Review",
                 "order": "latest"
               },
               "compatible_profiles": [
@@ -9317,7 +9317,7 @@
             "instance_name": "review_lumen_lumabuds_pro_2_honest_fi_6",
             "config": {
               "parameters": {
-                "title": "Lumen LumaBuds Pro 2: Honest First\u2011Impression Review"
+                "title": "Ambrel LumaBuds Pro 2: Honest First\u2011Impression Review"
               },
               "compatible_profiles": [
                 "comments_disabled",
@@ -9745,7 +9745,7 @@
             "instance_name": "review_lumen_vista_pro_first_impress_6",
             "config": {
               "parameters": {
-                "title": "Lumen Vista Pro First Impressions & Hands\u2011On",
+                "title": "Ambrel Vista Pro First Impressions & Hands\u2011On",
                 "reply_text": "Battery lasts about 2 hours with mixed use; hope that helps."
               },
               "compatible_profiles": [
@@ -14250,7 +14250,7 @@
             "instance_name": "cat_home__garden_classic_1965_fairmont_mustang_coup_3",
             "config": {
               "parameters": {
-                "title": "Classic 1965 Fairmont Mustang Coupe \u2013 Restored Muscle Car with Original Engine",
+                "title": "Classic 1965 Farrowby Mustang Coupe \u2013 Restored Muscle Car with Original Engine",
                 "category": "Home & Garden"
               },
               "compatible_profiles": [
@@ -14382,7 +14382,7 @@
             "instance_name": "electronics_factory_sealed_lumen_lumatab_pro_8",
             "config": {
               "parameters": {
-                "title": "Factory-Sealed Lumen LumaTab Pro 2021 \u2013 12.9-inch, 256GB, Wi\u2011Fi",
+                "title": "Factory-Sealed Ambrel LumaTab Pro 2021 \u2013 12.9-inch, 256GB, Wi\u2011Fi",
                 "price": "207.78"
               },
               "compatible_profiles": [
@@ -15607,7 +15607,7 @@
             "config": {
               "parameters": {
                 "category": "Electronics",
-                "title": "Unlocked Solstice Nova S22 \u2013 Like New, 128GB",
+                "title": "Unlocked Solvane Nova S22 \u2013 Like New, 128GB",
                 "price": "1054.6",
                 "startBid": "343.89"
               },
@@ -15911,7 +15911,7 @@
             "config": {
               "parameters": {
                 "category": "Electronics",
-                "title": "Unlocked Solstice Nova S22 \u2013 Like New, 128GB",
+                "title": "Unlocked Solvane Nova S22 \u2013 Like New, 128GB",
                 "price": "1054.60"
               },
               "compatible_profiles": [
@@ -16752,7 +16752,7 @@
             "instance_name": "bidincr_historic_1903_model_t_fairmont__f_7",
             "config": {
               "parameters": {
-                "title": "Historic 1903 Model T Fairmont \u2013 Fully Restored, Running Condition",
+                "title": "Historic 1903 Model T Farrowby \u2013 Fully Restored, Running Condition",
                 "BidIncrement": "10.0"
               },
               "compatible_profiles": [
@@ -16983,7 +16983,7 @@
             "config": {
               "parameters": {
                 "category": "Electronics",
-                "title": "Lumen LumaPhone 15 Pro Max \u2013 256GB \u2013 Pacific Blue, Unlocked",
+                "title": "Ambrel LumaPhone 15 Pro Max \u2013 256GB \u2013 Pacific Blue, Unlocked",
                 "startbid": "359.43",
                 "days": "12"
               },
@@ -17522,7 +17522,7 @@
             "config": {
               "parameters": {
                 "category": "Electronics",
-                "title": "Lumen LumaPhone 15 Pro Max \u2013 256GB \u2013 Pacific Blue, Unlocked",
+                "title": "Ambrel LumaPhone 15 Pro Max \u2013 256GB \u2013 Pacific Blue, Unlocked",
                 "startbid": "359.43",
                 "days": "12"
               },
@@ -17906,7 +17906,7 @@
             "instance_name": "electronics_lumen_lumabook_pro_2020__13_r_4",
             "config": {
               "parameters": {
-                "title": "Lumen LumaBook Pro 2020 \u2013 13\" ClearView, 16GB RAM, Space Gray"
+                "title": "Ambrel LumaBook Pro 2020 \u2013 13\" ClearView, 16GB RAM, Space Gray"
               },
               "compatible_profiles": [
                 "auction_heavy",
@@ -19361,7 +19361,7 @@
             "instance_name": "electronics_factory_sealed_lumen_lumatab_pro_8",
             "config": {
               "parameters": {
-                "item_title": "Factory-Sealed Lumen LumaTab Pro 12.9\" 2023, Wi\u2011Fi Model"
+                "item_title": "Factory-Sealed Ambrel LumaTab Pro 12.9\" 2023, Wi\u2011Fi Model"
               },
               "compatible_profiles": [
                 "auction_heavy",
@@ -19851,7 +19851,7 @@
             "instance_name": "to_auction_mint_condition_1995_vertex_s_2",
             "config": {
               "parameters": {
-                "title": "Mint Condition 1995 Vertex Super PlayLad",
+                "title": "Mint Condition 1995 Joyvale Super PlayLad",
                 "startBid": "48.03"
               },
               "compatible_profiles": [
@@ -20130,7 +20130,7 @@
             "instance_name": "to_auction_lumen_lumaphone_13_pro_max_256gb_1",
             "config": {
               "parameters": {
-                "title": "Lumen LumaPhone 13 Pro Max 256GB \u2013 Unlocked \u2013 $799",
+                "title": "Ambrel LumaPhone 13 Pro Max 256GB \u2013 Unlocked \u2013 $799",
                 "startBid": "19.75"
               },
               "compatible_profiles": [
@@ -20777,7 +20777,7 @@
             "config": {
               "parameters": {
                 "category": "Electronics",
-                "title": "Unlocked Solstice Nova S22 \u2013 Like New, 128GB",
+                "title": "Unlocked Solvane Nova S22 \u2013 Like New, 128GB",
                 "price": "1054.6"
               },
               "compatible_profiles": [
@@ -29471,7 +29471,7 @@
             "instance_name": "electronics_conn_vertex_playcore_4",
             "config": {
               "parameters": {
-                "item": "Vertex PlayCore"
+                "item": "Vertex Plaixo"
               },
               "compatible_profiles": [
                 "premium_products"
@@ -42967,7 +42967,7 @@
             "instance_name": "electronics_power_solstice_4k_smart_tv_1",
             "config": {
               "parameters": {
-                "item": "Solstice 4K Smart TV"
+                "item": "Solvane 4K Smart TV"
               },
               "compatible_profiles": [
                 "bulk_quantity",
@@ -43091,7 +43091,7 @@
             "instance_name": "electronics_power_lumen_lumabook_air_2",
             "config": {
               "parameters": {
-                "item": "Lumen LumaBook Air"
+                "item": "Ambrel LumaBook Air"
               },
               "compatible_profiles": [
                 "bulk_quantity",
@@ -46964,7 +46964,7 @@
             "config": {
               "parameters": {
                 "spec": "storage",
-                "item": "Vertex PlayCore"
+                "item": "Vertex Plaixo"
               },
               "compatible_profiles": [
                 "premium_products"
@@ -109865,7 +109865,7 @@
             "config": {
               "parameters": {
                 "color": "Silver",
-                "make": "Harmony",
+                "make": "Hensmoor",
                 "model": "Odyssey",
                 "vehicle_type": "Van",
                 "license_plate": "FMLYVN",
@@ -109939,8 +109939,8 @@
             "config": {
               "parameters": {
                 "color": "White",
-                "make": "Electra",
-                "model": "E3",
+                "make": "Voltaine",
+                "model": "Quill",
                 "vehicle_type": "Electric Vehicle",
                 "license_plate": "ELEC7R",
                 "nickname": "Electron",
@@ -109976,7 +109976,7 @@
             "config": {
               "parameters": {
                 "color": "Blue",
-                "make": "Fairmont",
+                "make": "Farrowby",
                 "model": "T-150",
                 "vehicle_type": "Truck",
                 "license_plate": "BLBEAST",
@@ -110794,8 +110794,8 @@
             "config": {
               "parameters": {
                 "color": "Olive",
-                "make": "Wayfarer",
-                "model": "Wanderer",
+                "make": "Trekmont",
+                "model": "Rambleon",
                 "vehicle_type": "SUV",
                 "license_plate": "MTNGOAT",
                 "nickname": "Mountain Goat"
@@ -110864,8 +110864,8 @@
             "config": {
               "parameters": {
                 "color": "Silver",
-                "make": "Harmony",
-                "model": "Civix",
+                "make": "Hensmoor",
+                "model": "Cevora",
                 "vehicle_type": "Compact",
                 "license_plate": "CTYSLC",
                 "nickname": "City Slick"
@@ -110899,8 +110899,8 @@
             "config": {
               "parameters": {
                 "color": "Black",
-                "make": "Electra",
-                "model": "ES",
+                "make": "Voltaine",
+                "model": "Seren",
                 "vehicle_type": "Electric Vehicle",
                 "license_plate": "ELEC7R",
                 "nickname": "Bolt"
@@ -110969,8 +110969,8 @@
             "config": {
               "parameters": {
                 "color": "White",
-                "make": "Electra",
-                "model": "E3",
+                "make": "Voltaine",
+                "model": "Quill",
                 "vehicle_type": "Electric Vehicle",
                 "license_plate": "EC0FLA",
                 "nickname": "Eco Flash"
@@ -111040,7 +111040,7 @@
               "parameters": {
                 "color": "Gray",
                 "make": "Sylvan",
-                "model": "Backcountry",
+                "model": "Bushvale",
                 "vehicle_type": "SUV",
                 "license_plate": "GRYGHST",
                 "nickname": "Grey Ghost"
@@ -111074,7 +111074,7 @@
             "config": {
               "parameters": {
                 "color": "Blue",
-                "make": "Fairmont",
+                "make": "Farrowby",
                 "model": "T-150",
                 "vehicle_type": "Truck",
                 "license_plate": "BLBEAST",
@@ -113254,8 +113254,8 @@
             "config": {
               "parameters": {
                 "color": "Green",
-                "make": "Wayfarer",
-                "model": "Wanderer",
+                "make": "Trekmont",
+                "model": "Rambleon",
                 "vehicle_type": "SUV",
                 "license_plate": "MTNGOAT",
                 "nickname": "Mountain Goat"
@@ -113324,7 +113324,7 @@
             "config": {
               "parameters": {
                 "color": "Grey",
-                "make": "Avanti",
+                "make": "Avelrin",
                 "model": "A4X",
                 "vehicle_type": "Sedan",
                 "license_plate": "GRYGHST",
@@ -113359,8 +113359,8 @@
             "config": {
               "parameters": {
                 "color": "White",
-                "make": "Electra",
-                "model": "E3",
+                "make": "Voltaine",
+                "model": "Quill",
                 "vehicle_type": "Electric Vehicle",
                 "license_plate": "ELEC7R",
                 "nickname": "Electron"
@@ -113394,7 +113394,7 @@
             "config": {
               "parameters": {
                 "color": "Blue",
-                "make": "Fairmont",
+                "make": "Farrowby",
                 "model": "T-150",
                 "vehicle_type": "Truck",
                 "license_plate": "BLBEAST",
@@ -126055,7 +126055,7 @@
             "instance_name": "add_payment_paylink_1",
             "config": {
               "parameters": {
-                "payment_type": "PayLink"
+                "payment_type": "Payvane"
               },
               "compatible_profiles": [
                 "budget_rides",
@@ -126086,7 +126086,7 @@
             "instance_name": "add_payment_paylink_8",
             "config": {
               "parameters": {
-                "payment_type": "PayLink"
+                "payment_type": "Payvane"
               },
               "compatible_profiles": [
                 "budget_rides",
@@ -126117,7 +126117,7 @@
             "instance_name": "add_payment_paylink_7",
             "config": {
               "parameters": {
-                "payment_type": "PayLink"
+                "payment_type": "Payvane"
               },
               "compatible_profiles": [
                 "budget_rides",
@@ -126179,7 +126179,7 @@
             "instance_name": "add_payment_paylink_2",
             "config": {
               "parameters": {
-                "payment_type": "PayLink"
+                "payment_type": "Payvane"
               },
               "compatible_profiles": [
                 "budget_rides",
@@ -126210,7 +126210,7 @@
             "instance_name": "add_payment_paylink_5",
             "config": {
               "parameters": {
-                "payment_type": "PayLink"
+                "payment_type": "Payvane"
               },
               "compatible_profiles": [
                 "budget_rides",
@@ -126241,7 +126241,7 @@
             "instance_name": "add_payment_paylink_3",
             "config": {
               "parameters": {
-                "payment_type": "PayLink"
+                "payment_type": "Payvane"
               },
               "compatible_profiles": [
                 "budget_rides",
@@ -127560,7 +127560,7 @@
             "instance_name": "add_default_paylink_7",
             "config": {
               "parameters": {
-                "payment_type": "PayLink"
+                "payment_type": "Payvane"
               },
               "compatible_profiles": [
                 "budget_rides",
@@ -127622,7 +127622,7 @@
             "instance_name": "add_default_paylink_8",
             "config": {
               "parameters": {
-                "payment_type": "PayLink"
+                "payment_type": "Payvane"
               },
               "compatible_profiles": [
                 "budget_rides",
@@ -127653,7 +127653,7 @@
             "instance_name": "add_default_paylink_1",
             "config": {
               "parameters": {
-                "payment_type": "PayLink"
+                "payment_type": "Payvane"
               },
               "compatible_profiles": [
                 "budget_rides",
@@ -127746,7 +127746,7 @@
             "instance_name": "add_default_paylink_3",
             "config": {
               "parameters": {
-                "payment_type": "PayLink"
+                "payment_type": "Payvane"
               },
               "compatible_profiles": [
                 "budget_rides",
@@ -127839,7 +127839,7 @@
             "instance_name": "add_default_paylink_2",
             "config": {
               "parameters": {
-                "payment_type": "PayLink"
+                "payment_type": "Payvane"
               },
               "compatible_profiles": [
                 "budget_rides",
@@ -127870,7 +127870,7 @@
             "instance_name": "add_default_paylink_5",
             "config": {
               "parameters": {
-                "payment_type": "PayLink"
+                "payment_type": "Payvane"
               },
               "compatible_profiles": [
                 "budget_rides",
@@ -130325,7 +130325,7 @@
             "instance_name": "add_paylink_book_comfort_santo_domingo_0",
             "config": {
               "parameters": {
-                "payment_type": "PayLink",
+                "payment_type": "Payvane",
                 "origin": "Santo Domingo Bakery & Coffee Shop, Clinton Street, USA",
                 "destination": "Chinese Hispanic Grocery, 130, Eldridge Street, Manhattan, USA",
                 "car_type": "Comfort"
@@ -130351,7 +130351,7 @@
             "instance_name": "add_paylink_book_economy_408_east_13th_1",
             "config": {
               "parameters": {
-                "payment_type": "PayLink",
+                "payment_type": "Payvane",
                 "origin": "408, East 13th Street, Manhattan, USA",
                 "destination": "Manor Community Church, 348, West 26th Street Manhattan, USA",
                 "car_type": "Economy"
@@ -130404,7 +130404,7 @@
             "instance_name": "add_paylink_book_premium_408_east_13th_2",
             "config": {
               "parameters": {
-                "payment_type": "PayLink",
+                "payment_type": "Payvane",
                 "origin": "408, East 13th Street, Manhattan, USA",
                 "destination": "Manor Community Church, 348, West 26th Street Manhattan, USA",
                 "car_type": "Premium"

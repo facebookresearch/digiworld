@@ -3,7 +3,7 @@
     "id": "{{auto_id}}",
     "user_id": "{{current_user_id}}",
     "type": "card",
-    "card_type": "Vantage",
+    "card_type": "Varenta",
     "name_on_card": "Emily R. Thompson",
     "card_number": "4104332181960013",
     "expiry_month": "06",

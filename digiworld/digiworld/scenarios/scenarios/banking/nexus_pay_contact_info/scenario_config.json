@@ -7,5 +7,5 @@
     "info_type"
   ],
   "context_fields": [],
-  "description": "Look up a Nexus Pay (QuickPay) contact's email address or phone number."
+  "description": "Look up a Nexus Pay (Trellipay) contact's email address or phone number."
 }

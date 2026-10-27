@@ -2,7 +2,7 @@
   {
     "id": "{{auto_id}}",
     "name": "NexaLink Smart Home Hub",
-    "description": "The NexaLink Smart Home Hub connects and controls all your smart devices from a single app. Supports over 200 smart home protocols including Zigbee, Z-Wave, Wi-Fi, and Bluetooth. Features a built-in voice assistant, local processing for faster response, and works with Aria, Corvex Home, and Lumen HomeHub.",
+    "description": "The NexaLink Smart Home Hub connects and controls all your smart devices from a single app. Supports over 200 smart home protocols including Zigbee, Z-Wave, Wi-Fi, and Bluetooth. Features a built-in voice assistant, local processing for faster response, and works with Avessa, Corvex Home, and Ambrel HomeHub.",
     "shortDescription": "Central smart home hub supporting 200+ devices with voice assistant and local processing.",
     "rating": 4.4,
     "reviewCount": 112,
@@ -17,7 +17,7 @@
     "inStock": true,
     "stockCount": 45,
     "imageUrl": "/7_1",
-    "specs": "{\"protocols\": \"Zigbee, Z-Wave, Wi-Fi 6, Bluetooth 5.2\", \"voice\": \"Built-in voice assistant\", \"processing\": \"Local edge processing\", \"compatibility\": \"Aria, Corvex Home, Lumen HomeHub\", \"connectivity\": \"Ethernet, Wi-Fi\", \"ports\": \"2x USB-A, 1x USB-C\"}",
+    "specs": "{\"protocols\": \"Zigbee, Z-Wave, Wi-Fi 6, Bluetooth 5.2\", \"voice\": \"Built-in voice assistant\", \"processing\": \"Local edge processing\", \"compatibility\": \"Avessa, Corvex Home, Ambrel HomeHub\", \"connectivity\": \"Ethernet, Wi-Fi\", \"ports\": \"2x USB-A, 1x USB-C\"}",
     "tags": "[\"smart home\", \"hub\", \"automation\", \"electronics\", \"connected\"]",
     "isFeatured": false,
     "dateAdded": "2025-06-15 12:00:00.000"

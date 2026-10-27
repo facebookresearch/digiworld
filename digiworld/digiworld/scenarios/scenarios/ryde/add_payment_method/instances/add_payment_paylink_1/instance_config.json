@@ -1,6 +1,6 @@
 {
   "parameters": {
-    "payment_type": "PayLink"
+    "payment_type": "Payvane"
   },
   "compatible_profiles": [
     "budget_rides",

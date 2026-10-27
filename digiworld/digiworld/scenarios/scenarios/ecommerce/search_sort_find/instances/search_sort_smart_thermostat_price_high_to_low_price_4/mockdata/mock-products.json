@@ -2,7 +2,7 @@
   {
     "id": "{{auto_id}}",
     "name": "NestIQ Smart Thermostat Pro",
-    "description": "AI-learning smart thermostat that adapts to your schedule and preferences. Compatible with Aria, Corvex Home, and Lumen HomeHub. Features a colour touchscreen display, remote control via app, and energy usage reports.",
+    "description": "AI-learning smart thermostat that adapts to your schedule and preferences. Compatible with Avessa, Corvex Home, and Ambrel HomeHub. Features a colour touchscreen display, remote control via app, and energy usage reports.",
     "shortDescription": "AI-learning smart thermostat with multi-platform smart home support.",
     "rating": 4.7,
     "reviewCount": 229,
@@ -17,7 +17,7 @@
     "inStock": true,
     "stockCount": 25,
     "imageUrl": "/electronics_5",
-    "specs": "{\"compatibility\": \"Aria, Corvex Home, Lumen HomeHub\", \"display\": \"3.5-inch colour touchscreen\", \"connectivity\": \"Wi-Fi, Bluetooth\", \"powerSource\": \"Hardwired\", \"energyReport\": \"Yes\"}",
+    "specs": "{\"compatibility\": \"Avessa, Corvex Home, Ambrel HomeHub\", \"display\": \"3.5-inch colour touchscreen\", \"connectivity\": \"Wi-Fi, Bluetooth\", \"powerSource\": \"Hardwired\", \"energyReport\": \"Yes\"}",
     "tags": "[\"smart\", \"thermostat\", \"home automation\", \"energy saving\", \"electronics\"]",
     "isFeatured": true,
     "dateAdded": "2025-07-03 10:00:00.000"
@@ -40,7 +40,7 @@
     "inStock": true,
     "stockCount": 48,
     "imageUrl": "/electronics_6",
-    "specs": "{\"compatibility\": \"Aria, Corvex Assistant\", \"display\": \"LCD backlit\", \"connectivity\": \"Wi-Fi\", \"powerSource\": \"Battery + Hardwired\", \"schedule\": \"7-day programmable\"}",
+    "specs": "{\"compatibility\": \"Avessa, Corvex Assistant\", \"display\": \"LCD backlit\", \"connectivity\": \"Wi-Fi\", \"powerSource\": \"Battery + Hardwired\", \"schedule\": \"7-day programmable\"}",
     "tags": "[\"smart\", \"thermostat\", \"wifi\", \"programmable\", \"budget\"]",
     "isFeatured": false,
     "dateAdded": "2025-08-10 09:00:00.000"

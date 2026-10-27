@@ -1,6 +1,6 @@
 {
   "parameters": {
-    "payment_type": "PayLink",
+    "payment_type": "Payvane",
     "origin": "Santo Domingo Bakery & Coffee Shop, Clinton Street, USA",
     "destination": "Chinese Hispanic Grocery, 130, Eldridge Street, Manhattan, USA",
     "car_type": "Comfort"

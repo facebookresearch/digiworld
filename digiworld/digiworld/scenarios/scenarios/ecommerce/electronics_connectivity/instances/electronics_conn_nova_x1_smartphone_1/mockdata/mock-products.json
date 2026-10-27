@@ -17,7 +17,7 @@
     "inStock": true,
     "stockCount": 127,
     "imageUrl": "/1_1",
-    "specs": "{\"display\": \"6.2-inch OLED, 1080x2400 pixels\", \"processor\": \"Cellwave Stormcore 8 Gen 2\", \"ram\": \"8 GB LPDDR5\", \"storage\": \"128 GB UFS 3.1\", \"battery\": \"4500 mAh\", \"os\": \"Nimbus OS 13\", \"connectivity\": \"5G, Wi-Fi 6E, Bluetooth 5.3, NFC\"}",
+    "specs": "{\"display\": \"6.2-inch OLED, 1080x2400 pixels\", \"processor\": \"Cellwave Stormcore 8 Gen 2\", \"ram\": \"8 GB LPDDR5\", \"storage\": \"128 GB UFS 3.1\", \"battery\": \"4500 mAh\", \"os\": \"Velyn OS 13\", \"connectivity\": \"5G, Wi-Fi 6E, Bluetooth 5.3, NFC\"}",
     "tags": "[\"electronics\", \"smartphones\", \"popular\", \"premium\"]",
     "isFeatured": false,
     "dateAdded": "2025-06-15 12:00:00.000"

@@ -22,7 +22,7 @@ def _normalize_location(s: str) -> str:
 # the instances), while the app records the provider names it ships with. Map the
 # anonymised names back so the verifiers compare like with like.
 PAYMENT_NAME_ALIASES = {
-    "paylink": "paypal",
+    "payvane": "paypal",
 }
 
 

@@ -17,7 +17,7 @@
     "inStock": true,
     "stockCount": 197,
     "imageUrl": "/2_1",
-    "specs": "{\"display\": \"5.8\\\" AMOLED, 1080x2400, 90Hz\", \"processor\": \"NovaSil Dimensia 8200\", \"ram\": \"8GB LPDDR5\", \"storage\": \"128GB UFS 2.2\", \"battery\": \"4300mAh, 33W fast charge\", \"os\": \"Nimbus OS 13\", \"connectivity\": \"5G, Wi-Fi 6, Bluetooth 5.2, NFC, Single SIM\"}",
+    "specs": "{\"display\": \"5.8\\\" AMOLED, 1080x2400, 90Hz\", \"processor\": \"NovaSil Dimensia 8200\", \"ram\": \"8GB LPDDR5\", \"storage\": \"128GB UFS 2.2\", \"battery\": \"4300mAh, 33W fast charge\", \"os\": \"Velyn OS 13\", \"connectivity\": \"5G, Wi-Fi 6, Bluetooth 5.2, NFC, Single SIM\"}",
     "tags": "[\"smartphones\", \"electronics\", \"top-rated\", \"best\"]",
     "isFeatured": false,
     "dateAdded": "2025-06-15 12:00:00.000"

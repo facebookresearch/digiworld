@@ -17,7 +17,7 @@
     "inStock": true,
     "stockCount": 186,
     "imageUrl": "/4_1",
-    "specs": "{\"display\": \"6.8-inch Super AMOLED, 1440x3200, 144Hz\", \"processor\": \"Exonar 2400\", \"ram\": \"12 GB LPDDR5\", \"storage\": \"512 GB UFS 3.1\", \"battery\": \"5500 mAh\", \"os\": \"Nimbus OS 13\", \"connectivity\": \"5G, Wi-Fi 6E, Bluetooth 5.3, NFC, Dual SIM\"}",
+    "specs": "{\"display\": \"6.8-inch Super AMOLED, 1440x3200, 144Hz\", \"processor\": \"Exonar 2400\", \"ram\": \"12 GB LPDDR5\", \"storage\": \"512 GB UFS 3.1\", \"battery\": \"5500 mAh\", \"os\": \"Velyn OS 13\", \"connectivity\": \"5G, Wi-Fi 6E, Bluetooth 5.3, NFC, Dual SIM\"}",
     "tags": "[\"electronics\", \"smartphones\", \"premium\", \"high-quality\"]",
     "isFeatured": false,
     "dateAdded": "2025-06-15 12:00:00.000"

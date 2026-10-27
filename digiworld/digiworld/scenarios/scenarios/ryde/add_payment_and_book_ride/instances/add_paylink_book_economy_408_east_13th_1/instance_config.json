@@ -1,6 +1,6 @@
 {
   "parameters": {
-    "payment_type": "PayLink",
+    "payment_type": "Payvane",
     "origin": "408, East 13th Street, Manhattan, USA",
     "destination": "Manor Community Church, 348, West 26th Street Manhattan, USA",
     "car_type": "Economy"
