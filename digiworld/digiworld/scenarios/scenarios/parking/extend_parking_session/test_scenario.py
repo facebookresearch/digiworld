@@ -33,7 +33,7 @@ TABLE_SQL = [
     )""",
 ]
 
-_VEHICLES = [(1, 1, "Thunder", "Toyota", "Camry", "Blue", "THND3R")]
+_VEHICLES = [(1, 1, "Thunder", "Tolimar", "Camdyn", "Blue", "THND3R")]
 _ZONES = [(1, "Downtown Lot", "DWN001")]
 
 

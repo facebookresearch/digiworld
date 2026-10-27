@@ -35,7 +35,7 @@ def _create_state(state_dir, accounts, transactions=None, user_id=1):
         "INSERT INTO transaction_types VALUES (1,'transfer','Account Transfer','transfer')"
     )
     cur.execute(
-        "INSERT INTO transaction_types VALUES (3,'zelle','Nexus Payment','transfer')"
+        "INSERT INTO transaction_types VALUES (3,'trellipay','Nexus Payment','transfer')"
     )
 
     cur.execute(
@@ -127,7 +127,7 @@ class TestTransferBetweenAccounts(unittest.TestCase):
             (2, 1, 2, "2222", "Savings", 1050, 1050, 0, "active"),
         ]
         final_txs = [
-            (1, 1, 3, 1, 2, 50.0, "Zelle Payment", "success"),
+            (1, 1, 3, 1, 2, 50.0, "Trellipay Payment", "success"),
         ]
         _create_state(self.final_dir, final_accounts, final_txs)
 

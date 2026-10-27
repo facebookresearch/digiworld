@@ -52,28 +52,28 @@ class TestAddPaymentMethod(unittest.TestCase):
         with tempfile.TemporaryDirectory() as init_dir, tempfile.TemporaryDirectory() as final_dir:
             _make_db(init_dir, [
                 ("INSERT INTO user_payment_methods (user_id, type, provider) VALUES (?, ?, ?)",
-                 (1, "credit_card", "Visa")),
+                 (1, "credit_card", "Varenta")),
             ])
             _make_db(final_dir, [
                 ("INSERT INTO user_payment_methods (user_id, type, provider) VALUES (?, ?, ?)",
-                 (1, "credit_card", "Visa")),
+                 (1, "credit_card", "Varenta")),
                 ("INSERT INTO user_payment_methods (user_id, type, provider) VALUES (?, ?, ?)",
-                 (1, "digital_wallet", "PayPal")),
+                 (1, "digital_wallet", "Payvane")),
             ])
-            scenario = self._make_scenario("PayPal", init_dir)
+            scenario = self._make_scenario("Payvane", init_dir)
             checks = scenario._get_checks(final_dir)
             self.assertTrue(checks["payment_method_added"])
             self.assertTrue(checks["correct_type"])
 
-    def test_pass_add_paylink_alias(self):
-        # instances name the wallet "PayLink"; the app stores its own provider name
+    def test_pass_add_wallet_alias(self):
+        # instances name the wallet "Payvane"; the app stores its own provider name
         with tempfile.TemporaryDirectory() as init_dir, tempfile.TemporaryDirectory() as final_dir:
             _make_db(init_dir, [])
             _make_db(final_dir, [
                 ("INSERT INTO user_payment_methods (user_id, type, provider) VALUES (?, ?, ?)",
                  (1, "digital_wallet", "PayPal")),
             ])
-            scenario = self._make_scenario("PayLink", init_dir)
+            scenario = self._make_scenario("Payvane", init_dir)
             checks = scenario._get_checks(final_dir)
             self.assertTrue(checks["payment_method_added"])
             self.assertTrue(checks["correct_type"])
@@ -82,13 +82,13 @@ class TestAddPaymentMethod(unittest.TestCase):
         with tempfile.TemporaryDirectory() as init_dir, tempfile.TemporaryDirectory() as final_dir:
             _make_db(init_dir, [
                 ("INSERT INTO user_payment_methods (user_id, type, provider) VALUES (?, ?, ?)",
-                 (1, "digital_wallet", "PayPal")),
+                 (1, "digital_wallet", "Payvane")),
             ])
             _make_db(final_dir, [
                 ("INSERT INTO user_payment_methods (user_id, type, provider) VALUES (?, ?, ?)",
-                 (1, "digital_wallet", "PayPal")),
+                 (1, "digital_wallet", "Payvane")),
                 ("INSERT INTO user_payment_methods (user_id, type, provider) VALUES (?, ?, ?)",
-                 (1, "credit_card", "Mastercard")),
+                 (1, "credit_card", "Kelvra Card")),
             ])
             scenario = self._make_scenario("Credit/Debit Card", init_dir)
             checks = scenario._get_checks(final_dir)
@@ -99,13 +99,13 @@ class TestAddPaymentMethod(unittest.TestCase):
         with tempfile.TemporaryDirectory() as init_dir, tempfile.TemporaryDirectory() as final_dir:
             _make_db(init_dir, [
                 ("INSERT INTO user_payment_methods (user_id, type, provider) VALUES (?, ?, ?)",
-                 (1, "credit_card", "Visa")),
+                 (1, "credit_card", "Varenta")),
             ])
             _make_db(final_dir, [
                 ("INSERT INTO user_payment_methods (user_id, type, provider) VALUES (?, ?, ?)",
-                 (1, "credit_card", "Visa")),
+                 (1, "credit_card", "Varenta")),
             ])
-            scenario = self._make_scenario("PayPal", init_dir)
+            scenario = self._make_scenario("Payvane", init_dir)
             checks = scenario._get_checks(final_dir)
             self.assertFalse(checks["payment_method_added"])
             self.assertFalse(checks["correct_type"])
@@ -114,15 +114,15 @@ class TestAddPaymentMethod(unittest.TestCase):
         with tempfile.TemporaryDirectory() as init_dir, tempfile.TemporaryDirectory() as final_dir:
             _make_db(init_dir, [
                 ("INSERT INTO user_payment_methods (user_id, type, provider) VALUES (?, ?, ?)",
-                 (1, "credit_card", "Visa")),
+                 (1, "credit_card", "Varenta")),
             ])
             _make_db(final_dir, [
                 ("INSERT INTO user_payment_methods (user_id, type, provider) VALUES (?, ?, ?)",
-                 (1, "credit_card", "Visa")),
+                 (1, "credit_card", "Varenta")),
                 ("INSERT INTO user_payment_methods (user_id, type, provider) VALUES (?, ?, ?)",
-                 (1, "credit_card", "Mastercard")),
+                 (1, "credit_card", "Kelvra Card")),
             ])
-            scenario = self._make_scenario("PayPal", init_dir)
+            scenario = self._make_scenario("Payvane", init_dir)
             checks = scenario._get_checks(final_dir)
             self.assertTrue(checks["payment_method_added"])
             self.assertFalse(checks["correct_type"])
@@ -131,7 +131,7 @@ class TestAddPaymentMethod(unittest.TestCase):
         with tempfile.TemporaryDirectory() as init_dir, tempfile.TemporaryDirectory() as final_dir:
             _make_db(init_dir, [])
             _make_db(final_dir, [])
-            scenario = self._make_scenario("Bitcoin", init_dir)
+            scenario = self._make_scenario("Vexbit", init_dir)
             with self.assertRaises(ValueError):
                 scenario._get_checks(final_dir)
 

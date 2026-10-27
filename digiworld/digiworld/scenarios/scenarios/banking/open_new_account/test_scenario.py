@@ -23,7 +23,7 @@ def _create_state(state_dir, accounts, user_id=1):
         "id INTEGER PRIMARY KEY, code TEXT, name TEXT, category TEXT)"
     )
     cur.execute("INSERT INTO account_types VALUES (1,'checking','Everyday Checking','checking')")
-    cur.execute("INSERT INTO account_types VALUES (2,'savings','Way2Save Savings','savings')")
+    cur.execute("INSERT INTO account_types VALUES (2,'savings','Save2Grow Savings','savings')")
     cur.execute("INSERT INTO account_types VALUES (3,'money_market','Money Market Account','savings')")
     cur.execute("INSERT INTO account_types VALUES (4,'ira_account','Individual Retirement Account (IRA)','retirement')")
     cur.execute(

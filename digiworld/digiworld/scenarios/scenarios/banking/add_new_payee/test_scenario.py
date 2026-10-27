@@ -57,10 +57,10 @@ class TestAddNewPayeeScenario(unittest.TestCase):
             self._make_db(initial, [])
             self._make_db(final, [
                 ("INSERT INTO billers (code, name, category, phone) VALUES (?, ?, ?, ?)",
-                 ("newpay", "Pacific Gas & Electric", "utilities", "(555) 123-4567")),
+                 ("newpay", "Seacliff Gas & Electric", "utilities", "(555) 123-4567")),
             ])
             scenario = self._make_scenario(
-                payee_name="Pacific Gas & Electric",
+                payee_name="Seacliff Gas & Electric",
                 category="utilities",
                 phone="(555) 123-4567",
                 initial_state_path=initial,
@@ -77,7 +77,7 @@ class TestAddNewPayeeScenario(unittest.TestCase):
             self._make_db(initial, [])
             self._make_db(final, [])
             scenario = self._make_scenario(
-                payee_name="Pacific Gas & Electric",
+                payee_name="Seacliff Gas & Electric",
                 initial_state_path=initial,
                 agent_answer="Payee added",
             )
@@ -89,13 +89,13 @@ class TestAddNewPayeeScenario(unittest.TestCase):
         """If the payee already exists in initial state, it should not count as created."""
         records = [
             ("INSERT INTO billers (code, name, category) VALUES (?, ?, ?)",
-             ("exist", "Pacific Gas & Electric", "utilities")),
+             ("exist", "Seacliff Gas & Electric", "utilities")),
         ]
         with tempfile.TemporaryDirectory() as initial, tempfile.TemporaryDirectory() as final:
             self._make_db(initial, records)
             self._make_db(final, records)
             scenario = self._make_scenario(
-                payee_name="Pacific Gas & Electric",
+                payee_name="Seacliff Gas & Electric",
                 initial_state_path=initial,
                 agent_answer="Done",
             )
@@ -108,10 +108,10 @@ class TestAddNewPayeeScenario(unittest.TestCase):
             self._make_db(initial, [])
             self._make_db(final, [
                 ("INSERT INTO billers (code, name, category) VALUES (?, ?, ?)",
-                 ("newpay", "Pacific Gas & Electric", "insurance")),
+                 ("newpay", "Seacliff Gas & Electric", "insurance")),
             ])
             scenario = self._make_scenario(
-                payee_name="Pacific Gas & Electric",
+                payee_name="Seacliff Gas & Electric",
                 category="utilities",
                 initial_state_path=initial,
                 agent_answer="Payee added",
@@ -126,10 +126,10 @@ class TestAddNewPayeeScenario(unittest.TestCase):
             self._make_db(initial, [])
             self._make_db(final, [
                 ("INSERT INTO billers (code, name, category, phone) VALUES (?, ?, ?, ?)",
-                 ("newpay", "Pacific Gas & Electric", "utilities", "(555) 000-0000")),
+                 ("newpay", "Seacliff Gas & Electric", "utilities", "(555) 000-0000")),
             ])
             scenario = self._make_scenario(
-                payee_name="Pacific Gas & Electric",
+                payee_name="Seacliff Gas & Electric",
                 phone="(555) 123-4567",
                 initial_state_path=initial,
                 agent_answer="Payee added",
@@ -144,10 +144,10 @@ class TestAddNewPayeeScenario(unittest.TestCase):
             self._make_db(initial, [])
             self._make_db(final, [
                 ("INSERT INTO billers (code, name, category) VALUES (?, ?, ?)",
-                 ("newpay", "pacific gas & electric", "utilities")),
+                 ("newpay", "seacliff gas & electric", "utilities")),
             ])
             scenario = self._make_scenario(
-                payee_name="Pacific Gas & Electric",
+                payee_name="Seacliff Gas & Electric",
                 initial_state_path=initial,
                 agent_answer="Done",
             )

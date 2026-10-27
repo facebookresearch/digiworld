@@ -85,7 +85,7 @@ class TestPayForParkingScenario(unittest.TestCase):
         with tempfile.TemporaryDirectory() as d:
             self._make_db(
                 d,
-                vehicles=[(1, 1, "Thunder", "Toyota", "Camry", "Blue", "THND3R")],
+                vehicles=[(1, 1, "Thunder", "Tolimar", "Camdyn", "Blue", "THND3R")],
                 zones=[(1, "Downtown Lot", "DWN001")],
                 history=[(1, 1, 1, 1, 60, "active")],
             )
@@ -98,7 +98,7 @@ class TestPayForParkingScenario(unittest.TestCase):
         with tempfile.TemporaryDirectory() as d:
             self._make_db(
                 d,
-                vehicles=[(1, 1, "Thunder", "Toyota", "Camry", "Blue", "THND3R")],
+                vehicles=[(1, 1, "Thunder", "Tolimar", "Camdyn", "Blue", "THND3R")],
                 zones=[(1, "Downtown Lot", "DWN001")],
             )
             scenario = _make_scenario(vehicle="Thunder", zone_code="DWN001", minutes="60")
@@ -110,7 +110,7 @@ class TestPayForParkingScenario(unittest.TestCase):
         with tempfile.TemporaryDirectory() as d:
             self._make_db(
                 d,
-                vehicles=[(1, 1, "Thunder", "Toyota", "Camry", "Blue", "THND3R")],
+                vehicles=[(1, 1, "Thunder", "Tolimar", "Camdyn", "Blue", "THND3R")],
                 zones=[(1, "Downtown Lot", "DWN001")],
                 history=[(1, 1, 1, 1, 30, "active")],
             )
@@ -133,7 +133,7 @@ class TestPayForParkingScenario(unittest.TestCase):
         with tempfile.TemporaryDirectory() as d:
             self._make_db(
                 d,
-                vehicles=[(1, 1, "Thunder", "Toyota", "Camry", "Blue", "THND3R")],
+                vehicles=[(1, 1, "Thunder", "Tolimar", "Camdyn", "Blue", "THND3R")],
             )
             scenario = _make_scenario(vehicle="Thunder", zone_code="NOPE99", minutes="60")
             with self.assertRaises(ValueError):
@@ -143,7 +143,7 @@ class TestPayForParkingScenario(unittest.TestCase):
         with tempfile.TemporaryDirectory() as d:
             self._make_db(
                 d,
-                vehicles=[(1, 1, "Thunder", "Toyota", "Camry", "Blue", "THND3R")],
+                vehicles=[(1, 1, "Thunder", "Tolimar", "Camdyn", "Blue", "THND3R")],
                 zones=[(1, "Downtown Lot", "ABC12")],
                 history=[(1, 1, 1, 1, 60, "active")],
             )

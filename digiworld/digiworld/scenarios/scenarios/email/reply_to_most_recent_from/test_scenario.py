@@ -25,7 +25,7 @@ from .scenario import ReplyToMostRecentFrom
 INCOMING_EMAIL = {
     "id": 1,
     "sender": "alice.johnson@example.com",
-    "receiver": ["liam.oconnor@gmail.co.uk"],
+    "receiver": ["liam.oconnor@veltamail.co.uk"],
     "subject": "Hello",
     "body": "Hi Liam, just checking in.",
     "status": "received",
@@ -43,7 +43,7 @@ class TestReplyToMostRecentFrom(unittest.TestCase):
             INCOMING_EMAIL,
             {
                 "id": 2,
-                "sender": "liam.oconnor@gmail.co.uk",
+                "sender": "liam.oconnor@veltamail.co.uk",
                 "receiver": ["alice.johnson@example.com"],
                 "subject": "Re: Hello",
                 "body": "Thanks for the update, I'll review it.",
@@ -83,7 +83,7 @@ class TestReplyToMostRecentFrom(unittest.TestCase):
             INCOMING_EMAIL,
             {
                 "id": 2,
-                "sender": "liam.oconnor@gmail.co.uk",
+                "sender": "liam.oconnor@veltamail.co.uk",
                 "receiver": ["alice.johnson@example.com"],
                 "subject": "Re: Hello",
                 "body": "Completely unrelated content.",

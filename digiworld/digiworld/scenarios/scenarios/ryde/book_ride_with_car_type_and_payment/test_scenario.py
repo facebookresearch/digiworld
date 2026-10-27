@@ -103,7 +103,7 @@ class TestBookRideWithCarTypeAndPaymentScenario(unittest.TestCase):
     def test_pass_visa_payment(self):
         with tempfile.TemporaryDirectory() as state_dir:
             self._make_db(state_dir, [
-                (1, "credit_card", "Visa", "4111111111111111", 1),
+                (1, "credit_card", "Varenta", "4111111111111111", 1),
             ])
             rootstore = {
                 **_SAMPLE_ROOTSTORE,
@@ -117,7 +117,7 @@ class TestBookRideWithCarTypeAndPaymentScenario(unittest.TestCase):
                 origin="408, East 13th Street, Manhattan, USA",
                 destination="1177, Broadway, NoMad, Manhattan, USA",
                 car_type="Economy",
-                payment_method="Visa",
+                payment_method="Varenta",
             )
             checks = scenario._get_checks(state_dir)
             self.assertTrue(checks["ride_booked"])
@@ -145,7 +145,7 @@ class TestBookRideWithCarTypeAndPaymentScenario(unittest.TestCase):
                 origin="408, East 13th Street, Manhattan, USA",
                 destination="1177, Broadway, NoMad, Manhattan, USA",
                 car_type="Economy",
-                payment_method="Visa",
+                payment_method="Varenta",
             )
             checks = scenario._get_checks(state_dir)
             self.assertFalse(checks["payment_matches"])

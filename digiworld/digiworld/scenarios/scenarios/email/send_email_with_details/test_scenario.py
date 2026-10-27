@@ -32,7 +32,7 @@ class TestSendEmailWithDetails(unittest.TestCase):
         final_emails = [
             {
                 "id": 1,
-                "sender": "liam.oconnor@gmail.co.uk",
+                "sender": "liam.oconnor@veltamail.co.uk",
                 "receiver": ["alice.johnson@example.com"],
                 "subject": "Project Update",
                 "body": "Here is the project update as discussed.",
@@ -69,7 +69,7 @@ class TestSendEmailWithDetails(unittest.TestCase):
         final_emails = [
             {
                 "id": 1,
-                "sender": "liam.oconnor@gmail.co.uk",
+                "sender": "liam.oconnor@veltamail.co.uk",
                 "receiver": ["alice.johnson@example.com"],
                 "subject": "Wrong Subject",
                 "body": "Here is the project update as discussed.",
@@ -96,7 +96,7 @@ class TestSendEmailWithDetails(unittest.TestCase):
         final_emails = [
             {
                 "id": 1,
-                "sender": "liam.oconnor@gmail.co.uk",
+                "sender": "liam.oconnor@veltamail.co.uk",
                 "receiver": ["wrong.person@example.com"],
                 "subject": "Project Update",
                 "body": "Here is the project update as discussed.",

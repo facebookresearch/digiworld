@@ -62,7 +62,7 @@ class TestAddPaymentMethodScenario(unittest.TestCase):
             self._make_db(init_dir, self.PAYMENT_SQL, [])
             self._make_db(final_dir, self.PAYMENT_SQL, [
                 ("INSERT INTO user_payment_methods (user_id, card_type, card_number, expiry, card_holder_name) "
-                 "VALUES (?, ?, ?, ?, ?)", (1, "visa", "4111111111111234", "12/27", "John Doe")),
+                 "VALUES (?, ?, ?, ?, ?)", (1, "varenta", "4111111111111234", "12/27", "John Doe")),
             ])
             scenario = self._make_scenario(
                 cardNumber="4111111111111234", cvv="123",
@@ -87,7 +87,7 @@ class TestAddPaymentMethodScenario(unittest.TestCase):
             self._make_db(init_dir, self.PAYMENT_SQL, [])
             self._make_db(final_dir, self.PAYMENT_SQL, [
                 ("INSERT INTO user_payment_methods (user_id, card_type, card_number, expiry, card_holder_name) "
-                 "VALUES (?, ?, ?, ?, ?)", (1, "visa", "4111111111111234", "12/27", "Jane Smith")),
+                 "VALUES (?, ?, ?, ?, ?)", (1, "varenta", "4111111111111234", "12/27", "Jane Smith")),
             ])
             scenario = self._make_scenario(
                 cardNumber="4111111111111234", cvv="123",

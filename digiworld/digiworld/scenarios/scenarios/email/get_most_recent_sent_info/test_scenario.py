@@ -20,7 +20,7 @@ class TestGetMostRecentSentInfo(unittest.TestCase):
         emails = [
             {
                 "id": 1,
-                "sender": "liam.oconnor@gmail.co.uk",
+                "sender": "liam.oconnor@veltamail.co.uk",
                 "receiver": ["bob.smith@example.com"],
                 "subject": "Budget Report",
                 "folder": "sent",
@@ -29,7 +29,7 @@ class TestGetMostRecentSentInfo(unittest.TestCase):
             },
             {
                 "id": 2,
-                "sender": "liam.oconnor@gmail.co.uk",
+                "sender": "liam.oconnor@veltamail.co.uk",
                 "receiver": ["alice.jones@example.com"],
                 "subject": "Quarterly Review",
                 "folder": "sent",
@@ -51,7 +51,7 @@ class TestGetMostRecentSentInfo(unittest.TestCase):
         emails = [
             {
                 "id": 1,
-                "sender": "liam.oconnor@gmail.co.uk",
+                "sender": "liam.oconnor@veltamail.co.uk",
                 "receiver": ["bob.smith@example.com"],
                 "subject": "Budget Report",
                 "folder": "sent",
@@ -60,7 +60,7 @@ class TestGetMostRecentSentInfo(unittest.TestCase):
             },
             {
                 "id": 2,
-                "sender": "liam.oconnor@gmail.co.uk",
+                "sender": "liam.oconnor@veltamail.co.uk",
                 "receiver": ["alice.jones@example.com"],
                 "subject": "Quarterly Review",
                 "folder": "sent",
@@ -80,7 +80,7 @@ class TestGetMostRecentSentInfo(unittest.TestCase):
         emails = [
             {
                 "id": 1,
-                "sender": "liam.oconnor@gmail.co.uk",
+                "sender": "liam.oconnor@veltamail.co.uk",
                 "receiver": ["bob@example.com"],
                 "subject": "Hello",
                 "folder": "inbox",

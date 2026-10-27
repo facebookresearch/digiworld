@@ -82,7 +82,7 @@ class TestBooleanMatch(unittest.TestCase):
 
     def test_implicit_affirmative_with_list(self):
         """Agent lists items implying existence."""
-        self.assertTrue(boolean_match("The 2 pending bills are from AT&T and Verizon", True))
+        self.assertTrue(boolean_match("The 2 pending bills are from Arcwire and Veritel", True))
 
     def test_no_keyword(self):
         self.assertTrue(boolean_match("No, there are no pending bills", False))
