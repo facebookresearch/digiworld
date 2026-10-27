@@ -2,10 +2,10 @@
   {
     "id": "{{auto_id}}",
     "code": "ATT_SERVICES",
-    "name": "AT&T Services",
+    "name": "Arcwire Services",
     "category": "telecom",
     "subcategory": null,
-    "description": "Payment to AT&T Services",
+    "description": "Payment to Arcwire Services",
     "logoUrl": null,
     "website": null,
     "phone": "{{random_phone}}",

@@ -2,10 +2,10 @@
   {
     "id": "{{auto_id}}",
     "code": "VERIZON_WIRELESS",
-    "name": "Verizon Wireless",
+    "name": "Veritel Wireless",
     "category": "telecom",
     "subcategory": null,
-    "description": "Payment to Verizon Wireless",
+    "description": "Payment to Veritel Wireless",
     "logoUrl": null,
     "website": null,
     "phone": "{{random_phone}}",

@@ -12,7 +12,7 @@
     "fare": 204.22,
     "currency": "USD",
     "seats_available": 194,
-    "aircraft_type": "Airbus A320neo",
+    "aircraft_type": "Skyvane 3200N",
     "created_at": "2026-01-01T00:00:00Z"
   },
   {
@@ -28,7 +28,7 @@
     "fare": 587.98,
     "currency": "USD",
     "seats_available": 173,
-    "aircraft_type": "Boeing 787-9 Dreamliner",
+    "aircraft_type": "Boreas 7890 Skyfarer",
     "created_at": "2026-01-01T00:00:00Z"
   }
 ]

@@ -2,10 +2,10 @@
   {
     "id": "{{auto_id}}",
     "code": "T_MOBILE",
-    "name": "T-Mobile",
+    "name": "Tellwave Mobile",
     "category": "telecom",
     "subcategory": null,
-    "description": "Payment to T-Mobile",
+    "description": "Payment to Tellwave Mobile",
     "logoUrl": null,
     "website": null,
     "phone": "{{random_phone}}",

@@ -56,7 +56,7 @@ def vehicle_batch_prompt(count: int) -> str:
     return (
         f"Generate exactly {count} realistic vehicles for a parking app. "
         f"For each, provide a creative nickname (1-2 words, e.g., 'Thunderbolt'), "
-        f"a car make (e.g., 'Porsche'), a model (e.g., '911 GT3'), "
+        f"a car make (e.g., 'Portera'), a model (e.g., 'Velocera GT'), "
         f"a color (e.g., 'Electric Blue'), a vanity license plate "
         f"(5-7 uppercase alphanumeric characters, e.g., 'THND3R'), "
         f"and the vehicle type that best matches the make/model from exactly "

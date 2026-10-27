@@ -12,7 +12,7 @@
     "fare": 1044.84,
     "currency": "USD",
     "seats_available": 122,
-    "aircraft_type": "Boeing 787-9 Dreamliner",
+    "aircraft_type": "Boreas 7890 Skyfarer",
     "date": "{{tomorrow_date}}",
     "created_at": "2026-01-01T00:00:00Z"
   }

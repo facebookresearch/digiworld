@@ -2,10 +2,10 @@
   {
     "id": 9995,
     "code": "pge",
-    "name": "Pacific Gas & Electric",
+    "name": "Seacliff Gas & Electric",
     "category": "utilities",
     "subcategory": null,
-    "description": "Payment to Pacific Gas & Electric",
+    "description": "Payment to Seacliff Gas & Electric",
     "logoUrl": null,
     "website": null,
     "phone": "{{random_phone}}",

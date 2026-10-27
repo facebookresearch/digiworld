@@ -1,7 +1,7 @@
 [
   {
     "id": "airline_qf",
-    "name": "Qantas Airways",
+    "name": "Wattle Airways",
     "iataCode": "QF",
     "country": "Australia",
     "createdAt": "2026-01-01T00:00:00Z"

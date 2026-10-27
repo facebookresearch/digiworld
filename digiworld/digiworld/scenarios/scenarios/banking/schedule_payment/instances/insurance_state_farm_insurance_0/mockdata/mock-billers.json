@@ -2,10 +2,10 @@
   {
     "id": "{{auto_id}}",
     "code": "STATE_FARM_INSURANCE",
-    "name": "State Farm Insurance",
+    "name": "Fieldstone Insurance",
     "category": "insurance",
     "subcategory": null,
-    "description": "Payment to State Farm Insurance",
+    "description": "Payment to Fieldstone Insurance",
     "logoUrl": null,
     "website": null,
     "phone": "{{random_phone}}",

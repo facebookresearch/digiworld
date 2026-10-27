@@ -2,7 +2,7 @@
   "parameters": {
     "car_type": "Premium",
     "origin": "Xi'an Famous Foods, 96, 8th Avenue, Manhattan, USA",
-    "destination": "TD Bank, 5th Avenue, Midtown South USA"
+    "destination": "Tarnwick Bank, 5th Avenue, Midtown South USA"
   },
   "compatible_profiles": [
     "budget_rides",

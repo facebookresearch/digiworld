@@ -1,7 +1,7 @@
 {
   "parameters": {
     "payment_type": "Credit/Debit Card",
-    "origin": "TD Bank, 5th Avenue, Midtown South USA",
+    "origin": "Tarnwick Bank, 5th Avenue, Midtown South USA",
     "destination": "1177, Broadway, NoMad, Manhattan, USA",
     "car_type": "Premium"
   },

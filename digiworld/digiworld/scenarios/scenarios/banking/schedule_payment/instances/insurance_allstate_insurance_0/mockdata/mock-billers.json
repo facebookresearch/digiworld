@@ -2,10 +2,10 @@
   {
     "id": "{{auto_id}}",
     "code": "ALLSTATE_INSURANCE",
-    "name": "Allstate Insurance",
+    "name": "Allgard Insurance",
     "category": "insurance",
     "subcategory": null,
-    "description": "Payment to Allstate Insurance",
+    "description": "Payment to Allgard Insurance",
     "logoUrl": null,
     "website": null,
     "phone": "{{random_phone}}",

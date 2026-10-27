@@ -62,13 +62,13 @@ AIRLINE_ID_MAP = {
 }
 
 AIRLINE_NAME_MAP = {
-    "AA": "American Airlines", "UA": "United Airlines", "DL": "Delta Air Lines",
-    "SW": "Southwest Airlines", "BA": "British Airways", "LH": "Lufthansa",
-    "AF": "Air France", "EK": "Emirates", "JL": "Japan Airlines",
-    "QF": "Qantas Airways", "SQ": "Singapore Airlines", "CX": "Cathay Pacific",
-    "NH": "All Nippon Airways", "TK": "Turkish Airlines", "LX": "Swiss International",
-    "KL": "KLM Royal Dutch", "IB": "Iberia", "QR": "Qatar Airways",
-    "EY": "Etihad Airways", "AC": "Air Canada", "NZ": "Air New Zealand",
+    "AA": "Liberty Airways", "UA": "Unity Airways", "DL": "Dellmora Air Lines",
+    "SW": "Sunward Airlines", "BA": "Albion Airways", "LH": "Hansa Nord",
+    "AF": "Air Lumiere", "EK": "Sandpiper Airways", "JL": "Hinode Airlines",
+    "QF": "Wattle Airways", "SQ": "Lion City Airlines", "CX": "Harbour Pacific",
+    "NH": "Tsubasa Airways", "TK": "Anatolia Airlines", "LX": "Edelberg International",
+    "KL": "Royal Lowland", "IB": "Hesperia", "QR": "Dunecrest Airways",
+    "EY": "Falaj Airways", "AC": "Air Laurentia", "NZ": "Air Southland",
 }
 
 AIRLINE_COUNTRY_MAP = {
@@ -81,8 +81,8 @@ AIRLINE_COUNTRY_MAP = {
     "AC": "Canada", "NZ": "New Zealand",
 }
 
-SHORT_HAUL_AIRCRAFT = ["Boeing 737-800", "Airbus A320neo"]
-LONG_HAUL_AIRCRAFT = ["Boeing 777-300ER", "Airbus A350-900", "Boeing 787-9 Dreamliner"]
+SHORT_HAUL_AIRCRAFT = ["Boreas 3708", "Skyvane 3200N"]
+LONG_HAUL_AIRCRAFT = ["Boreas 7730ER", "Skyvane 3590", "Boreas 7890 Skyfarer"]
 AIRCRAFT_TYPES = SHORT_HAUL_AIRCRAFT + LONG_HAUL_AIRCRAFT
 
 

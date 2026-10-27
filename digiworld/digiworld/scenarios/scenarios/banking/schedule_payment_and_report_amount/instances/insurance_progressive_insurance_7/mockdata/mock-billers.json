@@ -2,10 +2,10 @@
   {
     "id": "{{auto_id}}",
     "code": "PROGRESSIVE_INSURANCE",
-    "name": "Progressive Insurance",
+    "name": "Forwardline Insurance",
     "category": "insurance",
     "subcategory": null,
-    "description": "Payment to Progressive Insurance",
+    "description": "Payment to Forwardline Insurance",
     "logoUrl": null,
     "website": null,
     "phone": "{{random_phone}}",
