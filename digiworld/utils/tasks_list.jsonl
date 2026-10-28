@@ -29,9 +29,9 @@
 {"app_name": "email", "scenario_name": "Open the email with subject <subject>", "instance": "personal_catching_up_over_coffee_next_w_1"}
 {"app_name": "email", "scenario_name": "Open the email with subject <subject>", "instance": "promotional_introducing_our_new_loyalty_pr_2"}
 {"app_name": "email", "scenario_name": "Open the email with subject <subject>", "instance": "promotional_unlock_20_off_your_next_purch_0"}
-{"app_name": "email", "scenario_name": "Send any email to <email>", "instance": "personal_aishapatelgmailcom_0"}
+{"app_name": "email", "scenario_name": "Send any email to <email>", "instance": "personal_aishapatelveltamailcom_0"}
 {"app_name": "email", "scenario_name": "Send any email to <email>", "instance": "work_liamoconnorbrightfutureio_1"}
-{"app_name": "email", "scenario_name": "Send any email to <email>", "instance": "work_yukitanakakawasaki_electroni_2"}
+{"app_name": "email", "scenario_name": "Send any email to <email>", "instance": "work_yukitanakakasumi_electroni_2"}
 {"app_name": "flightbooking", "scenario_name": "View My Bookings", "instance": null}
 {"app_name": "flightbooking", "scenario_name": "View details of booking <booking_reference>", "instance": "booking_6dpbhs_1"}
 {"app_name": "flightbooking", "scenario_name": "View details of booking <booking_reference>", "instance": "booking_ahxthv_2"}
@@ -73,7 +73,7 @@
 {"app_name": "ryde", "scenario_name": "Book a ride from <origin> to <destination> with a <car_type> with any payment method", "instance": "ride_xl_santo_domingo_bakery__coffee_1"}
 {"app_name": "ryde", "scenario_name": "Book any ride from <origin> to <destination>", "instance": "ride_42nd_street_bryant_park_west_35_grand_street_hudson_squar_1"}
 {"app_name": "ryde", "scenario_name": "Book any ride from <origin> to <destination>", "instance": "ride_97_attorney_streetmanhattan_santo_domingo_bakery__coffee_0"}
-{"app_name": "ryde", "scenario_name": "Book any ride from <origin> to <destination>", "instance": "ride_xian_famous_foods_96_8th_av_cellar_dog_75_christopher_st_2"}
+{"app_name": "ryde", "scenario_name": "Book any ride from <origin> to <destination>", "instance": "ride_weilan_famous_foods_96_8th_av_cellar_dog_75_christopher_st_2"}
 {"app_name": "ryde", "scenario_name": "Open Terms of Use", "instance": null}
 {"app_name": "ryde", "scenario_name": "Show information about the last completed ride", "instance": null}
 {"app_name": "smarthome", "scenario_name": "Turn on <device_name>", "instance": "bedroom_speaker_0"}
@@ -84,5 +84,5 @@
 {"app_name": "transit", "scenario_name": "Delete the saved route <route_name>", "instance": "route_riverfront_voyager_0"}
 {"app_name": "transit", "scenario_name": "View Saved Routes", "instance": null}
 {"app_name": "video", "scenario_name": "Open the video with title <title>", "instance": "entertainment_top_5_weird_food_challenges_1"}
-{"app_name": "video", "scenario_name": "Open the video with title <title>", "instance": "tutorial_master_photoshop_layers_in_10_0"}
+{"app_name": "video", "scenario_name": "Open the video with title <title>", "instance": "tutorial_master_layerloom_layers_in_10_0"}
 {"app_name": "video", "scenario_name": "Open the video with title <title>", "instance": "vlog_a_day_exploring_kyotos_hidden_2"}
