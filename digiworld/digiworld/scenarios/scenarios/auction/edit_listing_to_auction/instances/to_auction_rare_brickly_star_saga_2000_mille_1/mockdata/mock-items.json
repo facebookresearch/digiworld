@@ -1,7 +1,7 @@
 [
   {
     "id": 182220025,
-    "title": "Rare BLOKKO Star Saga 2000 Centurion Falcon UCS",
+    "title": "Rare BLOKKO Star Saga 2000 Centurion Falcon UCX",
     "description": "A highly sought-after collector's item, this BLOKKO set is complete and in excellent condition. Original box and instructions included.",
     "categoryId": 9,
     "sellerId": "{{current_user_id}}",
@@ -10,7 +10,7 @@
     "status": "active",
     "quantity": 1,
     "bidCount": 0,
-    "imageUrl": "https://example.com/images/rare-lego-star-wars-2000-millennium-falcon-ucs.jpg",
+    "imageUrl": "https://example.com/images/rare-blokko-star-saga-2000-centurion-falcon-ucx.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": null,

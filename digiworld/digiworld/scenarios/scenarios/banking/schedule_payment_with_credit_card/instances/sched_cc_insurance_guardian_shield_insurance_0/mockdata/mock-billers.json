@@ -1,11 +1,11 @@
 [
   {
     "id": 9998,
-    "code": "guardian_shield",
-    "name": "Guardian Shield Insurance",
+    "code": "protevia_shield",
+    "name": "Protevia Shield Insurance",
     "category": "insurance",
     "subcategory": null,
-    "description": "Payment to Guardian Shield Insurance",
+    "description": "Payment to Protevia Shield Insurance",
     "logoUrl": null,
     "website": null,
     "phone": "{{random_phone}}",

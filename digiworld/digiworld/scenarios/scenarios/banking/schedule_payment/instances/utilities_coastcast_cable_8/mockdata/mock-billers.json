@@ -1,7 +1,7 @@
 [
   {
     "id": "{{auto_id}}",
-    "code": "COMCAST_CABLE",
+    "code": "COASTCAST_CABLE",
     "name": "Coastcast Cable",
     "category": "utilities",
     "subcategory": null,

@@ -1,7 +1,7 @@
 [
   {
     "id": 754210092,
-    "title": "Bluetooth Noise-Cancelling Over-Ear Headphones \u2013 Auralis WH-1000XM4 \u2013 $280",
+    "title": "Bluetooth Noise-Cancelling Over-Ear Headphones \u2013 Auralis HX-1040 \u2013 $280",
     "description": "Industry\u2011leading ANC, 30\u2011hour battery life, plush ear cushions, includes travel case.",
     "categoryId": 6,
     "sellerId": "{{current_user_id}}",
@@ -10,7 +10,7 @@
     "status": "active",
     "quantity": 1,
     "bidCount": 0,
-    "imageUrl": "https://example.com/images/bluetooth-noise-cancelling-over-ear-headphones-\u2013-sony-wh-1000xm4-\u2013-$280.jpg",
+    "imageUrl": "https://example.com/images/bluetooth-noise-cancelling-over-ear-headphones-\u2013-auralis-hx-1040-\u2013-$280.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": null,

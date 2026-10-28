@@ -2,7 +2,7 @@
   {
     "id": 754530112,
     "title": "Joyvale Console OLED Model \u2013 Neon Blue/Red, 32GB, with Dock",
-    "description": "Joyvale Console OLED, brand new, includes dock, Joy\u2011Con controllers, and a selection of two games.",
+    "description": "Joyvale Console OLED, brand new, includes dock, controllers, and a selection of two games.",
     "categoryId": 4,
     "sellerId": "{{current_user_id}}",
     "price": 104.45,
@@ -10,7 +10,7 @@
     "status": "expired",
     "quantity": 1,
     "bidCount": 6,
-    "imageUrl": "https://example.com/images/nintendo-switch-oled-model-\u2013-neon-blue/red,-32gb,-with-dock.jpg",
+    "imageUrl": "https://example.com/images/joyvale-console-oled-model-\u2013-neon-blue/red,-32gb,-with-dock.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": 41.22,

@@ -1,8 +1,8 @@
 [
   {
     "id": 753930018,
-    "title": "1927 Patek\u2011Philippe Calatrava Ref. 2523 in Stainless Steel",
-    "description": "Rare stainless\u2011steel Calatrava with original dial, polished case, and original box; a timeless piece for serious collectors.",
+    "title": "1927 Lavek\u2011Fontaine Corvanta Ref. 2523 in Stainless Steel",
+    "description": "Rare stainless\u2011steel Corvanta with original dial, polished case, and original box; a timeless piece for serious collectors.",
     "categoryId": 4,
     "sellerId": "{{current_user_id}}",
     "price": 2028.34,
@@ -10,7 +10,7 @@
     "status": "active",
     "quantity": 1,
     "bidCount": 13,
-    "imageUrl": "https://example.com/images/1927-patek\u2011philippe-calatrava-ref.-2523-in-stainless-steel.jpg",
+    "imageUrl": "https://example.com/images/1927-lavek\u2011fontaine-corvanta-ref.-2523-in-stainless-steel.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": 612.46,

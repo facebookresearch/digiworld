@@ -2,7 +2,7 @@
   {
     "id": "{{auto_id}}",
     "name": "Nebula X Gaming Console",
-    "description": "Nebula X runs on a custom Radiant Zen 4 CPU and RDNX 3 GPU, delivering 4K gaming at 120 fps. It includes 16 GB GDDR6 memory, a 1TB SSD, and supports backward compatibility with previous generation titles. Dual wireless controllers feature haptic feedback and adaptive triggers.",
+    "description": "Nebula X runs on a custom Radiant Ondril 4 CPU and RDNX 3 GPU, delivering 4K gaming at 120 fps. It includes 16 GB GDDR6 memory, a 1TB SSD, and supports backward compatibility with previous generation titles. Dual wireless controllers feature haptic feedback and adaptive triggers.",
     "shortDescription": "Next-gen console with 4K/120 fps performance and 1TB SSD.",
     "rating": 3.8,
     "reviewCount": 4,
@@ -17,7 +17,7 @@
     "inStock": true,
     "stockCount": 93,
     "imageUrl": "/29_1",
-    "specs": "{\"display\": \"N/A\", \"processor\": \"Custom Radiant Zen 3 + RDNX 2 (8 cores, 2.4GHz)\", \"ram\": \"16GB GDDR6\", \"storage\": \"1TB NVMe SSD\", \"battery\": \"N/A (plug-in)\", \"os\": \"Nebula OS 1.0\", \"connectivity\": \"Wi-Fi 6E, Bluetooth 5.2, HDMI 2.1, Ethernet, USB 3.2\"}",
+    "specs": "{\"display\": \"N/A\", \"processor\": \"Custom Radiant Ondril 3 + RDNX 2 (8 cores, 2.4GHz)\", \"ram\": \"16GB GDDR6\", \"storage\": \"1TB NVMe SSD\", \"battery\": \"N/A (plug-in)\", \"os\": \"Nebula OS 1.0\", \"connectivity\": \"Wi-Fi 6E, Bluetooth 5.2, HDMI 2.1, Ethernet, USB 3.2\"}",
     "tags": "[\"gaming\", \"electronics\", \"consoles\", \"popular\", \"premium\"]",
     "isFeatured": false,
     "dateAdded": "2025-06-15 12:00:00.000",

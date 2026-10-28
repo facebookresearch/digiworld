@@ -2,8 +2,8 @@
   {
     "id": "{{auto_id}}",
     "name": "PixelForge 27-inch Gaming Monitor",
-    "description": "The PixelForge 27-inch Gaming Monitor delivers stunning visuals with a 2560x1440 QHD IPS panel and 165 Hz refresh rate. Features 1ms GTG response time, Radiant FreeSync Premium, and Vireo G-Sync compatibility for tear-free gaming. HDR400 certified with 95% DCI-P3 color gamut. Includes 2x HDMI 2.0, 1x DisplayPort 1.4, and USB hub.",
-    "shortDescription": "27-inch QHD 165Hz gaming monitor with FreeSync Premium and 1ms response time.",
+    "description": "The PixelForge 27-inch Gaming Monitor delivers stunning visuals with a 2560x1440 QHD IPS panel and 165 Hz refresh rate. Features 1ms GTG response time, variable refresh rate (VRR) support for tear-free gaming. HDR400 certified with 95% DCI-P3 color gamut. Includes 2x HDMI 2.0, 1x DisplayPort 1.4, and USB hub.",
+    "shortDescription": "27-inch QHD 165Hz gaming monitor with VRR and 1ms response time.",
     "rating": 4.6,
     "reviewCount": 89,
     "seller": "PixelForge Displays",
@@ -17,7 +17,7 @@
     "inStock": true,
     "stockCount": 22,
     "imageUrl": "/8_1",
-    "specs": "{\"display\": \"27-inch IPS QHD 2560x1440\", \"refresh_rate\": \"165 Hz\", \"response_time\": \"1ms GTG\", \"hdr\": \"HDR400\", \"ports\": \"2x HDMI 2.0, 1x DisplayPort 1.4, 4x USB\", \"sync\": \"Radiant FreeSync Premium, G-Sync Compatible\"}",
+    "specs": "{\"display\": \"27-inch IPS QHD 2560x1440\", \"refresh_rate\": \"165 Hz\", \"response_time\": \"1ms GTG\", \"hdr\": \"HDR400\", \"ports\": \"2x HDMI 2.0, 1x DisplayPort 1.4, 4x USB\", \"sync\": \"Variable refresh rate (VRR)\"}",
     "tags": "[\"gaming\", \"monitor\", \"27 inch\", \"electronics\", \"display\"]",
     "isFeatured": false,
     "dateAdded": "2025-06-15 12:00:00.000"

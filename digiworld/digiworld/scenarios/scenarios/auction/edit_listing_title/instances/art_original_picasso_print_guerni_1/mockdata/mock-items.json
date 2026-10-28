@@ -1,8 +1,8 @@
 [
   {
     "id": 182220026,
-    "title": "Original Picasso Print 'Guernica'",
-    "description": "An original print of Picasso's powerful anti-war statement, 'Guernica'.",
+    "title": "Original Ravellac Print 'Valley in Ashes'",
+    "description": "An original print of Ravellac's powerful anti-war statement, 'Valley in Ashes'.",
     "categoryId": 9,
     "sellerId": "{{current_user_id}}",
     "price": 1069.26,
@@ -10,7 +10,7 @@
     "status": "active",
     "quantity": 1,
     "bidCount": 0,
-    "imageUrl": "https://example.com/images/original-picasso-print-'guernica'.jpg",
+    "imageUrl": "https://example.com/images/original-ravellac-print-'valley-in-ashes'.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": 330.34,

@@ -63,7 +63,7 @@
     "inStock": true,
     "stockCount": 145,
     "imageUrl": "/17_1",
-    "specs": "{\"display\": \"3.2\\\" OLED, 1920x1080, 1200 nits\", \"processor\": \"LUMINA XR\", \"ram\": \"8GB LPDDR5\", \"storage\": \"128GB SDXC (UHS-II) internal buffer\", \"battery\": \"NP-FZ100, 2280mAh, 530 shots per charge\", \"os\": \"N/A\", \"connectivity\": \"Wi-Fi 6, Bluetooth 5.0, USB-C, HDMI\"}",
+    "specs": "{\"display\": \"3.2\\\" OLED, 1920x1080, 1200 nits\", \"processor\": \"LUMINA XR\", \"ram\": \"8GB LPDDR5\", \"storage\": \"128GB SDXC (UHS-II) internal buffer\", \"battery\": \"BX-QZ80, 2280mAh, 530 shots per charge\", \"os\": \"N/A\", \"connectivity\": \"Wi-Fi 6, Bluetooth 5.0, USB-C, HDMI\"}",
     "tags": "[\"cameras\", \"electronics\", \"top-rated\", \"premium\"]",
     "isFeatured": false,
     "dateAdded": "2025-06-15 12:00:00.000"

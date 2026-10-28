@@ -1,7 +1,7 @@
 {
   "parameters": {
     "metric": "comments",
-    "title": "Python Programming for Beginners Tutorial"
+    "title": "Quillscript Programming for Beginners Tutorial"
   },
   "compatible_profiles": [
     "comments_disabled",

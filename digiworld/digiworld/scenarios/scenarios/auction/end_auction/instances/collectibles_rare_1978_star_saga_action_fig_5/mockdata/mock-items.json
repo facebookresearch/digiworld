@@ -10,7 +10,7 @@
     "status": "active",
     "quantity": 1,
     "bidCount": 8,
-    "imageUrl": "https://example.com/images/rare-1978-star-wars-action-figure-\u2013-first-edition.jpg",
+    "imageUrl": "https://example.com/images/rare-1978-star-saga-action-figure-\u2013-first-edition.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": 393.55,

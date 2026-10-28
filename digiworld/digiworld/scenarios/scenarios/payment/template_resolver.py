@@ -191,6 +191,6 @@ class PaymentTemplateResolver(TemplateResolver):
             descriptions = ['Freelance payment', 'Expense reimbursement', 'Project bonus', 'Lunch money']
             return random.choice(descriptions)
         else:  # friends or casual
-            descriptions = ['Dinner split', 'Movie tickets', 'Gas money', 'Coffee payment', 'Shared Uber']
+            descriptions = ['Dinner split', 'Movie tickets', 'Gas money', 'Coffee payment', 'Shared ride']
             return random.choice(descriptions)
 

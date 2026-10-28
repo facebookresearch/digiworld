@@ -1,8 +1,8 @@
 [
   {
     "id": 754000028,
-    "title": "Signed Original 1978 Led Zeppelin 'Physical Graffiti' Vinyl LP",
-    "description": "A mint-condition Led Zeppelin 'Physical Graffiti' LP, signed by all four members on the inner sleeve, with original gatefold artwork.",
+    "title": "Signed Original 1978 Molten Airship 'Cement Murals' Vinyl LP",
+    "description": "A mint-condition Molten Airship 'Cement Murals' LP, signed by all four members on the inner sleeve, with original gatefold artwork.",
     "categoryId": 4,
     "sellerId": "{{current_user_id}}",
     "price": 1903.05,
@@ -10,7 +10,7 @@
     "status": "active",
     "quantity": 1,
     "bidCount": 8,
-    "imageUrl": "https://example.com/images/signed-original-1978-led-zeppelin-'physical-graffiti'-vinyl-lp.jpg",
+    "imageUrl": "https://example.com/images/signed-original-1978-molten-airship-'cement-murals'-vinyl-lp.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": 662.07,

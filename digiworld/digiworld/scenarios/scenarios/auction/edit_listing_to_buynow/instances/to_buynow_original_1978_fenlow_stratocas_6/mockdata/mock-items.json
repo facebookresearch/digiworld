@@ -10,7 +10,7 @@
     "status": "active",
     "quantity": 1,
     "bidCount": 7,
-    "imageUrl": "https://example.com/images/original-1978-fender-stratocaster-with-custom-sunburst-finish.jpg",
+    "imageUrl": "https://example.com/images/original-1978-fenlow-stratoline-with-custom-sunburst-finish.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": 743.51,

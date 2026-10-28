@@ -1,7 +1,7 @@
 [
   {
     "id": 754030035,
-    "title": "First\u2011Edition 1851 'Moby\u2011Dick' Illustrated by Rockwell Kent",
+    "title": "First\u2011Edition 1851 'The White Leviathan' Illustrated by Westcott Kent",
     "description": "First\u2011edition hardcover with hand\u2011colored illustrations, original dust jacket, and a provenance note from the previous owner.",
     "categoryId": 10,
     "sellerId": "{{current_user_id}}",
@@ -10,7 +10,7 @@
     "status": "active",
     "quantity": 1,
     "bidCount": 3,
-    "imageUrl": "https://example.com/images/first\u2011edition-1851-'moby\u2011dick'-illustrated-by-rockwell-kent.jpg",
+    "imageUrl": "https://example.com/images/first\u2011edition-1851-'the-white-leviathan'-illustrated-by-westcott-kent.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": 823.63,

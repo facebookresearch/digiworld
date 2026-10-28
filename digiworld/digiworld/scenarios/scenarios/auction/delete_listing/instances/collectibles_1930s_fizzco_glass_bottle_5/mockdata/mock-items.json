@@ -10,7 +10,7 @@
     "status": "active",
     "quantity": 1,
     "bidCount": 8,
-    "imageUrl": "https://example.com/images/1930s-coca-cola-glass-bottle-\u2013-mint-condition.jpg",
+    "imageUrl": "https://example.com/images/1930s-fizzco-glass-bottle-\u2013-mint-condition.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": 393.55,

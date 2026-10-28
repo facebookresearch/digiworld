@@ -1,7 +1,7 @@
 [
   {
     "id": "{{auto_id}}",
-    "code": "ATT_SERVICES",
+    "code": "ARCWIRE_SERVICES",
     "name": "Arcwire Services",
     "category": "telecom",
     "subcategory": null,

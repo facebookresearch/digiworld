@@ -17,7 +17,7 @@
     "inStock": true,
     "stockCount": 110,
     "imageUrl": "/14_1",
-    "specs": "{\"display\": \"LED indicator (no screen)\", \"processor\": \"Cellwave QCC5142 audio chipset\", \"ram\": \"N/A\", \"storage\": \"N/A\", \"battery\": \"20 h playback, 400 mAh, USB\u2011C fast charge\", \"os\": \"N/A\", \"connectivity\": \"Bluetooth 5.2, aptX Adaptive, built\u2011in mic\"}",
+    "specs": "{\"display\": \"LED indicator (no screen)\", \"processor\": \"Cellwave CWX-5142 audio chipset\", \"ram\": \"N/A\", \"storage\": \"N/A\", \"battery\": \"20 h playback, 400 mAh, USB\u2011C fast charge\", \"os\": \"N/A\", \"connectivity\": \"Bluetooth 5.2, Vocra Adaptive, built\u2011in mic\"}",
     "tags": "[\"electronics\", \"headphones\", \"high-quality\", \"popular\"]",
     "isFeatured": false,
     "dateAdded": "2025-06-15 12:00:00.000"

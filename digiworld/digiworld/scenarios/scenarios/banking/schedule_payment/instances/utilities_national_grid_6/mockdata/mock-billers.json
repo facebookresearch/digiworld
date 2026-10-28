@@ -1,11 +1,11 @@
 [
   {
     "id": "{{auto_id}}",
-    "code": "NATIONAL_GRID",
-    "name": "National Grid",
+    "code": "VELTARA_GRID",
+    "name": "Veltara Grid",
     "category": "utilities",
     "subcategory": null,
-    "description": "Payment to National Grid",
+    "description": "Payment to Veltara Grid",
     "logoUrl": null,
     "website": null,
     "phone": "{{random_phone}}",

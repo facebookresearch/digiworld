@@ -1,7 +1,7 @@
 [
   {
     "id": 754330105,
-    "title": "Ambrel LumaBook Pro 2020 \u2013 13\" ClearView, 16GB RAM, Space Gray",
+    "title": "Ambrel LumaBook Pro 2020 \u2013 13\" ClearView, 16GB RAM, Slate Gray",
     "description": "Ambrel LumaBook Pro 13-inch model from 2020, equipped with ClearView display, 16GB RAM, 512GB SSD; lightly used, battery health at 95%, includes original charger.",
     "categoryId": 1,
     "sellerId": "{{current_user_id}}",
@@ -10,7 +10,7 @@
     "status": "active",
     "quantity": 1,
     "bidCount": 2,
-    "imageUrl": "https://example.com/images/apple-macbook-pro-2020-\u2013-13\"-retina,-16gb-ram,-space-gray.jpg",
+    "imageUrl": "https://example.com/images/ambrel-lumabook-pro-2020-\u2013-13\"-clearview,-16gb-ram,-slate-gray.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": 240.63,

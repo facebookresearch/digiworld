@@ -1,7 +1,7 @@
 {
   "parameters": {
     "car_type": "Premium",
-    "origin": "Xi'an Famous Foods, 96, 8th Avenue, Manhattan, USA",
+    "origin": "Wei'lan Famous Foods, 96, 8th Avenue, Manhattan, USA",
     "destination": "Tarnwick Bank, 5th Avenue, Midtown South USA"
   },
   "compatible_profiles": [

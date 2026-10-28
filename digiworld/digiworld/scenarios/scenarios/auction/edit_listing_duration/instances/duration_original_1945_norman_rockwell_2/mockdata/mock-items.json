@@ -1,8 +1,8 @@
 [
   {
     "id": 753960021,
-    "title": "Original 1945 Norman Rockwell Print \u2013 'The Gossips'",
-    "description": "Limited\u2011edition print of Rockwell\u2019s iconic wartime scene, signed on the back, framed in archival glass.",
+    "title": "Original 1945 Norman Westcott Print \u2013 'The Neighbours'",
+    "description": "Limited\u2011edition print of Westcott\u2019s iconic wartime scene, signed on the back, framed in archival glass.",
     "categoryId": 3,
     "sellerId": "{{current_user_id}}",
     "price": 867.12,
@@ -10,7 +10,7 @@
     "status": "active",
     "quantity": 1,
     "bidCount": 10,
-    "imageUrl": "https://example.com/images/original-1945-norman-rockwell-print-\u2013-'the-gossips'.jpg",
+    "imageUrl": "https://example.com/images/original-1945-norman-westcott-print-\u2013-'the-neighbours'.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": 300.58,

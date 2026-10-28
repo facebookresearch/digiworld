@@ -1,8 +1,8 @@
 [
   {
     "id": 754210091,
-    "title": "Collector's Boxed Set: \"Star Saga: The Original Trilogy\" Blu-ray + Memorabilia",
-    "description": "Complete original trilogy on Blu\u2011ray, plus replica lightsaber, poster, and collectible booklet in a custom case.",
+    "title": "Collector's Boxed Set: \"Star Saga: The Original Trilogy\" Vividisc + Memorabilia",
+    "description": "Complete original trilogy on Vividisc, plus replica laser sword, poster, and collectible booklet in a custom case.",
     "categoryId": 4,
     "sellerId": "{{current_user_id}}",
     "price": 965.81,
@@ -10,7 +10,7 @@
     "status": "active",
     "quantity": 1,
     "bidCount": 5,
-    "imageUrl": "https://example.com/images/collector's-boxed-set:-\"star-wars:-the-original-trilogy\"-blu-ray-+-memorabilia.jpg",
+    "imageUrl": "https://example.com/images/collector's-boxed-set:-\"star-saga:-the-original-trilogy\"-vividisc-+-memorabilia.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": 421.12,

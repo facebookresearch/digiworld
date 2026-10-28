@@ -10,7 +10,7 @@
     "status": "active",
     "quantity": 1,
     "bidCount": 2,
-    "imageUrl": "https://example.com/images/classic-1965-ford-mustang-coupe-\u2013-restored-muscle-car-with-original-engine.jpg",
+    "imageUrl": "https://example.com/images/classic-1965-farrowby-stallion-coupe-\u2013-restored-muscle-car-with-original-engine.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": 240.63,

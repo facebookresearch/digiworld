@@ -1,8 +1,8 @@
 [
   {
     "id": 182210018,
-    "title": "Rare First Edition 'To Kill a Mockingbird' by Harper Lee",
-    "description": "A highly sought-after first edition of Harper Lee's classic novel in excellent condition.",
+    "title": "Rare First Edition 'The Quiet Orchard' by Hollis Rae",
+    "description": "A highly sought-after first edition of Hollis Rae's classic novel in excellent condition.",
     "categoryId": 4,
     "sellerId": "{{current_user_id}}",
     "price": 1069.26,
@@ -10,7 +10,7 @@
     "status": "active",
     "quantity": 1,
     "bidCount": 0,
-    "imageUrl": "https://example.com/images/rare-first-edition-'to-kill-a-mockingbird'-by-harper-lee.jpg",
+    "imageUrl": "https://example.com/images/rare-first-edition-'the-quiet-orchard'-by-hollis-rae.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": 330.34,

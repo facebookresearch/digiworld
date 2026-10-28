@@ -17,7 +17,7 @@
     "inStock": true,
     "stockCount": 88,
     "imageUrl": "/23_1",
-    "specs": "{\"display\": \"1.5-inch AMOLED, 480x480\", \"processor\": \"Exonar 9110\", \"ram\": \"2 GB LPDDR4X\", \"storage\": \"16 GB\", \"battery\": \"420 mAh\", \"os\": \"Tizen\", \"connectivity\": \"Bluetooth 5.2, Wi-Fi, NFC, GPS\"}",
+    "specs": "{\"display\": \"1.5-inch AMOLED, 480x480\", \"processor\": \"Exonar 9110\", \"ram\": \"2 GB LPDDR4X\", \"storage\": \"16 GB\", \"battery\": \"420 mAh\", \"os\": \"Lumora OS\", \"connectivity\": \"Bluetooth 5.2, Wi-Fi, NFC, GPS\"}",
     "tags": "[\"smartwatches\", \"electronics\", \"high-quality\", \"best\"]",
     "isFeatured": false,
     "dateAdded": "2025-06-15 12:00:00.000",

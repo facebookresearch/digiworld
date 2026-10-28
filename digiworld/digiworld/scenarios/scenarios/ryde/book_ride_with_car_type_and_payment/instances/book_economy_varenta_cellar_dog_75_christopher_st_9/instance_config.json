@@ -3,7 +3,7 @@
     "origin": "Cellar Dog, 75, Christopher Street, West Village, Manhattan, USA",
     "destination": "408, East 13th Street, Manhattan, USA",
     "car_type": "Economy",
-    "payment_method": "MobilePay"
+    "payment_method": "TapMynt"
   },
   "compatible_profiles": [
     "default",

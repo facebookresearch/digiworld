@@ -17,7 +17,7 @@
     "inStock": true,
     "stockCount": 4,
     "imageUrl": "/32_1",
-    "specs": "{\"display\": \"HDMI 2.1 up to 8K\", \"processor\": \"Custom Radiant Zen 2 + RDNX 2\", \"ram\": \"16 GB GDDR6\", \"storage\": \"1 TB SSD\", \"battery\": \"N/A (AC power)\", \"os\": \"Plaixo OS\", \"connectivity\": \"Wi-Fi 6, Bluetooth 5.2, Ethernet\"}",
+    "specs": "{\"display\": \"HDMI 2.1 up to 8K\", \"processor\": \"Custom Radiant Ondril 2 + RDNX 2\", \"ram\": \"16 GB GDDR6\", \"storage\": \"1 TB SSD\", \"battery\": \"N/A (AC power)\", \"os\": \"Plaixo OS\", \"connectivity\": \"Wi-Fi 6, Bluetooth 5.2, Ethernet\"}",
     "tags": "[\"gaming\", \"electronics\", \"consoles\", \"top-rated\", \"best\"]",
     "isFeatured": false,
     "dateAdded": "2025-06-15 12:00:00.000"

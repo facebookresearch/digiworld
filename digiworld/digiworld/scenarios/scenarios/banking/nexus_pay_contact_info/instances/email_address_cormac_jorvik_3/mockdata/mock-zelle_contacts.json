@@ -3,7 +3,7 @@
     "id": "{{auto_id}}",
     "userId": "{{current_user_id}}",
     "contactName": "Cormac Jorvik",
-    "contactEmail": "cormac.jorvik@nexuspay.io",
+    "contactEmail": "cormac.jorvik@trellipay.io",
     "contactPhone": "+17294238232",
     "isEnrolled": 1,
     "isFavorite": 0,

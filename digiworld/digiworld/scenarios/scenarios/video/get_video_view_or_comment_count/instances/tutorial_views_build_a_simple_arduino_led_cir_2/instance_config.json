@@ -1,7 +1,7 @@
 {
   "parameters": {
     "metric": "views",
-    "title": "Build a Simple Arduino LED Circuit"
+    "title": "Build a Simple Microcontroller LED Circuit"
   },
   "compatible_profiles": [
     "comments_disabled",

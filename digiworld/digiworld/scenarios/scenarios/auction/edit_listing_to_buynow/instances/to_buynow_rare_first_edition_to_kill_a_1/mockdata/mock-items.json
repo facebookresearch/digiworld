@@ -1,8 +1,8 @@
 [
   {
     "id": 182240029,
-    "title": "Rare First Edition 'To Kill a Mockingbird' by Harper Lee",
-    "description": "A rare first edition of Harper Lee's Pulitzer Prize-winning novel, 'To Kill a Mockingbird', in excellent condition with original dust jacket.",
+    "title": "Rare First Edition 'The Quiet Orchard' by Hollis Rae",
+    "description": "A rare first edition of Hollis Rae's Pulitzer Prize-winning novel, 'The Quiet Orchard', in excellent condition with original dust jacket.",
     "categoryId": 4,
     "sellerId": "{{current_user_id}}",
     "price": 98.75,
@@ -10,7 +10,7 @@
     "status": "active",
     "quantity": 1,
     "bidCount": 0,
-    "imageUrl": "https://example.com/images/rare-first-edition-'to-kill-a-mockingbird'-by-harper-lee.jpg",
+    "imageUrl": "https://example.com/images/rare-first-edition-'the-quiet-orchard'-by-hollis-rae.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": 36.1,

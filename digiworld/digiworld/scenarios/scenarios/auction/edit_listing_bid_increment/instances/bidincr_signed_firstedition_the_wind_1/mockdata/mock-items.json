@@ -1,7 +1,7 @@
 [
   {
     "id": 753970023,
-    "title": "Signed First\u2011Edition 'The Winds of Winter' Manuscript Page \u2013 George R.R. Martin",
+    "title": "Signed First\u2011Edition 'The Gales of Midwinter' Manuscript Page \u2013 Garrick Thorne",
     "description": "Rare handwritten page featuring a previously unpublished chapter, signed in ink, framed in acid\u2011free mat.",
     "categoryId": 4,
     "sellerId": "{{current_user_id}}",
@@ -10,7 +10,7 @@
     "status": "active",
     "quantity": 1,
     "bidCount": 13,
-    "imageUrl": "https://example.com/images/signed-first\u2011edition-'the-winds-of-winter'-manuscript-page-\u2013-george-r.r.-martin.jpg",
+    "imageUrl": "https://example.com/images/signed-first\u2011edition-'the-gales-of-midwinter'-manuscript-page-\u2013-garrick-thorne.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": 612.46,

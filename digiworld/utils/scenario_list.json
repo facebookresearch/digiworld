@@ -2519,7 +2519,7 @@
             "instance_name": "personal_aishapatelgmailcom_0",
             "config": {
               "parameters": {
-                "email": "aisha.patel@gmail.com"
+                "email": "aisha.patel@veltamail.com"
               },
               "compatible_profiles": [
                 "50_inbox_emails",
@@ -2569,7 +2569,7 @@
             "instance_name": "work_yukitanakakawasaki_electroni_2",
             "config": {
               "parameters": {
-                "email": "yuki.tanaka@kawasaki-electronics.co.jp"
+                "email": "yuki.tanaka@kasumi-electronics.co.jp"
               },
               "compatible_profiles": [
                 "50_inbox_emails",
@@ -2937,7 +2937,7 @@
             "instance_name": "ride_xian_famous_foods_96_8th_av_cellar_dog_75_christopher_st_2",
             "config": {
               "parameters": {
-                "origin": "Xi'an Famous Foods, 96, 8th Avenue,Manhattan,USA ",
+                "origin": "Wei'lan Famous Foods, 96, 8th Avenue,Manhattan,USA ",
                 "destination": "Cellar Dog, 75, Christopher Street, West Village, Manhattan, USA"
               },
               "compatible_profiles": [

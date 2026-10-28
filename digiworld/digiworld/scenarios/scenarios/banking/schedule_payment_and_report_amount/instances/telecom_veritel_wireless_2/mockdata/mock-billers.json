@@ -1,7 +1,7 @@
 [
   {
     "id": "{{auto_id}}",
-    "code": "VERIZON_WIRELESS",
+    "code": "VERITEL_WIRELESS",
     "name": "Veritel Wireless",
     "category": "telecom",
     "subcategory": null,

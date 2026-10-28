@@ -1,8 +1,8 @@
 [
   {
     "id": 182210022,
-    "title": "Original 'The Scream' by Edvard Munch Print",
-    "description": "This authentic print of Edvard Munch's 'The Scream' is a rare opportunity to own a piece of art history, with vibrant colors and excellent condition.",
+    "title": "Original 'The Silent Cry' by Edvin Marsk Print",
+    "description": "This authentic print of Edvin Marsk's 'The Silent Cry' is a rare opportunity to own a piece of art history, with vibrant colors and excellent condition.",
     "categoryId": 9,
     "sellerId": "{{current_user_id}}",
     "price": 1069.26,
@@ -10,7 +10,7 @@
     "status": "active",
     "quantity": 1,
     "bidCount": 0,
-    "imageUrl": "https://example.com/images/original-'the-scream'-by-edvard-munch-print.jpg",
+    "imageUrl": "https://example.com/images/original-'the-silent-cry'-by-edvin-marsk-print.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": 330.34,

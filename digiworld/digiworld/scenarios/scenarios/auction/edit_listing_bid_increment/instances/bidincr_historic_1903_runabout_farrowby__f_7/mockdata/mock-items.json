@@ -10,7 +10,7 @@
     "status": "active",
     "quantity": 1,
     "bidCount": 3,
-    "imageUrl": "https://example.com/images/historic-1903-model-t-ford-\u2013-fully-restored,-running-condition.jpg",
+    "imageUrl": "https://example.com/images/historic-1903-runabout-farrowby-\u2013-fully-restored,-running-condition.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": 1154.41,

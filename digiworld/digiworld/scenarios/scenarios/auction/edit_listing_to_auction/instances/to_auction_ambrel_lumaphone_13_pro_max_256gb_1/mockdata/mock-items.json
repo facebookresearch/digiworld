@@ -1,7 +1,7 @@
 [
   {
     "id": 753970024,
-    "title": "Ambrel LumaPhone 13 Pro Max 256GB \u2013 Unlocked \u2013 $799",
+    "title": "Ambrel LumaPhone 13 Pro XL 256GB \u2013 Unlocked \u2013 $799",
     "description": "Unlocked, like-new condition, includes original box, charger, and a clear protective case.",
     "categoryId": 4,
     "sellerId": "{{current_user_id}}",
@@ -10,7 +10,7 @@
     "status": "active",
     "quantity": 1,
     "bidCount": 0,
-    "imageUrl": "https://example.com/images/apple-iphone-13-pro-max-256gb-\u2013-unlocked-\u2013-$799.jpg",
+    "imageUrl": "https://example.com/images/ambrel-lumaphone-13-pro-xl-256gb-\u2013-unlocked-\u2013-$799.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": null,

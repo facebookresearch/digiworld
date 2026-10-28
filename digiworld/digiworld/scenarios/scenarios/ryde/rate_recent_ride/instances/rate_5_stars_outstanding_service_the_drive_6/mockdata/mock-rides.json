@@ -3,7 +3,7 @@
     "id": "{{auto_id}}",
     "userId": "{{current_user_id}}",
     "driverId": 3,
-    "pickupLocation": "{\"lat\": 40.728136, \"lng\": -73.966636, \"placename\": \"Xi'an Famous Foods, 96, 8th Avenue, Manhattan, USA\"}",
+    "pickupLocation": "{\"lat\": 40.728136, \"lng\": -73.966636, \"placename\": \"Wei'lan Famous Foods, 96, 8th Avenue, Manhattan, USA\"}",
     "dropLocation": "{\"lat\": 40.716506, \"lng\": -73.985789, \"placename\": \"Cellar Dog, 75, Christopher Street, West Village, Manhattan, USA\"}",
     "status": "completed",
     "startTime": "{{middle_ride_time}}",

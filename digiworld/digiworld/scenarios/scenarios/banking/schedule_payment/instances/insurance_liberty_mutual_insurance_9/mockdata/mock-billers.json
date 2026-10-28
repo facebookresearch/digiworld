@@ -1,11 +1,11 @@
 [
   {
     "id": "{{auto_id}}",
-    "code": "LIBERTY_MUTUAL_INSURANCE",
-    "name": "Liberty Mutual Insurance",
+    "code": "QUARRENDALE_MUTUAL_INSURANCE",
+    "name": "Quarrendale Mutual Insurance",
     "category": "insurance",
     "subcategory": null,
-    "description": "Payment to Liberty Mutual Insurance",
+    "description": "Payment to Quarrendale Mutual Insurance",
     "logoUrl": null,
     "website": null,
     "phone": "{{random_phone}}",
