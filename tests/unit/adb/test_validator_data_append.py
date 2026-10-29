@@ -8,7 +8,6 @@ import pytest
 
 from digiworld.adb.validator import DatabaseValidator
 
-
 SCHEMA = """
 CREATE TABLE users (id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT NOT NULL);
 CREATE TABLE addresses (
@@ -78,7 +77,9 @@ def merge(tmp_path):
     def _run(files, mockdata_files=()):
         for name, records in files.items():
             (source / name).write_text(json.dumps(records))
-        validator = DatabaseValidator("com.example.app", {"mockdata_files": list(mockdata_files)})
+        validator = DatabaseValidator(
+            "com.example.app", {"mockdata_files": list(mockdata_files)}
+        )
         modified = tmp_path / "modify.db"
         assert validator.execute_data_append(str(current), str(modified), str(source))
         out = sqlite3.connect(modified)
@@ -114,8 +115,15 @@ def test_maps_camel_case_and_encodes_json_columns(merge):
     db = merge(
         {
             "mock-products.json": [
-                {"id": 5, "name": "Cube", "categoryId": 1, "categoryName": "Toys & Games",
-                 "subcategoryId": 12, "subcategoryName": "Puzzles", "tags": ["a", "b"]}
+                {
+                    "id": 5,
+                    "name": "Cube",
+                    "categoryId": 1,
+                    "categoryName": "Toys & Games",
+                    "subcategoryId": 12,
+                    "subcategoryName": "Puzzles",
+                    "tags": ["a", "b"],
+                }
             ]
         },
         mockdata_files=["mock-products.json"],
@@ -129,10 +137,18 @@ def test_resolves_not_null_foreign_keys_by_name(merge):
     db = merge(
         {
             "mock-products.json": [
-                {"id": 9904, "name": "Block Set", "categoryName": "toys & games",
-                 "subcategoryName": "Accessories"},
-                {"id": 9905, "name": "Cable", "categoryName": "Electronics",
-                 "subcategoryName": "Accessories"},
+                {
+                    "id": 9904,
+                    "name": "Block Set",
+                    "categoryName": "toys & games",
+                    "subcategoryName": "Accessories",
+                },
+                {
+                    "id": 9905,
+                    "name": "Cable",
+                    "categoryName": "Electronics",
+                    "subcategoryName": "Accessories",
+                },
             ]
         },
         mockdata_files=["mock-products.json"],
@@ -149,8 +165,18 @@ def test_unknown_name_leaves_insert_failing_without_aborting(merge):
     db = merge(
         {
             "mock-products.json": [
-                {"id": 1, "name": "Ghost", "categoryName": "Garden", "subcategoryName": "Tools"},
-                {"id": 2, "name": "Kit", "categoryName": "Toys & Games", "subcategoryName": "Puzzles"},
+                {
+                    "id": 1,
+                    "name": "Ghost",
+                    "categoryName": "Garden",
+                    "subcategoryName": "Tools",
+                },
+                {
+                    "id": 2,
+                    "name": "Kit",
+                    "categoryName": "Toys & Games",
+                    "subcategoryName": "Puzzles",
+                },
             ]
         },
         mockdata_files=["mock-products.json"],
@@ -170,7 +196,9 @@ def test_flattens_nested_lists_into_child_tables(merge):
                         {
                             "passenger_id": "P-1",
                             "first_name": "Test",
-                            "seat_assignments": [{"flight_id": "AV1_2026-08-15", "seat_number": "7A"}],
+                            "seat_assignments": [
+                                {"flight_id": "AV1_2026-08-15", "seat_number": "7A"}
+                            ],
                         }
                     ],
                 }
@@ -199,7 +227,9 @@ def test_nested_rows_link_to_sqlite_assigned_parent_ids(merge):
                 {
                     "orderNumber": "ORD-1",
                     "items": [{"productName": "Cube"}, {"productName": "Ball"}],
-                    "statusHistory": [{"status": "Placed"}],  # no matching table: dropped
+                    "statusHistory": [
+                        {"status": "Placed"}
+                    ],  # no matching table: dropped
                 }
             ]
         },

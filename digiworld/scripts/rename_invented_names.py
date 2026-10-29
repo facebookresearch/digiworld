@@ -22,6 +22,7 @@ Usage:
   python digiworld/scripts/rename_invented_names.py --base-tree /tmp/base --check
   python digiworld/scripts/rename_invented_names.py --base-tree /tmp/base --write
 """
+
 from __future__ import annotations
 
 import argparse
@@ -41,15 +42,75 @@ from replace_brand_residue import NAMES_V2, update_rows  # noqa: E402
 
 # Old names with an ordinary or pre-existing reading; without provenance they are kept.
 AMBIGUOUS = {
-    "Harmony", "Summit", "Titan", "Nimbus", "Pinnacle", "Vertex", "Aria", "Prestige", "prestige", "Woodland",
-    "Wanderer", "Reverie", "Boreal", "Strider", "Zap", "Concord", "Fenwick", "Hollis", "Cadwell", "Kendall's",
-    "Lumen", "Vantage", "vantage", "Backcountry", "Solstice", "Solaris", "Electra", "Kestrel", "Luxor", "Prisma",
-    "Fairmont", "Voyager", "Ranger", "Puffin", "Fortis", "Avella", "Bayline", "Skylight", "ES", "EX", "EY", "E3",
-    "Old Harbor", "Ironhide", "Alterra", "Meridia", "Avanti", "Wayfarer", "Lucent", "Sonnet", "Ryze", "Canor",
-    "canor", "Kindra", "Radion", "Silverpeak", "Ionis", "Civix", "Vivra", "IFSA", "MOVA", "Unipak", "Postline",
+    "Harmony",
+    "Summit",
+    "Titan",
+    "Nimbus",
+    "Pinnacle",
+    "Vertex",
+    "Aria",
+    "Prestige",
+    "prestige",
+    "Woodland",
+    "Wanderer",
+    "Reverie",
+    "Boreal",
+    "Strider",
+    "Zap",
+    "Concord",
+    "Fenwick",
+    "Hollis",
+    "Cadwell",
+    "Kendall's",
+    "Lumen",
+    "Vantage",
+    "vantage",
+    "Backcountry",
+    "Solstice",
+    "Solaris",
+    "Electra",
+    "Kestrel",
+    "Luxor",
+    "Prisma",
+    "Fairmont",
+    "Voyager",
+    "Ranger",
+    "Puffin",
+    "Fortis",
+    "Avella",
+    "Bayline",
+    "Skylight",
+    "ES",
+    "EX",
+    "EY",
+    "E3",
+    "Old Harbor",
+    "Ironhide",
+    "Alterra",
+    "Meridia",
+    "Avanti",
+    "Wayfarer",
+    "Lucent",
+    "Sonnet",
+    "Ryze",
+    "Canor",
+    "canor",
+    "Kindra",
+    "Radion",
+    "Silverpeak",
+    "Ionis",
+    "Civix",
+    "Vivra",
+    "IFSA",
+    "MOVA",
+    "Unipak",
+    "Postline",
 }
-_OLD_RE = re.compile(r"(?<![\w-])(" + "|".join(re.escape(k) for k in sorted(NAMES_V2, key=len, reverse=True))
-                     + r")(?![\w-])")
+_OLD_RE = re.compile(
+    r"(?<![\w-])("
+    + "|".join(re.escape(k) for k in sorted(NAMES_V2, key=len, reverse=True))
+    + r")(?![\w-])"
+)
 _TOKEN = re.compile(r"\w+|[^\w\s]")
 # old name -> the brands the earlier pass replaced with it (from the replacement maps)
 BRANDS_FOR = defaultdict(set)
@@ -98,7 +159,9 @@ def file_strings(path: Path):
     if path.suffix == ".db":
         con = sqlite3.connect(f"file:{path}?mode=ro", uri=True)
         try:
-            for (t,) in con.execute("SELECT name FROM sqlite_master WHERE type='table' AND name NOT LIKE 'sqlite_%'"):
+            for (t,) in con.execute(
+                "SELECT name FROM sqlite_master WHERE type='table' AND name NOT LIKE 'sqlite_%'"
+            ):
                 if re.search(r"_fts(_|$)", t):
                     continue
                 cols = [r[1] for r in con.execute(f'PRAGMA table_info("{t}")')]
@@ -140,7 +203,10 @@ def occurrences(s: str):
 
 
 def brand_backed(name: str, base: str) -> bool:
-    return any(re.search(r"(?<![\w-])" + re.escape(b) + r"(?![\w-])", base) for b in BRANDS_FOR.get(name, ()))
+    return any(
+        re.search(r"(?<![\w-])" + re.escape(b) + r"(?![\w-])", base)
+        for b in BRANDS_FOR.get(name, ())
+    )
 
 
 def verdicts(head: str, base: str, preexisting: bool = False):
@@ -149,8 +215,12 @@ def verdicts(head: str, base: str, preexisting: bool = False):
     name), so a changed counterpart only counts when it held the brand the old
     name replaced -- otherwise the instance was re-pointed, not anonymised."""
     th = [(m.start(), m.end(), m.group()) for m in _TOKEN.finditer(head)]
-    sm = difflib.SequenceMatcher(None, [t[2] for t in th], [m.group() for m in _TOKEN.finditer(base)],
-                                 autojunk=False)
+    sm = difflib.SequenceMatcher(
+        None,
+        [t[2] for t in th],
+        [m.group() for m in _TOKEN.finditer(base)],
+        autojunk=False,
+    )
     same = [False] * len(th)
     for blk in sm.get_matching_blocks():
         for i in range(blk.a, blk.a + blk.size):
@@ -166,15 +236,38 @@ def verdicts(head: str, base: str, preexisting: bool = False):
 
 
 def renamed_paths(root: Path, base_rev: str) -> dict:
-    out = subprocess.run(["git", "-C", str(root), "diff", "-M", "--name-status", base_rev, "HEAD", "--", "digiworld"],
-                         capture_output=True, text=True, check=True).stdout
-    return {p[2]: p[1] for p in (line.split("\t") for line in out.splitlines()) if p[0].startswith("R")}
+    out = subprocess.run(
+        [
+            "git",
+            "-C",
+            str(root),
+            "diff",
+            "-M",
+            "--name-status",
+            base_rev,
+            "HEAD",
+            "--",
+            "digiworld",
+        ],
+        capture_output=True,
+        text=True,
+        check=True,
+    ).stdout
+    return {
+        p[2]: p[1]
+        for p in (line.split("\t") for line in out.splitlines())
+        if p[0].startswith("R")
+    }
 
 
 class Decisions:
     def __init__(self, root: Path, base: Path):
-        base_rev = subprocess.run(["git", "-C", str(base), "rev-parse", "HEAD"], capture_output=True, text=True,
-                                  check=True).stdout.strip()
+        base_rev = subprocess.run(
+            ["git", "-C", str(base), "rev-parse", "HEAD"],
+            capture_output=True,
+            text=True,
+            check=True,
+        ).stdout.strip()
         self.base_values = set()
         for p in root_files(base):
             self.base_values.update(s for _, s in file_strings(p))
@@ -188,8 +281,11 @@ class Decisions:
             if not bp.exists() or C.is_lfs_pointer(bp):
                 continue
             try:
-                pairs = aligned_pairs(json.loads(p.read_text(encoding="utf-8")),
-                                      json.loads(bp.read_text(encoding="utf-8")), out=[])
+                pairs = aligned_pairs(
+                    json.loads(p.read_text(encoding="utf-8")),
+                    json.loads(bp.read_text(encoding="utf-8")),
+                    out=[],
+                )
             except (ValueError, UnicodeDecodeError):
                 continue
             for key, h, b in pairs:
@@ -199,7 +295,9 @@ class Decisions:
         for (key, h), votes in by_key.items():
             if len(votes) == 1:
                 v = next(iter(votes))
-            elif h in self.base_values:          # the same text existed before: a pre-existing use
+            elif (
+                h in self.base_values
+            ):  # the same text existed before: a pre-existing use
                 v = tuple("kept" for _ in occurrences(h))
             else:
                 v = max(votes, key=votes.get)
@@ -248,7 +346,7 @@ def fix_json_text(raw: str, decide: Decisions, counts: Counter, key=None) -> str
     """Rename inside JSON string values (keys and layout untouched)."""
     out, i, cur = [], 0, key
     for m in re.finditer(r'"((?:[^"\\]|\\.)*)"(\s*:)?', raw):
-        out.append(raw[i:m.start()])
+        out.append(raw[i : m.start()])
         body = m.group(1)
         if m.group(2):
             cur = json.loads(f'"{body}"')
@@ -262,7 +360,9 @@ def fix_json_text(raw: str, decide: Decisions, counts: Counter, key=None) -> str
             if fixed == decoded:
                 out.append(m.group(0))
             else:
-                out.append('"' + json.dumps(fixed, ensure_ascii=("\\u" in body))[1:-1] + '"')
+                out.append(
+                    '"' + json.dumps(fixed, ensure_ascii=("\\u" in body))[1:-1] + '"'
+                )
         i = m.end()
     out.append(raw[i:])
     return "".join(out)
@@ -279,8 +379,12 @@ def _is_json(v: str) -> bool:
 def fix_db(path: Path, decide: Decisions, counts: Counter, write: bool) -> int:
     con = sqlite3.connect(path)
     changed = 0
-    tables = [r[0] for r in con.execute(
-        "SELECT name FROM sqlite_master WHERE type='table' AND name NOT LIKE 'sqlite_%' AND sql NOT LIKE '%VIRTUAL%'")]
+    tables = [
+        r[0]
+        for r in con.execute(
+            "SELECT name FROM sqlite_master WHERE type='table' AND name NOT LIKE 'sqlite_%' AND sql NOT LIKE '%VIRTUAL%'"
+        )
+    ]
     for t in tables:
         if re.search(r"_fts(_|$)", t):
             continue
@@ -290,19 +394,24 @@ def fix_db(path: Path, decide: Decisions, counts: Counter, write: bool) -> int:
             upd = {}
             for c, v in zip(cols, row[1:]):
                 if isinstance(v, str) and _OLD_RE.search(v):
-                    nv = (fix_json_text(v, decide, counts, c) if v[:1] in "[{" and _is_json(v)
-                          else rename(v, c, decide, counts))
+                    nv = (
+                        fix_json_text(v, decide, counts, c)
+                        if v[:1] in "[{" and _is_json(v)
+                        else rename(v, c, decide, counts)
+                    )
                     if nv != v:
                         upd[c] = nv
             if upd:
                 updates.append((upd, row[0]))
         changed += len(updates)
         if write and updates:
-            update_rows(con, t, updates)   # triggers off: timestamps are not restamped
+            update_rows(con, t, updates)  # triggers off: timestamps are not restamped
     if write and changed:
-        for (t,) in con.execute("SELECT name FROM sqlite_master WHERE sql LIKE '%VIRTUAL TABLE%fts%'").fetchall():
+        for (t,) in con.execute(
+            "SELECT name FROM sqlite_master WHERE sql LIKE '%VIRTUAL TABLE%fts%'"
+        ).fetchall():
             try:
-                con.execute(f"INSERT INTO \"{t}\"(\"{t}\") VALUES('rebuild')")
+                con.execute(f'INSERT INTO "{t}"("{t}") VALUES(\'rebuild\')')
             except sqlite3.DatabaseError:
                 pass
         con.commit()
@@ -311,13 +420,21 @@ def fix_db(path: Path, decide: Decisions, counts: Counter, write: bool) -> int:
 
 
 def main(argv=None) -> int:
-    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap = argparse.ArgumentParser(
+        description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter
+    )
     mode = ap.add_mutually_exclusive_group(required=True)
     mode.add_argument("--check", action="store_true")
     mode.add_argument("--write", action="store_true")
-    ap.add_argument("--base-tree", type=Path, required=True,
-                    help="checkout (with LFS files) of the commit before the anonymisation pass")
-    ap.add_argument("--report", type=Path, help="write the kept/undecided values here (JSON)")
+    ap.add_argument(
+        "--base-tree",
+        type=Path,
+        required=True,
+        help="checkout (with LFS files) of the commit before the anonymisation pass",
+    )
+    ap.add_argument(
+        "--report", type=Path, help="write the kept/undecided values here (JSON)"
+    )
     args = ap.parse_args(argv)
     root = C.ROOT
     decide = Decisions(root, args.base_tree.resolve())
@@ -332,7 +449,9 @@ def main(argv=None) -> int:
         if not _OLD_RE.search(raw):
             continue
         if path.suffix == ".jsonl":
-            new = "\n".join(fix_json_text(line, decide, counts) for line in raw.split("\n"))
+            new = "\n".join(
+                fix_json_text(line, decide, counts) for line in raw.split("\n")
+            )
         else:
             new = fix_json_text(raw, decide, counts)
         if new != raw:
@@ -343,11 +462,17 @@ def main(argv=None) -> int:
     for name, n in counts.most_common():
         print(f"  {n:6d}  {name} -> {NAMES_V2[name]}")
     if decide.undecided:
-        print(f"{len(decide.undecided)} values kept without provenance (ambiguous name):")
+        print(
+            f"{len(decide.undecided)} values kept without provenance (ambiguous name):"
+        )
         for s, n in decide.undecided.most_common(40):
             print(f"  {n:4d}  {s[:100]!r}")
     if args.report:
-        args.report.write_text(json.dumps({"undecided": dict(decide.undecided)}, indent=1, ensure_ascii=False))
+        args.report.write_text(
+            json.dumps(
+                {"undecided": dict(decide.undecided)}, indent=1, ensure_ascii=False
+            )
+        )
     return 0
 
 

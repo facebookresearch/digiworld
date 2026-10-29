@@ -31,9 +31,9 @@ def test_credit_card_capacity_follows_tier(conn):
         "INSERT INTO users VALUES (1, 2);"
         "INSERT INTO credit_cards VALUES (1, 1, 'active');"
     )
-    assert _ok("banking.apply_credit_card", conn, {})          # sapphire: 1 of 3
+    assert _ok("banking.apply_credit_card", conn, {})  # sapphire: 1 of 3
     conn.execute("UPDATE users SET account_tier_id = 1")
-    assert not _ok("banking.apply_credit_card", conn, {})      # everyday: 1 of 1
+    assert not _ok("banking.apply_credit_card", conn, {})  # everyday: 1 of 1
 
 
 def test_wallpaper_must_differ(conn):
@@ -78,12 +78,16 @@ def test_alert_needs_alternatives(conn):
         "INSERT INTO service_alerts VALUES ('a', 'Signal Delay', '[]'), ('b', 'Aurora Line Delays', 'Use the bus.');"
     )
     assert not _ok("transit.alert_alternatives", conn, {"alert_title": "Signal Delay"})
-    assert _ok("transit.alert_alternatives", conn, {"alert_title": "Aurora Line Delays"})
+    assert _ok(
+        "transit.alert_alternatives", conn, {"alert_title": "Aurora Line Delays"}
+    )
 
 
 def test_address_cap(conn):
-    conn.executescript("CREATE TABLE addresses (id INTEGER, user_id INTEGER);"
-                       "INSERT INTO addresses VALUES (1, 1), (2, 1);")
+    conn.executescript(
+        "CREATE TABLE addresses (id INTEGER, user_id INTEGER);"
+        "INSERT INTO addresses VALUES (1, 1), (2, 1);"
+    )
     assert _ok("ecommerce.add_saved_address", conn, {})
     conn.execute("INSERT INTO addresses VALUES (3, 1)")
     assert not _ok("ecommerce.add_saved_address", conn, {})

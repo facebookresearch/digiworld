@@ -19,7 +19,9 @@ class WallpaperDiffersConstraint(Constraint):
     def evaluate(self, conn: sqlite3.Connection, params: Dict[str, Any]) -> bool:
         key = str(params.get("wallpaper") or "").strip().lower()
         try:
-            row = conn.execute("SELECT wallpaper FROM chat_settings WHERE user_id = 1").fetchone()
+            row = conn.execute(
+                "SELECT wallpaper FROM chat_settings WHERE user_id = 1"
+            ).fetchone()
         except sqlite3.OperationalError:
             return False
         current = (row[0] if row else None) or ""

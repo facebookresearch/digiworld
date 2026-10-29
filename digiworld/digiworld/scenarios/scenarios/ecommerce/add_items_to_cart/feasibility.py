@@ -14,7 +14,11 @@ from digiworld.scenarios.constraints import Constraint
 
 class ItemsNotInCartConstraint(Constraint):
     def evaluate(self, conn: sqlite3.Connection, params: Dict[str, Any]) -> bool:
-        names = [str(params[k]).strip().lower() for k in ("item_1", "item_2", "item_3") if params.get(k)]
+        names = [
+            str(params[k]).strip().lower()
+            for k in ("item_1", "item_2", "item_3")
+            if params.get(k)
+        ]
         try:
             rows = conn.execute(
                 "SELECT LOWER(p.name) FROM cart_items ci JOIN products p ON p.id = ci.product_id "
