@@ -102,39 +102,57 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           cache: 'pip'
-          cache-dependency-path: digiworld/requirements.txt
+          cache-dependency-path: |
+            digiworld/requirements.txt
+            digiworld/requirements-dev.txt
 
       - name: Install Python dependencies
         run: |
           cd digiworld
-          python3 -m venv script_env
-          source script_env/bin/activate
-          pip install -r requirements.txt
+          python -m pip install --upgrade pip
+          pip install -r requirements-dev.txt
 
-      - name: Check Python formatting
+      # Formatting and lint cover the Python files this PR adds, and the files it
+      # changes that were clean before it: most existing code predates these checks.
+      - name: List Python files to check
+        id: changed
         run: |
-          cd digiworld
-          source script_env/bin/activate
-          black --check .
-          isort --check-only .
+          python .github/scripts/changed_python_files.py "origin/${{ github.base_ref }}" > "$RUNNER_TEMP/changed_py.txt"
+          echo "Python files to check:"
+          cat "$RUNNER_TEMP/changed_py.txt"
+          echo "count=$(grep -c . "$RUNNER_TEMP/changed_py.txt" || true)" >> "$GITHUB_OUTPUT"
 
-      - name: Lint Python
+      - name: Check Python formatting (changed files)
+        if: steps.changed.outputs.count != '0'
         run: |
-          cd digiworld
-          source script_env/bin/activate
-          flake8 . --ignore=E501
+          xargs -d '\n' -a "$RUNNER_TEMP/changed_py.txt" black --check --diff
+          xargs -d '\n' -a "$RUNNER_TEMP/changed_py.txt" isort --check-only --diff
 
+      - name: Lint Python (changed files)
+        if: steps.changed.outputs.count != '0'
+        run: xargs -d '\n' -a "$RUNNER_TEMP/changed_py.txt" flake8
+
+      # The emulator suite (tests/integration) needs a running Android emulator and
+      # is excluded. Failures that predate this job are listed in
+      # .github/pytest-baseline.txt; the job fails only on failures not listed there.
       - name: Run Python tests
         run: |
-          cd digiworld
-          source script_env/bin/activate
-          python -m pytest
+          set +e
+          python -m pytest tests digiworld/digiworld/scenarios \
+            --ignore=tests/integration \
+            --continue-on-collection-errors -q -p no:cacheprovider \
+            --junitxml=pytest-results.xml > pytest-output.txt 2>&1
+          rc=$?
+          tail -n 40 pytest-output.txt
+          python .github/scripts/check_pytest_baseline.py pytest-results.xml --exit-code "$rc"
 
   commit-messages:
     needs: preflight

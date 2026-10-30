@@ -1,0 +1,9 @@
+# Copyright (c) Meta Platforms, Inc. and affiliates.
+# Tools the check-python CI job runs, pinned so CI results are reproducible.
+# Install with: pip install -r requirements-dev.txt   (from digiworld/)
+-r requirements.txt
+
+black==26.10.1
+isort==9.0.2
+flake8==7.5.0
+pytest==9.2.0
