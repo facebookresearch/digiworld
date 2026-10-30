@@ -61,3 +61,7 @@ digiworld = [
     "scenarios/**/*.json",
     "scenarios/**/*.yaml",
 ]
+
+[tool.isort]
+# Same import layout black produces, so the two tools never rewrap each other.
+profile = "black"

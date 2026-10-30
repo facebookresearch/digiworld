@@ -29,3 +29,7 @@ build-backend = "setuptools.build_meta"
 [tool.setuptools.packages.find]
 where = ["."]
 include = ["digiworld_eval*"]
+
+[tool.isort]
+# Same import layout black produces, so the two tools never rewrap each other.
+profile = "black"

@@ -216,6 +216,31 @@ all DigiWorld apps installed.
 
 ---
 
+## In CI (check-python)
+
+The `check-python` job in `.github/workflows/quality-check.yml` runs, from the
+repository root:
+
+```bash
+pip install -r digiworld/requirements-dev.txt   # from digiworld/: pinned black, isort, flake8, pytest
+python -m pytest tests digiworld/digiworld/scenarios --ignore=tests/integration \
+    --continue-on-collection-errors -q -p no:cacheprovider --junitxml=pytest-results.xml
+python .github/scripts/check_pytest_baseline.py pytest-results.xml --exit-code $?
+```
+
+- `tests/integration` is excluded: it needs a running emulator.
+- Failures that predate the job (mostly instance-integrity findings in the
+  scenario data) are listed in `.github/pytest-baseline.txt`. The job fails on
+  any failure not listed there; per test function the number of failures may only
+  go down (a renamed instance may give its failing tests new ids). When you fix
+  tests, shrink the baseline with
+  `python .github/scripts/check_pytest_baseline.py pytest-results.xml --update`.
+- black, isort and flake8 run on the Python files a PR adds, and on files it
+  changes that were clean before (`.github/scripts/changed_python_files.py`);
+  configuration is in `pyproject.toml` (isort, black profile) and `setup.cfg` (flake8).
+
+---
+
 ## Markers
 
 Defined in `pytest.ini`:
