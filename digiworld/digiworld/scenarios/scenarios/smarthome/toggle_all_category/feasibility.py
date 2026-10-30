@@ -27,7 +27,9 @@ class SomethingToToggleConstraint(Constraint):
         column = _COLUMNS.get(table)
         if column is None:
             return False
-        wrong_state = 0 if str(params.get("action") or "").strip().lower() in _ACTIVATE else 1
+        wrong_state = (
+            0 if str(params.get("action") or "").strip().lower() in _ACTIVATE else 1
+        )
         try:
             row = conn.execute(
                 f"SELECT COUNT(*) FROM {table} WHERE user_id = 1 AND {column} = ? AND deleted_at IS NULL",
@@ -41,4 +43,9 @@ class SomethingToToggleConstraint(Constraint):
         return "SomethingToToggle(item_type not all in the target state)"
 
 
-CONSTRAINTS = [DEVICES_EXIST, SCENES_EXIST, AUTOMATIONS_EXIST, SomethingToToggleConstraint()]
+CONSTRAINTS = [
+    DEVICES_EXIST,
+    SCENES_EXIST,
+    AUTOMATIONS_EXIST,
+    SomethingToToggleConstraint(),
+]

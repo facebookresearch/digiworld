@@ -82,10 +82,9 @@ def injected_db(
     global _APP_CONFIG
     from types import SimpleNamespace
 
-    from digiworld.app_registry import APP_REGISTRY
-
     from digiworld.adb.actions import ADBActions
     from digiworld.adb.validator import DatabaseValidator
+    from digiworld.app_registry import APP_REGISTRY
 
     if _APP_CONFIG is None:
         _APP_CONFIG = ADBActions._build_app_config()
