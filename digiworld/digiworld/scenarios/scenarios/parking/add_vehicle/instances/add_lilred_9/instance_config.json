@@ -1,8 +1,8 @@
 {
   "parameters": {
     "color": "Red",
-    "make": "Mini",
-    "model": "Cooper",
+    "make": "Pixley",
+    "model": "Cobble",
     "vehicle_type": "Compact",
     "license_plate": "LILRED",
     "nickname": "Lil' Red"

@@ -17,7 +17,7 @@
     "inStock": true,
     "stockCount": 135,
     "imageUrl": "/15_1",
-    "specs": "{\"display\": \"N/A\", \"processor\": \"Cellwave QCC5142\", \"ram\": \"N/A\", \"storage\": \"N/A\", \"battery\": \"380 mAh\", \"os\": \"Proprietary\", \"connectivity\": \"Bluetooth 5.2, NFC\"}",
+    "specs": "{\"display\": \"N/A\", \"processor\": \"Cellwave CWX-5142\", \"ram\": \"N/A\", \"storage\": \"N/A\", \"battery\": \"380 mAh\", \"os\": \"Proprietary\", \"connectivity\": \"Bluetooth 5.2, NFC\"}",
     "tags": "[\"electronics\", \"headphones\", \"high-quality\", \"popular\"]",
     "isFeatured": false,
     "dateAdded": "2025-06-15 12:00:00.000"

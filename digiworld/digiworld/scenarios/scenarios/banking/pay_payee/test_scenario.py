@@ -41,7 +41,7 @@ TABLES_SQL = [
     "INSERT INTO transaction_types VALUES "
     "(1, 'transfer', 'Account Transfer', 'transfer', 'Account Transfer'), "
     "(2, 'bill_payment', 'Bill Payment', 'debit', 'Bill Payment'), "
-    "(3, 'zelle', 'Zelle Payment', 'transfer', 'Zelle Payment'), "
+    "(3, 'trellipay', 'Trellipay Payment', 'transfer', 'Trellipay Payment'), "
     "(4, 'external_transfer', 'External Transfer', 'transfer', 'External Transfer')",
 ]
 

@@ -15,7 +15,7 @@ def _rootstore_with(**user_overrides):
     """Build a rootstore with user field overrides."""
     base = {
         "id": 1,
-        "email": "liam.oconnor@gmail.co.uk",
+        "email": "liam.oconnor@veltamail.co.uk",
         "firstName": "Liam",
         "lastName": "O'Connor",
         "displayName": "Liam O'Connor",

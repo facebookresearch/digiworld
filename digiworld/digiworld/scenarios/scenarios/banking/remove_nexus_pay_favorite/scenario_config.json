@@ -6,5 +6,5 @@
     "contact_name"
   ],
   "context_fields": [],
-  "description": "Remove a Nexus Pay (QuickPay) contact from favorites."
+  "description": "Remove a Nexus Pay (Trellipay) contact from favorites."
 }

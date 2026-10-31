@@ -2,7 +2,7 @@
   {
     "id": "{{auto_id}}",
     "name": "ArcadeX Mini Console",
-    "description": "ArcadeX Mini Console packs retro gaming into a handheld device with a 5\u2011inch 1080p screen. Runs on a custom ARC processor and includes 2\u202fTB of pre\u2011loaded classic titles. Features dual analog sticks, Wi\u2011Fi for multiplayer, and a rechargeable battery lasting 8 hours.",
+    "description": "ArcadeX Mini Console packs retro gaming into a handheld device with a 5\u2011inch 1080p screen. Runs on a custom Nexin processor and includes 2\u202fTB of pre\u2011loaded classic titles. Features dual analog sticks, Wi\u2011Fi for multiplayer, and a rechargeable battery lasting 8 hours.",
     "shortDescription": "Handheld retro console with 5\u2011inch screen and 2\u202fTB of classic games.",
     "rating": 3.0,
     "reviewCount": 4,
@@ -17,12 +17,13 @@
     "inStock": true,
     "stockCount": 173,
     "imageUrl": "/29_1",
-    "specs": "{\"display\": \"HDMI 2.1 output up to 4K\", \"processor\": \"Quad-core ARC Cortix-A78\", \"ram\": \"4 GB LPDDR4\", \"storage\": \"64 GB eMMC\", \"battery\": \"N/A (AC power)\", \"os\": \"Custom Linux\", \"connectivity\": \"Wi-Fi 6, Bluetooth 5.2, Ethernet\"}",
+    "specs": "{\"display\": \"HDMI 2.1 output up to 4K\", \"processor\": \"Quad-core Nexin Corval-R78\", \"ram\": \"4 GB LPDDR4\", \"storage\": \"64 GB eMMC\", \"battery\": \"N/A (AC power)\", \"os\": \"Custom Linux\", \"connectivity\": \"Wi-Fi 6, Bluetooth 5.2, Ethernet\"}",
     "tags": "[\"gaming\", \"electronics\", \"consoles\", \"top-rated\", \"best\"]",
     "isFeatured": false,
     "dateAdded": "2025-06-15 12:00:00.000",
     "reviews": [
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 5,
         "title": "Perfect Pocket Arcade Experience",
@@ -30,6 +31,7 @@
         "reviewDate": "2025-06-15T10:00:00.000Z"
       },
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 1,
         "title": "Disappointed by Constant Lag",
@@ -37,6 +39,7 @@
         "reviewDate": "2025-06-15T10:00:00.000Z"
       },
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 4,
         "title": "Great Retro Library, Minor Flaws",
@@ -44,6 +47,7 @@
         "reviewDate": "2025-06-15T10:00:00.000Z"
       },
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 2,
         "title": "Unreliable Controls and Build Quality",

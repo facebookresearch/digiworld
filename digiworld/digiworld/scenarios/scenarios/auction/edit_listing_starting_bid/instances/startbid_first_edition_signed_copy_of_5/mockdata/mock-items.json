@@ -1,8 +1,8 @@
 [
   {
     "id": 754120065,
-    "title": "First Edition, Signed Copy of 'The Night Circus' by Erin Morgenstern",
-    "description": "First edition hardcover of 'The Night Circus' signed by author Erin Morgenstern, with a personalized inscription on the title page.",
+    "title": "First Edition, Signed Copy of 'The Twilight Carnival' by Elise Marwood",
+    "description": "First edition hardcover of 'The Twilight Carnival' signed by author Elise Marwood, with a personalized inscription on the title page.",
     "categoryId": 1,
     "sellerId": "{{current_user_id}}",
     "price": 220.03,
@@ -10,7 +10,7 @@
     "status": "active",
     "quantity": 1,
     "bidCount": 11,
-    "imageUrl": "https://example.com/images/first-edition,-signed-copy-of-'the-night-circus'-by-erin-morgenstern.jpg",
+    "imageUrl": "https://example.com/images/first-edition,-signed-copy-of-'the-twilight-carnival'-by-elise-marwood.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": 85.36,

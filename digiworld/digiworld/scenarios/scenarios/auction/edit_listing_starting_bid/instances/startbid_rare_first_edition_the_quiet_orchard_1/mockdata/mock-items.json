@@ -1,0 +1,22 @@
+[
+  {
+    "id": 182210020,
+    "title": "Rare First Edition 'The Quiet Orchard' by Hollis Rae",
+    "description": "A highly valuable first edition of Hollis Rae's Pulitzer Prize-winning novel, complete with original dust jacket and minimal wear.",
+    "categoryId": 4,
+    "sellerId": "{{current_user_id}}",
+    "price": 98.75,
+    "auctionFlag": 1,
+    "status": "active",
+    "quantity": 1,
+    "bidCount": 0,
+    "imageUrl": "https://example.com/images/rare-first-edition-'the-quiet-orchard'-by-hollis-rae.jpg",
+    "createdAt": "{{recent_timestamp}}",
+    "updatedAt": "{{recent_timestamp}}",
+    "startingBid": 36.1,
+    "currentBid": 50.69,
+    "bidIncrement": 5.0,
+    "endTime": 1773367621,
+    "expired": 0
+  }
+]

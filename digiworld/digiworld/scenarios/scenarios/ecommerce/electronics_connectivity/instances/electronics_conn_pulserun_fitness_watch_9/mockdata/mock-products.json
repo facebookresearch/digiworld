@@ -17,7 +17,7 @@
     "inStock": true,
     "stockCount": 175,
     "imageUrl": "/22_1",
-    "specs": "{\"display\": \"1.2-inch LCD, 390x390\", \"processor\": \"NovaSil MT2523\", \"ram\": \"512 MB\", \"storage\": \"4 GB\", \"battery\": \"300 mAh\", \"os\": \"Proprietary RTOS\", \"connectivity\": \"Bluetooth 5.1, GPS\"}",
+    "specs": "{\"display\": \"1.2-inch LCD, 390x390\", \"processor\": \"NovaSil NV2530\", \"ram\": \"512 MB\", \"storage\": \"4 GB\", \"battery\": \"300 mAh\", \"os\": \"Proprietary RTOS\", \"connectivity\": \"Bluetooth 5.1, GPS\"}",
     "tags": "[\"smartwatches\", \"electronics\", \"high-quality\", \"best\"]",
     "isFeatured": false,
     "dateAdded": "2025-06-15 12:00:00.000"

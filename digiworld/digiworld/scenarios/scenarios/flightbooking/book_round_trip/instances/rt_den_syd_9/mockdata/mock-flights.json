@@ -12,7 +12,7 @@
     "fare": 1191.26,
     "currency": "USD",
     "seats_available": 148,
-    "aircraft_type": "Airbus A350-900",
+    "aircraft_type": "Skyvane 3590",
     "date": "2026-08-15",
     "created_at": "2026-01-01T00:00:00Z"
   },
@@ -29,7 +29,7 @@
     "fare": 225.32,
     "currency": "USD",
     "seats_available": 102,
-    "aircraft_type": "Airbus A350-900",
+    "aircraft_type": "Skyvane 3590",
     "date": "2026-08-22",
     "created_at": "2026-01-01T00:00:00Z"
   }

@@ -12,7 +12,7 @@ BASE_EMAILS = [
     {
         "id": 1,
         "sender": "someone@example.com",
-        "receiver": ["liam.oconnor@gmail.co.uk"],
+        "receiver": ["liam.oconnor@veltamail.co.uk"],
         "subject": "Old email 1",
         "body": "Old body 1",
         "timestamp": "2026-01-05T10:00:00.000Z",
@@ -22,7 +22,7 @@ BASE_EMAILS = [
     {
         "id": 2,
         "sender": "someone@example.com",
-        "receiver": ["liam.oconnor@gmail.co.uk"],
+        "receiver": ["liam.oconnor@veltamail.co.uk"],
         "subject": "Old email 2",
         "body": "Old body 2",
         "timestamp": "2026-01-08T10:00:00.000Z",
@@ -32,7 +32,7 @@ BASE_EMAILS = [
     {
         "id": 3,
         "sender": "someone@example.com",
-        "receiver": ["liam.oconnor@gmail.co.uk"],
+        "receiver": ["liam.oconnor@veltamail.co.uk"],
         "subject": "Recent email 1",
         "body": "Recent body 1",
         "timestamp": "2026-01-20T10:00:00.000Z",
@@ -42,7 +42,7 @@ BASE_EMAILS = [
     {
         "id": 4,
         "sender": "someone@example.com",
-        "receiver": ["liam.oconnor@gmail.co.uk"],
+        "receiver": ["liam.oconnor@veltamail.co.uk"],
         "subject": "Recent email 2",
         "body": "Recent body 2",
         "timestamp": "2026-01-25T10:00:00.000Z",

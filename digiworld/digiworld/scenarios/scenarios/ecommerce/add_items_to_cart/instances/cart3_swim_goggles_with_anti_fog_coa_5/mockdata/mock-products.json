@@ -25,7 +25,7 @@
   {
     "id": "{{auto_id}}",
     "name": "Emergency Thermal Blanket \u2013 Compact Survival",
-    "description": "Emergency Thermal Blanket is a lightweight, metallic\u2011coated Mylar sheet that reflects body heat to prevent hypothermia. It folds into a compact size that fits in a pocket or glove compartment. Ideal for outdoor activities and disaster kits.",
+    "description": "Emergency Thermal Blanket is a lightweight, metallic\u2011coated metallized-film sheet that reflects body heat to prevent hypothermia. It folds into a compact size that fits in a pocket or glove compartment. Ideal for outdoor activities and disaster kits.",
     "shortDescription": "Compact emergency blanket for heat retention.",
     "rating": 0,
     "reviewCount": 0,
@@ -40,7 +40,7 @@
     "inStock": true,
     "stockCount": 196,
     "imageUrl": "/259_1",
-    "specs": "{\"ingredients\": \"Mylar film with aluminum coating, Nylon tie loops\", \"dosage\": \"Unfold and wrap around body in emergency\", \"weight\": \"45g\", \"expiryPeriod\": \"10 years\", \"madeIn\": \"USA\", \"certifications\": \"NFPA Certified, ASTM F2413\"}",
+    "specs": "{\"ingredients\": \"Polyester film with aluminum coating, Nylon tie loops\", \"dosage\": \"Unfold and wrap around body in emergency\", \"weight\": \"45g\", \"expiryPeriod\": \"10 years\", \"madeIn\": \"USA\", \"certifications\": \"NFPA Certified, ASTM F2413\"}",
     "tags": "[\"first\", \"wellness\", \"aid\", \"health\", \"popular\", \"best\"]",
     "isFeatured": false,
     "dateAdded": "2025-06-15 12:00:00.000"

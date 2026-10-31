@@ -3,13 +3,8 @@
     "wallpaper": "space"
   },
   "compatible_profiles": [
-    "default",
-    "high_message_volume",
-    "inactive_groups",
     "large_groups",
-    "long_calls",
     "media_heavy",
-    "new_user",
     "unread_messages"
   ],
   "metadata": {

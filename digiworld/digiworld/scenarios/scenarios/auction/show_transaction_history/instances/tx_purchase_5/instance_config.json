@@ -3,7 +3,6 @@
     "transactionType": "purchase"
   },
   "compatible_profiles": [
-    "budget_items",
     "buy_now_focus",
     "default",
     "failed_payments",

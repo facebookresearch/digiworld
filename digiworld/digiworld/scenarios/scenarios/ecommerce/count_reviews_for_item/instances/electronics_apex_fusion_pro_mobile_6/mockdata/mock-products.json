@@ -17,7 +17,7 @@
     "inStock": true,
     "stockCount": 110,
     "imageUrl": "/2_1",
-    "specs": "{\"display\": \"6.7\\\" AMOLED, 1440x3216, 525 ppi, 120Hz\", \"processor\": \"NovaSil Dimensia 9200, Octa-core\", \"ram\": \"12 GB LPDDR5X\", \"storage\": \"256 GB UFS 3.1\", \"battery\": \"5,000 mAh, 65W fast charge\", \"os\": \"Nimbus OS 13, ApexOS 2.0\", \"connectivity\": \"5G, Wi\u2011Fi 6E, Bluetooth 5.3, NFC, eSIM\"}",
+    "specs": "{\"display\": \"6.7\\\" AMOLED, 1440x3216, 525 ppi, 120Hz\", \"processor\": \"NovaSil Kestrava 9200, Octa-core\", \"ram\": \"12 GB LPDDR5X\", \"storage\": \"256 GB UFS 3.1\", \"battery\": \"5,000 mAh, 65W fast charge\", \"os\": \"Velyn OS 13, ApexOS 2.0\", \"connectivity\": \"5G, Wi\u2011Fi 6E, Bluetooth 5.3, NFC, eSIM\"}",
     "tags": "[\"electronics\", \"smartphones\", \"high-quality\", \"best\"]",
     "isFeatured": false,
     "dateAdded": "2025-06-15 12:00:00.000"

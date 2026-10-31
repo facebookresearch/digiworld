@@ -157,7 +157,7 @@ def listing_record(
 
 def payment_method_record(
     card_number: str,
-    card_type: str = "visa",
+    card_type: str = "varenta",
     expiry: str = "12/28",
     card_holder_name: str = "Test User",
     **overrides: Any,

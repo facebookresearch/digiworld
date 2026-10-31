@@ -40,7 +40,7 @@
     "inStock": true,
     "stockCount": 66,
     "imageUrl": "/13_1",
-    "specs": "{\"display\": \"N/A\", \"processor\": \"Cellwave QCC5142 Audio DSP\", \"ram\": \"N/A\", \"storage\": \"N/A\", \"battery\": \"650 mAh, up to 30h playback\", \"os\": \"Proprietary\", \"connectivity\": \"Bluetooth 5.3, NFC, 3.5mm jack\"}",
+    "specs": "{\"display\": \"N/A\", \"processor\": \"Cellwave CWX-5142 Audio DSP\", \"ram\": \"N/A\", \"storage\": \"N/A\", \"battery\": \"650 mAh, up to 30h playback\", \"os\": \"Proprietary\", \"connectivity\": \"Bluetooth 5.3, NFC, 3.5mm jack\"}",
     "tags": "[\"electronics\", \"headphones\", \"premium\", \"popular\"]",
     "isFeatured": false,
     "dateAdded": "2025-06-15 12:00:00.000"

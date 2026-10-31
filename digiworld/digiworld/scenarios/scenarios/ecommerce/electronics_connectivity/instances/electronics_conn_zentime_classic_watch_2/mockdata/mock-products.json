@@ -17,7 +17,7 @@
     "inStock": true,
     "stockCount": 104,
     "imageUrl": "/24_1",
-    "specs": "{\"display\": \"1.0-inch OLED, 240x240\", \"processor\": \"Cellwave QCC3026\", \"ram\": \"256 MB\", \"storage\": \"2 GB\", \"battery\": \"260 mAh\", \"os\": \"Proprietary\", \"connectivity\": \"Bluetooth 5.0, NFC\"}",
+    "specs": "{\"display\": \"1.0-inch OLED, 240x240\", \"processor\": \"Cellwave KBA3125\", \"ram\": \"256 MB\", \"storage\": \"2 GB\", \"battery\": \"260 mAh\", \"os\": \"Proprietary\", \"connectivity\": \"Bluetooth 5.0, NFC\"}",
     "tags": "[\"smartwatches\", \"electronics\", \"premium\", \"popular\"]",
     "isFeatured": false,
     "dateAdded": "2025-06-15 12:00:00.000"

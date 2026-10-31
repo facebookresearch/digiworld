@@ -3,7 +3,7 @@
     "id": "{{auto_id}}",
     "user_id": "{{current_user_id}}",
     "type": "card",
-    "card_type": "Vantage",
+    "card_type": "Varenta",
     "name_on_card": "Sarah K. Taylor",
     "card_number": "4407816184959310",
     "expiry_month": "12",

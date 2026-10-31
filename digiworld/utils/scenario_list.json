@@ -259,10 +259,10 @@
             }
           },
           {
-            "instance_name": "tutorial_master_photoshop_layers_in_10_0",
+            "instance_name": "tutorial_master_layerloom_layers_in_10_0",
             "config": {
               "parameters": {
-                "title": "Master Photoshop Layers in 10 Minutes"
+                "title": "Master Layerloom Layers in 10 Minutes"
               },
               "compatible_profiles": [
                 "comments_disabled",
@@ -2516,10 +2516,10 @@
             }
           },
           {
-            "instance_name": "personal_aishapatelgmailcom_0",
+            "instance_name": "personal_aishapatelveltamailcom_0",
             "config": {
               "parameters": {
-                "email": "aisha.patel@gmail.com"
+                "email": "aisha.patel@veltamail.com"
               },
               "compatible_profiles": [
                 "50_inbox_emails",
@@ -2566,10 +2566,10 @@
             }
           },
           {
-            "instance_name": "work_yukitanakakawasaki_electroni_2",
+            "instance_name": "work_yukitanakakasumi_electroni_2",
             "config": {
               "parameters": {
-                "email": "yuki.tanaka@kawasaki-electronics.co.jp"
+                "email": "yuki.tanaka@kasumi-electronics.co.jp"
               },
               "compatible_profiles": [
                 "50_inbox_emails",
@@ -2934,10 +2934,10 @@
             }
           },
           {
-            "instance_name": "ride_xian_famous_foods_96_8th_av_cellar_dog_75_christopher_st_2",
+            "instance_name": "ride_weilan_famous_foods_96_8th_av_cellar_dog_75_christopher_st_2",
             "config": {
               "parameters": {
-                "origin": "Xi'an Famous Foods, 96, 8th Avenue,Manhattan,USA ",
+                "origin": "Wei'lan Famous Foods, 96, 8th Avenue,Manhattan,USA ",
                 "destination": "Cellar Dog, 75, Christopher Street, West Village, Manhattan, USA"
               },
               "compatible_profiles": [

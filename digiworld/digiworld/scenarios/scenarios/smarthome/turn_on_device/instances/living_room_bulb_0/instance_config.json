@@ -3,7 +3,6 @@
     "device_name": "Living Room Bulb"
   },
   "compatible_profiles": [
-    "default",
     "high_priority_alerts",
     "large_home",
     "low_battery_devices",

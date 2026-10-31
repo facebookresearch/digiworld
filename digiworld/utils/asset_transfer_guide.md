@@ -302,7 +302,7 @@ Even a 5K push takes 1–2 minutes. For a 100-test CI suite that adds hours. Pus
 The first `adb push` in a session runs at ~50–60% the speed of subsequent pushes. If you're timing a one-shot push for capacity planning, do a small warm-up push first to get a representative number. If you're running in CI and only ever push once per session, budget for the cold cost.
 
 **5. Don't expect ADB throughput to improve with more powerful hardware.**  
-The bottleneck is inside the ADB virtual channel protocol and the emulator's `/dev/fuse` filesystem — not your laptop's CPU or SSD. A Mac Studio and a MacBook Air push at the same rate.
+The bottleneck is inside the ADB virtual channel protocol and the emulator's `/dev/fuse` filesystem — not your laptop's CPU or SSD. A desktop and a laptop push at the same rate.
 
 **6. Verify `unzip` exists on the emulator before relying on zip mode.**  
 ```bash

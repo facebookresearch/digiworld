@@ -2,9 +2,9 @@
   {
     "id": "{{auto_id}}",
     "userId": "{{current_user_id}}",
-    "nickname": "Outback Wanderer",
+    "nickname": "Bushvale Wanderer",
     "make": "Sylvan",
-    "model": "Backcountry",
+    "model": "Bushvale",
     "color": "Purple",
     "year": 2026,
     "plateNumber": "OUTBCK",

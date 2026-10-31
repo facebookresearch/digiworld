@@ -346,7 +346,7 @@ def payment_method_record(
     card_number: str,
     expiry_month: str,
     expiry_year: str,
-    card_type: str = "Visa",
+    card_type: str = "Varenta",
     is_default: int = 0,
     **overrides: Any,
 ) -> Dict[str, Any]:

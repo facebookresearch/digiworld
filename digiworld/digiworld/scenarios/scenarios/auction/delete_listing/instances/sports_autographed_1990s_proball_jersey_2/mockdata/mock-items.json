@@ -10,7 +10,7 @@
     "status": "active",
     "quantity": 1,
     "bidCount": 7,
-    "imageUrl": "https://example.com/images/autographed-1990s-nba-jersey.jpg",
+    "imageUrl": "https://example.com/images/autographed-1990s-proball-jersey.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": 255.96,

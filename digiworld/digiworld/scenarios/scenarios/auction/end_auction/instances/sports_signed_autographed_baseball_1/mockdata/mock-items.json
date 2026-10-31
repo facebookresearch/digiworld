@@ -1,8 +1,8 @@
 [
   {
     "id": 753960020,
-    "title": "Signed Autographed Baseball \u2013 2023 World Series Champion",
-    "description": "A genuine baseball from the 2023 World Series, signed by the winning team\u2019s captain, kept in a climate\u2011controlled case; perfect for sports memorabilia collectors.",
+    "title": "Signed Autographed Baseball \u2013 2023 Championship Series Champion",
+    "description": "A genuine baseball from the 2023 Championship Series, signed by the winning team\u2019s captain, kept in a climate\u2011controlled case; perfect for sports memorabilia collectors.",
     "categoryId": 6,
     "sellerId": "{{current_user_id}}",
     "price": 1275.75,
@@ -10,7 +10,7 @@
     "status": "active",
     "quantity": 1,
     "bidCount": 13,
-    "imageUrl": "https://example.com/images/signed-autographed-baseball-\u2013-2023-world-series-champion.jpg",
+    "imageUrl": "https://example.com/images/signed-autographed-baseball-\u2013-2023-championship-series-champion.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": 392.88,

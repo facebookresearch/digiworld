@@ -2,8 +2,8 @@
   {
     "id": "{{auto_id}}",
     "name": "PixelShot Corvid Camera 18MP",
-    "description": "Entry-level digital canon camera with an 18MP APS-C sensor, built-in Wi-Fi, and a versatile 18-55mm kit lens. Ideal for beginners and enthusiasts looking to step up their photography game.",
-    "shortDescription": "18MP entry-level digital canon camera with Wi-Fi.",
+    "description": "Entry-level digital kanvel camera with an 18MP APS-C sensor, built-in Wi-Fi, and a versatile 18-55mm kit lens. Ideal for beginners and enthusiasts looking to step up their photography game.",
+    "shortDescription": "18MP entry-level digital kanvel camera with Wi-Fi.",
     "rating": 4.3,
     "reviewCount": 98,
     "seller": "PhotoGear Hub",
@@ -17,16 +17,16 @@
     "inStock": true,
     "stockCount": 22,
     "imageUrl": "/electronics_3",
-    "specs": "{\"sensor\": \"18MP APS-C CMOS\", \"lensMount\": \"EF-S\", \"videoResolution\": \"1080p Full HD\", \"connectivity\": \"Wi-Fi, Bluetooth\", \"batteryLife\": \"500 shots\"}",
-    "tags": "[\"camera\", \"dslr\", \"photography\", \"canon\", \"electronics\"]",
+    "specs": "{\"sensor\": \"18MP APS-C CMOS\", \"lensMount\": \"WK-S\", \"videoResolution\": \"1080p Full HD\", \"connectivity\": \"Wi-Fi, Bluetooth\", \"batteryLife\": \"500 shots\"}",
+    "tags": "[\"camera\", \"dslr\", \"photography\", \"corvid\", \"electronics\"]",
     "isFeatured": false,
     "dateAdded": "2025-07-01 10:00:00.000"
   },
   {
     "id": "{{auto_id}}",
     "name": "ZoomMaster Corvid Camera 24MP",
-    "description": "Mid-range mirrorless canon camera with a 24MP full-frame sensor, 4K video, and dual pixel autofocus. Comes with a 24-105mm f/4L lens for versatile shooting in any condition.",
-    "shortDescription": "24MP mirrorless canon camera with 4K video and dual AF.",
+    "description": "Mid-range mirrorless kanvel camera with a 24MP full-frame sensor, 4K video, and dual pixel autofocus. Comes with a 24-105mm f/4Q lens for versatile shooting in any condition.",
+    "shortDescription": "24MP mirrorless kanvel camera with 4K video and dual AF.",
     "rating": 4.7,
     "reviewCount": 183,
     "seller": "PhotoGear Hub",
@@ -41,7 +41,7 @@
     "stockCount": 14,
     "imageUrl": "/electronics_4",
     "specs": "{\"sensor\": \"24MP Full-Frame CMOS\", \"lensMount\": \"RF\", \"videoResolution\": \"4K UHD\", \"connectivity\": \"Wi-Fi, Bluetooth, USB-C\", \"batteryLife\": \"320 shots\"}",
-    "tags": "[\"camera\", \"mirrorless\", \"photography\", \"canon\", \"professional\"]",
+    "tags": "[\"camera\", \"mirrorless\", \"photography\", \"corvid\", \"professional\"]",
     "isFeatured": true,
     "dateAdded": "2025-06-15 14:00:00.000"
   }

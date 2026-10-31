@@ -26,7 +26,17 @@ class AlertAlternativesScenario(TransitScenario, ComposableScenario):
             raise ValueError(f"No service alert found with title '{alert_title}'")
 
         raw = rows[0][0]
-        alternatives = json.loads(raw) if isinstance(raw, str) else raw
+        # recommended_alternatives is a JSON list in the generated profiles but plain
+        # text in the instance mockdata (e.g. "Use the City Connector bus ...").
+        # Accept both; a single string is one alternative, not a list of characters.
+        alternatives = raw
+        if isinstance(raw, str):
+            try:
+                alternatives = json.loads(raw)
+            except ValueError:
+                alternatives = raw
+        if isinstance(alternatives, str):
+            alternatives = [alternatives] if alternatives.strip() else []
 
         if not alternatives:
             raise ValueError(

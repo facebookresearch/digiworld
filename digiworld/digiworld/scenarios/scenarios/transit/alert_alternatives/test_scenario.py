@@ -68,6 +68,41 @@ class TestAlertAlternativesScenario(unittest.TestCase):
             "2024-11-24T06:00:00.000Z", "2024-12-01T06:00:00.000Z", 1,
         )
 
+    def _alert_plain_text(self, text):
+        # instance mockdata stores recommendedAlternatives as plain text
+        return (
+            "alert-aurora-line-delays", "high", "Aurora Line Delays",
+            "Signal equipment failure on the Aurora Line", "warning", text,
+            "2024-11-24T22:00:00.000Z", None, 1,
+        )
+
+    def test_plain_text_alternatives_pass(self):
+        text = "Use the City Connector bus service for parallel routes."
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            self._make_db(tmp_dir, [self._alert_plain_text(text)])
+            scenario = self._make_scenario(
+                alert_title="Aurora Line Delays",
+                agent_answer="Recommended: use the City Connector bus service for parallel routes.",
+            )
+            self._setup_state_manager(scenario, tmp_dir)
+            self.assertTrue(scenario._get_checks(tmp_dir)["answer_matches"])
+
+    def test_plain_text_alternatives_wrong_answer_fails(self):
+        text = "Use the City Connector bus service for parallel routes."
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            self._make_db(tmp_dir, [self._alert_plain_text(text)])
+            scenario = self._make_scenario(alert_title="Aurora Line Delays", agent_answer="Take a taxi.")
+            self._setup_state_manager(scenario, tmp_dir)
+            self.assertFalse(scenario._get_checks(tmp_dir)["answer_matches"])
+
+    def test_json_string_alternative_is_one_item(self):
+        # a JSON-encoded string must not be matched character by character
+        with tempfile.TemporaryDirectory() as tmp_dir:
+            self._make_db(tmp_dir, [self._alert_plain_text('"Use B1 to Civic Center Hub."')])
+            scenario = self._make_scenario(alert_title="Aurora Line Delays", agent_answer="Use the bus.")
+            self._setup_state_manager(scenario, tmp_dir)
+            self.assertFalse(scenario._get_checks(tmp_dir)["answer_matches"])
+
     def test_correct_alternative_passes(self):
         with tempfile.TemporaryDirectory() as tmp_dir:
             self._make_db(tmp_dir, [self._alert_with_alternatives()])

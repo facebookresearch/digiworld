@@ -10,16 +10,11 @@
     "phone_number": "(555) 567-8901"
   },
   "compatible_profiles": [
-    "bulk_quantity",
     "default",
     "empty_cart",
     "full_cart",
-    "heavy_discounts",
     "high_order_volume",
-    "large_orders",
-    "low_stock",
     "new_user",
-    "power_shopper",
     "premium_products"
   ],
   "metadata": {

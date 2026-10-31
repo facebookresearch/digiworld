@@ -2,7 +2,7 @@
   {
     "id": "{{auto_id}}",
     "userId": "{{current_user_id}}",
-    "cardType": "Vantage",
+    "cardType": "Varenta",
     "cardNumber": "4242424242421409",
     "expiry": "12/28",
     "cardHolderName": "Test User",

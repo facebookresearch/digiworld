@@ -66,14 +66,14 @@ class TestAddDefaultPaymentMethodScenario(unittest.TestCase):
             tempfile.TemporaryDirectory() as final_dir,
         ):
             self._make_db(init_dir, [
-                (1, "credit_card", "Visa", "4111111111111111", 1),
+                (1, "credit_card", "Varenta", "4111111111111111", 1),
             ])
             self._make_db(final_dir, [
-                (1, "credit_card", "Visa", "4111111111111111", 1),
-                (1, "digital_wallet", "PayPal", "user@example.com", 1),
+                (1, "credit_card", "Varenta", "4111111111111111", 1),
+                (1, "digital_wallet", "Payvane", "user@example.com", 1),
             ])
             scenario = _make_scenario(
-                payment_type="paypal",
+                payment_type="payvane",
                 initial_state_path=init_dir,
             )
             checks = scenario._get_checks(final_dir)
@@ -87,11 +87,11 @@ class TestAddDefaultPaymentMethodScenario(unittest.TestCase):
             tempfile.TemporaryDirectory() as final_dir,
         ):
             self._make_db(init_dir, [
-                (1, "digital_wallet", "PayPal", "user@example.com", 0),
+                (1, "digital_wallet", "Payvane", "user@example.com", 0),
             ])
             self._make_db(final_dir, [
-                (1, "digital_wallet", "PayPal", "user@example.com", 0),
-                (1, "credit_card", "Visa", "4111111111111111", 1),
+                (1, "digital_wallet", "Payvane", "user@example.com", 0),
+                (1, "credit_card", "Varenta", "4111111111111111", 1),
             ])
             scenario = _make_scenario(
                 payment_type="credit/debit card",
@@ -108,14 +108,14 @@ class TestAddDefaultPaymentMethodScenario(unittest.TestCase):
             tempfile.TemporaryDirectory() as final_dir,
         ):
             self._make_db(init_dir, [
-                (1, "credit_card", "Visa", "4111111111111111", 1),
+                (1, "credit_card", "Varenta", "4111111111111111", 1),
             ])
             self._make_db(final_dir, [
-                (1, "credit_card", "Visa", "4111111111111111", 1),
-                (1, "digital_wallet", "PayPal", "user@example.com", 0),
+                (1, "credit_card", "Varenta", "4111111111111111", 1),
+                (1, "digital_wallet", "Payvane", "user@example.com", 0),
             ])
             scenario = _make_scenario(
-                payment_type="paypal",
+                payment_type="payvane",
                 initial_state_path=init_dir,
             )
             checks = scenario._get_checks(final_dir)
@@ -129,13 +129,13 @@ class TestAddDefaultPaymentMethodScenario(unittest.TestCase):
             tempfile.TemporaryDirectory() as final_dir,
         ):
             self._make_db(init_dir, [
-                (1, "credit_card", "Visa", "4111111111111111", 1),
+                (1, "credit_card", "Varenta", "4111111111111111", 1),
             ])
             self._make_db(final_dir, [
-                (1, "credit_card", "Visa", "4111111111111111", 1),
+                (1, "credit_card", "Varenta", "4111111111111111", 1),
             ])
             scenario = _make_scenario(
-                payment_type="paypal",
+                payment_type="payvane",
                 initial_state_path=init_dir,
             )
             checks = scenario._get_checks(final_dir)
@@ -151,7 +151,7 @@ class TestAddDefaultPaymentMethodScenario(unittest.TestCase):
             self._make_db(init_dir, [])
             self._make_db(final_dir, [])
             scenario = _make_scenario(
-                payment_type="bitcoin",
+                payment_type="vexbit",
                 initial_state_path=init_dir,
             )
             with self.assertRaises(ValueError):

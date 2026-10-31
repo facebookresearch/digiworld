@@ -85,7 +85,7 @@ class TestStopParkingSessionScenario(unittest.TestCase):
         with tempfile.TemporaryDirectory() as d:
             self._make_db(
                 d,
-                vehicles=[(1, 1, "Thunder", "Toyota", "Camry", "Blue", "THND3R")],
+                vehicles=[(1, 1, "Thunder", "Tolimar", "Camdyn", "Blue", "THND3R")],
                 zones=[(1, "Downtown Lot", "DWN001")],
                 history=[(1, 1, 1, 1, "completed", "2025-06-01T12:00:00")],
             )
@@ -98,7 +98,7 @@ class TestStopParkingSessionScenario(unittest.TestCase):
         with tempfile.TemporaryDirectory() as d:
             self._make_db(
                 d,
-                vehicles=[(1, 1, "Thunder", "Toyota", "Camry", "Blue", "THND3R")],
+                vehicles=[(1, 1, "Thunder", "Tolimar", "Camdyn", "Blue", "THND3R")],
                 zones=[(1, "Downtown Lot", "DWN001")],
                 history=[(1, 1, 1, 1, "active", None)],
             )
@@ -121,7 +121,7 @@ class TestStopParkingSessionScenario(unittest.TestCase):
         with tempfile.TemporaryDirectory() as d:
             self._make_db(
                 d,
-                vehicles=[(1, 1, "Thunder", "Toyota", "Camry", "Blue", "THND3R")],
+                vehicles=[(1, 1, "Thunder", "Tolimar", "Camdyn", "Blue", "THND3R")],
             )
             scenario = _make_scenario(vehicle="Thunder", zone_code="NOPE99")
             with self.assertRaises(ValueError):
@@ -131,7 +131,7 @@ class TestStopParkingSessionScenario(unittest.TestCase):
         with tempfile.TemporaryDirectory() as d:
             self._make_db(
                 d,
-                vehicles=[(1, 1, "Thunder", "Toyota", "Camry", "Blue", "THND3R")],
+                vehicles=[(1, 1, "Thunder", "Tolimar", "Camdyn", "Blue", "THND3R")],
                 zones=[(1, "Downtown Lot", "DWN001")],
             )
             scenario = _make_scenario(vehicle="Thunder", zone_code="DWN001")

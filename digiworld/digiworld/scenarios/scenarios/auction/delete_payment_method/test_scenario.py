@@ -61,7 +61,7 @@ class TestDeletePaymentMethodScenario(unittest.TestCase):
         with tempfile.TemporaryDirectory() as init_dir, tempfile.TemporaryDirectory() as final_dir:
             self._make_db(init_dir, self.PAYMENT_SQL, [
                 ("INSERT INTO user_payment_methods (user_id, card_type, card_number, expiry, card_holder_name) "
-                 "VALUES (?, ?, ?, ?, ?)", (1, "visa", "4111111111115678", "12/27", "Alice")),
+                 "VALUES (?, ?, ?, ?, ?)", (1, "varenta", "4111111111115678", "12/27", "Alice")),
             ])
             self._make_db(final_dir, self.PAYMENT_SQL, [])
             scenario = self._make_scenario(last4CardNum="5678")
@@ -72,11 +72,11 @@ class TestDeletePaymentMethodScenario(unittest.TestCase):
         with tempfile.TemporaryDirectory() as init_dir, tempfile.TemporaryDirectory() as final_dir:
             self._make_db(init_dir, self.PAYMENT_SQL, [
                 ("INSERT INTO user_payment_methods (user_id, card_type, card_number, expiry, card_holder_name) "
-                 "VALUES (?, ?, ?, ?, ?)", (1, "visa", "4111111111115678", "12/27", "Alice")),
+                 "VALUES (?, ?, ?, ?, ?)", (1, "varenta", "4111111111115678", "12/27", "Alice")),
             ])
             self._make_db(final_dir, self.PAYMENT_SQL, [
                 ("INSERT INTO user_payment_methods (user_id, card_type, card_number, expiry, card_holder_name) "
-                 "VALUES (?, ?, ?, ?, ?)", (1, "visa", "4111111111115678", "12/27", "Alice")),
+                 "VALUES (?, ?, ?, ?, ?)", (1, "varenta", "4111111111115678", "12/27", "Alice")),
             ])
             scenario = self._make_scenario(last4CardNum="5678")
             self._setup_state_manager(scenario, init_dir, final_dir)

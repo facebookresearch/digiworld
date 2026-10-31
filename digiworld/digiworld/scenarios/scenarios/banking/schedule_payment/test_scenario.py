@@ -206,14 +206,14 @@ class TestSchedulePayment(unittest.TestCase):
         os.makedirs(final_dir)
         _create_state(
             final_dir,
-            billers=[(200, "SWG", "Southwest Gas Corporation", "utilities")],
+            billers=[(200, "MRG", "Mesa Ridge Gas Corporation", "utilities")],
             scheduled_transactions=[
                 (1, 1, 4, 1, None, 200, None, 85.00, "2026-03-20", 0,
                  None, None, "Gas payment", "March gas bill",
                  "scheduled", None, "2026-02-24", "2026-02-24"),
             ],
         )
-        self.scenario.payee = "Southwest Gas"
+        self.scenario.payee = "Mesa Ridge Gas"
         self.scenario.amount = "85.00"
         self.scenario.date = "2026-03-20"
         self.scenario.note = "March gas bill"

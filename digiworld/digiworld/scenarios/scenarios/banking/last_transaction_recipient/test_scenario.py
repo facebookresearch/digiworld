@@ -33,7 +33,7 @@ class TestLastTransactionRecipientScenario(unittest.TestCase):
     SEED_TX_TYPES = [
         ("INSERT INTO transaction_types VALUES (?, ?, ?, ?)", (1, "transfer", "Account Transfer", "transfer")),
         ("INSERT INTO transaction_types VALUES (?, ?, ?, ?)", (2, "bill_payment", "Bill Payment", "debit")),
-        ("INSERT INTO transaction_types VALUES (?, ?, ?, ?)", (3, "zelle", "Nexus Payment", "transfer")),
+        ("INSERT INTO transaction_types VALUES (?, ?, ?, ?)", (3, "trellipay", "Nexus Payment", "transfer")),
         ("INSERT INTO transaction_types VALUES (?, ?, ?, ?)", (5, "deposit", "Deposit", "credit")),
         ("INSERT INTO transaction_types VALUES (?, ?, ?, ?)", (6, "withdrawal", "Withdrawal", "debit")),
     ]
@@ -92,7 +92,7 @@ class TestLastTransactionRecipientScenario(unittest.TestCase):
                 ("INSERT INTO zelle_contacts VALUES (?, ?)", (5, "Jane Doe")),
                 ("INSERT INTO transactions (user_id, transaction_type_id, zelle_contact_id, transaction_date, status, amount, description) "
                  "VALUES (?, ?, ?, ?, ?, ?, ?)",
-                 (1, 3, 5, "2026-02-20T10:00:00", "success", 200.0, "Zelle Payment")),
+                 (1, 3, 5, "2026-02-20T10:00:00", "success", 200.0, "Trellipay Payment")),
             ])
             scenario = self._make_scenario(
                 agent_answer="Your last transaction was sent to Jane Doe"

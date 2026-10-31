@@ -84,7 +84,7 @@ def load_routes() -> List[Dict[str, Any]]:
 
 CAR_TYPES = ["Economy", "Comfort", "Premium"]
 
-PAYMENT_METHODS = ["cash", "Visa", "Paypal"]
+PAYMENT_METHODS = ["cash", "Varenta", "Payvane"]   # anonymised card network / wallet names
 
 PAGE_MAP: Dict[str, Dict[str, str]] = {
     "past rides": {"screen_name": "History", "route": "/(tabs)/history"},

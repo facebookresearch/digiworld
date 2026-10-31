@@ -1,8 +1,8 @@
 [
   {
     "id": 754470110,
-    "title": "Signed Autographed Baseball from 2023 World Series Champion Texas Rangers",
-    "description": "Baseball signed by the entire 2023 Texas Rangers roster, authenticated by PSA/DNA.",
+    "title": "Signed Autographed Baseball from 2023 Championship Series Champion Texas Lariats",
+    "description": "Baseball signed by the entire 2023 Texas Lariats roster, authenticated by Gradewell Ink.",
     "categoryId": 10,
     "sellerId": "{{current_user_id}}",
     "price": 448.57,
@@ -10,7 +10,7 @@
     "status": "expired",
     "quantity": 1,
     "bidCount": 12,
-    "imageUrl": "https://example.com/images/signed-autographed-baseball-from-2023-world-series-champion-texas-rangers.jpg",
+    "imageUrl": "https://example.com/images/signed-autographed-baseball-from-2023-championship-series-champion-texas-lariats.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": 232.69,

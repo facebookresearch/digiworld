@@ -1,6 +1,6 @@
 {
   "parameters": {
-    "alert_title": "Signal Delay"
+    "alert_title": "Aurora Line Delays"
   },
   "compatible_profiles": [
     "default",

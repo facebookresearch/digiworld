@@ -2,7 +2,7 @@
   "parameters": {
     "car_type": "Economy",
     "origin": "35, Grand Street, Hudson Square, Manhattan, USA",
-    "destination": "TD Bank, 5th Avenue, Midtown South USA"
+    "destination": "Tarnwick Bank, 5th Avenue, Midtown South USA"
   },
   "compatible_profiles": [
     "budget_rides",

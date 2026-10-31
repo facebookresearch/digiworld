@@ -17,12 +17,13 @@
     "inStock": true,
     "stockCount": 168,
     "imageUrl": "/27_1",
-    "specs": "{\"display\": \"7-inch touch screen\", \"processor\": \"Quad-core ARC Cortix-A55\", \"ram\": \"2 GB LPDDR4\", \"storage\": \"8 GB eMMC\", \"battery\": \"N/A (plug-in)\", \"os\": \"Corvex Assistant OS\", \"connectivity\": \"Wi-Fi 6, Bluetooth 5.2, Zigbee\"}",
+    "specs": "{\"display\": \"7-inch touch screen\", \"processor\": \"Quad-core Nexin Corval-R55\", \"ram\": \"2 GB LPDDR4\", \"storage\": \"8 GB eMMC\", \"battery\": \"N/A (plug-in)\", \"os\": \"Corvex Assistant OS\", \"connectivity\": \"Wi-Fi 6, Bluetooth 5.2, Zigbee\"}",
     "tags": "[\"speakers\", \"electronics\", \"high-quality\", \"top-rated\"]",
     "isFeatured": false,
     "dateAdded": "2025-06-15 12:00:00.000",
     "reviews": [
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 3,
         "title": "Decent sound but connectivity hiccups",
@@ -30,6 +31,7 @@
         "reviewDate": "2025-06-15T10:00:00.000Z"
       },
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 3,
         "title": "Good features, but battery drains fast",
@@ -37,6 +39,7 @@
         "reviewDate": "2025-06-15T10:00:00.000Z"
       },
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 2,
         "title": "Disappointing audio quality and lag",
@@ -44,6 +47,7 @@
         "reviewDate": "2025-06-15T10:00:00.000Z"
       },
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 2,
         "title": "Unreliable Wi\u2011Fi and flimsy build",
@@ -51,6 +55,7 @@
         "reviewDate": "2025-06-15T10:00:00.000Z"
       },
       {
+        "userId": "{{current_user_id}}",
         "userName": "Reviewer",
         "rating": 2,
         "title": "Limited EQ and poor app integration",

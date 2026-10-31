@@ -17,7 +17,7 @@
     "inStock": true,
     "stockCount": 150,
     "imageUrl": "/9_1",
-    "specs": "{\"display\": \"10.5-inch IPS LCD, 2000x1200, 120Hz\", \"processor\": \"Cellwave Stormcore 8cx Gen 3\", \"ram\": \"8 GB LPDDR5\", \"storage\": \"128 GB UFS 3.1\", \"battery\": \"8000 mAh\", \"os\": \"Skylight 11\", \"connectivity\": \"Wi-Fi 6, Bluetooth 5.2, LTE optional\"}",
+    "specs": "{\"display\": \"10.5-inch IPS LCD, 2000x1200, 120Hz\", \"processor\": \"Cellwave Stormcore Q7x Gen 3\", \"ram\": \"8 GB LPDDR5\", \"storage\": \"128 GB UFS 3.1\", \"battery\": \"8000 mAh\", \"os\": \"Panelux 11\", \"connectivity\": \"Wi-Fi 6, Bluetooth 5.2, LTE optional\"}",
     "tags": "[\"electronics\", \"tablets\", \"popular\", \"premium\"]",
     "isFeatured": false,
     "dateAdded": "2025-06-15 12:00:00.000"

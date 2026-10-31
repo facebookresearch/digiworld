@@ -20,7 +20,7 @@ class TestAddCcToDraft(unittest.TestCase):
         emails = [
             {
                 "id": 1,
-                "sender": "liam.oconnor@gmail.co.uk",
+                "sender": "liam.oconnor@veltamail.co.uk",
                 "subject": "Budget Report",
                 "folder": "draft",
                 "status": "draft",
@@ -39,7 +39,7 @@ class TestAddCcToDraft(unittest.TestCase):
         emails = [
             {
                 "id": 1,
-                "sender": "liam.oconnor@gmail.co.uk",
+                "sender": "liam.oconnor@veltamail.co.uk",
                 "subject": "Budget Report",
                 "folder": "draft",
                 "status": "draft",
@@ -58,7 +58,7 @@ class TestAddCcToDraft(unittest.TestCase):
         emails = [
             {
                 "id": 1,
-                "sender": "liam.oconnor@gmail.co.uk",
+                "sender": "liam.oconnor@veltamail.co.uk",
                 "subject": "Budget Report",
                 "folder": "draft",
                 "status": "draft",
@@ -77,7 +77,7 @@ class TestAddCcToDraft(unittest.TestCase):
         emails = [
             {
                 "id": 1,
-                "sender": "liam.oconnor@gmail.co.uk",
+                "sender": "liam.oconnor@veltamail.co.uk",
                 "subject": "Budget Report",
                 "folder": "draft",
                 "status": "draft",
@@ -96,7 +96,7 @@ class TestAddCcToDraft(unittest.TestCase):
         emails = [
             {
                 "id": 1,
-                "sender": "liam.oconnor@gmail.co.uk",
+                "sender": "liam.oconnor@veltamail.co.uk",
                 "receiver": ["bob@example.com"],
                 "subject": "Hello",
                 "folder": "inbox",

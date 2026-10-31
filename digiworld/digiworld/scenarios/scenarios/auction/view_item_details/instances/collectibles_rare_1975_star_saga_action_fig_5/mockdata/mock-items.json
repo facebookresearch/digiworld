@@ -10,7 +10,7 @@
     "status": "active",
     "quantity": 1,
     "bidCount": 8,
-    "imageUrl": "https://example.com/images/rare-1975-star-wars-action-figure,-original-packaging.jpg",
+    "imageUrl": "https://example.com/images/rare-1975-star-saga-action-figure,-original-packaging.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": 393.55,

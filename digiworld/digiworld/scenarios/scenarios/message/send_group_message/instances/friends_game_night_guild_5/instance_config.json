@@ -1,7 +1,7 @@
 {
   "parameters": {
     "group_name": "Game Night Guild",
-    "message_content": "Roll call! Who's in for Settlers of Catan on Friday night?"
+    "message_content": "Roll call! Who's in for Settlers of Davoria on Friday night?"
   },
   "compatible_profiles": [
     "default",
@@ -12,7 +12,6 @@
     "many_groups",
     "media_heavy",
     "missed_calls",
-    "new_user",
     "recent_activity",
     "unread_messages"
   ],

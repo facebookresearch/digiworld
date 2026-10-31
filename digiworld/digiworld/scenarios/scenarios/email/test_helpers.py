@@ -71,7 +71,7 @@ DEFAULT_EMAIL_SETTINGS = json.dumps({
 
 DEFAULT_USER = (
     1,
-    "liam.oconnor@gmail.co.uk",
+    "liam.oconnor@veltamail.co.uk",
     "password123",
     "Liam",
     "O'Connor",
@@ -170,7 +170,7 @@ def build_rootstore(
         "userStore": {
             "currentUser": {
                 "id": 1,
-                "email": "liam.oconnor@gmail.co.uk",
+                "email": "liam.oconnor@veltamail.co.uk",
                 "firstName": "Liam",
                 "lastName": "O'Connor",
                 "displayName": "Liam O'Connor",
@@ -189,6 +189,6 @@ def make_stub(scenario_class):
 
     stub = Stub()
     stub.current_user_id = 1
-    stub.current_user_email = "liam.oconnor@gmail.co.uk"
+    stub.current_user_email = "liam.oconnor@veltamail.co.uk"
     stub._state_manager = StateManager(stub)
     return stub

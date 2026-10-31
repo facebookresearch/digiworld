@@ -1,7 +1,7 @@
 [
   {
     "id": "airline_jl",
-    "name": "Japan Airlines",
+    "name": "Hinode Airlines",
     "iata_code": "JL",
     "country": "Japan",
     "created_at": "2026-01-01T00:00:00Z"

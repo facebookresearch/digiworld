@@ -2,7 +2,7 @@
   "parameters": {
     "car_type": "Economy",
     "origin": "Manor Community Church, 348, West 26th Street Manhattan, USA",
-    "destination": "Xi'an Famous Foods, 96, 8th Avenue, Manhattan, USA"
+    "destination": "Wei'lan Famous Foods, 96, 8th Avenue, Manhattan, USA"
   },
   "compatible_profiles": [
     "budget_rides",

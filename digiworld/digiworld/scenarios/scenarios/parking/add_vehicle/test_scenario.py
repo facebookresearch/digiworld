@@ -67,13 +67,13 @@ class TestAddVehicleScenario(unittest.TestCase):
             conn, _ = self._make_db(d)
             conn.execute(
                 "INSERT INTO vehicles (id, user_id, nickname, make, model, color, year, plate_number, vehicle_type_id) "
-                "VALUES (1, 1, 'Thunder', 'Toyota', 'Camry', 'Blue', 2022, 'ABC123', 1)"
+                "VALUES (1, 1, 'Thunder', 'Tolimar', 'Camdyn', 'Blue', 2022, 'ABC123', 1)"
             )
             conn.commit()
             conn.close()
 
             scenario = self._make_scenario(
-                license_plate="ABC123", make="Toyota", model="Camry",
+                license_plate="ABC123", make="Tolimar", model="Camdyn",
                 color="Blue", nickname="Thunder", vehicle_type="Sedan",
             )
             self._setup_execute(scenario, d)
@@ -93,7 +93,7 @@ class TestAddVehicleScenario(unittest.TestCase):
             conn.close()
 
             scenario = self._make_scenario(
-                license_plate="NOPLATE", make="Honda", model="Civic",
+                license_plate="NOPLATE", make="Hensmoor", model="Cevora",
                 color="Red", nickname="Ghost", vehicle_type="Sedan",
             )
             self._setup_execute(scenario, d)
@@ -111,13 +111,13 @@ class TestAddVehicleScenario(unittest.TestCase):
             conn, _ = self._make_db(d)
             conn.execute(
                 "INSERT INTO vehicles (id, user_id, nickname, make, model, color, year, plate_number, vehicle_type_id) "
-                "VALUES (1, 1, 'Thunder', 'Honda', 'Camry', 'Blue', 2022, 'ABC123', 1)"
+                "VALUES (1, 1, 'Thunder', 'Hensmoor', 'Camdyn', 'Blue', 2022, 'ABC123', 1)"
             )
             conn.commit()
             conn.close()
 
             scenario = self._make_scenario(
-                license_plate="ABC123", make="Toyota", model="Camry",
+                license_plate="ABC123", make="Tolimar", model="Camdyn",
                 color="Blue", nickname="Thunder", vehicle_type="Sedan",
             )
             self._setup_execute(scenario, d)
@@ -135,13 +135,13 @@ class TestAddVehicleScenario(unittest.TestCase):
             conn, _ = self._make_db(d)
             conn.execute(
                 "INSERT INTO vehicles (id, user_id, nickname, make, model, color, year, plate_number, vehicle_type_id) "
-                "VALUES (1, 1, 'Thunder', 'Toyota', 'Camry', 'Red', 2022, 'ABC123', 1)"
+                "VALUES (1, 1, 'Thunder', 'Tolimar', 'Camdyn', 'Red', 2022, 'ABC123', 1)"
             )
             conn.commit()
             conn.close()
 
             scenario = self._make_scenario(
-                license_plate="ABC123", make="Toyota", model="Camry",
+                license_plate="ABC123", make="Tolimar", model="Camdyn",
                 color="Blue", nickname="Thunder", vehicle_type="Sedan",
             )
             self._setup_execute(scenario, d)
@@ -158,13 +158,13 @@ class TestAddVehicleScenario(unittest.TestCase):
             conn, _ = self._make_db(d)
             conn.execute(
                 "INSERT INTO vehicles (id, user_id, nickname, make, model, color, year, plate_number, vehicle_type_id) "
-                "VALUES (1, 1, 'Thunder', 'Toyota', 'Camry', 'Blue', 2022, 'ABC123', 3)"
+                "VALUES (1, 1, 'Thunder', 'Tolimar', 'Camdyn', 'Blue', 2022, 'ABC123', 3)"
             )
             conn.commit()
             conn.close()
 
             scenario = self._make_scenario(
-                license_plate="ABC123", make="Toyota", model="Camry",
+                license_plate="ABC123", make="Tolimar", model="Camdyn",
                 color="Blue", nickname="Thunder", vehicle_type="Sedan",
             )
             self._setup_execute(scenario, d)
@@ -178,13 +178,13 @@ class TestAddVehicleScenario(unittest.TestCase):
             conn, _ = self._make_db(d)
             conn.execute(
                 "INSERT INTO vehicles (id, user_id, nickname, make, model, color, year, plate_number, vehicle_type_id) "
-                "VALUES (1, 1, 'Thunder', 'Toyota', 'Camry', 'Blue', 2022, 'ABC123', 1)"
+                "VALUES (1, 1, 'Thunder', 'Tolimar', 'Camdyn', 'Blue', 2022, 'ABC123', 1)"
             )
             conn.commit()
             conn.close()
 
             scenario = self._make_scenario(
-                license_plate="abc123", make="Toyota", model="Camry",
+                license_plate="abc123", make="Tolimar", model="Camdyn",
                 color="Blue", nickname="Thunder", vehicle_type="Sedan",
             )
             self._setup_execute(scenario, d)
@@ -197,13 +197,13 @@ class TestAddVehicleScenario(unittest.TestCase):
             conn, _ = self._make_db(d)
             conn.execute(
                 "INSERT INTO vehicles (id, user_id, nickname, make, model, color, year, plate_number, vehicle_type_id) "
-                "VALUES (1, 1, 'Thunder', 'Toyota', 'Camry', 'Blue', 2022, 'ABC123', 5)"
+                "VALUES (1, 1, 'Thunder', 'Tolimar', 'Camdyn', 'Blue', 2022, 'ABC123', 5)"
             )
             conn.commit()
             conn.close()
 
             scenario = self._make_scenario(
-                license_plate="ABC123", make="toyota", model="camry",
+                license_plate="ABC123", make="tolimar", model="camdyn",
                 color="blue", nickname="thunder", vehicle_type="electric vehicle",
             )
             self._setup_execute(scenario, d)

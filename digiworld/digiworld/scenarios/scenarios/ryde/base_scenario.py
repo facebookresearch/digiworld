@@ -18,6 +18,20 @@ def _normalize_location(s: str) -> str:
     return " ".join(s.split())
 
 
+# Instance task text uses the anonymised payment names (the anonymisation pass renamed them in
+# the instances), while the app records the provider names it ships with. Map the
+# anonymised names back so the verifiers compare like with like.
+PAYMENT_NAME_ALIASES = {
+    "payvane": "paypal",
+}
+
+
+def canonical_payment_name(name: str) -> str:
+    """Lower-cased payment name with anonymised aliases resolved."""
+    key = (name or "").strip().lower()
+    return PAYMENT_NAME_ALIASES.get(key, key)
+
+
 class RydeScenario(Scenario):
     """Base class for ryde scenarios."""
     

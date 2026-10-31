@@ -5,7 +5,7 @@ import json
 import os
 
 from digiworld.scenarios.verification import ComposableScenario
-from digiworld.scenarios.scenarios.ryde.base_scenario import RydeScenario, _normalize_location
+from digiworld.scenarios.scenarios.ryde.base_scenario import RydeScenario, canonical_payment_name, _normalize_location
 
 _TYPE_MAP = {
     "paypal": "digital_wallet",
@@ -32,7 +32,7 @@ class AddPaymentAndBookRideScenario(RydeScenario, ComposableScenario):
 
     def _get_checks(self, state_path):
         # --- Payment method checks (from add_payment_method) ---
-        expected_type = _TYPE_MAP.get(self.payment_type.lower())
+        expected_type = _TYPE_MAP.get(canonical_payment_name(self.payment_type))
         if not expected_type:
             raise ValueError(f"Unknown payment_type: {self.payment_type}")
 
@@ -81,7 +81,7 @@ class AddPaymentAndBookRideScenario(RydeScenario, ComposableScenario):
         )
 
         # Map payment_type to the provider name used in book_ride verification
-        payment_type_lower = self.payment_type.lower()
+        payment_type_lower = canonical_payment_name(self.payment_type)
         if payment_type_lower == "credit/debit card":
             expected_provider = "visa"
         elif payment_type_lower == "paypal":

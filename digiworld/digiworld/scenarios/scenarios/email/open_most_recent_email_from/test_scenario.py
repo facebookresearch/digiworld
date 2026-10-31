@@ -27,7 +27,7 @@ ALICE_EMAILS = [
     {
         "id": 1,
         "sender": "alice.johnson@example.com",
-        "receiver": ["liam.oconnor@gmail.co.uk"],
+        "receiver": ["liam.oconnor@veltamail.co.uk"],
         "subject": "Hello",
         "body": "First email",
         "status": "received",
@@ -38,7 +38,7 @@ ALICE_EMAILS = [
     {
         "id": 2,
         "sender": "alice.johnson@example.com",
-        "receiver": ["liam.oconnor@gmail.co.uk"],
+        "receiver": ["liam.oconnor@veltamail.co.uk"],
         "subject": "Follow Up",
         "body": "Second email",
         "status": "received",
@@ -95,7 +95,7 @@ class TestOpenMostRecentEmailFrom(unittest.TestCase):
             {
                 "id": 3,
                 "sender": "bob.smith@example.com",
-                "receiver": ["liam.oconnor@gmail.co.uk"],
+                "receiver": ["liam.oconnor@veltamail.co.uk"],
                 "subject": "Hey",
                 "body": "From Bob",
                 "status": "received",

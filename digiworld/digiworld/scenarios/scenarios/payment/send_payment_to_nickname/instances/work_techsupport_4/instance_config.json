@@ -8,7 +8,6 @@
     "default",
     "frozen_wallets",
     "high_deposit",
-    "high_failure_rate",
     "low_transfer",
     "micro_payments",
     "mostly_pending",

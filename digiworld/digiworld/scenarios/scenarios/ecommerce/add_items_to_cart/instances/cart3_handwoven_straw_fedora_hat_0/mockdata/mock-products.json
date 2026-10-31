@@ -40,7 +40,7 @@
     "inStock": true,
     "stockCount": 98,
     "imageUrl": "/13_1",
-    "specs": "{\"display\": \"N/A\", \"processor\": \"Cellwave CSR8675 DSP\", \"ram\": \"N/A\", \"storage\": \"N/A\", \"battery\": \"500mAh, 30h playback, 20W fast charge\", \"os\": \"N/A\", \"connectivity\": \"Bluetooth 5.3, aptX Adaptive, NFC pairing\"}",
+    "specs": "{\"display\": \"N/A\", \"processor\": \"Cellwave VSR8770 DSP\", \"ram\": \"N/A\", \"storage\": \"N/A\", \"battery\": \"500mAh, 30h playback, 20W fast charge\", \"os\": \"N/A\", \"connectivity\": \"Bluetooth 5.3, Vocra Adaptive, NFC pairing\"}",
     "tags": "[\"electronics\", \"headphones\", \"high-quality\", \"premium\"]",
     "isFeatured": false,
     "dateAdded": "2025-06-15 12:00:00.000"

@@ -1,8 +1,8 @@
 {
   "parameters": {
     "color": "Black",
-    "make": "Electra",
-    "model": "ES",
+    "make": "Voltaine",
+    "model": "Seren",
     "vehicle_type": "Electric Vehicle",
     "license_plate": "ELEC7R",
     "nickname": "Bolt"

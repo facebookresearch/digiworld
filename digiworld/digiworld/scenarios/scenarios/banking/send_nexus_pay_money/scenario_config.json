@@ -10,5 +10,5 @@
   ],
   "additional_mockdata": true,
   "context_fields": [],
-  "description": "Send money to a Nexus Pay (QuickPay) contact with a specific account and memo."
+  "description": "Send money to a Nexus Pay (Trellipay) contact with a specific account and memo."
 }

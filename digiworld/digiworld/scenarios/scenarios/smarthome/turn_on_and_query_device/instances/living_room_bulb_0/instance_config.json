@@ -4,7 +4,6 @@
     "info_type": "status"
   },
   "compatible_profiles": [
-    "default",
     "high_priority_alerts",
     "large_home",
     "low_battery_devices",

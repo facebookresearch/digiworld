@@ -1,7 +1,7 @@
 [
   {
     "id": 754000027,
-    "title": "Signed First Edition Hardcover of \"The Wind-Up Bird Chronicle\" by Haruki Murakami",
+    "title": "Signed First Edition Hardcover of \"The Clockwork Heron Chronicle\" by Haruto Nishikane",
     "description": "First\u2011edition hardcover, signed on the title page, crisp pages, and dust\u2011jacket in excellent condition.",
     "categoryId": 4,
     "sellerId": "{{current_user_id}}",
@@ -10,7 +10,7 @@
     "status": "active",
     "quantity": 1,
     "bidCount": 8,
-    "imageUrl": "https://example.com/images/signed-first-edition-hardcover-of-\"the-wind-up-bird-chronicle\"-by-haruki-murakami.jpg",
+    "imageUrl": "https://example.com/images/signed-first-edition-hardcover-of-\"the-clockwork-heron-chronicle\"-by-haruto-nishikane.jpg",
     "createdAt": "{{recent_timestamp}}",
     "updatedAt": "{{recent_timestamp}}",
     "startingBid": 662.07,

@@ -1,8 +1,8 @@
 {
   "parameters": {
     "color": "Red",
-    "make": "Porsche",
-    "model": "911",
+    "make": "Portera",
+    "model": "Velocera",
     "vehicle_type": "Sedan",
     "license_plate": "X7V3T1",
     "nickname": "Speedster"

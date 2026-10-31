@@ -62,7 +62,7 @@ class TestDeleteVehicleByNicknameScenario(unittest.TestCase):
             conn, _ = self._make_db(d)
             conn.execute(
                 "INSERT INTO vehicles (id, user_id, nickname, make, model, color, year, plate_number) "
-                "VALUES (1, 1, 'Thunder', 'Toyota', 'Camry', 'Blue', 2022, 'ABC123')"
+                "VALUES (1, 1, 'Thunder', 'Tolimar', 'Camdyn', 'Blue', 2022, 'ABC123')"
             )
             conn.commit()
             conn.close()
@@ -78,7 +78,7 @@ class TestDeleteVehicleByNicknameScenario(unittest.TestCase):
             conn, _ = self._make_db(d)
             conn.execute(
                 "INSERT INTO vehicles (id, user_id, nickname, make, model, color, year, plate_number) "
-                "VALUES (1, 1, 'Thunder', 'Toyota', 'Camry', 'Blue', 2022, 'ABC123')"
+                "VALUES (1, 1, 'Thunder', 'Tolimar', 'Camdyn', 'Blue', 2022, 'ABC123')"
             )
             conn.commit()
             conn.close()
@@ -94,7 +94,7 @@ class TestDeleteVehicleByNicknameScenario(unittest.TestCase):
             conn, _ = self._make_db(d)
             conn.execute(
                 "INSERT INTO vehicles (id, user_id, nickname, make, model, color, year, plate_number) "
-                "VALUES (1, 2, 'Thunder', 'Toyota', 'Camry', 'Blue', 2022, 'ABC123')"
+                "VALUES (1, 2, 'Thunder', 'Tolimar', 'Camdyn', 'Blue', 2022, 'ABC123')"
             )
             conn.commit()
             conn.close()
