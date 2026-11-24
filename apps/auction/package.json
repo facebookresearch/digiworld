@@ -93,7 +93,7 @@
     "gl-react": "^5.2.0",
     "gl-react-expo": "^5.2.1",
     "i18n-js": "^4.4.3",
-    "i18next": "^24.2.2",
+    "i18next": "^26.3.4",
     "intl-pluralrules": "^2.0.1",
     "mobx": "6.10.2",
     "mobx-react-lite": "4.0.5",
